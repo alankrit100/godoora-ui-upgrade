@@ -35448,7 +35448,7 @@
                             name: 'Triguna Farm Visit',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'clarksinn/farm.png',
+                            icon: 'clarksinn/garden.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: ' Placeholder',
