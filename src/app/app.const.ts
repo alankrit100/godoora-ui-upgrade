@@ -31203,7 +31203,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/sliderr-2.jpg',
                             heading: 'Stars canopy dining experience',
-                            subHeading: 'At Fortune Moksha'
+                            subHeading: 'At Amoha Retreat'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/sliderr-3.jpg',
@@ -31214,7 +31214,7 @@
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Moksha Experience',
+                    heading: 'The Amoha Retreat Experience',
                     desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dharamshala. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday. We are a brand new resort which is home to a 100 years old banyan tree and strategically located in the foothills of Dharamshala between Kangra and main Dharamshala Market (both with an equal distance of around 12 Kms) and is around 8.5 kms / 20 minutes’ drive from the Gaggal Airport (Dharamshala Airport).We are an experiential property away from the busy city of Dharamshala and spread across 6 acres of land ideal for nature lovers.`,
                     items: [
                         {
@@ -31364,7 +31364,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/temple-hike.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/garhi.jpg',
                             name: 'Garhi Hike',
                             desc: '',
                             routerLink: '/stores/GarhiHike',
@@ -31386,7 +31386,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/tour.jpg',
-                            name: 'Meclodgange Tour Package',
+                            name: 'Mcleodganj Tour Package',
                             desc: '',
                             routerLink: '/stores/McleodganjTourPackage',
                             extLink: ''
