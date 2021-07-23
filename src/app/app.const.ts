@@ -31196,13 +31196,13 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/slider-1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/sliderr-2.jpg',
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/sliderr-2.jpg',
-                            heading: 'Stars canopy dining experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/slider-1.jpg',
+                            heading: 'Exclusive Personalised Dinners',
                             subHeading: 'At Amoha Retreat'
                         },
                         {
@@ -31215,7 +31215,7 @@
                 experience: {
                     active: true,
                     heading: 'The Amoha Retreat Experience',
-                    desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dharamshala. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday. We are a brand new resort which is home to a 100 years old banyan tree and strategically located in the foothills of Dharamshala between Kangra and main Dharamshala Market (both with an equal distance of around 12 Kms) and is around 8.5 kms / 20 minutes’ drive from the Gaggal Airport (Dharamshala Airport).We are an experiential property away from the busy city of Dharamshala and spread across 6 acres of land ideal for nature lovers.`,
+                    desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dharamshala. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
@@ -31251,7 +31251,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
                             name: 'Painting by the Banyan Tree',
-                            location: 'Plan for picnic next to stream and enjoy gourmet delight during the day',
+                            location: '',
                             views: '',
                             routerLink: '/stores/PaintingbytheBanyanTree',
                             extLink: ''
@@ -31269,7 +31269,7 @@
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NatureWalk',
+                            routerLink: '/stores/NatureWalk_1',
                             extLink: ''
                         },
                         {
@@ -31337,7 +31337,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/devi-temple.jpg',
-                            name: 'Naina Devi Temple Treck',
+                            name: 'Naina Devi Temple Trek',
                             desc: '',
                             routerLink: '/stores/NainaDeviTempleTreck',
                             extLink: ''
@@ -32157,7 +32157,7 @@
                             name: 'Mocktail Making session',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/moctail.png',
+                            icon: 'dharmshala/mocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
