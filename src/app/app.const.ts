@@ -28197,7 +28197,7 @@
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Moksha | Mcleodganj',
+            title: 'Fortune Park Moksha',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -28303,7 +28303,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Day_picnic.jpg',
                             name: 'Day Picnic',
-                            location: 'Plan for picnic next to stream and enjoy gourmet delight during the day',
+                            location: '',
                             views: '',
                             routerLink: '/stores/DayPicnic',
                             extLink: ''
@@ -28311,7 +28311,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Farm_to_fork.jpg',
                             name: 'Farm to Fork',
-                            location: 'A walk through our organic herb and vegetable garden, pick up the fresh local produce',
+                            location: '',
                             views: '',
                             routerLink: '/stores/FarmtoFork',
                             extLink: ''
@@ -28319,7 +28319,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Cinema.jpg',
                             name: 'Bar-be-que evening with movie screening',
-                            location: 'Let’s pine & peak  be your open theater, enjoy movie experience under the moon light with bar-be-que dinner',
+                            location: '',
                             views: '',
                             routerLink: '/stores/Barbequeeveningwithmoviescreening',
                             extLink: ''
@@ -28327,7 +28327,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Yoga_session.jpg',
                             name: 'Yoga and Meditation',
-                            location: 'Yoga and meditation with some detox juices spread',
+                            location: '',
                             views: '',
                             routerLink: '/stores/YogaandMeditation',
                             extLink: ''
@@ -28336,7 +28336,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Pasta.jpg',
                             name: 'Pasta on the way',
-                            location: 'Pick up the fresh herbs and vegetable from our garden on your way to Jungle trek let your Chef and Butler carry the rest of ingredients and enjoy pasta during Lunch',
+                            location: '',
                             views: '',
                             routerLink: '/stores/Pastaontheway_1',
                             extLink: ''
@@ -28344,7 +28344,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Evening_tea.jpg',
                             name: 'Evening tea rituals under',
-                            location: 'Let’s come out of the room post afternoon and enjoy tea coffee and snacks and involve yourself in fun activities (Pottery classes, cooking classes, and many more)',
+                            location: '',
                             views: '',
                             routerLink: '/stores/Eveningtearitualsunder',
                             extLink: ''
@@ -28359,40 +28359,40 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Triund+trek.jpg',
                             name: 'Triund day trek',
-                            location: 'Duration: 10 hours',
-                            views: 'Experience the majestic himalayas and feel the heavenly feeling.',
+                            location: '',
+                            views: '',
                             routerLink: '/stores/Triunddaytrek',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Cycle+tour.jpg',
                             name: 'Bicycle tour',
-                            location: 'Duration: 2 hours',
-                            views: 'Visit the offbeat part of the city with scenic views.',
+                            location: '',
+                            views: '',
                             routerLink: '/stores/Bicycletour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/ram-yoga-house.jpg',
                             name: 'Yoga session',
-                            location: 'Duration: 3 hours',
-                            views: 'Learn the art of yoga and meditation with our spiritual guru.',
+                            location: '',
+                            views: '',
                             routerLink: '/stores/Yogasession',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Nature+walk.jpg',
                             name: 'Nature walks',
-                            location: 'Duration: 2 hours',
-                            views: 'A perfect way to enjoy the nature and mountains.',
+                            location: '',
+                            views: '',
                             routerLink: '/stores/Naturewalks',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/peepal+farm.jpg',
                             name: 'Visit peepal farm to meet the rescued animals',
-                            location: 'Duration: 2 hours',
-                            views: 'Farm visit',
+                            location: '',
+                            views: '',
                             routerLink: '/stores/PeepalFarm',
                             extLink: ''
                         }
@@ -28406,49 +28406,49 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/strems_canopy_dining.jpg',
                             name: 'Stars canopy dining experience',
-                            desc: 'Dine under the stars with a personal chef & butler who look after your meal for the evening along with bonfire with live bar-be-que',
+                            desc: '',
                             routerLink: '/stores/Starscanopydiningexperience',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/yoga_hut_dining.jpg',
                             name: 'Yoga hut dining experience',
-                            desc: 'Dine at the yoga hut overlooking to snow caped Dhuladhar ranges, with a personal chef & butler who look after your meal',
+                            desc: '',
                             routerLink: '/stores/Yogahutdiningexperience',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/High_tea_nature.jpg',
                             name: 'High tea Experience in the nature',
-                            desc: 'High tea in the Jungle, with a personal chef & butler',
+                            desc: '',
                             routerLink: '/stores/HighteaExperienceinthenature',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/stream_dining.jpg',
                             name: 'Stream dining',
-                            desc: 'Stream dining experience with steaming Momos , Thupkas and Tibetan food  trail',
+                            desc: '',
                             routerLink: '/stores/Streamdinning',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Locavor_dining.jpg',
                             name: 'Locavore dinning in woods',
-                            desc: 'Go local enjoy traditional Kangra Dham',
+                            desc: '',
                             routerLink: '/stores/Locavoredinninginwoods',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/tea-in-jungle.jpg',
                             name: 'Cutting Chai by the falls',
-                            desc: 'Cutting chai next to waterfall with Pakors and sandwich',
+                            desc: '',
                             routerLink: '/stores/CuttingChaibythefalls',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Bonfire_sky.jpg',
                             name: 'Bonfire under the Sky',
-                            desc: 'Dine under the canopy of countless star with live bar-be-que and music',
+                            desc: '',
                             routerLink: '/stores/BonfireundertheSky_1',
                             extLink: ''
                         }
@@ -28462,21 +28462,21 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/SpaWithoutStay.png',
                             name: 'Access hotel without sleeping there',
-                            desc: 'Wedding photography | Book Spa | Book a table at restaurant',
+                            desc: '',
                             routerLink: '/by-admin/216',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/MeetingHall.jpg',
                             name: 'Book our meeting hall',
-                            desc: 'Plan your meetings with us',
+                            desc: '',
                             extLink: '',
                             routerLink: '/stores/BookMeetings&ConferenceRoom'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Tickets.jpg',
                             name: 'Tickets for local events',
-                            desc: 'Lhasa tickets | Tibetan Opera festival | Cricket at Dharamshala stadium',
+                            desc: '',
                             routerLink: '/by-admin/217',
                             extLink: ''
                         }
@@ -29760,7 +29760,7 @@
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Resort Grace | Mussoorie',
+            title: 'Fortune Resort Grace',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -31141,7 +31141,7 @@
             branch: 'Dharamshala',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/branch-image.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
+            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/amoha-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
@@ -31218,25 +31218,25 @@
                     desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dharamshala. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/PlanYourTrip.png',
                             label: 'Plan your trip',
                             extLink: 'https://www.fortunehotels-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/digital_exp.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
                             label: 'Digital Guest Experience',
                             extLink: '',
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/local_culture.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
                             label: 'Fun Filled Workshops',
                             extLink: '',
                             routerLink: '/by-admin/383'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/for_store.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/for_store.jpg',
                             label: 'The Fortune Store',
                             extLink: '',
                             routerLink: '/coming-soon'
@@ -32486,7 +32486,7 @@
             idCategory: 10,
             displayProperty: true,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Moksha | Mcleodganj',
+            title: 'Fortune Hotels',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
