@@ -31143,7 +31143,7 @@
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/amoha-hotel-logo.png',
             theme: 'fortune-theme',
-            idCategory: 10,
+            idCategory: 17,
             favIconLink: 'assets/icon/favicon.png',
             title: 'Amoha Retreat Dharamshala',
             storeImg: 'social2.jpg',
@@ -31237,7 +31237,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/for_store.jpg',
-                            label: 'The Fortune Store',
+                            label: 'The Store',
                             extLink: '',
                             routerLink: '/coming-soon'
                         }
@@ -66040,7 +66040,7 @@
             id: 'www.amoharetreat-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/amoha-hotel-logo.png',
             theme: 'fortune-theme',
-            idCategory: 10,
+            idCategory: 17,
             favIconLink: 'assets/icon/favicon.png',
             title: 'Amoha Retreat Dharamshala',
             storeImg: 'social2.jpg',
@@ -66134,7 +66134,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/for_store.jpg',
-                            label: 'The Fortune Store',
+                            label: 'The Store',
                             extLink: '',
                             routerLink: '/coming-soon'
                         }
