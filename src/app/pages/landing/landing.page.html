@@ -7,12 +7,11 @@
         {{ vendorDeatil.landingPage?.heroIntro?.title }}
       </h1>
       <a class="btn" *ngIf="vendorDeatil.landingPage?.heroIntro?.routerLink"
-        [routerLink]="vendorDeatil.landingPage?.heroIntro?.routerLink">{{ vendorDeatil.landingPage?.heroIntro?.linkLabel
-        }}</a>
+        [routerLink]="vendorDeatil.landingPage?.heroIntro?.routerLink"><b>{{ vendorDeatil.landingPage?.heroIntro?.linkLabel}}</b></a>
       <a class="btn" *ngIf="vendorDeatil.landingPage?.heroIntro?.extLink" 
-        [href]="vendorDeatil.landingPage?.heroIntro?.extLink">{{ vendorDeatil.landingPage?.heroIntro?.linkLabel }}</a>
+        [href]="vendorDeatil.landingPage?.heroIntro?.extLink"><b>{{ vendorDeatil.landingPage?.heroIntro?.linkLabel }}</b></a>
     </div>
-    <video playsinline loop muted autoplay oncanplay="this.play()" onloadedmetadata="this.muted = true" poster="https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/poster_GY.png" loop="loop" id="myVideo">
+    <video playsinline loop muted autoplay oncanplay="this.play()" onloadedmetadata="this.muted = true" loop="loop" id="myVideo">
       <source [src]="vendorDeatil.landingPage?.heroIntro?.videoLink" type="video/mp4">
     </video>
     <div class="scroll-arrow-container">
