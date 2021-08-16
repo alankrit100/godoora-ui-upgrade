@@ -32495,6 +32495,45 @@
                 },
                 destinations: {
                     active: true,
+                    heading: 'Fortune grace unique offering',
+                    desc: 'you can avail these offers while you are on the property.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
+                            name: 'Special offer',
+                            location: 'Book a Personalised dinner experience from our website and get Mocktail for 2 free.',
+                            views: '',
+                            routerLink: '/stores/CandlelightdinnerattheTerracewithvalleyview',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
+                            name: 'Special offer',
+                            location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
+                            views: '',
+                            routerLink: '/stores/Cookwithchef_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
+                            name: 'Special offer',
+                            location: 'Book any 1 outdoor activity from our website and get 1 Hour pool table free.',
+                            views: '',
+                            routerLink: '/stores/ZipLine',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            name: 'Special offer',
+                            location: 'Go on a Heritage walk and get 10 minutes of air hockey free.',
+                            views: '',
+                            routerLink: '/stores/HeritageWalk',
+                            extLink: ''
+                        },
+                    ]
+                },
+                experiences: {
+                    active: true,
                     heading: 'In-House Experiences',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
@@ -32531,6 +32570,14 @@
                             extLink: ''
                         },
                         {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
+                            name: 'Personalised Dining Experience',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/224',
+                            extLink: ''
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
                             name: 'Zip Line',
                             location: '',
@@ -32545,52 +32592,64 @@
                             views: '',
                             routerLink: '/stores/DoubleRopeBridge',
                             extLink: ''
-                        }
-                    ]
-                },
-                experiences: {
-                    active: true,
-                    heading: 'WorkShop',
-                    desc: 'A workshop is a period of discussion or practical work on a particular subject in which a group of people share their knowledge or experience.',
-                    items: [
+                        },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Art%26Craft.jpeg',
-                            name: 'Art & Craft classes',
-                            location: 'Duration: 2 hours',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Conference.jpg',
+                            name: 'Meeting Hall',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/ArtandCraftClasses',
+                            routerLink: '/stores/Meetinghall',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dance.jpg',
-                            name: 'Dance Classes',
-                            location: 'Duration: 2 hours',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bonfire1.jpg',
+                            name: 'Special events',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/DanceClasses',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Cook With Chef',
-                            location: 'Duration: 2 hours',
-                            views: '',
-                            routerLink: '/stores/Cookwithchef_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
-                            name: 'Bedmaking',
-                            location: 'Duration: 1 hours',
-                            views: '',
-                            routerLink: '/stores/Bedmakingworkshopbyhousekeepingstaff',
+                            routerLink: '/stores/Firecamping',
                             extLink: ''
                         }
                     ]
                 },
                 activities: {
                     active: true,
+                    heading: 'WorkShop ',
+                    desc: 'A workshop is a period of discussion or practical work on a particular subject in which a group of people share their knowledge or experience.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Art%26Craft.jpeg',
+                            name: 'Art & Craft classes',
+                            desc: 'Duration: 2 hours',
+                            routerLink: '/stores/ArtandCraftClasses',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dance.jpg',
+                            name: 'Dance Classes',
+                            desc: 'Duration: 2 hours',
+                            routerLink: '/stores/DanceClasses',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
+                            name: 'Cook With Chef',
+                            desc: 'Duration: 2 hours',
+                            routerLink: '/stores/Cookwithchef_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
+                            name: 'Bedmaking',
+                            desc: 'Duration: 1 hours',
+                            routerLink: '/stores/Bedmakingworkshopbyhousekeepingstaff',
+                            extLink: ''
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
                     heading: 'Local Offering',
-                    desc: 'Everything is just a click away',
+                    desc: 'Everything is just a click away.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Exp_Lambi_Dehar.jpg',
@@ -32612,6 +32671,13 @@
                             desc: '',
                             routerLink: '/stores/HeritageWalk',
                             extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Food_festival.jpg',
+                            name: 'Mussoorie Winterline Carnival | Food Festival',
+                            desc: '',
+                            extLink: '',
+                            routerLink: '/off-season'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Food_tour.jpg',
@@ -32639,41 +32705,6 @@
                             name: 'George Everest Trek Point',
                             desc: '',
                             routerLink: '/stores/GeorgeEverestTrekPoint',
-                            extLink: ''
-                        }
-                    ]
-                },
-                offers: {
-                    active: true,
-                    heading: 'Fortune grace unique offering',
-                    desc: 'The trust of our hotel brand and the benefits of our partner network.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
-                            name: 'Personalised Dining Experience',
-                            desc: '',
-                            routerLink: '/by-admin/224',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Food_festival.jpg',
-                            name: 'Mussoorie Winterline Carnival | Food Festival',
-                            desc: '',
-                            extLink: '',
-                            routerLink: '/off-season'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Conference.jpg',
-                            name: 'Meeting Hall',
-                            desc: '',
-                            routerLink: '/stores/Meetinghall',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bonfire1.jpg',
-                            name: 'Special events',
-                            desc: '',
-                            routerLink: '/stores/Firecamping',
                             extLink: ''
                         }
                     ]
