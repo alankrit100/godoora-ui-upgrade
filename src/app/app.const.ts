@@ -32495,20 +32495,20 @@
                 },
                 destinations: {
                     active: true,
-                    heading: 'Fortune grace unique offering',
-                    desc: 'you can avail these offers while you are on the property.',
+                    heading: 'Special Offers',
+                    desc: 'You can avail these exciting offers only while booking through this app.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
-                            name: 'Special offer',
-                            location: 'Book a Personalised dinner experience from our website and get Mocktail for 2 free.',
+                            name: 'Personalised Dinner Experience Offer',
+                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
                             views: '',
                             routerLink: '/stores/CandlelightdinnerattheTerracewithvalleyview',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Special offer',
+                            name: 'Cook with Chef Experience Offer',
                             location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
                             views: '',
                             routerLink: '/stores/Cookwithchef_1',
@@ -32516,15 +32516,15 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
-                            name: 'Special offer',
+                            name: 'Outdoor Activity Offer',
                             location: 'Book any 1 outdoor activity from our website and get 1 Hour pool table free.',
                             views: '',
-                            routerLink: '/stores/ZipLine',
+                            routerLink: '/by-admin/225',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
-                            name: 'Special offer',
+                            name: 'Heritage Walk Experience Offer',
                             location: 'Go on a Heritage walk and get 10 minutes of air hockey free.',
                             views: '',
                             routerLink: '/stores/HeritageWalk',
