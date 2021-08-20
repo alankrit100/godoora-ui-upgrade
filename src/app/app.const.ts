@@ -17380,7 +17380,7 @@
                         },
                         {
                             name: 'Order Online - Surbhi Malvani',
-                            extLink: 'http://65.0.165.245:5201/#/search?category=The%20Restaurant',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
                             routerLink: '',
                             icon: 'take-away-food.png',
                             showTextarea: true,
@@ -17439,7 +17439,7 @@
                         },
                         {
                             name: 'Take Away - SUFIT',
-                            extLink: 'http://65.0.165.245:5201/#/search?category=The%20Restaurant',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
                             routerLink: '',
                             icon: 'take-away-food.png',
                             showTextarea: true,
@@ -17474,8 +17474,8 @@
                         },
                         {
                             name: 'In Room Dining',
-                            extLink: 'http://65.0.165.245:5201/#/search?category=The%20Restaurant',
-                            routerLink: '',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'food-service.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
