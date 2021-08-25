@@ -68760,7 +68760,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/in_room.jpg',
-                            label: 'In-Room DIning',
+                            label: 'In-Room Dining',
                             extLink: '',
                             routerLink: ''
                         },
@@ -68779,8 +68779,9 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
-                            name: 'Day stay',
-                            desc: 'Relax and unwind on highway',
+                            name: 'Short stay',
+                            location: 'Relax and unwind',
+                            views: 'Enjoy our great service',
                             routerLink: '/stores/',
                             extLink: ''
                         },
@@ -68794,17 +68795,17 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
-                            name: 'Personalised Dinner Experience Offer',
+                            name: 'Personalised Dinner Experience',
                             location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
-                            views: '',
+                            views: 'Designed exclusively for you',
                             routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunch.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchmum.jpg',
                             name: 'Sunday Buffet',
                             location: 'Buffet',
-                            views: 'Enjoy our great service',
+                            views: 'Enjoy our great food',
                             routerLink: '/stores/',
                             extLink: ''
                         }
@@ -68834,7 +68835,8 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/walk_guide.jpg',
                             name: 'Walk with a local to learn the story of the city',
-                            desc: '',
+                            location: '',
+                            views: '',
                             routerLink: '/stores/',
                             extLink: ''
                         },
@@ -68882,7 +68884,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunch111.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchbang.jpg',
                             name: 'Sunday Brunch',
                             desc: '',
                             routerLink: '/stores/',
@@ -68917,7 +68919,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/bedmaking.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: '',
                             routerLink: '/stores/',
@@ -68931,19 +68933,19 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Mcleodganj-1.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/hotel-bed-making.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
                             videoId: ''
                         }
                     ]
@@ -69616,7 +69618,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Day Stay',
+                            name: 'Short Stay',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'svenska/stay.png',
@@ -69996,8 +69998,9 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
-                            name: 'Day stay',
-                            desc: 'Relax and unwind on highway',
+                            name: 'Short stay',
+                            location: 'Relax and unwind',
+                            views: 'Enjoy our great service',
                             routerLink: '/stores/',
                             extLink: ''
                         },
@@ -70010,18 +70013,18 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
-                            name: 'Personalised Dinner Experience Offer',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/diningbang.jpg',
+                            name: 'Personalised Dinner Experience',
                             location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
-                            views: '',
+                            views: 'Designed exclusively for you',
                             routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunch.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchbang.jpg',
                             name: 'Sunday Buffet',
                             location: 'Buffet',
-                            views: 'Enjoy our great service',
+                            views: 'Enjoy our great food',
                             routerLink: '/stores/',
                             extLink: ''
                         }
@@ -70033,7 +70036,7 @@
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/bangg.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/pete_walk.jpg',
                             name: 'Old Bangalore - Pete walks',
                             location: 'Duration: 3 hours',
                             views: 'Refreshments - Bottled Water - Expert Tour Companion',
@@ -70041,7 +70044,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/startrup.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/h_startup.jpg',
                             name: 'The Statrup Tour',
                             location: 'Duration: 2 hours',
                             views: 'Bottled Water - Expert Tour Companion',
@@ -70049,7 +70052,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dine_star.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/sky_dine.png',
                             name: 'Dine in sky',
                             location: 'Duration: 2 hours',
                             views: '',
@@ -70057,7 +70060,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/thottikallu.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/thottik.jpg',
                             name: 'Picnic to Thottikallu Falls with food Basket',
                             location: 'Duration: 3 hours',
                             views: 'Live Shootings, Costume Gallery, Empty Sets',
@@ -70079,7 +70082,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/party.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/partybang.jpg',
                             name: 'Host a Private Party Under Stars',
                             desc: '',
                             routerLink: '/stores/',
@@ -70093,14 +70096,14 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/diningbang.jpg',
                             name: 'Personalised Dinner',
                             desc: '',
                             routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunch111.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchbang.jpg',
                             name: 'Sunday Brunch',
                             desc: '',
                             routerLink: '/stores/',
@@ -70135,7 +70138,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/bedmaking.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: '',
                             routerLink: '/stores/',
@@ -70149,19 +70152,19 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Mcleodganj-1.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/hotel-bed-making.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
                             videoId: ''
                         }
                     ]
