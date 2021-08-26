@@ -68767,7 +68767,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/for_store.jpg',
                             label: 'The Svenska Store',
-                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Brand%20Store',
                             routerLink: ''
                         }
                     ]
@@ -70023,7 +70023,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/for_store.jpg',
                             label: 'The Svenska Store',
-                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Brand%20Store',
                             routerLink: ''
                         }
                     ]
@@ -71268,8 +71268,8 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/for_store.jpg',
                             label: 'The Svenska Store',
-                            extLink: '',
-                            routerLink: '/coming-soon'
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Brand%20Store',
+                            routerLink: ''
                         }
                     ]
                 },
