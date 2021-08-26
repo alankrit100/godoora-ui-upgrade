@@ -68667,7 +68667,7 @@
     ],
     'www.svenskahotels-experiences.goyaana.com': [
         {
-            branch: 'Mumbai',
+            branch: 'Svenska Mumbai',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/dem.jpg',
             id: 'www.svenskahotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HotelLogos/svenska-logo.png',
@@ -68725,7 +68725,7 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/svenska-homepage-1.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/mum.jpg',
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
@@ -68735,7 +68735,7 @@
                             subHeading: 'At Svenska Hotel'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/svenska-homepage-2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/dineland.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         }
@@ -68760,15 +68760,15 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/in_room.jpg',
-                            label: 'In-Room Dining',
+                            label: 'Svenska Gourmet Experiences',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/by-admin/439'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/for_store.jpg',
                             label: 'The Svenska Store',
-                            extLink: '',
-                            routerLink: '/coming-soon'
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: ''
                         }
                     ]
                 },
@@ -68778,35 +68778,35 @@
                     desc: 'You can avail these exciting offers only while booking through this app.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
-                            name: 'Short stay',
-                            location: 'Relax and unwind',
-                            views: 'Enjoy our great service',
-                            routerLink: '/stores/',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
+                            name: 'Personalised Dinner Experience',
+                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
+                            views: '',
+                            routerLink: '/stores/PersonalisedDinnerExperience',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchmum.jpg',
+                            name: 'Sunday Buffet',
+                            location: 'Book sunday buufet through our app and get 20% off.',
+                            views: '',
+                            routerLink: '/stores/SundayBuffet',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/special_day.jpg',
                             name: 'Celebrate special days with us',
                             location: 'Kids Party | Weddings | Anniversaries',
-                            views: 'Enjoy our great service',
-                            routerLink: '/stores/',
+                            views: '',
+                            routerLink: '/stores/Celebratespecialdayswithus_1',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
-                            name: 'Personalised Dinner Experience',
-                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
-                            views: 'Designed exclusively for you',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchmum.jpg',
-                            name: 'Sunday Buffet',
-                            location: 'Buffet',
-                            views: 'Enjoy our great food',
-                            routerLink: '/stores/',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
+                            name: 'Short stay',
+                            location: 'Relax and unwind',
+                            views: '',
+                            routerLink: '/stores/ShortStay_2',
                             extLink: ''
                         }
                     ]
@@ -68819,17 +68819,25 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/mumbai-food.jpg',
                             name: 'Mumbai Food Walks',
-                            location: 'Duration: 4 hours',
-                            views: 'Taste the mumbai special Vadapav (Indian Burger), Pav Bhaji, Bhelpuri',
-                            routerLink: '/stores/',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/MumbaiFoodWalks',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/slum.jpg',
                             name: 'Dharavi Slum Tour',
-                            location: 'Duration: 2 hours',
-                            views: 'Place where Slumdog Millionaire was shot, Pottery, Making of soap',
-                            routerLink: '/stores/',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Dharavislumtour',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/bollywood-tour.jpg',
+                            name: 'Bollywood Outdoor Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/BollywoodOutdoorTour',
                             extLink: ''
                         },
                         {
@@ -68837,15 +68845,7 @@
                             name: 'Walk with a local to learn the story of the city',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/bollywood-tour.jpg',
-                            name: 'Bollywood Outdoor Tour',
-                            location: 'Duration: 3 hours',
-                            views: 'Live Shootings, Costume Gallery, Empty Sets',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Walkwithlocal',
                             extLink: ''
                         }
                     ]
@@ -68856,38 +68856,31 @@
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/rejuvenate.jpg',
-                            name: 'Rejuvinate & Spa',
-                            desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/party.jpg',
                             name: 'Host a Private Party Under Stars',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivatePartyUnderStars',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/spa.jpg',
                             name: 'In-room Spa',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/InroomSpa',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
                             name: 'Personalised Dinner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PersonalisedDinner_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchbang.jpg',
                             name: 'Sunday Brunch',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SundayBrunch_5',
                             extLink: ''
                         }
                     ]
@@ -68901,28 +68894,28 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/cooking11.jpg',
                             name: 'Cooking With Chef',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingWithChef_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/towel11.jpg',
                             name: 'Towel Origamy Classes',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TowelOrigamyClasses_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/mocktail.jpg',
                             name: 'Cocktail Making with Bartender',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CocktailMakingwithBartender',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bedmaking_9',
                             extLink: ''
                         }
                     ]
@@ -69638,7 +69631,7 @@
                             icon: 'svenska/celebrate.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
+                            placeholder: 'Example: I want to book a hall',
                             headerText: 'Select a time, you would like to celebrate.',
                             gallery: [
 
@@ -69872,6 +69865,50 @@
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
+                },
+                {
+                    name: 'Svenska Gourmet Experiences',
+                    icon: 'svenska/gourmet.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'In Room Dining',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: '',
+                            icon: 'dharmshala/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
+                            headerText: 'When would you like the food to arrive at your room?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Food delivery',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: '',
+                            icon: 'dharmshala/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+
+                            ]
+                        }
+                    ]
                 }
             ],
             comingSoon: {
@@ -69886,8 +69923,8 @@
             }
         },
         {
-            branch: 'Bangalore',
-            branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/bang.jpg',
+            branch: 'Svenska Bangalore',
+            branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/bang1.jpg',
             id: 'www.svenskahotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HotelLogos/svenska-logo.png',
             theme: 'fortune-theme',
@@ -69944,12 +69981,12 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/svenska-homepage-2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/dineland.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/svenska-homepage-1.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/ban.jpg',
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
@@ -69979,15 +70016,15 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/in_room.jpg',
-                            label: 'In-Room DIning',
+                            label: 'Svenska Gourmet Experiences',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/by-admin/440'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/for_store.jpg',
                             label: 'The Svenska Store',
-                            extLink: '',
-                            routerLink: '/coming-soon'
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: ''
                         }
                     ]
                 },
@@ -69997,35 +70034,35 @@
                     desc: 'You can avail these exciting offers only while booking through this app.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
-                            name: 'Short stay',
-                            location: 'Relax and unwind',
-                            views: 'Enjoy our great service',
-                            routerLink: '/stores/',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/diningbang.jpg',
+                            name: 'Personalised Dinner Experience',
+                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
+                            views: '',
+                            routerLink: '/stores/PersonalisedDinnerExperience_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchbang.jpg',
+                            name: 'Sunday Buffet',
+                            location: 'Book sunday buufet through our app and get 20% off.',
+                            views: '',
+                            routerLink: '/stores/SundayBuffet_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/special_day.jpg',
                             name: 'Celebrate special days with us',
                             location: 'Kids Party | Weddings | Anniversaries',
-                            views: 'Enjoy our great service',
-                            routerLink: '/stores/',
+                            views: '',
+                            routerLink: '/stores/Celebratespecialdayswithus_2',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/diningbang.jpg',
-                            name: 'Personalised Dinner Experience',
-                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
-                            views: 'Designed exclusively for you',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchbang.jpg',
-                            name: 'Sunday Buffet',
-                            location: 'Buffet',
-                            views: 'Enjoy our great food',
-                            routerLink: '/stores/',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
+                            name: 'Short stay',
+                            location: 'Relax and unwind',
+                            views: '',
+                            routerLink: '/stores/ShortStay_3',
                             extLink: ''
                         }
                     ]
@@ -70038,33 +70075,33 @@
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/pete_walk.jpg',
                             name: 'Old Bangalore - Pete walks',
-                            location: 'Duration: 3 hours',
-                            views: 'Refreshments - Bottled Water - Expert Tour Companion',
-                            routerLink: '/stores/',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/OldBangalorePetewalks',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/h_startup.jpg',
-                            name: 'The Statrup Tour',
-                            location: 'Duration: 2 hours',
-                            views: 'Bottled Water - Expert Tour Companion',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/sky_dine.png',
-                            name: 'Dine in sky',
-                            location: 'Duration: 2 hours',
+                            name: 'The Startup Tour',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Thestartuptour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/thottik.jpg',
                             name: 'Picnic to Thottikallu Falls with food Basket',
-                            location: 'Duration: 3 hours',
-                            views: 'Live Shootings, Costume Gallery, Empty Sets',
-                            routerLink: '/stores/',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PicnictoThottikalluFalls',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/sky_dine.png',
+                            name: 'Dine in sky',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Dineinthesky',
                             extLink: ''
                         }
                     ]
@@ -70075,38 +70112,31 @@
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/rejuvenate.jpg',
-                            name: 'Rejuvinate & Spa',
-                            desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/partybang.jpg',
                             name: 'Host a Private Party Under Stars',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivatePartyUnderStars_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/spa.jpg',
                             name: 'In-room Spa',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/InroomSpa_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/diningbang.jpg',
                             name: 'Personalised Dinner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PersonalisedDinner_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchbang.jpg',
                             name: 'Sunday Brunch',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SundayBrunch_6',
                             extLink: ''
                         }
                     ]
@@ -70120,28 +70150,28 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/cooking11.jpg',
                             name: 'Cooking With Chef',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingWithChef_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/towel11.jpg',
                             name: 'Towel Origamy Classes',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TowelOrigamyClasses_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/mocktail.jpg',
                             name: 'Cocktail Making with Bartender',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CocktailMakingwithBartender_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bedmaking_10',
                             extLink: ''
                         }
                     ]
@@ -70837,7 +70867,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Day Stay',
+                            name: 'Short stay',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'svenska/stay.png',
@@ -71091,6 +71121,50 @@
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
+                },
+                {
+                    name: 'Svenska Gourmet Experiences',
+                    icon: 'svenska/gourmet.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'In Room Dining',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: '',
+                            icon: 'dharmshala/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
+                            headerText: 'When would you like the food to arrive at your room?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Food delivery',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: '',
+                            icon: 'dharmshala/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+
+                            ]
+                        }
+                    ]
                 }
             ],
             comingSoon: {
@@ -71169,7 +71243,7 @@
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/svenska-homepage-2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/dineland.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         },
@@ -71420,55 +71494,55 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/bangg.jpg',
                             label: 'Old Bangalore - Pete walks',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/OldBangalorePetewalks'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/special_day.jpg',
                             label: 'Celebrate special day with us',
                             extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
-                            label: 'Personalised Dinner',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/mumbai-food.jpg',
-                            label: 'Mumbai Food Walk',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/rejuvenate.jpg',
-                            label: 'Rejuvinate & Spa',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
-                            label: 'Day Stay',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/cooking11.jpg',
-                            label: 'Cooking with chef',
-                            extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Celebratespecialdayswithus_1'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/towel11.jpg',
                             label: 'Towel Origamy Classes',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/TowelOrigamyClasses_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/thottik.jpg',
+                            label: 'Picnic to Thottikallu Falls',
+                            routerLink: '/stores/PicnictoThottikalluFalls',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
+                            label: 'Personalised Dinner',
+                            extLink: '',
+                            routerLink: '/stores/PersonalisedDinnerExperience_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/mumbai-food.jpg',
+                            label: 'Mumbai Food Walk',
+                            extLink: '',
+                            routerLink: '/stores/MumbaiFoodWalks'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
+                            label: 'Short Stay',
+                            extLink: '',
+                            routerLink: '/stores/ShortStay_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/cooking11.jpg',
+                            label: 'Cooking with chef',
+                            extLink: '',
+                            routerLink: '/stores/CookingWithChef_2'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunch111.jpg',
                             label: 'Sunday Brunch',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/SundayBrunch_5'
                         }
                     ]
                 },
@@ -71522,640 +71596,63 @@
             ],
             departments: [
                 {
-                    name: 'Front Desk',
-                    icon: 'reception.png',
+                    name: 'Special Offers',
+                    icon: 'svenska/offer.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Reception',
+                            name: 'Short Stay',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'reception.png',
+                            icon: 'svenska/stay.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to know if there is a cloak room',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Example: I stay here for 60 mins.',
+                            headerText: 'Select a time you would like to stay.',
                             gallery: [
 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Web Checkin',
+                            name: 'Celebrate special days with us',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'tourism.png',
+                            icon: 'svenska/celebrate.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkIn',
-                            headerText: 'Select a date & time you would like to checkIn.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            checkinForm: true
-                        },
-                        {
-                            name: 'Web Checkout',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'receptionist.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkout',
-                            headerText: 'Select a date & time you would like to checkOut',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Housekeeping',
-                    icon: 'housekeeping.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Extra Crockery & Cutlery',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Example: I want to book a hall',
+                            headerText: 'Select a time, you would like to celebrate.',
                             gallery: [
 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Additional Bedding',
+                            name: 'Personalised Dinner Experience',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'bed.png',
-                            showTextarea: true,
-                            placeholder: 'Example: Please send me an extra pillow',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Laundry Service',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'washing-machine.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please arrange laundry pickup for me',
-                            headerText: 'Select a time when our person can knock your door',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Room Cleaning',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please sanitize my room and replace bedding',
-                            headerText: 'Select an ideal time for us to work in your room',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Food and Beverage',
-                    icon: 'food.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Book a Table - at Restaurant',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'restaurant-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Order Online',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'take-away-food.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Book a Table - FORTUNE DELI',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'restaurant-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to host a private party',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Book a table - NEPTUNE BAR & LOUNGE',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'restaurant-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'In Room Dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'food-service.png',
+                            icon: 'svenska/dinner.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
-                            headerText: 'When would you like the food to arrive at your room?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Wellness and Fitness',
-                    icon: 'fitness.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Spa',
-                            extLink: '',
-                            routerLink: '/coming-soon',
-                            icon: 'fitness.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
+                            headerText: 'When would you like to book.',
                             gallery: [
 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Gym',
+                            name: 'Sunday Buffet',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'deadlift.png',
+                            icon: 'svenska/buffet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to use the treadmill',
-                            headerText: 'When would you like to hit the Gym?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        },
-                        {
-                            name: 'Swimming Pool',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
-                            headerText: 'When would you like to get into the pool?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        }
-                    ]
-                },
-                {
-                    name: 'Recreation & Sports',
-                    icon: 'cricket.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Tennis',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'tennis-racquet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the racket in the court',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        },
-                        {
-                            name: 'Pool Table',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'ping-pong.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Travel and Activities',
-                    icon: 'tour-bus.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the cab'
-                        },
-                        {
-                            name: 'Local Taxi',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Cab'
-                        },
-                        {
-                            name: 'Local Restaurant',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'restaurant-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
-                            headerText: 'At what time would you be going to the restaurant?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a slow'
-                        },
-                        {
-                            name: 'Amusement Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'ferris-wheel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
-                            headerText: 'When are you planning to visit?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book tickets'
-                        },
-                        {
-                            name: 'Cinemas / Plays',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'movie-theater.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
-                            headerText: 'When are you planning to go for the movie?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book Tickets'
-                        },
-                        {
-                            name: 'Forex',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'neutral-trading.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
-                            headerText: 'When would you like to collect it?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Local Shopping',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'shopping-bag.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
-                            headerText: 'When would you like to go for shopping?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Fix appointment'
-                        },
-                        {
-                            name: 'Arrange a Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'tour-bus.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Repairs',
-                    icon: 'staple-gun.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'TV',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'retro-tv.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: None of the Kannada channels are not working',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'AC',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'conditioner.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need help in adjusting room temprature',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Coffee Maker',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'coffee-maker.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Need help in operating the coffee maker',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Hair Dryer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'hair-dryer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Please replace the hair dryer',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Electrical',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'reflector-bulb.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Others',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'reflector-bulb.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Experience',
-                    icon: 'fortunemoksha/experience.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Whimsical Dining Experience',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Dine at the yoga hut',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining11.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Pasta on the way',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/pasta.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bonfire under the sky',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/bonfire.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Evening tea ritual',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/tea-cup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Stream dining experence',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-
-                        {
-                            name: 'A high tea in jungle',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/jungle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-
-                        {
-                            name: 'Be your open theater',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/movie.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
+                            placeholder: 'Example: I want to book a slot for this.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
 
@@ -72165,21 +71662,21 @@
                     ]
                 },
                 {
-                    name: 'Workshop',
-                    icon: 'fortunemoksha/worksho.png',
+                    name: 'Local Experiences',
+                    icon: 'svenska/cafe.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Art workshop at Dharamkot studio',
+                            name: 'Mumbai Food Walks',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/artDharmkot.png',
+                            icon: 'svenska/food.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
+                            placeholder: 'Example: I want to book a slot.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
 
@@ -72187,250 +71684,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Cultural tour',
+                            name: 'Dharavi slum tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/cultural.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'In-house Experience',
-                    icon: 'fortunemoksha/house.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Day Picnic',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/picnic.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Farm to Fork',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/farm.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bar-be-que evening with movie screening',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/movie.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Yoga and Meditation',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Pasta on the way',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/pasta.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Evening tea rituals under',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/tea-cup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Gourmet Experience',
-                    icon: 'fortunemoksha/Gourmet.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Stars canopy dining experience',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining11.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Stream dinning',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Yoga hut dining experience',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Locavore dinning in woods',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining11.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Cutting Chai by the falls',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/tea-cup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'High tea Experience in the nature',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/tea-cup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bonfire under the Sky',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/bonfire.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Local Experience',
-                    icon: 'fortunemoksha/experience.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Triund day trek',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/trekking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bicycle tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/bicycle.png',
+                            icon: 'svenska/slum.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -72441,13 +71698,13 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Yoga session',
+                            name: 'Walk with local',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/yoga.png',
+                            icon: 'svenska/local.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
+                            placeholder: 'Example: I want to book a slot.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
 
@@ -72455,13 +71712,13 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Nature walks',
+                            name: 'Bollywood Outdoor Tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/nature.png',
+                            icon: 'svenska/tour.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
+                            placeholder: 'Example: I want to book a slot.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
 
@@ -72469,10 +71726,184 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Peepal Farm',
+                            name: 'Old Bangalore - Pete walks',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/farm.png',
+                            icon: 'svenska/walk.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'The startup tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'svenska/startup.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Dine in the sky',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'svenska/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Picnic to Thottikallu Falls',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'svenska/picnic.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'In-house Experience',
+                    icon: 'svenska/house.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Private Party Under Stars',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'svenska/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot.',
+                            headerText: 'Select a time you would like to host a private party.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'In-room Spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'svenska/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'svenska/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this dinner.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'svenska/brunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Workshop',
+                    icon: 'dharmshala/workshop.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Cooking With Chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Towel Origamy Classes',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/towel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cocktail Making with Bartender',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Bedmaking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/bed.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -72484,124 +71915,6 @@
                         }
                     ]
                 },
-                {
-                    name: 'Open to Locals',
-                    icon: 'fortunemoksha/local.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Book for Photography Session',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/camera.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Book Meetings & Conference Room',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/meeting-room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Book Spa',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/spa.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Book a table at Restaurant',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/tableorch.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Event Tickets',
-                    icon: 'fortunemoksha/event_ticket.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Lhasa tickets',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/movie-tickets.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Tibetan Opera festival tickets',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/movie-tickets.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Ticket for Dharamshala stadium',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/movie-tickets.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                }
             ],
             comingSoon: {
                 active: true,
