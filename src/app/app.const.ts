@@ -70062,7 +70062,7 @@
                             name: 'Short stay',
                             location: 'Relax and unwind',
                             views: '',
-                            routerLink: '/stores/ShortStay_3',
+                            routerLink: '/stores/Shortstay_3',
                             extLink: ''
                         }
                     ]
@@ -71256,8 +71256,8 @@
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Experience',
-                    desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mcleodganj. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
+                    heading: 'The Svenska Hotel Experience',
+                    desc: `At Svenska hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/PlanYourTrip.png',
