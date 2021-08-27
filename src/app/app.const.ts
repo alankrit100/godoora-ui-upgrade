@@ -32468,10 +32468,10 @@
                     desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mussoorie. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/local_culture.jpg',
-                            label: 'In-Room Dining',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
+                            label: 'In-Room Dining Menu',
                             extLink: '',
-                            routerLink: '/stores/InRoomDining_4'
+                            routerLink: '/by-admin/441'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/digital_exp.jpg',
@@ -33790,7 +33790,91 @@
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
-                }
+                },
+                {
+                    name: 'In-Room Dining Menu',
+                    icon: 'fortunegrace/menu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a table at NOSTRADAMUS',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/8.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'Book a table at ORCHID',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/restaurant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/8.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'Room Service',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        }
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
