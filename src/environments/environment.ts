@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  serverUrl: 'https://godooradevops-app.azurewebsites.net/',
+  serverUrl: 'https://godoora-prod-app.azurewebsites.net/',
 };
 
 /*

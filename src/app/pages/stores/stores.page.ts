@@ -9,6 +9,7 @@ import { CreateSlotPage } from '../create-slot/create-slot.page';
 import { UtilAlertService } from 'src/app/services/util/util-alert.service';
 import { VendorDeatil } from 'src/app/app.const';
 import { WebCheckInModel } from '../model/web-checkIn.model';
+import { CarouselInModalComponent } from 'src/app/components/carousel-in-modal/carousel-in-modal.component';
 
 @Component({
   selector: 'app-stores',
@@ -48,8 +49,6 @@ export class StoresPage implements OnInit {
     {path: 'https://source.unsplash.com/551x598/?Togo'},
     {path: 'https://source.unsplash.com/518x813/?Romania'}
   ];
-  @ViewChild('myCarousel', {static: false}) myCarousel;
-  @ViewChild('childCarousel', {static: false}) childCarousel;
   @ViewChild('scrollMe', {static: false}) private content: any;
   onResize(event) {
     this.smallScreen = this.appService.checkSmallScreen();
@@ -132,6 +131,25 @@ export class StoresPage implements OnInit {
 
   toggleMenu() {
     this.showMenu = !this.showMenu;
+  }
+  
+  selectMenuSlide(index) {
+    console.log(index);
+  }
+
+  async openCarouselInModal(index, array) {
+    if(array && array.length) {
+      const modal = await this.modalCtrl.create({
+        animated: true,
+        showBackdrop: true,
+        cssClass: 'carousel-in-modal',
+        component: CarouselInModalComponent,
+        componentProps: {
+          imgPath: array[index].path
+        }
+      });
+      return await modal.present();
+    }
   }
 
   onSlotSelection(slot) {
@@ -313,12 +331,6 @@ export class StoresPage implements OnInit {
     } else {
       this.openLoginModal(true);
     }
-  }
-
-  setCarouselIndex(i) {
-    if(this.childCarousel) {
-      this.childCarousel.select(i);
-    } 
   }
 
 }

@@ -5,11 +5,15 @@
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --host 0.0.0.0",
-    "build": "ng build --prod --aot --output-hashing=all",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "start": "ng serve --host 0.0.0.0 --env=dev --aot=true --output-hashing=all --extract-css=true && npm run add_date",
+    "build": "ng build --prod && npm run add_date",
+    "add_date": "npm run add_date_js && npm run add_date_css && npm run rm_bak_files",
+    "add_date_js": "for i in www/*; do if [ -f $i ]; then LC_ALL=C sed -i.bak 's:js\":js?'$(date +%H%M%m%d%y%s)'\":g' $i; fi done",
+    "add_date_css": "sed -i.bak 's:css\":css?'$(date +%H%M%m%d%y%s)'\":g' www/index.html",
+    "rm_bak_files": "find www -name '*.bak' -exec rm -Rf {} \\;"
   },
   "private": true,
   "dependencies": {

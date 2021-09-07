@@ -206,7 +206,7 @@
   }
 
   .menu-slider {
-    width: 80% !important;
+    width: 100% !important;
   }
 
   .stores {
@@ -304,6 +304,18 @@
     }
   }
 
+  /* carousel In Modal Modal */
+  .carousel-in-modal {
+    .modal-wrapper {
+      height       : 90%;
+      width        : 90%;
+      border-radius: 4pt;
+      .ion-page {
+        // padding: 16pt;
+      }
+    }
+  }
+
 }
 
 // SM
@@ -369,6 +381,19 @@
       }
     }
   }
+
+  /* carousel In Modal Modal */
+  .carousel-in-modal {
+    .modal-wrapper {
+      height       : 90%;
+      width        : 90%;
+      border-radius: 4pt;
+      .ion-page {
+        // padding: 16pt;
+      }
+    }
+  }
+
 }
 
 // MD
@@ -570,6 +595,19 @@
       }
     }
 
+    /* carousel In Modal Modal */
+    .carousel-in-modal {
+      .modal-wrapper {
+        height       : 90%;
+        width        : 90%;
+        border-radius: 4pt;
+        .ion-page {
+          // padding: 16pt;
+        }
+      }
+    }
+
+    
     /* Pre-test Call Modal */
     .pre-test-modal-page {
       .modal-wrapper {

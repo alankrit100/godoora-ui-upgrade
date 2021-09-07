@@ -9,6 +9,7 @@ import { CarouselModule } from 'ngx-bootstrap/carousel';
 import { WebCheckinPage } from './web-checkIn-form.page';
 // import { SignaturePadModule } from 'angular2-signaturepad';
 import { IvyCarouselModule } from 'angular-responsive-carousel';
+import { CarouselInModalComponent } from 'src/app/components/carousel-in-modal/carousel-in-modal.component';
 
 @NgModule({
   imports: [
@@ -21,6 +22,7 @@ import { IvyCarouselModule } from 'angular-responsive-carousel';
     // SignaturePadModule,
     StoresPageRoutingModule
   ],
-  declarations: [StoresPage, WebCheckinPage]
+  declarations: [StoresPage, WebCheckinPage, CarouselInModalComponent],
+  entryComponents: [CarouselInModalComponent]
 })
 export class StoresPageModule {}

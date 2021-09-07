@@ -135,6 +135,12 @@ ion-content {
   }
 }
 
+.Slot-detail {
+  carousel {
+    height: 400px !important;
+  }
+}
+
 .carousel {
   .slide {
     max-height: 520px !important;

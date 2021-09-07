@@ -1,7 +1,11 @@
 <ion-content #scrollMe>
   <div class="container" style="margin-bottom: 200px !important;">
     <div class="Slot-detail m-3" *ngIf="storeDetail && serviceDetail">
-      <carousel *ngIf="serviceDetail.gallery && serviceDetail.gallery.length" #banner [cellsToShow]="smallScreen ? 1 : ((serviceDetail.gallery.length > 5) ? 5 : serviceDetail.gallery.length)" [loop]="false" [images]="serviceDetail.gallery" [arrows]="true" class="branch-carousel"></carousel>
+      <carousel *ngIf="serviceDetail.gallery && serviceDetail.gallery.length" #banner [cellsToShow]="smallScreen ? 1 : ((serviceDetail.gallery.length > 5) ? 5 : serviceDetail.gallery.length)" [loop]="false" [arrows]="true" class="branch-carousel">
+        <div class="carousel-cell" *ngFor="let item of serviceDetail.gallery; let i=index" (click)="openCarouselInModal(i, serviceDetail.gallery)">
+          <img [src]="item.path" style="object-fit: cover;" >
+        </div>
+      </carousel>
       <div class="_g9yb1m">
         <div class="_16e70jgn">
           <div>
@@ -102,17 +106,25 @@
                   <web-checkin-form [invalidFlags]="invalidFlags" [submit]="submit" [webCheckin]="webCheckin">
                   </web-checkin-form>
                 </div>
-                <div class="d-flex align-items-center justify-content-center flex-column" style="margin-top: 24px"
-                  *ngIf="serviceDetail.menuImgs && serviceDetail.menuImgs.length">
-                  <div>
+                <div class="w-100 h-100" [ngClass]="{'d-flex justify-content-center align-items-center' : !smallScreen}" style="margin-top: 24px" *ngIf="serviceDetail.menuImgs && serviceDetail.menuImgs.length">
+                  <div class="text-center">
                     <ion-button *ngIf="!showMenu" (click)="toggleMenu()">Menu</ion-button>
                   </div>
-                  <div class="menu-slider position-relative" *ngIf="showMenu">
+                  <div class="menu-slider position-relative" [ngStyle]="smallScreen && {'width': '100% !important'}" *ngIf="showMenu">
                     <span style="position: absolute;right: 0px;">
                       <ion-icon name="close" (click)="toggleMenu()"></ion-icon>
                     </span>
-                    <div>
-                      <carousel #menu [cellsToShow]="1" [loop]="false" [images]="serviceDetail.menuImgs" [arrows]="true" class="branch-carousel"></carousel>
+                    <div class="w-100 h-100 position-relative" style="z-index: 1;">
+                      <carousel  
+                        style="height: 400px !important;"
+                        class="branch-carousel" 
+                        *ngIf="serviceDetail.menuImgs && serviceDetail.menuImgs.length" #menuslider 
+                        [cellsToShow]="1" 
+                        [arrows]="true" >
+                        <div class="carousel-cell" *ngFor="let item of serviceDetail.menuImgs; let i=index" (click)="openCarouselInModal(i, serviceDetail.menuImgs)">
+                          <img [src]="item.path" style="object-fit: cover;" >
+                        </div>
+                      </carousel>
                     </div>
                   </div>
                 </div>

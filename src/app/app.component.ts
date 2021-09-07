@@ -29,12 +29,12 @@ export class AppComponent implements AfterViewInit {
     private appService: AppService
   ) {
     this.setVendor();
-    this.router.events.subscribe(event => {
-      if (event instanceof NavigationEnd) {
-        ga('set', 'page', event.urlAfterRedirects);
-        ga('send', 'pageview');
-      }
-    });
+    // this.router.events.subscribe(event => {
+    //   if (event instanceof NavigationEnd) {
+    //     ga('set', 'page', event.urlAfterRedirects);
+    //     ga('send', 'pageview');
+    //   }
+    // });
   }
 
   setManifestFile() {
