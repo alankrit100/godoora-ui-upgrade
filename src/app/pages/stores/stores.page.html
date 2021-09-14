@@ -1,7 +1,7 @@
 <ion-content #scrollMe>
   <div class="container" style="margin-bottom: 200px !important;">
     <div class="Slot-detail m-3" *ngIf="storeDetail && serviceDetail">
-      <carousel *ngIf="serviceDetail.gallery && serviceDetail.gallery.length" #banner [cellsToShow]="smallScreen ? 1 : ((serviceDetail.gallery.length > 5) ? 5 : serviceDetail.gallery.length)" [loop]="false" [arrows]="true" class="branch-carousel">
+      <carousel *ngIf="serviceDetail.gallery && serviceDetail.gallery.length" #banner [cellsToShow]="smallScreen ? 1 : ((serviceDetail.gallery.length > 5) ? 5 : serviceDetail.gallery.length)" [loop]="false" [arrows]="true" class="branch-carousel" [ngClass]="{'carousel-200': smallScreen}">
         <div class="carousel-cell" *ngFor="let item of serviceDetail.gallery; let i=index" (click)="openCarouselInModal(i, serviceDetail.gallery)">
           <img [src]="item.path" style="object-fit: cover;" >
         </div>
