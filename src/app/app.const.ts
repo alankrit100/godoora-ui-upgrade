@@ -12029,6 +12029,1156 @@
             }
         },
         {
+            branch: 'countryInnManipal',
+            branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
+            id: 'www.kediyoorhotels-expreiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/logo.jpg',
+            theme: 'grey-theme',
+            idCategory: 19,
+            plannerUrl: '',
+            propertytimezone: 'Asia/Calcutta',
+            displayProperty: false,
+            storeImg: 'social2.jpg',
+            label: 'Country Inn Manipal', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'https://www.daiwikhotels.com'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'https://www.daiwikhotels.com'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'https://www.daiwikhotels.com'
+                },
+                feedBackEmail: ' contact@daiwikhotels.com'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/St-Marie_island-slider.jpg',
+                            heading: 'A spiritual journey',
+                            subHeading: 'City | Food & Drink | Acheive Moksha'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/dave-lastovskiy.jpg',
+                            heading: 'Not just rooms, we offer you one-of-a-kind-experience',
+                            subHeading: 'At Vyom- The spa'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/countryInn.jpg',
+                            heading: 'Rejuvenate yourself',
+                            subHeading: 'Experience| Memories | Positivity'
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'The Hotel Experience',
+                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth of Rameswaram at Daiwik. We open our arms to you and welcome you to join us in this effort. `,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/digital.jpg',
+                            label: 'Digital Concierge',
+                            extLink: '',
+                            routerLink: '/home'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/spa.jpg',
+                            label: 'Spa & Banquet Booking',
+                            extLink: '',
+                            routerLink: '/by-admin/459'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/food+order.jpg',
+                            label: 'Food Ordering',
+                            extLink: '',
+                            routerLink: '/by-admin/460'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/offering.jpg',
+                            label: 'Offers',
+                            extLink: '',
+                            routerLink: '/by-admin/461'
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Local Experiences',
+                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/St-Marie_island.jpg',
+                            name: 'St. Mary Island tour',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/StMaryIslandtour',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/houseboat.jpg',
+                            name: 'Houseboat in backwaters',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Houseboatinbackwaters',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/learn-art.jpg',
+                            name: 'Religious Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/ReligiousTour',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/water-rafting.jpg',
+                            name: 'White Water Rafting at Sitanadi',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/WhiteWaterRaftingatSitanadi',
+                            extLink: ''
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-house Experiences and Workshops',
+                    desc: 'Live like a local: Experiences for a lifetime',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/towel-origami.jpg',
+                            name: 'Towel Origami',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/TowelOrigami',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/cookwith-chef.jpg',
+                            name: 'Cooking with chef',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Cookingwithchef_3',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/ccktail.jpg',
+                            name: 'Cocktail Making',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CocktailMaking_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/jene-stephaniuk--MCrF6hnojU-unsplash.jpg',
+                            name: 'Learn Art',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/LearnArt',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/yakshagana.jpg',
+                            name: 'Learn Yakshagana',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/LearnYakshagana',
+                            extLink: ''
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Unique dining experience',
+                    desc: 'You will enjoy delicius udupi style food',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/Udupi-brkfast.jpg',
+                            name: 'Udupi special breakfast a box',
+                            desc: '',
+                            routerLink: '/stores/Udupispecialbreakfastinyourbox',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/gadbad-icecream.jpg',
+                            name: 'Personalised Gadbad Icecream',
+                            desc: '',
+                            routerLink: '/stores/PersonalisedGadbadIcecream',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/sunday-brunch.jpg',
+                            name: 'Sunday brunch',
+                            desc: '',
+                            routerLink: '/stores/Sundaybrunch_7',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/fish-thali.jpg',
+                            name: 'Special Mangalorean fish thali',
+                            desc: '',
+                            routerLink: '/stores/SpecialMangaloreanfishthali',
+                            extLink: ''
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Our Unique Offerings',
+                    desc: 'The trust of our hotel brand....',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/shop.jpg',
+                            name: 'Shop Local',
+                            desc: '',
+                            routerLink: '/stores/ShopLocal',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/investment.jpg',
+                            name: 'Investment Opportunity in Udupi',
+                            desc: '',
+                            routerLink: '/stores/InvestmentOpportunityinUdupi',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/partner.jpg',
+                            name: 'Partner Offer',
+                            desc: '',
+                            extLink: '',
+                            routerLink: '/stores/PartnerOffer'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/book-ticket.jpg',
+                            name: 'Book a ticket',
+                            desc: '',
+                            routerLink: '/stores/Bookaticket',
+                            extLink: ''
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: 'Behind the scenes',
+                    desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
+                            videoId: ''
+                        }
+                    ]
+                },
+                masonry: {
+                    active: false,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'masonry title',
+                    desc: 'masonry Description',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/433x649/?Uruguay',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/530x572/?Jamaica',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/531x430/?Kuwait',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/500x571/?Ecuador',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/503x548/?Angola',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/511x630/?Mauritania',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/443x704/?St. Helena',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/441x1145/?Namibia',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/491x1097/?Samoa',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/570x851/?Eritrea',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/560x1072/?Iraq',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/551x598/?Togo',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Plan Your Trip',
+                    extLink: 'https://www.daiwik-planner.goyaana.com',
+                    routerLink: '',
+                    icon: 'paper-plane-outline'
+                },
+                {
+                    label: 'Order Food',
+                    extLink: 'http://13.235.86.41:5201/',
+                    routerLink: '',
+                    icon: 'fast-food-outline'
+                },
+                {
+                    label: 'Online Shopping',
+                    extLink: 'http://13.235.86.41:5201/',
+                    routerLink: '',
+                    icon: 'card-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Front Desk',
+                    icon: 'kediyoor-icon/reception.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Reception',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/reception.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Web Checkin',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/checkin.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Web Checkout',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/reception.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Housekeeping',
+                    icon: 'kediyoor-icon/housekeeper.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Extra Crockery & Cutlery',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/restaurant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Additional Bedding',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/bed.png',
+                            showTextarea: true,
+                            placeholder: 'Example: Please send me an extra pillow',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Laundry Service',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/washing-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please arrange laundry pickup for me',
+                            headerText: 'Select a time when our person can knock your door',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Room Cleaning',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/cleaning.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please sanitize my room and replace bedding',
+                            headerText: 'Select an ideal time for us to work in your room',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Wellness and Fitness',
+                    icon: 'kediyoor-icon/fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gym',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/gym.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to use the treadmill',
+                            headerText: 'When would you like to hit the Gym?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Swimming Pool',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/swimming.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                            headerText: 'When would you like to get into the pool?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Recreation & Sports',
+                    icon: 'kediyoor-icon/tenniss.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Tennis',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/tenniss.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Pool Table',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/ping-pong.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Travel and Activities',
+                    icon: 'kediyoor-icon/bus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the cab'
+                        },
+                        {
+                            name: 'Local Taxi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Cab'
+                        }
+                    ]
+                },
+                {
+                    name: 'Repairs',
+                    icon: 'kediyoor-icon/repair.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'TV',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/tv.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'AC',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/ac.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Coffee Maker',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/coffee.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Hair Dryer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/dryer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Please replace the hair dryer',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Electrical',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/bulb.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Others',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/others.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Offers',
+                    icon: 'kediyoor-icon/offerr.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Houseboat offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/house.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Breakfast offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Local Experiences',
+                    icon: 'kediyoor-icon/exp.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'St. Mary Island tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/island.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Houseboat in backwaters',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/house.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Religious Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/temple.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'White Water Rafting at Sitanadi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/rafting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'In-house Experiences and Workshops',
+                    icon: 'kediyoor-icon/workshop.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Towel Origami',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/towel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cooking with chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/chef.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cocktail Making',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn Art',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/art.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn Yakshagana',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/dancer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Unique dining experience',
+                    icon: 'kediyoor-icon/dining.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Udupi special breakfast in your box',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised Gadbad Icecream',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/icecream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/brunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Special Mangalorean fish thali',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/fish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Our Unique Offerings',
+                    icon: 'kediyoor-icon/offer.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Shop Local',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/shopping-cart.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Investment Opportunity in Udupi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/investing.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Partner Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/deal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a ticket',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/ticket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Spa & Banquet Book',
+                    icon: 'kediyoor-icon/spa.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa Booking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spaa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Banquet Hall Booking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/banquet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Food ordering',
+                    icon: 'kediyoor-icon/food.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a table',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Food delivery',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/food-delivry.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Food pickup',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/food-pickup.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                }
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        },
+        {
             branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
             id: 'beta.thebesttrip.in',
@@ -77735,6 +78885,1158 @@
                         }
                     ]
                 },
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        }
+    ],
+    'www.countryinnmanipal-experiences.goyaana.com': [
+        {
+            branch: 'default',
+            branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
+            id: 'www.countryinnmanipal-experiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/logo.jpg',
+            theme: 'grey-theme',
+            idCategory: 19,
+            plannerUrl: '',
+            propertytimezone: 'Asia/Calcutta',
+            displayProperty: false,
+            storeImg: 'social2.jpg',
+            label: 'Country Inn Manipal', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'https://www.daiwikhotels.com'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'https://www.daiwikhotels.com'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'https://www.daiwikhotels.com'
+                },
+                feedBackEmail: ' contact@daiwikhotels.com'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/St-Marie_island-slider.jpg',
+                            heading: 'A spiritual journey',
+                            subHeading: 'City | Food & Drink | Acheive Moksha'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/dave-lastovskiy.jpg',
+                            heading: 'Not just rooms, we offer you one-of-a-kind-experience',
+                            subHeading: 'At Vyom- The spa'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/countryInn.jpg',
+                            heading: 'Rejuvenate yourself',
+                            subHeading: 'Experience| Memories | Positivity'
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'The Hotel Experience',
+                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth of Rameswaram at Daiwik. We open our arms to you and welcome you to join us in this effort. `,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/digital.jpg',
+                            label: 'Digital Concierge',
+                            extLink: '',
+                            routerLink: '/home'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/spa.jpg',
+                            label: 'Spa & Banquet Booking',
+                            extLink: '',
+                            routerLink: '/by-admin/459'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/food+order.jpg',
+                            label: 'Food Ordering',
+                            extLink: '',
+                            routerLink: '/by-admin/460'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/offering.jpg',
+                            label: 'Offers',
+                            extLink: '',
+                            routerLink: '/by-admin/461'
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Local Experiences',
+                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/St-Marie_island.jpg',
+                            name: 'St. Mary Island tour',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/StMaryIslandtour',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/houseboat.jpg',
+                            name: 'Houseboat in backwaters',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Houseboatinbackwaters',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/learn-art.jpg',
+                            name: 'Religious Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/ReligiousTour',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/water-rafting.jpg',
+                            name: 'White Water Rafting at Sitanadi',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/WhiteWaterRaftingatSitanadi',
+                            extLink: ''
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-house Experiences and Workshops',
+                    desc: 'Live like a local: Experiences for a lifetime',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/towel-origami.jpg',
+                            name: 'Towel Origami',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/TowelOrigami',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/cookwith-chef.jpg',
+                            name: 'Cooking with chef',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Cookingwithchef_3',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/ccktail.jpg',
+                            name: 'Cocktail Making',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CocktailMaking_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/jene-stephaniuk--MCrF6hnojU-unsplash.jpg',
+                            name: 'Learn Art',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/LearnArt',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/yakshagana.jpg',
+                            name: 'Learn Yakshagana',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/LearnYakshagana',
+                            extLink: ''
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Unique dining experience',
+                    desc: 'You will enjoy delicius udupi style food',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/Udupi-brkfast.jpg',
+                            name: 'Udupi special breakfast a box',
+                            desc: '',
+                            routerLink: '/stores/Udupispecialbreakfastinyourbox',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/gadbad-icecream.jpg',
+                            name: 'Personalised Gadbad Icecream',
+                            desc: '',
+                            routerLink: '/stores/PersonalisedGadbadIcecream',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/sunday-brunch.jpg',
+                            name: 'Sunday brunch',
+                            desc: '',
+                            routerLink: '/stores/Sundaybrunch_7',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/fish-thali.jpg',
+                            name: 'Special Mangalorean fish thali',
+                            desc: '',
+                            routerLink: '/stores/SpecialMangaloreanfishthali',
+                            extLink: ''
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Our Unique Offerings',
+                    desc: 'The trust of our hotel brand....',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/shop.jpg',
+                            name: 'Shop Local',
+                            desc: '',
+                            routerLink: '/stores/ShopLocal',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/investment.jpg',
+                            name: 'Investment Opportunity in Udupi',
+                            desc: '',
+                            routerLink: '/stores/InvestmentOpportunityinUdupi',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/partner.jpg',
+                            name: 'Partner Offer',
+                            desc: '',
+                            extLink: '',
+                            routerLink: '/stores/PartnerOffer'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/book-ticket.jpg',
+                            name: 'Book a ticket',
+                            desc: '',
+                            routerLink: '/stores/Bookaticket',
+                            extLink: ''
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: 'Behind the scenes',
+                    desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
+                            videoId: ''
+                        }
+                    ]
+                },
+                masonry: {
+                    active: false,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'masonry title',
+                    desc: 'masonry Description',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/433x649/?Uruguay',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/530x572/?Jamaica',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/531x430/?Kuwait',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/500x571/?Ecuador',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/503x548/?Angola',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/511x630/?Mauritania',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/443x704/?St. Helena',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/441x1145/?Namibia',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/491x1097/?Samoa',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/570x851/?Eritrea',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/560x1072/?Iraq',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/551x598/?Togo',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Plan Your Trip',
+                    extLink: 'https://www.daiwik-planner.goyaana.com',
+                    routerLink: '',
+                    icon: 'paper-plane-outline'
+                },
+                {
+                    label: 'Order Food',
+                    extLink: 'http://13.235.86.41:5201/',
+                    routerLink: '',
+                    icon: 'fast-food-outline'
+                },
+                {
+                    label: 'Online Shopping',
+                    extLink: 'http://13.235.86.41:5201/',
+                    routerLink: '',
+                    icon: 'card-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Front Desk',
+                    icon: 'kediyoor-icon/reception.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Reception',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/reception.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Web Checkin',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/checkin.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Web Checkout',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/reception.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Housekeeping',
+                    icon: 'kediyoor-icon/housekeeper.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Extra Crockery & Cutlery',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/restaurant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Additional Bedding',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/bed.png',
+                            showTextarea: true,
+                            placeholder: 'Example: Please send me an extra pillow',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Laundry Service',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/washing-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please arrange laundry pickup for me',
+                            headerText: 'Select a time when our person can knock your door',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Room Cleaning',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/cleaning.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please sanitize my room and replace bedding',
+                            headerText: 'Select an ideal time for us to work in your room',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Wellness and Fitness',
+                    icon: 'kediyoor-icon/fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gym',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/gym.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to use the treadmill',
+                            headerText: 'When would you like to hit the Gym?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Swimming Pool',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/swimming.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                            headerText: 'When would you like to get into the pool?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Recreation & Sports',
+                    icon: 'kediyoor-icon/tenniss.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Tennis',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/tenniss.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Pool Table',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/ping-pong.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Travel and Activities',
+                    icon: 'kediyoor-icon/bus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the cab'
+                        },
+                        {
+                            name: 'Local Taxi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Cab'
+                        }
+                    ]
+                },
+                {
+                    name: 'Repairs',
+                    icon: 'kediyoor-icon/repair.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'TV',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/tv.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'AC',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/ac.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Coffee Maker',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/coffee.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Hair Dryer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/dryer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Please replace the hair dryer',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Electrical',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/bulb.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Others',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/others.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Offers',
+                    icon: 'kediyoor-icon/offerr.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Houseboat offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/house.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Breakfast offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Local Experiences',
+                    icon: 'kediyoor-icon/exp.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'St. Mary Island tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/island.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Houseboat in backwaters',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/house.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Religious Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/temple.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'White Water Rafting at Sitanadi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/rafting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'In-house Experiences and Workshops',
+                    icon: 'kediyoor-icon/workshop.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Towel Origami',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/towel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cooking with chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/chef.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cocktail Making',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn Art',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/art.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn Yakshagana',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/dancer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Unique dining experience',
+                    icon: 'kediyoor-icon/dining.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Udupi special breakfast in your box',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised Gadbad Icecream',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/icecream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/brunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Special Mangalorean fish thali',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/fish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Our Unique Offerings',
+                    icon: 'kediyoor-icon/offer.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Shop Local',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/shopping-cart.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Investment Opportunity in Udupi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/investing.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Partner Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/deal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a ticket',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/ticket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Spa & Banquet Book',
+                    icon: 'kediyoor-icon/spa.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa Booking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spaa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Banquet Hall Booking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/banquet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Food ordering',
+                    icon: 'kediyoor-icon/food.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a table',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I lost my wallet near the swimming pool',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Food delivery',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/food-delivry.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Food pickup',
+                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Restaurant',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/food-pickup.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'I found a wallet near the entrance',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                }
             ],
             comingSoon: {
                 active: true,

@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { AppService } from 'src/app/services/app.service';
 import { ShopKeeperDetail } from '../model/shop-keeper.model';
 import * as moment from 'moment';
-import { VendorDeatil, Vendors } from 'src/app/app.const';
+import { VendorDeatil } from 'src/app/app.const';
 import { UtilAlertService } from 'src/app/services/util/util-alert.service';
 import { Router } from '@angular/router';
 

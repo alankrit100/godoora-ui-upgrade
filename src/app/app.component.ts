@@ -83,7 +83,7 @@ export class AppComponent implements AfterViewInit {
       }
       this.appService.setVendorDetail(this.vendorDetail);
       this.setManifestFile();
-      this.loadAnalyticsScript();
+      this.appendGaTrackingCode();
       this.dataSrc = this.vendorDetail ? this.vendorDetail.theme : '';
       const htmlTag = document.getElementsByTagName('html');
       if (htmlTag && htmlTag.length) {
@@ -96,18 +96,29 @@ export class AppComponent implements AfterViewInit {
   }
 
 
-  loadAnalyticsScript() {
-    const head = document.getElementsByTagName('head')[0];
-    const _js = document.createElement('script');
-    _js.type = 'text/javascript';
-    _js.appendChild(document.createTextNode(`
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  private appendGaTrackingCode() {
+    if(this.vendorDetail) {
+      try {
+        const script = document.createElement('script');
+        script.innerHTML = `
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
           (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
           m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '${this.vendorDetail.gAnalyticscode ? this.vendorDetail.gAnalyticscode : 'UA-144064030-1'}', 'auto');  // Change the UA-ID to the one you got from Google Analytics
-    `));
-    head.appendChild(_js);
+          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+          ga('create', '${this.vendorDetail.gAnalyticscode ? this.vendorDetail.gAnalyticscode : 'UA-144064030-1'}', 'auto');  // Change the UA-ID to the one you got from Google Analytics
+        `;
+        document.head.appendChild(script);
+        this.router.events.subscribe(event => {
+        if (event instanceof NavigationEnd) {
+            ga('set', 'page', event.urlAfterRedirects);
+            ga('send', 'pageview');
+          }
+        });
+      } catch (ex) {
+       console.error('Error appending google analytics');
+       console.error(ex);
+      }
+    }
   }
 
   changeFavicon() {
