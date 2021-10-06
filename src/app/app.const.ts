@@ -12071,7 +12071,7 @@
         {
             branch: 'countryInnManipal',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
-            id: 'www.kediyoorhotels-expreiences.goyaana.com',
+            id: 'www.countryinnmanipal-expreiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/logo.jpg',
             theme: 'grey-theme',
             idCategory: 19,
@@ -12118,9 +12118,9 @@
                 about: {
                     isAnchor: true,
                     route: 'about',
-                    url: 'https://www.daiwikhotels.com'
+                    url: ''
                 },
-                feedBackEmail: ' contact@daiwikhotels.com'
+                feedBackEmail: ''
             },
             landingPage: {
                 slider: {
@@ -81318,9 +81318,9 @@
                 about: {
                     isAnchor: true,
                     route: 'about',
-                    url: 'https://www.daiwikhotels.com'
+                    url: ''
                 },
-                feedBackEmail: ' contact@daiwikhotels.com'
+                feedBackEmail: ''
             },
             landingPage: {
                 slider: {
