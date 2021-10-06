@@ -10477,7 +10477,7 @@
                 destinations: {
                     active: true,
                     heading: 'In-House Experiences',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream',
+                    desc: '.Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
@@ -10485,6 +10485,14 @@
                             location: '',
                             views: '',
                             routerLink: '/stores/PaintingbytheBanyanTree',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
+                            name: 'Yoga experience',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Yogaexperience',
                             extLink: ''
                         },
                         {
@@ -10525,7 +10533,7 @@
                 experiences: {
                     active: true,
                     heading: 'Unique dining experiences',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
@@ -10627,7 +10635,7 @@
                 offers: {
                     active: true,
                     heading: 'Unique Offerings',
-                    desc: 'Services that make your trip even more exciting and complete',
+                    desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/towel.jpg',
@@ -11593,6 +11601,24 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Yoga experience',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -13262,73 +13288,61 @@
                     desc: `You will enjoy delicius style food.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/room_booking.jpg',
-                            label: 'Room Booking',
-                            extLink: '',
-                            routerLink: '/stores/RoomBooking'
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/digital.jpg',
-                            label: 'Digital Concierge',
+                            label: 'Contactless Service',
                             extLink: '',
                             routerLink: '/home'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/menu.jpg',
-                            label: 'In-Room & Restaurant Menu',
+                            label: 'Food Menu',
                             extLink: '',
-                            routerLink: '/by-admin/474'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/offers.jpg',
-                            label: 'Exclusive Offers',
-                            extLink: '',
-                            routerLink: '/by-admin/473'
+                            routerLink: '/by-admin/491'
                         }
                     ]
                 },
                 destinations: {
                     active: true,
-                    heading: 'Pre-Book Special Dining',
-                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    heading: 'Room booking',
+                    desc: 'Select a room type of your choice.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/candle_dinner.jpg',
-                            name: 'Candle Light Dinner with Birthday Cake',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/standard.jpg',
+                            name: 'Standard room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandlelightdinnerwithBirthdayCake',
+                            routerLink: '/stores/Standardroom',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/sea_food.jpg',
-                            name: 'Sea Food Platter',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/deluxe.jpg',
+                            name: 'Semi deluxe room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SeaFoodPlatter_1',
+                            routerLink: '/stores/Semideluxeroom',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/man_thali.jpg',
-                            name: 'Mangalore Thali',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/connecting.jpg',
+                            name: 'Connecting rooms',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MangaloreThali',
+                            routerLink: '/stores/Connectingrooms',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/breakfast.jpg',
-                            name: 'Udupi Breakfast',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/murphy.jpg',
+                            name: 'Murphy room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/UdupiBreakfast',
+                            routerLink: '/stores/Murphyroom',
                             extLink: ''
                         }
                     ]
                 },
                 experiences: {
                     active: true,
-                    heading: 'Pre-Book Local Sightseeing',
+                    heading: 'Pre-book Local Experiences',
                     desc: 'Live like a local: Experiences for a lifetime',
                     items: [
                         {
@@ -13367,8 +13381,8 @@
                 },
                 activities: {
                     active: true,
-                    heading: 'Inhouse experiences & workshops',
-                    desc: 'Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth of Rameswaram at Daiwik. We open our arms to you and welcome you to join us in this effort.',
+                    heading: 'Pre-Order Local authentic products',
+                    desc: 'Enquire local products.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
@@ -13402,29 +13416,29 @@
                 },
                 offers: {
                     active: true,
-                    heading: 'Pre-Book & Shop Local Items',
-                    desc: 'The trust of our local brand....',
+                    heading: 'Learning experiences',
+                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/craft.jpg',
-                            name: 'Dakshina Kannada Crafts',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/yaksha.jpg',
+                            name: 'Learn yakshagana',
                             desc: '',
-                            routerLink: '/stores/DakshinaKannadaCrafts',
+                            routerLink: '/stores/Learnyakshagana',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/paint_artist.jpg',
-                            name: 'Painting Local Artisan',
+                            name: 'Learn Painting from Local artisan',
                             desc: '',
-                            routerLink: '/stores/PaintingLocalArtisan',
+                            routerLink: '/stores/LearnPaintingfromLocalartisan',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/craft_kit.jpg',
-                            name: 'DIY EcoFriendly Craft Kits',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/deco.jpg',
+                            name: 'Learn flower decoration',
                             desc: '',
                             extLink: '',
-                            routerLink: '/stores/DIYEcoFriendlyCraftKits'
+                            routerLink: '/stores/Learnflowerdecoration'
                         }
                     ]
                 },
@@ -13984,7 +13998,7 @@
                     ]
                 },
                 {
-                    name: 'Pre-book Local Sightseeing',
+                    name: 'Local experiences',
                     icon: 'kediyoor-icon/forest.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -14046,7 +14060,7 @@
                     ]
                 },
                 {
-                    name: 'In-house Experiences and Workshops',
+                    name: 'Local authentic products',
                     icon: 'kediyoor-icon/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -14108,7 +14122,7 @@
                     ]
                 },
                 {
-                    name: 'Pre-Book & Shop Local Items',
+                    name: 'Partner offers',
                     icon: 'kediyoor-icon/shopping.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -14116,10 +14130,10 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'DakshinaKannada Crafts',
+                            name: 'Learn yakshagana',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/others.png',
+                            icon: 'kediyoor-icon/ballet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this shopping',
@@ -14129,7 +14143,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Painting Local Artisan',
+                            name: 'Learn Painting from Local artisan',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/paint.png',
@@ -14142,10 +14156,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'DIY Eco Friendly Craft Kits',
+                            name: 'Learn flower decoration',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/food-pickup.png',
+                            icon: 'kediyoor-icon/flower.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -14165,10 +14179,49 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Room Booking',
+                            name: 'Standard room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/bed1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Semi deluxe room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Connecting rooms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/bed2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Murphy room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/bed3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -14216,7 +14269,7 @@
                     ]
                 },
                 {
-                    name: 'Restaurant Menu',
+                    name: 'Food Menu',
                     icon: 'kediyoor-icon/restaurant1.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -76359,7 +76412,7 @@
                 destinations: {
                     active: true,
                     heading: 'In-House Experiences',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream',
+                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
@@ -76367,6 +76420,14 @@
                             location: '',
                             views: '',
                             routerLink: '/stores/PaintingbytheBanyanTree',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
+                            name: 'Yoga experience',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Yogaexperience',
                             extLink: ''
                         },
                         {
@@ -76406,8 +76467,8 @@
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique dining experiences',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
+                    heading: 'Unique dining experiences.',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
@@ -76509,7 +76570,7 @@
                 offers: {
                     active: true,
                     heading: 'Unique Offerings',
-                    desc: 'Services that make your trip even more exciting and complete',
+                    desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/towel.jpg',
@@ -77479,6 +77540,24 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
+                            name: 'Yoga experience',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'Gardening',
                             extLink: '',
                             routerLink: 'test',
@@ -77911,7 +77990,7 @@
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
-                },
+                }
             ],
             comingSoon: {
                 active: true,
