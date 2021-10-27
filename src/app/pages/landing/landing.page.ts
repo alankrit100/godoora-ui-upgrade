@@ -121,7 +121,6 @@ export class LandingPage implements OnInit {
     }
   }
 
-
   editShop() {
     if (this.user) {
       this.router.navigate(['/shop-keeper']);
@@ -212,6 +211,16 @@ export class LandingPage implements OnInit {
   scrollToMasonry() {
     if (this.vendorDeatil.landingPage.masonry.active && document.getElementById("masonry")) {
       document.getElementById("masonry").scrollIntoView({ behavior: "smooth" });
+    }
+  }
+
+  navgigate(slide: any) {
+    if(slide.btn) {
+      if(slide.btn.routerLink) {
+        this.router.navigate([slide.btn.routerLink]);
+      } else if(slide.btn.extLink) {
+        window.open(slide.btn.extLink);
+      }
     }
   }
 

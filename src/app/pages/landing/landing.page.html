@@ -34,6 +34,10 @@
                 <h3>{{ slide.subHeading }}</h3>
               </div>
             </div>
+            <div class="slide-btn" *ngIf="slide?.btn">
+              <button *ngIf="slide.btn?.routerLink" (click)="navgigate(slide)">{{ slide?.btn?.label }}</button>
+              <button *ngIf="slide.btn?.extLink" (click)="navgigate(slide)" >{{ slide?.btn?.label }}</button>
+            </div>
           </div>
         </slide>
       </carousel>
@@ -140,6 +144,10 @@
               <ng-template #extLink>
                 <a class="Financials" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
+              <ng-container *ngIf="slide.btn">
+                <a class="action-btn" *ngIf="slide.btn.extLink" [href]="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" *ngIf="slide.btn.routerLink" [routerLink]="[slide.btn.routerLink]" >{{ slide.btn.label }}</a>
+              </ng-container>
             </div>
           </div>
         </div>
@@ -180,6 +188,10 @@
               <ng-template #extLink>
                 <a class="Financials" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
+              <ng-container *ngIf="slide.btn">
+                <a class="action-btn" [href]="slide.btn.extLink" *ngIf="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [routerLink]="[slide.btn.routerLink]" *ngIf="slide.btn.routeLink" >{{ slide.btn.label }}</a>
+              </ng-container>
               <!-- <a href="" (click)="showDialogMethod()" ></a> -->
             </div>
           </div>
@@ -219,6 +231,10 @@
               <ng-template #extLink>
                 <a class="Financials" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
+              <ng-container *ngIf="slide.btn">
+                <a class="action-btn" [href]="slide.btn.extLink" *ngIf="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [routerLink]="[slide.btn.routerLink]" *ngIf="slide.btn.routeLink" >{{ slide.btn.label }}</a>
+              </ng-container>
             </div>
           </div>
         </div>
@@ -257,6 +273,10 @@
               <ng-template #extLink>
                 <a class="Financials" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
+              <ng-container *ngIf="slide.btn">
+                <a class="action-btn" [href]="slide.btn.extLink" *ngIf="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [routerLink]="[slide.btn.routerLink]" *ngIf="slide.btn.routeLink" >{{ slide.btn.label }}</a>
+              </ng-container>
             </div>
           </div>
         </div>
