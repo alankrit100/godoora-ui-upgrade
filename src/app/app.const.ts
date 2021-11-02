@@ -3888,23 +3888,13 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/foodOrder.jpg',
                             label: 'FOOD DELIVERY APP',
                             extLink: 'www.countryinnmanipal-restaurant.goyaana.com',
-                            routerLink: '',
-                            btn: {
-                                extLink: 'www.countryinnmanipal-restaurant.goyaana.com',
-                                routerLink: '',
-                                label: 'ORDER NOW'
-                            }
+                            routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/spa.jpg',
                             label: 'SPA PACKAGES BOOKING',
                             extLink: '',
-                            routerLink: '/by-admin/507',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/by-admin/507',
-                                label: 'BOOK NOW'
-                            }
+                            routerLink: '/by-admin/507'
                         }
                     ]
                 },
@@ -73324,23 +73314,13 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/foodOrder.jpg',
                             label: 'FOOD DELIVERY APP',
                             extLink: 'www.countryinnmanipal-restaurant.goyaana.com',
-                            routerLink: '',
-                            btn: {
-                                extLink: 'www.countryinnmanipal-restaurant.goyaana.com',
-                                routerLink: '',
-                                label: 'ORDER NOW'
-                            }
+                            routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/spa.jpg',
                             label: 'SPA PACKAGES BOOKING',
                             extLink: '',
-                            routerLink: '/by-admin/507',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/by-admin/507',
-                                label: 'BOOK NOW'
-                            }
+                            routerLink: '/by-admin/507'
                         }
                     ]
                 },
