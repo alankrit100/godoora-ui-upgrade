@@ -209,18 +209,20 @@ figure {
 
 .wrap_destination figcaption {
   position: absolute;
-  bottom  : 20px;
+  bottom  : 50%;
   padding : 0 10px;
   color   : rgb(228, 224, 224);
   z-index : 9;
+  transform: translateY(50%);
 }
 
 .wrap_destination figcaption {
   position: absolute;
-  bottom  : 20px;
+  bottom  : 50%;
   padding : 0 10px;
   color   : white;
   z-index : 9;
+  transform: translateY(50%);
 }
 
 .headng_btn_wrap a {
@@ -551,7 +553,8 @@ section.testimonials .container {
 
   .wrap_destination figcaption {
     padding: 0 30px;
-    bottom : 30px;
+    bottom : 50%;
+    transform: translateY(50%);
   }
 
   .members_benifits_slider .slide-content {

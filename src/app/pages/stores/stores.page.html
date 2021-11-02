@@ -99,7 +99,7 @@
                 </div>
               </div>
             </div>
-            <section class="book-appointment-row">
+            <section class="book-appointment-row" *ngIf="(serviceDetail && !serviceDetail.storePageAsBlog)">
               <div class="book-appointment-slots-container" *ngIf="storeDetail && storeDetail.listOfSlots">
                 <div class="d-flex align-items-center justify-content-center flex-column" style="margin-top: 24px"
                   *ngIf="serviceDetail.checkinForm">

@@ -32,11 +32,11 @@
               <div class="caption">
                 <h1>{{ slide.heading }}</h1>
                 <h3>{{ slide.subHeading }}</h3>
+                <div class="slide-btn-container mt-4" [ngClass]="{'small-screen': smallScreen}" *ngIf="slide?.btn">
+                  <button *ngIf="slide.btn?.routerLink" (click)="navgigate(slide)">{{ slide?.btn?.label }}</button>
+                  <button *ngIf="slide.btn?.extLink" (click)="navgigate(slide)" >{{ slide?.btn?.label }}</button>
+                </div>
               </div>
-            </div>
-            <div class="slide-btn" *ngIf="slide?.btn">
-              <button *ngIf="slide.btn?.routerLink" (click)="navgigate(slide)">{{ slide?.btn?.label }}</button>
-              <button *ngIf="slide.btn?.extLink" (click)="navgigate(slide)" >{{ slide?.btn?.label }}</button>
             </div>
           </div>
         </slide>
@@ -68,10 +68,10 @@
                 <h3>{{ slide.label }}</h3>
               </figcaption>
               <ng-template [ngIf]="slide.routerLink" [ngIfElse]="extLink">
-                <a class="Financials" [routerLink]="[slide.routerLink]"></a>
+                <a class="Financials" *ngIf="slide.routerLink" [routerLink]="[slide.routerLink]"></a>
               </ng-template>
               <ng-template #extLink>
-                <a class="Financials" target="_blank" [href]="slide.extLink"></a>
+                <a class="Financials" *ngIf="slide.extLink" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
             </div>
           </div>
@@ -125,8 +125,8 @@
         </div>
         <div class="row m-0" style="overflow: scroll;flex-wrap: nowrap;"
           *ngIf="vendorDeatil.landingPage?.destinations.items && vendorDeatil.landingPage?.destinations.items.length">
-          <div class="wrap_destination px-1"
-            [ngClass]="(vendorDeatil.landingPage?.destinations?.items?.length > 3) ? 'display-3box-n-half':'display-3box'"
+          <div class="wrap_destination px-1 display-3box"
+            [ngClass]="{'display-3box-n-half': (vendorDeatil.landingPage?.destinations?.items?.length > 3), 'small-wrap_destination': smallScreen}"
             *ngFor="let slide of vendorDeatil.landingPage?.destinations.items">
             <div class="wrap_destination_inner">
               <figure><img class="progressive__img lazyload progressive--is-loaded" [src]="slide.img | safe: 'url'"
@@ -139,14 +139,14 @@
                 <span>{{ slide.views }}</span>
               </figcaption>
               <ng-template [ngIf]="slide.routerLink" [ngIfElse]="extLink">
-                <a class="Financials" [routerLink]="[slide.routerLink]"></a>
+                <a class="Financials" *ngIf="slide.routerLink" [routerLink]="[slide.routerLink]"></a>
               </ng-template>
               <ng-template #extLink>
-                <a class="Financials" target="_blank" [href]="slide.extLink"></a>
+                <a class="Financials" *ngIf="slide.extLink" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
               <ng-container *ngIf="slide.btn">
-                <a class="action-btn" *ngIf="slide.btn.extLink" [href]="slide.btn.extLink" >{{ slide.btn.label }}</a>
-                <a class="action-btn" *ngIf="slide.btn.routerLink" [routerLink]="[slide.btn.routerLink]" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.extLink" [href]="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.routerLink" [routerLink]="[slide.btn.routerLink]" >{{ slide.btn.label }}</a>
               </ng-container>
             </div>
           </div>
@@ -168,8 +168,8 @@
         </div>
         <div class="row m-0" style="overflow: scroll;flex-wrap: nowrap;"
           *ngIf="vendorDeatil.landingPage?.experiences?.items && vendorDeatil.landingPage?.experiences?.items.length">
-          <div class="wrap_destination px-1"
-            [ngClass]="(vendorDeatil.landingPage?.experiences?.items?.length > 3) ? 'display-3box-n-half':'display-3box'"
+          <div class="wrap_destination px-1 display-3box"
+            [ngClass]="{'display-3box-n-half': (vendorDeatil.landingPage?.experiences?.items?.length > 3), 'small-wrap_destination': smallScreen}"
             *ngFor="let slide of vendorDeatil.landingPage?.experiences?.items">
             <div class="wrap_destination_inner">
               <figure>
@@ -183,14 +183,14 @@
                 <span>{{ slide.views }}</span>
               </figcaption>
               <ng-template [ngIf]="slide.routerLink" [ngIfElse]="extLink">
-                <a class="Financials" [routerLink]="[slide.routerLink]"></a>
+                <a class="Financials" *ngIf="slide.routerLink" [routerLink]="[slide.routerLink]"></a>
               </ng-template>
               <ng-template #extLink>
-                <a class="Financials" target="_blank" [href]="slide.extLink"></a>
+                <a class="Financials" *ngIf="slide.extLink" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
               <ng-container *ngIf="slide.btn">
-                <a class="action-btn" [href]="slide.btn.extLink" *ngIf="slide.btn.extLink" >{{ slide.btn.label }}</a>
-                <a class="action-btn" [routerLink]="[slide.btn.routerLink]" *ngIf="slide.btn.routeLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.extLink" [href]="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.routerLink" [routerLink]="[slide.btn.routerLink]" >{{ slide.btn.label }}</a>
               </ng-container>
               <!-- <a href="" (click)="showDialogMethod()" ></a> -->
             </div>
@@ -213,8 +213,8 @@
         </div>
         <div class="row m-0 p-0" style="overflow: scroll;flex-wrap: nowrap;"
           *ngIf="vendorDeatil.landingPage?.activities?.items && vendorDeatil.landingPage?.activities?.items.length">
-          <div class="wrap_destination px-1"
-            [ngClass]="(vendorDeatil.landingPage?.activities?.items?.length > 3) ? 'display-3box-n-half':'display-3box'"
+          <div class="wrap_destination px-1 display-3box"
+            [ngClass]="{'display-3box-n-half': (vendorDeatil.landingPage?.activities?.items?.length > 3), 'small-wrap_destination': smallScreen}"
             *ngFor="let slide of vendorDeatil.landingPage?.activities?.items">
             <div class="wrap_destination_inner">
               <figure><img class="progressive__img lazyload progressive--is-loaded" [src]="slide.img | safe: 'url'"
@@ -226,14 +226,14 @@
                 <p>{{ slide.desc }}</p>
               </figcaption>
               <ng-template [ngIf]="slide.routerLink" [ngIfElse]="extLink">
-                <a class="Financials" [routerLink]="[slide.routerLink]"></a>
+                <a class="Financials" *ngIf="slide.routerLink" [routerLink]="[slide.routerLink]"></a>
               </ng-template>
               <ng-template #extLink>
-                <a class="Financials" target="_blank" [href]="slide.extLink"></a>
+                <a class="Financials" *ngIf="slide.extLink" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
               <ng-container *ngIf="slide.btn">
-                <a class="action-btn" [href]="slide.btn.extLink" *ngIf="slide.btn.extLink" >{{ slide.btn.label }}</a>
-                <a class="action-btn" [routerLink]="[slide.btn.routerLink]" *ngIf="slide.btn.routeLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.extLink" [href]="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.routerLink" [routerLink]="[slide.btn.routerLink]" >{{ slide.btn.label }}</a>
               </ng-container>
             </div>
           </div>
@@ -255,8 +255,8 @@
         </div>
         <div class="row m-0" style="overflow: scroll;flex-wrap: nowrap;"
           *ngIf="vendorDeatil.landingPage?.offers?.items && vendorDeatil.landingPage?.offers?.items.length">
-          <div class="wrap_destination px-1"
-            [ngClass]="(vendorDeatil.landingPage?.offers?.item?.length > 3) ? 'display-3box-n-half':'display-3box'"
+          <div class="wrap_destination px-1 display-3box"
+            [ngClass]="{'display-3box-n-half': (vendorDeatil.landingPage?.offers?.items?.length > 3), 'small-wrap_destination': smallScreen}"
             *ngFor="let slide of vendorDeatil.landingPage?.offers?.items">
             <div class="wrap_destination_inner">
               <figure><img class="progressive__img lazyload progressive--is-loaded" [src]="slide.img | safe: 'url'"
@@ -268,14 +268,14 @@
                 <p>{{ slide.desc }}</p>
               </figcaption>
               <ng-template [ngIf]="slide.routerLink" [ngIfElse]="extLink">
-                <a class="Financials" [routerLink]="[slide.routerLink]"></a>
+                <a class="Financials" *ngIf="slide.routerLink" [routerLink]="[slide.routerLink]"></a>
               </ng-template>
               <ng-template #extLink>
-                <a class="Financials" target="_blank" [href]="slide.extLink"></a>
+                <a class="Financials" *ngIf="slide.extLink" target="_blank" [href]="slide.extLink"></a>
               </ng-template>
               <ng-container *ngIf="slide.btn">
-                <a class="action-btn" [href]="slide.btn.extLink" *ngIf="slide.btn.extLink" >{{ slide.btn.label }}</a>
-                <a class="action-btn" [routerLink]="[slide.btn.routerLink]" *ngIf="slide.btn.routeLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.extLink" [href]="slide.btn.extLink" >{{ slide.btn.label }}</a>
+                <a class="action-btn" [ngClass]="{'small-action-btn': smallScreen}" *ngIf="slide.btn.routerLink" [routerLink]="[slide.btn.routerLink]" >{{ slide.btn.label }}</a>
               </ng-container>
             </div>
           </div>
