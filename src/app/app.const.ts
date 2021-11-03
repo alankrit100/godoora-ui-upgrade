@@ -4896,19 +4896,19 @@ export const Vendors = {
                             heading: 'A Trip That Will Fulfil Your Dream List’',
                             subHeading: 'Art & Culture | Beaches | Serene Beauty',
                             btn: {
-                                extLink: 'www.palacegarden-experiences.goyaana.com',
-                                routerLink: '',
-                                label: 'ORDER NOW'
+                                extLink: '',
+                                routerLink: '/by-admin/510',
+                                label: 'BOOK ROOMS'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/palaceGarNewSlide.jpg',
-                            heading: 'Rejuvenate Yourself',
+                            heading: 'Celebrate Your Special Days',
                             subHeading: 'At Palace Garden',
                             btn: {
-                                extLink: 'www.palacegarden-experiences.goyaana.com',
-                                routerLink: '',
-                                label: 'ORDER NOW'
+                                extLink: '',
+                                routerLink: '/by-admin/511',
+                                label: 'BOOK NOW'
                             }
                         },
                         {
@@ -4917,8 +4917,8 @@ export const Vendors = {
                             subHeading: 'Experience | Hospitality | Memories',
                             btn: {
                                 extLink: '',
-                                routerLink: '/by-admin/511',
-                                label: 'BOOK SLOTS'
+                                routerLink: '/by-admin/510',
+                                label: 'BOOK ROOMS'
                             }    
                         }
                     ]
@@ -5373,6 +5373,18 @@ export const Vendors = {
             },
             leftSideMenu: [
                 {
+                    label: 'About Us',
+                    extLink: '',
+                    routerLink: '/stores/AboutUs_1',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Contact Us',
+                    extLink: '',
+                    routerLink: '/stores/ContactUs_1',
+                    icon: 'calendar-outline'
+                },
+                {
                     label: 'Booked List',
                     extLink: '',
                     routerLink: '/booked-slots',
@@ -5383,30 +5395,6 @@ export const Vendors = {
                     extLink: '',
                     routerLink: '/user-shops',
                     icon: 'list-outline'
-                },
-                {
-                    label: 'Plan Your Trip',
-                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
-                    routerLink: '',
-                    icon: 'paper-plane-outline'
-                },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Brand Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
                 }
             ],
             departments: [
@@ -6080,6 +6068,50 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'About Us',
+                    icon: 'palace/aboutus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'About Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/about.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Contact Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/contact.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 }
@@ -75437,18 +75469,33 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/slider1.jpg',
-                            heading: 'A trip that will fulfil your dream list’',
-                            subHeading: 'Art & Culture | Beaches | Serene Beauty'
+                            heading: 'A Trip That Will Fulfil Your Dream List’',
+                            subHeading: 'Art & Culture | Beaches | Serene Beauty',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/510',
+                                label: 'BOOK ROOMS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/palaceGarNewSlide.jpg',
-                            heading: 'Rejuvenate yourself',
-                            subHeading: 'At Palace Garden'
+                            heading: 'Celebrate Your Special Days',
+                            subHeading: 'At Palace Garden',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/511',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/countryInnSlliderNew.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
+                            heading: 'An Experience That You Will Cherish Forever',
+                            subHeading: 'Experience | Hospitality | Memories',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/510',
+                                label: 'BOOK ROOMS'
+                            }    
                         }
                     ]
                 },
@@ -75461,19 +75508,29 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/fMenu.jpg',
                             label: 'FOOD MENU & ORDERING',
                             extLink: '',
-                            routerLink: '/by-admin/514'
+                            routerLink: '/by-admin/514',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/514',
+                                label: 'BOOK SLOTS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/cEvents.jpg',
                             label: 'EVENTS BOOKING FOR COMPANIES',
                             extLink: '',
-                            routerLink: '/by-admin/515'
+                            routerLink: '/by-admin/515',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/515',
+                                label: 'BOOK SLOTS'
+                            }
                         }
                     ]
                 },
                 destinations: {
                     active: true,
-                    heading: 'Book Your Special Stay with Us',
+                    heading: 'Book Your Special Stay With Us',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream',
                     items: [
                         {
@@ -75482,7 +75539,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/SuperiorRoom',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/SuperiorRoom',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/roomOne.jpg',
@@ -75490,7 +75552,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/SuiteRoom',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/SuiteRoom',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/weekndPackage.jpg',
@@ -75498,7 +75565,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/Weekendpackage',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Weekendpackage',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
 
                         },
                         {
@@ -75507,16 +75579,26 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/Staycation_1',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Staycation_1',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
 
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/gPack.jpg',
-                            name: 'Group package',
+                            name: 'Group Package',
                             location: '',
                             views: '',
                             routerLink: '/stores/Grouppackage',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Grouppackage',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         }
                     ]
                 },
@@ -75531,7 +75613,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/MehendiSession',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/MehendiSession',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/bDayCake.jpg',
@@ -75539,7 +75626,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/BirthdayCelebration',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/BirthdayCelebration',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/PalaceWedding.jpg',
@@ -75547,7 +75639,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/WeddingCelebration',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/WeddingCelebration',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/reception.jpg',
@@ -75555,7 +75652,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/Reception_18',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Reception_18',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/preWeddng.jpg',
@@ -75563,7 +75665,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/PreWeddingPhotoshoot',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PreWeddingPhotoshoot',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/getTogether.jpg',
@@ -75571,7 +75678,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/FamilyGetTogether',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/FamilyGetTogether',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         }
                     ]
                 },
@@ -75585,35 +75697,60 @@ export const Vendors = {
                             name: 'Barbeque Grills',
                             desc: '',
                             routerLink: '/stores/BarbequeGrills',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/BarbequeGrills',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/yoga.jpg',
-                            name: 'Yoga and Meditation in nature',
+                            name: 'Yoga And Meditation In Nature',
                             desc: '',
                             routerLink: '/stores/YogaandMeditationinnature',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/YogaandMeditationinnature',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/dining.jpg',
-                            name: 'Dining under the stars',
+                            name: 'Dining Under The Stars',
                             desc: '',
                             routerLink: '/stores/Diningunderthestars',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Diningunderthestars',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/canndleLightDinner.jpg',
-                            name: 'Candle light dinner',
+                            name: 'Candle Light Dinner',
                             desc: '',
                             routerLink: '/stores/Candlelightdinner_5',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Candlelightdinner_5',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/breafast.jpg',
                             name: 'Farm Breakfast',
                             desc: '',
                             routerLink: '/stores/FarmBreakfast',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/FarmBreakfast',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         }
                     ]
                 },
@@ -75624,31 +75761,51 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/St-Marie_island-slider.jpg',
-                            name: 'St.Mary Island Tour with Picnic Basket',
+                            name: 'St.Mary Island Tour With Picnic Basket',
                             desc: '',
                             routerLink: '/stores/StMaryIslandTourwithPicnicBasket',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/StMaryIslandTourwithPicnicBasket',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/spiritualTour.jpg',
                             name: 'Spiritual Tour',
                             desc: '',
                             extLink: '',
-                            routerLink: '/stores/SpiritualTour_1'
+                            routerLink: '/stores/SpiritualTour_1',
+                            btn: {
+                                routerLink: '/stores/SpiritualTour_1',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/lighthouse.jpeg',
-                            name: 'Photo shoot at Kaup light house',
+                            name: 'Photoshoot At Kaup Light House',
                             desc: '',
                             routerLink: '/stores/PhotoshootatKauplighthouse',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PhotoshootatKauplighthouse',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/houseboat.jpg',
                             name: 'Houseboat Stay',
                             desc: '',
                             routerLink: '/stores/HouseboatStay',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/HouseboatStay',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         }
                     ]
                 },
@@ -75792,6 +75949,18 @@ export const Vendors = {
             },
             leftSideMenu: [
                 {
+                    label: 'About Us',
+                    extLink: '',
+                    routerLink: '/stores/AboutUs_1',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Contact Us',
+                    extLink: '',
+                    routerLink: '/stores/ContactUs_1',
+                    icon: 'calendar-outline'
+                },
+                {
                     label: 'Booked List',
                     extLink: '',
                     routerLink: '/booked-slots',
@@ -75802,357 +75971,11 @@ export const Vendors = {
                     extLink: '',
                     routerLink: '/user-shops',
                     icon: 'list-outline'
-                },
-                {
-                    label: 'Plan Your Trip',
-                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
-                    routerLink: '',
-                    icon: 'paper-plane-outline'
-                },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Brand Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
                 }
             ],
             departments: [
                 {
-                    name: 'Front Desk',
-                    icon: 'benaulimIcon/reception.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Reception',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/reception.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to know if there is a cloak room',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Web Checkin',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/checkin.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkIn',
-                            headerText: 'Select a date & time you would like to checkIn.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            checkinForm: true
-                        },
-                        {
-                            name: 'Web Checkout',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/reception.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkout',
-                            headerText: 'Select a date & time you would like to checkOut',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Housekeeping',
-                    icon: 'benaulimIcon/housekeeper.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Extra Crockery & Cutlery',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Additional Bedding',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/bed.png',
-                            showTextarea: true,
-                            placeholder: 'Example: Please send me an extra pillow',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Laundry Service',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/washing-machine.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please arrange laundry pickup for me',
-                            headerText: 'Select a time when our person can knock your door',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Room Cleaning',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/cleaning.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please sanitize my room and replace bedding',
-                            headerText: 'Select an ideal time for us to work in your room',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Wellness and Fitness',
-                    icon: 'benaulimIcon/fitness.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Spa',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/spa.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Gym',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/gym.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to use the treadmill',
-                            headerText: 'When would you like to hit the Gym?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        },
-                        {
-                            name: 'Swimming Pool',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/swimming.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
-                            headerText: 'When would you like to get into the pool?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        }
-                    ]
-                },
-                {
-                    name: 'Recreation & Sports',
-                    icon: 'benaulimIcon/tenniss.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Tennis',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/tenniss.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the racket in the court',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        },
-                        {
-                            name: 'Pool Table',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/ping-pong.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Travel and Activities',
-                    icon: 'benaulimIcon/bus.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the cab'
-                        },
-                        {
-                            name: 'Local Taxi',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a Cab'
-                        }
-                    ]
-                },
-                {
-                    name: 'Repairs',
-                    icon: 'benaulimIcon/repair.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'TV',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/tv.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: None of the Kannada channels are not working',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'AC',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/ac.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need help in adjusting room temprature',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Coffee Maker',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/coffee.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Need help in operating the coffee maker',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Hair Dryer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/dryer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Please replace the hair dryer',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Electrical',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/bulb.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Others',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/others.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Book Your Special Stay with Us',
+                    name: 'Book Your Special Stay With Us',
                     icon: 'palace/travel-luggage.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -76166,9 +75989,12 @@ export const Vendors = {
                             icon: 'palace/room.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
+                            placeholder: 'Ex: Can you send cleaning staff here please.',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76179,35 +76005,44 @@ export const Vendors = {
                             icon: 'palace/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
+                            placeholder: 'Ex:Can you send cleaning staff here please.',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Group package',
+                            name: 'Group Package',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/boxes.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            placeholder: 'Ex: How much disount ca I get?',
+                            headerText: 'Please book a slot to avail this offer',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pckge3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Weekend package',
+                            name: 'Weekend Package',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/gift.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            placeholder: 'Ex:  How much disount ca I get?',
+                            headerText: 'Please book a slot to avail this offer',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pckge3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76218,9 +76053,12 @@ export const Vendors = {
                             icon: 'palace/stay-at-home.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            placeholder: 'Ex: Can I get the package details',
+                            headerText: 'Please contact frontdesk for the information',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/stay1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/stay3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/stya2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -76241,9 +76079,12 @@ export const Vendors = {
                             icon: 'palace/henna.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Can I get package details',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            placeholder: 'Can I get the sample designs',
+                            headerText: 'Please contact frontdesk for details',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/mehendi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/mehendii2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/mehendu1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76254,9 +76095,12 @@ export const Vendors = {
                             icon: 'palace/birthday-cake.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Can I get package details',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            placeholder: 'Can we arrange a surprise party..!',
+                            headerText: 'Please book a slot to experience it',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birhday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birhday2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birhday3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76267,9 +76111,12 @@ export const Vendors = {
                             icon: 'palace/family.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Can I get package details',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            placeholder: 'May I know the arrangements',
+                            headerText: 'Please book a slot to experience this',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/fam1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/fam2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/fam3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76280,9 +76127,12 @@ export const Vendors = {
                             icon: 'palace/couple.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Can I get package details',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            placeholder: 'Can you please brief us the arrangements',
+                            headerText: 'Please book a slot to experience this',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/wdding1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/weding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/weding3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76294,8 +76144,10 @@ export const Vendors = {
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Can I get package details',
-                            headerText: 'When can we send our staff to attend the issue?',
+                            headerText: 'Please book a slot to experience this',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/receprtoin1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/recptrion.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76309,6 +76161,9 @@ export const Vendors = {
                             placeholder: 'Can I get package details',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/wdding1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/weding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/weding3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -76332,6 +76187,9 @@ export const Vendors = {
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to receive it?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76345,11 +76203,14 @@ export const Vendors = {
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to receive it?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Yoga and Meditation in nature',
+                            name: 'Yoga and Meditation In Nature',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/yoga.png',
@@ -76358,11 +76219,16 @@ export const Vendors = {
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to receive it?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Dining under the stars',
+                            name: 'Dining Under The Stars',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/dining.png',
@@ -76371,11 +76237,14 @@ export const Vendors = {
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to receive it?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Candle light dinner',
+                            name: 'Candle Light Dinner',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/candle-light.png',
@@ -76384,6 +76253,9 @@ export const Vendors = {
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to receive it?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -76398,7 +76270,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'St.Mary Island Tour with Picnic Basket',
+                            name: 'St.Mary Island Tour With Picnic Basket',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/sun-umbrella.png',
@@ -76407,6 +76279,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76417,14 +76292,18 @@ export const Vendors = {
                             icon: 'palace/spiritual.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this party.',
+                            placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/spiritual1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/spiritual2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/spiritual3.jpg' }
+
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Photo shoot at Kaup light house',
+                            name: 'Photoshoot At Kaup Light House',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/lighthouse.png',
@@ -76433,6 +76312,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76446,6 +76328,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this ride.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/houseboat1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/houseboat2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/houseboat3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -76466,7 +76351,7 @@ export const Vendors = {
                             icon: 'palace/tray.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this workshop.',
+                            placeholder: 'Example: Can I get my breakfast in my room',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
@@ -76485,7 +76370,7 @@ export const Vendors = {
                             icon: 'palace/menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this workshop.',
+                            placeholder: 'Example: I want to book a slot for the lunch.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
@@ -76504,7 +76389,7 @@ export const Vendors = {
                             icon: 'palace/nost.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this session.',
+                            placeholder: 'Example: May I know what is there for snacks.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
@@ -76523,7 +76408,7 @@ export const Vendors = {
                             icon: 'palace/menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this workshop.',
+                            placeholder: 'Example: I want to book a slot for the dinner.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
@@ -76555,6 +76440,12 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -76568,11 +76459,17 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Cocktail dinners',
+                            name: 'Cocktail Dinners',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/cDinner.png',
@@ -76581,6 +76478,12 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -76595,6 +76498,12 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -76609,6 +76518,12 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -76623,12 +76538,18 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'High Powered presentations',
+                            name: 'High Powered Presentations',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/presentations.png',
@@ -76637,12 +76558,17 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Product launches',
+                            name: 'Product Launches',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/launch.png',
@@ -76651,12 +76577,18 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Poster displays',
+                            name: 'Poster Displays',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/poster.png',
@@ -76665,12 +76597,18 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Training programs',
+                            name: 'Training Programs',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/analysis.png',
@@ -76679,12 +76617,17 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Induction series',
+                            name: 'Induction Series',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/eating.png',
@@ -76693,9 +76636,58 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'About Us',
+                    icon: 'palace/aboutus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'About Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/about.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Contact Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/contact.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 }
