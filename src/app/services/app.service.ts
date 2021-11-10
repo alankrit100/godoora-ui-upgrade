@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { environment } from 'src/environments/environment';
-import { Observable, Subject, BehaviorSubject } from 'rxjs';
+import { Observable, Subject, BehaviorSubject, forkJoin } from 'rxjs';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { createRequestOption } from './util/request-util';
 
@@ -92,6 +92,15 @@ export class AppService {
     getStoreDetail(req?: any): Observable<any>  {
         const params = createRequestOption(req);
         return this.http.get(this.storeResourceUrl, { params, observe: 'response' });
+    }
+
+    public requestDataFromMultipleSources(reqArr: any): Observable<any[]> {
+        const data = [];
+        reqArr.forEach((req) => {
+            const params = createRequestOption(req);
+            data.push(this.http.get(this.storeResourceUrl, { params, observe: 'body' }));
+        });
+        return forkJoin(data);
     }
 
     getAdmins(): Observable<any>  {

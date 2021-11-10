@@ -87,6 +87,7 @@
       }
       .slots {
         text-align: center;
+        padding: 4pt;
       }
       .slot {
         --background: translucent;
@@ -135,5 +136,44 @@
         object-fit: fill !important;
       }
     } 
+  }
+}
+
+.booking-engine {
+  .book-appointment-slots-container {
+    .slots-selection-container {
+      .available-slots-container {
+        .slot {
+          margin: 8pt 0pt;
+          width: calc(100% - 4pt);
+          &.green {
+            // --background: #28a745;
+            // color: white !important;
+            --border-color: #28a745 !important;
+          }
+          &.red {
+            // --background: #dd2738;
+            // color: white !important;
+            --border-color: #dd2738 !important;
+          }
+          &.green.active {
+            --background-activated: transparent;
+            --background: #28a745;
+            --background-focused: #28a745;
+            --background-hover: #28a745;
+            --border-color: #ffffff !important;
+            color: white !important;
+          }
+          &.red.active {
+            --background-activated: transparent;
+            --background: #dd2738;
+            --background-focused: #dd2738;
+            --background-hover: #dd2738;
+            --border-color: #ffffff !important;
+            color: white !important;
+          }
+        }
+      }
+    }
   }
 }

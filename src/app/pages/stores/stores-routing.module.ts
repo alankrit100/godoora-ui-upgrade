@@ -20,12 +20,41 @@ export class StoreDetailResolver implements Resolve<any> {
   }
 }
 
+
+@Injectable({
+  providedIn: 'root'
+})
+export class MultiDateStoreDetailResolver implements Resolve<any> {
+
+  smallScreen = false;
+
+  constructor(private appService: AppService) {
+    this.smallScreen = this.appService.checkSmallScreen();
+  }
+  resolve(route: ActivatedRouteSnapshot) {
+    const numberOfdays = this.smallScreen ? 3 : 7;
+    const queryArr = [];
+    const today = new Date();
+    for (let i = 0; i < numberOfdays; i++) {
+      let first = today.getDate() - today.getDay() + i;
+      let day = new Date(today.setDate(first));
+      const query = {
+        loginId: route.paramMap.get('id'),
+        date: moment(day).format('DD-MM-YYYY')
+      };
+      queryArr.push(query);
+    }
+    return this.appService.requestDataFromMultipleSources(queryArr);
+  }
+}
+
 const routes: Routes = [
   {
     path: '',
     component: StoresPage,
     resolve: {
-      storeDetail: StoreDetailResolver
+      storeDetail: StoreDetailResolver,
+      multiDateStoreDetail: MultiDateStoreDetailResolver
     }
   }
 ];

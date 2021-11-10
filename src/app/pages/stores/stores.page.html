@@ -1,6 +1,6 @@
 <ion-content #scrollMe>
   <div class="container" style="margin-bottom: 200px !important;">
-    <div class="Slot-detail m-3" *ngIf="storeDetail && serviceDetail">
+    <div class="Slot-detail" [ngClass]="{'m-3': !smallScreen}" *ngIf="storeDetail && serviceDetail">
       <carousel *ngIf="serviceDetail.gallery && serviceDetail.gallery.length" #banner [cellsToShow]="smallScreen ? 1 : ((serviceDetail.gallery.length > 5) ? 5 : serviceDetail.gallery.length)" [loop]="false" [arrows]="true" class="branch-carousel" [ngClass]="{'carousel-200': smallScreen}">
         <div class="carousel-cell" *ngFor="let item of serviceDetail.gallery; let i=index" (click)="openCarouselInModal(i, serviceDetail.gallery)">
           <img [src]="item.path" style="object-fit: cover;" >
@@ -76,7 +76,7 @@
                 </div>
               </div>
             </div>
-            <div class="_1gw6tte">
+            <div class="_1gw6tte" *ngIf="storeDetail?.description">
               <div style="--gp-section-max-width:1128px;">
                 <div class="_npr0qi" style="border-top-color: rgb(221, 221, 221);"></div>
                 <div data-plugin-in-point-id="DESCRIPTION_DEFAULT" data-section-id="DESCRIPTION_DEFAULT"
@@ -93,13 +93,15 @@
                   </div>
                   <span>
                     <div class="_cfvh61">
-                      <div class="_1xib9m0"><span>{{ storeDetail.description ? storeDetail.description : '-' }} </span></div>
+                      <div class="_1xib9m0">
+                          <span [innerHtml]="storeDetail?.description"></span>
+                      </div>
                     </div>
                   </span>
                 </div>
               </div>
             </div>
-            <section class="book-appointment-row" *ngIf="(serviceDetail && !serviceDetail.storePageAsBlog)">
+            <section class="book-appointment-row" *ngIf="(serviceDetail && !serviceDetail.storePageAsBlog && !serviceDetail.bookingEngine)">
               <div class="book-appointment-slots-container" *ngIf="storeDetail && storeDetail.listOfSlots">
                 <div class="d-flex align-items-center justify-content-center flex-column" style="margin-top: 24px"
                   *ngIf="serviceDetail.checkinForm">
@@ -164,6 +166,84 @@
                 </div>
                 <div class="slots-button-container container">
                   <ion-button size="default" class="slot-confirmation-btn" tappable (click)="bookSlot()">
+                    <span class="mr-1">{{ serviceDetail?.confirmBtnLabel ? serviceDetail?.confirmBtnLabel : 'Confirm My Slot'}}</span>
+                    <!-- <ion-icon name="arrow-forward-circle-sharp"></ion-icon> -->
+                  </ion-button>
+                </div>
+              </div>
+            </section>
+            <section class="book-appointment-row booking-engine" *ngIf="(serviceDetail && serviceDetail.bookingEngine)">
+              <div class="book-appointment-slots-container" *ngIf="storeDetail && storeDetail.listOfSlots">
+                <div class="d-flex align-items-center justify-content-center flex-column" style="margin-top: 24px"
+                  *ngIf="serviceDetail.checkinForm">
+                  <web-checkin-form [invalidFlags]="invalidFlags" [submit]="submit" [webCheckin]="webCheckin">
+                  </web-checkin-form>
+                </div>
+                <div class="w-100 h-100" [ngClass]="{'d-flex justify-content-center align-items-center' : !smallScreen}" style="margin-top: 24px" *ngIf="serviceDetail.menuImgs && serviceDetail.menuImgs.length">
+                  <div class="text-center">
+                    <ion-button *ngIf="!showMenu" (click)="toggleMenu()">Menu</ion-button>
+                  </div>
+                  <div class="menu-slider position-relative" [ngStyle]="smallScreen && {'width': '100% !important'}" *ngIf="showMenu">
+                    <span style="position: absolute;right: 0px;">
+                      <ion-icon name="close" (click)="toggleMenu()"></ion-icon>
+                    </span>
+                    <div class="w-100 h-100 position-relative" style="z-index: 1;">
+                      <carousel  
+                        style="height: 400px !important;"
+                        class="branch-carousel" 
+                        *ngIf="serviceDetail.menuImgs && serviceDetail.menuImgs.length" #menuslider 
+                        [cellsToShow]="1" 
+                        [arrows]="true" >
+                        <div class="carousel-cell" *ngFor="let item of serviceDetail.menuImgs; let i=index" (click)="openCarouselInModal(i, serviceDetail.menuImgs)">
+                          <img [src]="item.path" style="object-fit: cover;" >
+                        </div>
+                      </carousel>
+                    </div>
+                  </div>
+                </div>
+                <ion-item lines="none">
+                  <ion-label class="ion-text-wrap mb-0 book-appointment-slots-title">{{ serviceDetail?.headerText ?
+                    serviceDetail?.headerText : 'Book a slot'}}</ion-label>
+                </ion-item>
+                <div class="slots-selection-container">
+                  <ion-item class="text-center">
+                    <!-- <ion-label>Check In</ion-label> -->
+                    <ion-datetime class="w-100" name="checkinDate" placeholder="Select Check-in Date" (ngModelChange)="onDateChange($event)" [value]="selectedDate" displayFormat="DD/MM/YYYY" [(ngModel)]="selectedDate"></ion-datetime>
+                  </ion-item>
+                  <div class="date-selection">
+                    <ion-button (click)="selectPrevWeek()" fill="clear" size="small" [disabled]="isTodayCheck()">
+                      <ion-icon slot="icon-only" name="chevron-back-sharp"></ion-icon>
+                    </ion-button>
+                    <ion-label class="slots-showing-day" *ngFor="let storeDetail of multiDateStoreDetail">
+                      <div class="Day-heading text-center" (click)="changeSelectedDate(storeDetail.date)" [ngClass]="getActiveDayClass(storeDetail.date)" >{{ storeDetail.date }}</div>
+                      <div class="available-slots-container" *ngIf="storeDetail.listOfSlots && storeDetail.listOfSlots.length > 0">
+                        <div class="slots">
+                          <ng-container *ngFor="let slot of storeDetail.listOfSlots; let i=index">
+                            <ion-button class="slot green" size="small" fill="outline" [disabled]="slot.isOccupied || slot.emptySlots <=0"
+                              [ngClass]="{'active': isSlotActive(slot, storeDetail.date), 'red' : (slot.isOccupied || slot.emptySlots <=0) }"
+                              (click)="onSlotSelection(slot, storeDetail.date)">{{ (slot.isOccupied || slot.emptySlots <=0) ? 'NA' : 'AVL' }}</ion-button>
+                          </ng-container>
+                        </div>
+                      </div>
+                    </ion-label>
+                    <!-- <ion-label class="slots-showing-day">{{ selectedDate | date:'fullDate'}}</ion-label> -->
+                    <ion-button (click)="selectNextWeek()" fill="clear" size="small">
+                      <ion-icon slot="icon-only" name="chevron-forward-sharp"></ion-icon>
+                    </ion-button>
+                  </div>
+                </div>
+                <div *ngIf="(!storeDetail.listOfSlots || (storeDetail.listOfSlots && storeDetail.listOfSlots.length === 0))">
+                  <ion-label class="ion-text-wrap error-message text-center mt-3"> No slots avaiable for this date</ion-label>
+                </div>
+                <div style="margin-top: 24px">
+                  <ion-label class="book-appointment-slots-title" >{{ serviceDetail.textAreaLabel ? serviceDetail.textAreaLabel : 'Request Summary' }}</ion-label>
+                </div>
+                <div *ngIf="serviceDetail?.showTextarea"
+                  style="border: 1px solid #00000047; margin-top: 8px;margin-bottom: 24px;border-radius: 12px;">
+                  <ion-textarea [placeholder]="serviceDetail?.placeholder" [(ngModel)]="comments"></ion-textarea>
+                </div>
+                <div class="slots-button-container container">
+                  <ion-button size="default" class="slot-confirmation-btn" tappable (click)="bulkBooking()">
                     <span class="mr-1">{{ serviceDetail?.confirmBtnLabel ? serviceDetail?.confirmBtnLabel : 'Confirm My Slot'}}</span>
                     <!-- <ion-icon name="arrow-forward-circle-sharp"></ion-icon> -->
                   </ion-button>

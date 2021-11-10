@@ -54,6 +54,10 @@ export class StoresPage implements OnInit {
     this.smallScreen = this.appService.checkSmallScreen();
   }
 
+  week = [];
+  selectedSlots = [];
+  multiDateStoreDetail = [];
+
   constructor(
     private modalCtrl: ModalController,
     private activatedRoute: ActivatedRoute,
@@ -63,19 +67,61 @@ export class StoresPage implements OnInit {
     private utilAlertService: UtilAlertService,
     private loadingController: LoadingController
   ) {
+    this.smallScreen = this.appService.checkSmallScreen();
     this.webCheckin = new WebCheckInModel();
     this.getUserDetail();
     this.getVendorDeatil();
+    this.getFullWeek(new Date());
   }
 
   ngOnInit() {
-    this.smallScreen = this.appService.checkSmallScreen();
+  }
+
+  onDateChange(date: any) {
+    this.selectedDate = new Date(date);
+    this.getFullWeek(this.selectedDate);
   }
 
   scrollToBottomOnInit() {
     if(this.content) {
       this.content.scrollToBottom(300);
     }
+  }
+
+  getFullWeek (_day: Date) {
+    this.week = [];
+    const numberOfdays = this.smallScreen ? 3 : 7;
+    for (let i = 0; i < numberOfdays; i++) {
+      let first = _day.getDate() - _day.getDay() + i;
+      let day = new Date(_day.setDate(first));
+      this.week.push(day);
+    }
+  }
+
+  async getWeekStoreDetail(_day: Date) {
+    const numberOfdays = this.smallScreen ? 3 : 7;
+    const queryArr = [];
+    for (let i = 0; i < numberOfdays; i++) {
+      let first = _day.getDate() - _day.getDay() + i;
+      let day = new Date(_day.setDate(first));
+      const query = {
+        loginId: this.storeDetail.loginId,
+        date: moment(day).format('DD-MM-YYYY')
+      };
+      queryArr.push(query);
+    }
+    const loading = await this.loadingController.create({
+      message: 'Loading...'
+    });
+    await loading.present();
+    this.appService.requestDataFromMultipleSources(queryArr).subscribe((res) => {
+      if(res && res.length) {
+        this.multiDateStoreDetail = res;
+      }
+      loading.dismiss();
+    }, () => {
+      loading.dismiss();
+    })
   }
 
   ionViewWillEnter() {
@@ -92,12 +138,18 @@ export class StoresPage implements OnInit {
       }
     });
     this.activatedRoute.data.subscribe((data) => {
-      if (data && data.storeDetail) {
-        this.storeDetail = data.storeDetail.body;
-        if (this.vendorDeatil.conceirge) {
-          this.getServiceDetail();
+      if(data) {
+        if (data.storeDetail) {
+          this.storeDetail = data.storeDetail.body;
+          if (this.vendorDeatil.conceirge) {
+            this.getServiceDetail();
+          }
+        }
+        if(data.multiDateStoreDetail) {
+          this.multiDateStoreDetail = data.multiDateStoreDetail;
         }
       }
+
     });
   }
 
@@ -129,6 +181,32 @@ export class StoresPage implements OnInit {
     });
   }
 
+  selectNextWeek() {
+    this.selectedSlot = undefined;
+    this.selectedDate = new Date(JSON.parse(JSON.stringify(this.week[0])));
+    this.selectedDate.setDate(this.selectedDate.getDate() + 7);
+    // this.week = [];
+    // this.getFullWeek(this.selectedDate);
+    // setTimeout(() => {
+    //   this.selectedDate = this.week[0];
+    //   this.changeSelectedDate(this.selectedDate);
+    // }, 10)
+    this.getWeekStoreDetail(this.selectedDate);
+  }
+
+  selectPrevWeek() {
+    this.selectedSlot = undefined;
+    this.selectedDate = new Date(JSON.parse(JSON.stringify(this.week[0])));
+    this.selectedDate.setDate(this.selectedDate.getDate() - 7);
+    this.getWeekStoreDetail(this.selectedDate);
+    // this.week = [];
+    // this.getFullWeek(this.selectedDate);
+    // setTimeout(() => {
+    //   this.selectedDate = this.week[0];
+    //   this.changeSelectedDate(this.selectedDate);
+    // }, 10)
+  }
+
   toggleMenu() {
     this.showMenu = !this.showMenu;
   }
@@ -152,9 +230,22 @@ export class StoresPage implements OnInit {
     }
   }
 
-  onSlotSelection(slot) {
-    if (slot) {
+  onSlotSelection(slot, day=new Date()) {
+    day = new Date(day);
+    if (slot && day) {
+      const index = this.selectedSlots.findIndex((item) => {
+        return item.slot === slot && day === item.day;
+      })
+      if(index === -1) {
+        this.selectedSlots.push({
+          slot,
+          day
+        })
+      } else {
+        this.selectedSlots.splice(index, 1); 
+      }
       this.selectedSlot = slot;
+      this.selectedDate = day;
     }
   }
 
@@ -181,9 +272,9 @@ export class StoresPage implements OnInit {
     });
     await loading.present();
     if (user) {
-      if (this.storeDetail && this.selectedSlot) {
+      if (this.storeDetail && this.selectedSlot && this.selectedDate) {
         const slotDeatil: any = {
-          bookingDate: this.storeDetail.date,
+          bookingDate:  moment(this.selectedDate).format('DD-MM-YYYY'),
           registerId: this.storeDetail.registerId,
           slotTime: this.selectedSlot.slotTime,
           userId: user.userId,
@@ -219,6 +310,53 @@ export class StoresPage implements OnInit {
           }
         }, () => {
           loading.dismiss();
+        });
+      }
+    } else {
+      this.openLoginModal(true);
+    }
+  }
+
+  async bulkBooking() {
+    if(this.user) {
+      if(this.selectedSlots && this.selectedSlots.length && this.storeDetail) {
+        this.selectedSlots.forEach(element => {
+          setTimeout(async () => {
+            this.selectedSlot = element.slot;
+            this.selectedDate = element.day;
+            const slotDeatil: any = {
+              bookingDate:  moment(this.selectedDate).format('DD-MM-YYYY'),
+              registerId: this.storeDetail.registerId,
+              slotTime: this.selectedSlot.slotTime,
+              userId: this.user.userId,
+              categoryId: this.vendorDeatil.idCategory
+            };
+            const loading = await this.loadingController.create({
+              message: 'Loading...'
+            });
+            await loading.present();
+            this.appService.bookSlot(slotDeatil).subscribe((res) => {
+              this.selectedSlot = undefined;
+              loading.dismiss();
+              if (res && res.body) {
+                if (!res.body.error) {
+                  // this.successModal('Thankyou! Your request has been received. One of our team will get in touch with you shortly.');
+                  setTimeout(() => {
+                    this.dismiss();
+                    if (this.adminCreated) {
+                      this.navController.navigateRoot('/booked-customers');
+                    } else {
+                      this.navController.navigateRoot('/booked-slots');
+                    }
+                  }, 2000);
+                } else {
+                  this.utilAlertService.showAlert(res.body.error);
+                }
+              }
+            }, () => {
+              loading.dismiss();
+            });
+          }, 100)
         });
       }
     } else {
@@ -331,6 +469,37 @@ export class StoresPage implements OnInit {
     } else {
       this.openLoginModal(true);
     }
+  }
+
+  getActiveDayClass(day: Date) {
+    return (this.selectedDate && moment(day).format('DD-MM-YYYY') === moment(this.selectedDate).format('DD-MM-YYYY')) ? 'active' : '';
+  }
+
+  async changeSelectedDate(day:Date) {
+    this.selectedDate = day;
+    const query = {
+      loginId: this.storeDetail.loginId,
+      date: moment(this.selectedDate).format('DD-MM-YYYY')
+    };
+    const loading = await this.loadingController.create({
+      message: 'Loading...'
+    });
+    await loading.present();
+    this.storeDetail.listOfSlots = [];
+    this.appService.getStoreDetail(query).subscribe((res) => {
+      loading.dismiss();
+      this.storeDetail = res.body;
+    }, ()=> {
+      loading.dismiss();
+    });
+  }
+
+  isSlotActive(slot, day) {
+    const foundItem = this.selectedSlots.find((item) => {
+      day = new Date(day);
+      return item.slot.slotTime === slot.slotTime && item.day.getTime() === day.getTime();
+    })
+    return foundItem ? true : false;
   }
 
 }
