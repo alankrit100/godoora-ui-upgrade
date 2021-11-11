@@ -36,11 +36,10 @@ export class MultiDateStoreDetailResolver implements Resolve<any> {
     const queryArr = [];
     const today = new Date();
     for (let i = 0; i < numberOfdays; i++) {
-      let first = today.getDate() - today.getDay() + i;
-      let day = new Date(today.setDate(first));
+      const newDate = moment(today).add(i, 'days');
       const query = {
         loginId: route.paramMap.get('id'),
-        date: moment(day).format('DD-MM-YYYY')
+        date: newDate.format('DD-MM-YYYY')
       };
       queryArr.push(query);
     }

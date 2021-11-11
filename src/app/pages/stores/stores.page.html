@@ -208,7 +208,7 @@
                 <div class="slots-selection-container">
                   <ion-item class="text-center">
                     <!-- <ion-label>Check In</ion-label> -->
-                    <ion-datetime class="w-100" name="checkinDate" placeholder="Select Check-in Date" (ngModelChange)="onDateChange($event)" [value]="selectedDate" displayFormat="DD/MM/YYYY" [(ngModel)]="selectedDate"></ion-datetime>
+                    <ion-datetime class="w-100" name="checkinDate" placeholder="Please select Date" (ngModelChange)="onDateChange($event)" [value]="selectedDate" displayFormat="DD/MM/YYYY" [(ngModel)]="selectedDate"></ion-datetime>
                   </ion-item>
                   <div class="date-selection">
                     <ion-button (click)="selectPrevWeek()" fill="clear" size="small" [disabled]="isTodayCheck()">
@@ -221,7 +221,7 @@
                           <ng-container *ngFor="let slot of storeDetail.listOfSlots; let i=index">
                             <ion-button class="slot green" size="small" fill="outline" [disabled]="slot.isOccupied || slot.emptySlots <=0"
                               [ngClass]="{'active': isSlotActive(slot, storeDetail.date), 'red' : (slot.isOccupied || slot.emptySlots <=0) }"
-                              (click)="onSlotSelection(slot, storeDetail.date)">{{ (slot.isOccupied || slot.emptySlots <=0) ? 'NA' : 'AVL' }}</ion-button>
+                              (click)="onSlotBulkSelection(slot, storeDetail.date)">{{ (slot.isOccupied || slot.emptySlots <=0) ? 'NA' : 'AVL' }}</ion-button>
                           </ng-container>
                         </div>
                       </div>

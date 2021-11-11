@@ -79,7 +79,7 @@ export class StoresPage implements OnInit {
 
   onDateChange(date: any) {
     this.selectedDate = new Date(date);
-    this.getFullWeek(this.selectedDate);
+    this.getWeekStoreDetail(this.selectedDate);
   }
 
   scrollToBottomOnInit() {
@@ -102,11 +102,10 @@ export class StoresPage implements OnInit {
     const numberOfdays = this.smallScreen ? 3 : 7;
     const queryArr = [];
     for (let i = 0; i < numberOfdays; i++) {
-      let first = _day.getDate() - _day.getDay() + i;
-      let day = new Date(_day.setDate(first));
+      const newDate = moment(_day).add(i, 'days');
       const query = {
         loginId: this.storeDetail.loginId,
-        date: moment(day).format('DD-MM-YYYY')
+        date: newDate.format('DD-MM-YYYY')
       };
       queryArr.push(query);
     }
@@ -158,6 +157,7 @@ export class StoresPage implements OnInit {
   }
 
   selectPreviousDate() {
+    this.selectedSlot = undefined;
     this.storeDetail.listOfSlots = [];
     this.selectedDate = moment(this.selectedDate).subtract(1, 'days');
     const query = {
@@ -170,6 +170,7 @@ export class StoresPage implements OnInit {
   }
 
   selectNextDate() {
+    this.selectedSlot = undefined;
     this.storeDetail.listOfSlots = [];
     this.selectedDate = moment(this.selectedDate).add(1, 'days');
     const query = {
@@ -182,29 +183,17 @@ export class StoresPage implements OnInit {
   }
 
   selectNextWeek() {
-    this.selectedSlot = undefined;
-    this.selectedDate = new Date(JSON.parse(JSON.stringify(this.week[0])));
-    this.selectedDate.setDate(this.selectedDate.getDate() + 7);
-    // this.week = [];
-    // this.getFullWeek(this.selectedDate);
-    // setTimeout(() => {
-    //   this.selectedDate = this.week[0];
-    //   this.changeSelectedDate(this.selectedDate);
-    // }, 10)
+    this.selectedSlots = [];
+    this.selectedDate = this.dateStringToDateObj(this.multiDateStoreDetail[0].date);
+    this.selectedDate.setDate(this.selectedDate.getDate() + (this.smallScreen ? 3 : 7));
     this.getWeekStoreDetail(this.selectedDate);
   }
 
   selectPrevWeek() {
-    this.selectedSlot = undefined;
-    this.selectedDate = new Date(JSON.parse(JSON.stringify(this.week[0])));
-    this.selectedDate.setDate(this.selectedDate.getDate() - 7);
+    this.selectedSlots = [];
+    this.selectedDate = this.dateStringToDateObj(this.multiDateStoreDetail[0].date);
+    this.selectedDate.setDate(this.selectedDate.getDate() -  (this.smallScreen ? 3 : 7) );
     this.getWeekStoreDetail(this.selectedDate);
-    // this.week = [];
-    // this.getFullWeek(this.selectedDate);
-    // setTimeout(() => {
-    //   this.selectedDate = this.week[0];
-    //   this.changeSelectedDate(this.selectedDate);
-    // }, 10)
   }
 
   toggleMenu() {
@@ -230,11 +219,17 @@ export class StoresPage implements OnInit {
     }
   }
 
-  onSlotSelection(slot, day=new Date()) {
-    day = new Date(day);
+  onSlotSelection(slot) {
+    if (slot) {
+      this.selectedSlot = slot;
+    }
+  }
+
+  onSlotBulkSelection(slot, day=new Date()) {
+    day = this.dateStringToDateObj(day);
     if (slot && day) {
       const index = this.selectedSlots.findIndex((item) => {
-        return item.slot === slot && day === item.day;
+        return item.slot.slotTime === slot.slotTime && day.getTime() === item.day.getTime();
       })
       if(index === -1) {
         this.selectedSlots.push({
@@ -244,8 +239,6 @@ export class StoresPage implements OnInit {
       } else {
         this.selectedSlots.splice(index, 1); 
       }
-      this.selectedSlot = slot;
-      this.selectedDate = day;
     }
   }
 
@@ -322,12 +315,10 @@ export class StoresPage implements OnInit {
       if(this.selectedSlots && this.selectedSlots.length && this.storeDetail) {
         this.selectedSlots.forEach(element => {
           setTimeout(async () => {
-            this.selectedSlot = element.slot;
-            this.selectedDate = element.day;
             const slotDeatil: any = {
-              bookingDate:  moment(this.selectedDate).format('DD-MM-YYYY'),
+              bookingDate:  moment(element.day).format('DD-MM-YYYY'),
               registerId: this.storeDetail.registerId,
-              slotTime: this.selectedSlot.slotTime,
+              slotTime: element.slot.slotTime,
               userId: this.user.userId,
               categoryId: this.vendorDeatil.idCategory
             };
@@ -336,7 +327,6 @@ export class StoresPage implements OnInit {
             });
             await loading.present();
             this.appService.bookSlot(slotDeatil).subscribe((res) => {
-              this.selectedSlot = undefined;
               loading.dismiss();
               if (res && res.body) {
                 if (!res.body.error) {
@@ -496,10 +486,19 @@ export class StoresPage implements OnInit {
 
   isSlotActive(slot, day) {
     const foundItem = this.selectedSlots.find((item) => {
-      day = new Date(day);
+      day = this.dateStringToDateObj(day);
       return item.slot.slotTime === slot.slotTime && item.day.getTime() === day.getTime();
     })
     return foundItem ? true : false;
+  }
+
+  dateStringToDateObj(day: any, saperator='-') {
+    if(day && typeof(day) === 'string' && day.includes('-')) {
+      const dayArray: any = day.split(saperator);
+      return new Date(dayArray[2], (dayArray[1] - 1), dayArray[0])
+    } else {
+      return day;
+    }
   }
 
 }

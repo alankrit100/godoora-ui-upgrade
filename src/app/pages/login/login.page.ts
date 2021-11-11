@@ -33,7 +33,7 @@ export class LoginPage implements OnInit {
   vendorDeatil: VendorDeatil;
   resendOTPButton: boolean;
   departments = [];
-  is_guest = true;
+  is_guest = false;
   room_no: string;
 
   constructor(
