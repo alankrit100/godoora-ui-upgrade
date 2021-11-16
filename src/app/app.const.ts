@@ -3748,6 +3748,1251 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dave.jpg',
+                            heading: 'Kashmir Food Festival',
+                            subHeading: 'Buffet Dinner at Mosaic',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/BuffetDinneratMosaic',
+                                label: 'BOOK A TABLE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
+                            heading: 'Celebrate Your Special Day With Us',
+                            subHeading: 'Banquet Hall | Party Room',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/518',
+                                label: 'ENQUIRE NOW'
+                            }
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'The Country Inn Suites Experience',
+                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/foodOrder.jpg',
+                            label: 'FOOD DELIVERY APP',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/DIYfood.jpg',
+                            label: 'DIY MEAL KITS',
+                            extLink: '',
+                            routerLink: '/coming-soon'
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Exclusive Offers',
+                    desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/RajmaChawal.jpeg',
+                            name: 'DELICIOUS RAJMA CHAWAL',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PanFriedCottage.jpeg',
+                            name: 'PAN FRIED COTTAGE CHEESE STEAK',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/GrilledFish.jpeg',
+                            name: 'GRILLED FISH STEAK',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/DeepawaliSweets.jpeg',
+                            name: 'DIWALI SPECIAL SWEETS',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                                label: 'ORDER NOW'
+                            }
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Unique Dining Experiences',
+                    desc: 'A fine dining experience is about more than just the food on the plate. We believe countryInn is the destination in itself',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/romanticcandleDInner.jpg',
+                            name: 'Pool Side Candle Light Dinner',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Romanticcandlelightdinner_4',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Romanticcandlelightdinner_4',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dinUnderSky.jpg',
+                            name: 'Dining Under Stars',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/DiningUnderStars',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/DiningUnderStars',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
+                            name: 'Pool Side Get Together',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PoolSideGetTogether',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PoolSideGetTogether',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birthdayParty.jpg',
+                            name: 'Private Birthday Party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PrivateBirthdayParty_1',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PrivateBirthdayParty_1',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/SundayBrunch.jpg',
+                            name: 'Sunday Brunch',
+                            desc: '',
+                            routerLink: '/stores/Sundaybrunch_7',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Sundaybrunch_7',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mosiacdinnerr.jpg',
+                            name: 'Buffet Dinner at Mosaic',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Sundaybrunch_7',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Sundaybrunch_7',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Gourmet Packages',
+                    desc: 'Set off on the ultimate gourmet journey with CountryInn Suites by Radisson. Every moment promises to be in the greatest of taste.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VegBasket.jpg',
+                            name: 'St.Marys Island Tour with Picnic Basket',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
+                                extLink: '',
+                                label: 'ENQUIRE NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Religius+Bsket.jpg',
+                            name: 'Pure Veg Food Basket For Religiuos Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PureVegFoodBasketForReligiuosour',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PureVegFoodBasketForReligiuosour',
+                                extLink: '',
+                                label: 'ENQUIRE NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg',
+                            name: 'Personalised Cake For The Special One',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
+                                extLink: '',
+                                label: 'ENQUIRE NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/HomeParty.jpg',
+                            name: 'Customised Order For Your House Party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CustomisedOrderForYourHouseParty',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/CustomisedOrderForYourHouseParty',
+                                extLink: '',
+                                label: 'ENQUIRE NOW'
+                            }
+                        }
+                    ]
+                },
+                offers: {
+                    active: false,
+                    heading: 'Curated Food For Your Sightseeing',
+                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MALPE_PICKNICbassket.jpg',
+                            name: 'Malpe Tour With Gourmet Picnic Basket',
+                            desc: '',
+                            routerLink: '/stores/Malpetourwithpicnicbasket',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Malpetourwithpicnicbasket',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: 'Behind The Scenes',
+                    desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video1.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video2.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video3.jpg',
+                            videoId: ''
+                        }
+                    ]
+                },
+                masonry: {
+                    active: false,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'masonry title',
+                    desc: 'masonry Description',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/433x649/?Uruguay',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/530x572/?Jamaica',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/531x430/?Kuwait',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/500x571/?Ecuador',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/503x548/?Angola',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/511x630/?Mauritania',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/443x704/?St. Helena',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/441x1145/?Namibia',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/491x1097/?Samoa',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/570x851/?Eritrea',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/560x1072/?Iraq',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/551x598/?Togo',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Local Experiences',
+                    icon: 'kediyoor-icon/river.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'St.Mary Island Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/island.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Houseboat In Backwaters',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/house.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Malpe Tour With Picnic Basket',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/river.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Kapu Beach',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/rafting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/kapu3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Open For Everyone',
+                    icon: 'benaulimIcon/village.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Yoga Experience',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Family Pool Party',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/pool-party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this party.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/poolparty1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/poolparty2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/poolparty3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Private Birthday Party',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this party.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birhday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birhday2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birhday3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Private Chef and Bartender',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/chef.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/bart1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/bart2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/chefp1.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Fun Filled Workshops',
+                    icon: 'benaulimIcon/exp.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Towel Origamy',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/towel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this workshop.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/towel-origami.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/torigamy1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/torigamy2.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cooking With Chef',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/chef.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this workshop.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cookwithchef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cookwithchef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cookwithchef3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Mocktail Making Session',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this session.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mocktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mocktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mocktail3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Tea With Chef',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/tea.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this workshop.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/teachef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/teachef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/teachef3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Unique Dining Experience',
+                    icon: 'kediyoor-icon/dining.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Candle Light Dinner By The Pool',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/candle-light.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the arrangements',
+                            headerText: 'Book a slot to experience the moment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised Gadbad Icecream',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/icecream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please send me 2 icce-creams.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/icecream1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/icecream2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/icecream3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/brunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'Please select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/brunch1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/brunch2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/brunch3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Dining Under Stars',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Udupi Special Breakfast In Your Box',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example:  Please send me special breakfast.',
+                            headerText: 'When would you like the food to arrive at your room?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Pool Side Get-Together',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/poolSide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want know the seating arrangements',
+                            headerText: 'Book a slot to experience the moment.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/pool3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Private Birthday Party',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/birthday-cake.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Dine with Local Wine',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Buffet Dinner at Mosaic',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'SPA PACKAGES BOOKING',
+                    icon: 'benaulimIcon/spa.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Pain Relief Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/spaa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Anti Stress Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/massage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/antistress1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/antistress2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/antistress3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Honeymoon Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/honeymoon.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/honeymoon3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Rejuvenation Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rejuvenute1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rejuvenute2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rejuvenute3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'About Us',
+                    icon: 'countryinn/aboutus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'About Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/about.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Contact Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/contact.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        }
+                    ]
+                },
+                {
+                    name: 'Celebrate Your Special Day With Us',
+                    icon: 'countryinn/confetti.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Darbar Banquet Hall',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/banqueteHall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Add an extra table.',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Party Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/partyRoom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: May I know what are the arrangements.',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Boardroom',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/boardroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Can you arrange the room by early morning.',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Meeting Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/meetingRoom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Add an extra microphone',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                           
+                        }
+                    ]
+                },
+                {
+                    name: 'Exclusive Offers',
+                    icon: 'countryinn/aboutus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Offer 1',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Offer 2',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Offer 3',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Offer 4',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        }
+                    ]
+                },
+                {
+                    name: 'Gourmet Packages',
+                    icon: 'countryinn/gourmet.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'St.Marys Island Tour with Artisinal Picnic Basket',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/picnic.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: May I know what are all there in basket',
+                            headerText: 'Please select your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picknic1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picnic2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Pure Veg Food Basket For Religiuos our',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/picnic-basket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please share the basket contents.',
+                            headerText: 'Please select your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/baskket1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/baskket2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Personalised Cake For The Special One',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/caake.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want cake with photo.',
+                            headerText: 'Any special requests..?.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picknic1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picnic2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Deepavali Special Sweets',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/sweets.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please add more ladoo.',
+                            headerText: 'Any special requests..?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Customised Order For Your House Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/FOODorder.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want dj party also.',
+                            headerText: 'Any special requests..?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        }
+                    ]
+                }
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        },
+        {
+            branch: 'CountryInnFnB',
+            branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
+            id: 'www.countryinnmanipal-expreiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/countryInnLogo.png',
+            theme: 'fortune-theme',
+            idCategory: 19,
+            favIconLink: 'assets/icon/favicon.png',
+            title: 'CountryInn Manipal',
+            storeImg: 'social2.jpg',
+            label: 'Hotel admin', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'https://www.countryinnsuites.com'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'https://www.countryinnsuites.com'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: ''
+                },
+                feedBackEmail: ''
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/dave-lastovskiy.jpg',
                             heading: 'Our signature dishes, Now at your home',
                             subHeading: 'Food Delivery Service',
@@ -6062,7 +7307,7 @@ export const Vendors = {
                 loginType: {
                     normalLogin: true,
                     fbLogin: false,
-                    googleLogin: false,
+                    googleLogin: true,
                 },
             },
             S: {
@@ -6114,24 +7359,13 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/slider2.jpg',
                             heading: 'Try The New Udupi Trip Planner',
-                            subHeading: 'Experience | Memories | Positivity',
-                            btn: {
-                                extLink: 'www.udupitourism-planner.goyaana.com',
-                                routerLink: '',
-                                label: 'Plan Your Trip'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/slider3.jpg',
-                            heading: 'Explore the wonder of Udupi',
-                            subHeading: 'City | Food & Drink | Spiritual',
+                            subHeading: 'Your Personalised Trip Plan on a Click',
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
                                 label: 'Plan Your Trip'
                             }
                         }
-
                     ]
                 },
                 experience: {
@@ -6142,13 +7376,13 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/blueFlagbeach.jpg',
                             label: 'Blue Flag Beach Festival',
-                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/coastalfood.jpg',
-                            label: 'Coastal Food Festival',
-                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            label: 'Malpe Coastal Food Festival',
+                            extLink: '',
                             routerLink: ''
                         }
                     ]
@@ -6168,7 +7402,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6180,7 +7414,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6193,7 +7427,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6206,7 +7440,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6219,19 +7453,19 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/St._Lawrence_Shrine.jpg',
-                            name: 'St Lawrence Shrine',
+                            name: 'St. Lawrence Shrine',
                             desc: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6243,7 +7477,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6255,7 +7489,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6267,7 +7501,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6279,7 +7513,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6291,7 +7525,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6303,7 +7537,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6315,31 +7549,19 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/DCoffie.jpg',
-                            name: 'DC Office Complex',
-                            desc: '',
-                            routerLink: '',
-                            extLink: '',
-                            btn: {
-                                extLink: 'www.udupitourism-planner.goyaana.com',
-                                routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/KMC_Manipal.jpg',
-                            name: 'KMC Manipal',
+                            name: 'Medical Tourism - KMC Manipal',
                             desc: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         }
                     ]
@@ -6359,7 +7581,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6372,7 +7594,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6385,7 +7607,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6398,7 +7620,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6411,7 +7633,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6424,7 +7646,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6437,14 +7659,14 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         }
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Trips',
+                    heading: 'Exclusive Tailored Trips',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
@@ -6457,7 +7679,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6470,7 +7692,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6483,7 +7705,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6496,7 +7718,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
@@ -6509,12 +7731,12 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/beachDrink.jpg',
-                            name: 'Wine, Water And Whale Watching Along The Coast',
+                            name: 'Whale Watching Along The Coast',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -6522,7 +7744,7 @@ export const Vendors = {
                             btn: {
                                 extLink: 'www.udupitourism-planner.goyaana.com',
                                 routerLink: '',
-                                label: 'Plan Your Trip'
+                                label: 'Plan Trip'
                             }
                         }
                         
@@ -6530,7 +7752,7 @@ export const Vendors = {
                 },
                 offers: {
                     active: true,
-                    heading: 'Crafted In Udupi',
+                    heading: 'Sustainable Crafts From Udupi',
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
@@ -6542,7 +7764,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'http://13.83.84.18:5201/#/products/5ff33c2b6dd813003291f402',
-                                label: 'Contact Artisan'
+                                label: 'BUY NOW'
                             }
                         },
                         {
@@ -6554,7 +7776,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'http://13.83.84.18:5201/#/products/5ff33c2b6dd813003291f402',
-                                label: 'Contact Artisan'
+                                label: 'BUY NOW'
                             }
                         },
                         {
@@ -6566,7 +7788,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'http://13.83.84.18:5201/#/products/5ff33c2b6dd813003291f402',
-                                label: 'Contact Artisan'
+                                label: 'BUY NOW'
                             }
                         },
                         {
@@ -6578,7 +7800,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'http://13.83.84.18:5201/#/products/5ff33c2b6dd813003291f402',
-                                label: 'Contact Artisan'
+                                label: 'BUY NOW'
                             }
                         },
                         {
@@ -6589,7 +7811,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'http://13.83.84.18:5201/#/products/5ff33c2b6dd813003291f402',
-                                label: 'Contact Artisan'
+                                label: 'BUY NOW'
                             }
                         },
                         {
@@ -6600,7 +7822,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'http://13.83.84.18:5201/#/products/5ff33c2b6dd813003291f402',
-                                label: 'Contact Artisan'
+                                label: 'BUY NOW'
                             }
                         },
                         {
@@ -6611,13 +7833,13 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'http://13.83.84.18:5201/#/products/5ff33c2b6dd813003291f402',
-                                label: 'Contact Artisan'
+                                label: 'BUY NOW'
                             }
                         }
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: 'Videos',
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes.',
                     items: [
@@ -6643,90 +7865,84 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Udupi Moments',
+                    desc: 'Photo Gallery',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/anegudde-vinayaka-temple.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Anegudde Vinayaka Temple',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/beaches.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Kaup Beach',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/BeachSprt.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Shallow Beach',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/chaturmukhaBasadi.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Chaturmukha Basadi',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/gomateshwara.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Gomateshwara',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/KapuBeach.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Kaup Beach',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/KodachadriHills.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Kodachadri Hills',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/pigrims.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Spiritual Experience',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/monuments.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Monuments',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/trasiBeach.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Trasi Beach',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/St._Lawrence_Shrine.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'St. Lawrence Shrine',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/WildlifeSanctuary.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Wildlife Sanctuary',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/trasiBeach.jpg',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'www.udupitourism-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/DoorHang.jpg',
-                            label: 'Plan your trip the way you like it',
+                            label: 'Drive Beach',
                             extLink: 'www.udupitourism-planner.goyaana.com',
                             routerLink: ''
                         }
@@ -9901,6 +11117,986 @@ export const Vendors = {
                                 { path: 'https://source.unsplash.com/518x813/?Romania' }
                             ],
                             confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                }
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        },
+        {
+            branch: 'hakunamatata',
+            branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
+            id: '',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/LogoHakunaMatat.png',
+            theme: 'fortune-theme',
+            idCategory: 24,
+            favIconLink: 'assets/icon/favicon.png',
+            title: 'Hakuna Matata',
+            storeImg: 'social2.jpg',
+            label: 'Admin Login', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: true,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'https://www.countryinnsuites.com'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'https://www.countryinnsuites.com'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: ''
+                },
+                feedBackEmail: ''
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/slider1.jpg',
+                            heading: 'ORDER FOOD NOW',
+                            subHeading: 'Outdoor | Gentle breeze | Ambient music & Lights',
+                            btn: {
+                                extLink: '',
+                                routerLink: '',
+                                label: ''
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/slider2.jpg',
+                            heading: 'Birthdays at Hakuna Matata',
+                            subHeading: 'Experience Like Never Before',
+                            btn: {
+                                extLink: '',
+                                routerLink: '',
+                                label: ''
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/slider3.jpg',
+                            heading: 'Plan an Event',
+                            subHeading: 'Your Personalised Trip Plan on a Click',
+                            btn: {
+                                extLink: '',
+                                routerLink: '',
+                                label: ''
+                            }
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'Now Trending',
+                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth in Udupi. We open our arms to you and welcome you to join us in this effort. `,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/orderfood.jpg',
+                            label: 'ORDER FOOD NOW',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/reservetable.jpg',
+                            label: 'RESERVE A TABLE',
+                            extLink: '',
+                            routerLink: '/by-admin/522'
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Parties & Events',
+                    desc: 'At Hakuna Matata you will be welcomed among something new each and every time you visit us, innovation is our synonym. Lets pack up your bags and get ready to experience the different flavours of India through Bangalore. Lets not wait and join this never ending thrill with us you will not be disappointed.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/HenNight.jpg',
+                            name: 'Hen Nights',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/HenNights',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/HenNights',
+                                label: 'Plan an Event'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/SpecialEvents.jpg',
+                            name: 'Special Events',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/SpecialEvents',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/SpecialEvents',
+                                label: 'Plan an Event'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/customDINNER.jpg',
+                            name: 'Custom Dinners',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CustomDinners',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/CustomDinners',
+                                label: 'Plan an Event'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/GroupPARTY.jpg',
+                            name: 'Group Parties & Events',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/GroupParties&Events',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/GroupParties&Events',
+                                label: 'Plan an Event'
+                            }
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Experiences',
+                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/DinnerWIthMusic.jpg',
+                            name: 'Nostalgic Music with Dinner',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/NostalgicMusicwithDinner',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/NostalgicMusicwithDinner',
+                                label: 'Book a Table'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/NutritionalNight.jpg',
+                            name: 'Nutritional Nights',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/NutritionalNights',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/NutritionalNights',
+                                label: 'Book a Slot'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/EntrepreneursNight.jpg',
+                            name: 'Entrepreneurs Night',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/EntrepreneursNight',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/EntrepreneursNight',
+                                label: 'Book a Slot'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/FashionistasNight.jpg',
+                            name: 'Fashionistas Night Out',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/FashionistasNightOut',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/FashionistasNightOut',
+                                label: 'Pre-Book'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/party.jpg',
+                            name: 'Party Hard',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PartyHard',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/PartyHard',
+                                label: 'Pre-Book'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/liveMusicDinner.jpeg',
+                            name: 'Live Music with Dinner',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/LiveMusicwithDinner',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/LiveMusicwithDinner',
+                                label: 'Book a Table'
+                            }
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Trending Foods',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/FishCurruy.jpg',
+                            name: 'Malabar Matti Curry',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                routerLink: '',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/kungpao.jpg',
+                            name: 'Kung Pao',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                routerLink: '',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/DumBiriyani.jpg',
+                            name: 'Mutton Biriyani',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                routerLink: '',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/chickenCurry.jpg',
+                            name: 'Chicken Curry',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                routerLink: '',
+                                label: 'ORDER NOW'
+                            }
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'SHOP',
+                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/product1.jpg',
+                            name: 'Product 1',
+                            desc: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                label: 'BUY NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/product2.jpg',
+                            name: 'Product 2',
+                            desc: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                label: 'BUY NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/product3.jpg',
+                            name: 'Product 3',
+                            desc: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                label: 'BUY NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/product4.jpg',
+                            name: 'Product 4',
+                            desc: '',
+                            routerLink: '',
+                            extLink: 'http://13.83.84.18:5201/#/',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'http://13.83.84.18:5201/#/',
+                                label: 'BUY NOW'
+                            }
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: 'Behind the scenes',
+                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Mcleodganj-1.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/hotel-bed-making.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
+                            videoId: ''
+                        }
+                    ]
+                },
+                masonry: {
+                    active: false,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'Udupi Moments',
+                    desc: 'Photo Gallery',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/anegudde-vinayaka-temple.jpg',
+                            label: 'Anegudde Vinayaka Temple',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/beaches.jpg',
+                            label: 'Kaup Beach',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/BeachSprt.jpg',
+                            label: 'Shallow Beach',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/chaturmukhaBasadi.jpg',
+                            label: 'Chaturmukha Basadi',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/gomateshwara.jpg',
+                            label: 'Gomateshwara',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/KapuBeach.jpg',
+                            label: 'Kaup Beach',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/KodachadriHills.jpg',
+                            label: 'Kodachadri Hills',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/pigrims.jpg',
+                            label: 'Spiritual Experience',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/monuments.jpg',
+                            label: 'Monuments',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/trasiBeach.jpg',
+                            label: 'Trasi Beach',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/St._Lawrence_Shrine.jpg',
+                            label: 'St. Lawrence Shrine',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/WildlifeSanctuary.jpg',
+                            label: 'Wildlife Sanctuary',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/UdupiTourism/trasiBeach.jpg',
+                            label: 'Drive Beach',
+                            extLink: 'www.udupitourism-planner.goyaana.com',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Parties & Events',
+                    icon: 'HakunaIcon/hen_party.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Hen Nights',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/hen_party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Please select your slots.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Special Events',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/specialEvents.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Please Select your slots.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Custom Dinners',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/CustomDinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please add a coke also.',
+                            headerText: 'Any other special demands..?..',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Group Parties & Events',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/GroupParty.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Please select your slots.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Experiences',
+                    icon: 'HakunaIcon/nostalgicDinner.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Nostalgic Music with Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/nostalgicDinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Anything else..? please ask.',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Nutritional Nights',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/NutritionalDInner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: May I know the menu items..?.',
+                            headerText: 'Anything else..? please ask.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Entrepreneurs Night',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/entrepreneur.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Anything else..? please ask.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Fashionistas Night Out',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/FashionistasNight.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Anything else..? please ask.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Party Hard',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/hen_party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Anything else..? please ask.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Live Music with Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please share the arrangements details.',
+                            headerText: 'Anything else..? please ask.',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'ORDER FOOD NOW',
+                    icon: 'HakunaIcon/food.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'ORDER FOOD NOW',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can you make it little spicy.',
+                            headerText: 'Any other special demands..?.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'RESERVE A TABLE',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'HakunaIcon/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please arrange a window table.',
+                            headerText: 'Any other special demands..?.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Unique Dining Experience',
+                    icon: 'kediyoor-icon/dining.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Romantic Candle Light Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/candle-light.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the arrangements',
+                            headerText: 'Book a slot to experience the moment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised Gadbad Icecream',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/icecream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please send me 2 icce-creams.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/icecream1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/icecream2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/icecream3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/brunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'Please select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/brunch1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/brunch2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/brunch3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Udupi Special Breakfast In Your Box',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example:  Please send me special breakfast.',
+                            headerText: 'When would you like the food to arrive at your room?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/breakfast3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Food Near Pool',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want know the seating arrangements',
+                            headerText: 'Book a slot to experience the moment.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/pool3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Grills & Barbeque',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/barbecue.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Dine with Local Wine',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'SPA PACKAGES BOOKING',
+                    icon: 'benaulimIcon/spa.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Pain Relief Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/spaa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Anti Stress Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/massage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/antistress1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/antistress2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/antistress3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Honeymoon Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/honeymoon.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/honeymoon3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Rejuvenation Package',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'benaulimIcon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Can I get package details',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rejuvenute1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rejuvenute2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rejuvenute3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'About Us',
+                    icon: 'countryinn/aboutus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'About Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/about.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Contact Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/contact.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 }
@@ -74454,36 +76650,30 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/dave-lastovskiy.jpg',
-                            heading: 'Our signature dishes, Now at your home',
-                            subHeading: 'Food Delivery Service',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dave.jpg',
+                            heading: 'Kashmir Food Festival',
+                            subHeading: 'Buffet Dinner at Mosaic',
                             btn: {
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com',
-                                routerLink: '',
-                                label: 'ORDER NOW'
+                                extLink: '',
+                                routerLink: '/stores/BuffetDinneratMosaic',
+                                label: 'BOOK A TABLE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
-                            heading: 'Rejuvenate yourself at our Spa',
-                            subHeading: 'Experience| Memories | Positivity',
+                            heading: 'Celebrate Your Special Day With Us',
+                            subHeading: 'Banquet Hall | Party Room',
                             btn: {
                                 extLink: '',
-                                routerLink: '/by-admin/507',
-                                label: 'BOOK SLOTS'
+                                routerLink: '/by-admin/518',
+                                label: 'ENQUIRE NOW'
                             }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/St-Marie_island-slider.jpg',
-                            heading: 'Not just rooms, we offer you one-of-a-kind-experience',
-                            subHeading: 'City | Food & Drink | Spiritual'
                         }
-
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'The Country Inn Experience',
+                    heading: 'The Country Inn Suites Experience',
                     desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
                     items: [
                         {
@@ -74493,27 +76683,125 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/spa.jpg',
-                            label: 'SPA PACKAGES BOOKING',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/DIYfood.jpg',
+                            label: 'DIY MEAL KITS',
                             extLink: '',
-                            routerLink: '/by-admin/507'
+                            routerLink: '/coming-soon'
                         }
                     ]
                 },
                 destinations: {
                     active: true,
-                    heading: 'Unique Dining Experience',
+                    heading: 'Exclusive Offers',
+                    desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/RajmaChawal.jpeg',
+                            name: 'DELICIOUS RAJMA CHAWAL',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PanFriedCottage.jpeg',
+                            name: 'PAN FRIED COTTAGE CHEESE STEAK',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/GrilledFish.jpeg',
+                            name: 'GRILLED FISH STEAK',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/DeepawaliSweets.jpeg',
+                            name: 'DIWALI SPECIAL SWEETS',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                                label: 'ORDER NOW'
+                            }
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Unique Dining Experiences',
                     desc: 'A fine dining experience is about more than just the food on the plate. We believe countryInn is the destination in itself',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/candleDinner.jpg',
-                            name: 'Romantic Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/romanticcandleDInner.jpg',
+                            name: 'Pool Side Candle Light Dinner',
                             location: '',
                             views: '',
                             routerLink: '/stores/Romanticcandlelightdinner_4',
                             extLink: '',
                             btn: {
                                 routerLink: '/stores/Romanticcandlelightdinner_4',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dinUnderSky.jpg',
+                            name: 'Dining Under Stars',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/DiningUnderStars',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/DiningUnderStars',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
+                            name: 'Pool Side Get Together',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PoolSideGetTogether',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PoolSideGetTogether',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birthdayParty.jpg',
+                            name: 'Private Birthday Party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PrivateBirthdayParty_1',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PrivateBirthdayParty_1',
                                 extLink: '',
                                 label: 'BOOK NOW'
                             }
@@ -74531,123 +76819,14 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/foodBeach.jpg',
-                            name: 'Food Near Pool',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mosiacdinnerr.jpg',
+                            name: 'Buffet Dinner at Mosaic',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Foodnearpool',
+                            routerLink: '/stores/Sundaybrunch_7',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/Foodnearpool',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/grillBarbeque.jpg',
-                            name: 'Grills & Barbeque',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Grills&Barbeque_1',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/Grills&Barbeque_1',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/dineWine.jpg',
-                            name: 'Dine with Local Wine',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/DinewithLocalWine_1',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/DinewithLocalWine_1',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/Udupi-brkfast.jpg',
-                            name: 'Udupi Special Breakfast In Your Box',
-                            desc: '',
-                            routerLink: '/stores/Udupispecialbreakfastinyourbox_2',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/Udupispecialbreakfastinyourbox_2',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/gadbadIcreCream.jpg',
-                            name: 'Personalised Gadbad Icecream',
-                            desc: '',
-                            routerLink: '/stores/PersonalisedGadbadIcecream',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/PersonalisedGadbadIcecream',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        }
-                    ]
-                },
-                experiences: {
-                    active: true,
-                    heading: 'Open For Everyone',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/yoga.jpg',
-                            name: 'Yoga Experience',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/YogaExperience_2',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/YogaExperience_2',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/FamilyPoolparty.jpg',
-                            name: 'Family Pool Party',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/FamilyPoolparty_2',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/FamilyPoolparty_2',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/bDayParty.jpg',
-                            name: 'Private Birthday Party',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PrivateBirthdayParty',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/PrivateBirthdayParty',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/bart.jpg',
-                            name: 'Private Chef and Bartender',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PrivateChefandBartender',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/PrivateChefandBartender',
+                                routerLink: '/stores/Sundaybrunch_7',
                                 extLink: '',
                                 label: 'BOOK NOW'
                             }
@@ -74656,112 +76835,76 @@ export const Vendors = {
                 },
                 activities: {
                     active: true,
-                    heading: 'Fun Filled Workshops',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
+                    heading: 'Gourmet Packages',
+                    desc: 'Set off on the ultimate gourmet journey with CountryInn Suites by Radisson. Every moment promises to be in the greatest of taste.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/towel-origami.jpg',
-                            name: 'Towel Origamy',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VegBasket.jpg',
+                            name: 'St.Marys Island Tour with Picnic Basket',
                             location: '',
                             views: '',
-                            routerLink: '/stores/TowelOrigamy_4',
+                            routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/TowelOrigamy_4',
+                                routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
                                 extLink: '',
-                                label: 'BOOK NOW'
+                                label: 'ENQUIRE NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/cookwith-chef.jpg',
-                            name: 'Cooking With Chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Religius+Bsket.jpg',
+                            name: 'Pure Veg Food Basket For Religiuos Tour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Cookingwithchef_7',
+                            routerLink: '/stores/PureVegFoodBasketForReligiuosour',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/Cookingwithchef_7',
+                                routerLink: '/stores/PureVegFoodBasketForReligiuosour',
                                 extLink: '',
-                                label: 'BOOK NOW'
+                                label: 'ENQUIRE NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/ccktail.jpg',
-                            name: 'Moktail Making Session',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg',
+                            name: 'Personalised Cake For The Special One',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Mocktailmakingsession_2',
+                            routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/Mocktailmakingsession_2',
+                                routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
                                 extLink: '',
-                                label: 'BOOK NOW'
+                                label: 'ENQUIRE NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/teaWithChef.jpg',
-                            name: 'Tea With Chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/HomeParty.jpg',
+                            name: 'Customised Order For Your House Party',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Teawithchef_2',
+                            routerLink: '/stores/CustomisedOrderForYourHouseParty',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/Teawithchef_2',
+                                routerLink: '/stores/CustomisedOrderForYourHouseParty',
                                 extLink: '',
-                                label: 'BOOK NOW'
+                                label: 'ENQUIRE NOW'
                             }
                         }
                     ]
                 },
                 offers: {
-                    active: true,
-                    heading: 'Local Experiences',
+                    active: false,
+                    heading: 'Curated Food For Your Sightseeing',
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/malpe.jpg',
-                            name: 'Malpe Tour With Picnic Basket',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MALPE_PICKNICbassket.jpg',
+                            name: 'Malpe Tour With Gourmet Picnic Basket',
                             desc: '',
                             routerLink: '/stores/Malpetourwithpicnicbasket',
                             extLink: '',
                             btn: {
                                 routerLink: '/stores/Malpetourwithpicnicbasket',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/St-Marie_island.jpg',
-                            name: 'St.Marys Island Tour with Picnic Basket',
-                            desc: '',
-                            routerLink: '/stores/StMaryIslandtour',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/StMaryIslandtour',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/houseboat.jpg',
-                            name: 'Houseboat in Backwaters',
-                            desc: '',
-                            routerLink: '/stores/Houseboatinbackwaters',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/Houseboatinbackwaters',
-                                extLink: '',
-                                label: 'BOOK NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/KapuBeach.jpg',
-                            name: 'Kapu Beach with Picnic Basket',
-                            desc: '',
-                            routerLink: '/stores/Kapubeach',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/Kapubeach',
                                 extLink: '',
                                 label: 'BOOK NOW'
                             }
@@ -74774,19 +76917,19 @@ export const Vendors = {
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video1.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video2.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video3.jpg',
                             videoId: ''
                         }
                     ]
@@ -75164,7 +77307,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Romantic Candle Light Dinner',
+                            name: 'Candle Light Dinner By The Pool',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'benaulimIcon/candle-light.png',
@@ -75214,7 +77357,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Personalised Dinner',
+                            name: 'Dining Under Stars',
                             extLink: '',
                             routerLink: 'test',
 
@@ -75248,11 +77391,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Food Near Pool',
+                            name: 'Pool Side Get-Together',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/food.png',
+                            icon: 'kediyoor-icon/poolSide.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want know the seating arrangements',
@@ -75265,20 +77408,17 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Grills & Barbeque',
+                            name: 'Private Birthday Party',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/barbecue.png',
+                            icon: 'kediyoor-icon/birthday-cake.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the restaurant?',
 
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/grill3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -75296,6 +77436,23 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/spa3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Buffet Dinner at Mosaic',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'kediyoor-icon/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dine3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -75402,7 +77559,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
+                            
                         },
                         {
                             name: 'Contact Us',
@@ -75419,7 +77576,251 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
+                            
+                        }
+                    ]
+                },
+                {
+                    name: 'Celebrate Your Special Day With Us',
+                    icon: 'countryinn/confetti.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Darbar Banquet Hall',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/banqueteHall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Add an extra table.',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Party Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/partyRoom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: May I know what are the arrangements.',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Boardroom',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/boardroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Can you arrange the room by early morning.',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Meeting Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/meetingRoom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Add an extra microphone',
+                            headerText: 'Please book your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                           
+                        }
+                    ]
+                },
+                {
+                    name: 'Exclusive Offers',
+                    icon: 'countryinn/aboutus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Offer 1',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Offer 2',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Offer 3',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Offer 4',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/offer4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the offers offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/contact3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        }
+                    ]
+                },
+                {
+                    name: 'Gourmet Packages',
+                    icon: 'countryinn/gourmet.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'St.Marys Island Tour with Artisinal Picnic Basket',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/picnic.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: May I know what are all there in basket',
+                            headerText: 'Please select your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picknic1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picnic2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Pure Veg Food Basket For Religiuos our',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/picnic-basket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please share the basket contents.',
+                            headerText: 'Please select your slots.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/baskket1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/baskket2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Personalised Cake For The Special One',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/caake.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want cake with photo.',
+                            headerText: 'Any special requests..?.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picknic1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picnic2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Deepavali Special Sweets',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/sweets.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please add more ladoo.',
+                            headerText: 'Any special requests..?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
+                        },
+                        {
+                            name: 'Customised Order For Your House Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'countryinn/FOODorder.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want dj party also.',
+                            headerText: 'Any special requests..?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            
                         }
                     ]
                 }
