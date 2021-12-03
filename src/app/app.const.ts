@@ -3748,24 +3748,9 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dave.jpg',
-                            heading: 'Kashmir Food Festival',
-                            subHeading: 'Buffet Dinner at Mosaic',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/BuffetDinneratMosaic',
-                                label: 'BOOK A TABLE'
-                            }
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
-                            heading: 'Celebrate Your Special Day With Us',
-                            subHeading: 'Banquet Hall | Party Room',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/by-admin/518',
-                                label: 'ENQUIRE NOW'
-                            }
+                            heading: 'Country Inn & Suites Manipal',
+                            subHeading: 'Food Experiences',
                         }
                     ]
                 },
@@ -3781,10 +3766,22 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PartyHallBooking.jpg',
-                            label: 'PARTY HALL BOOKING',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CandleLightDinner.jpeg',
+                            label: 'Romantic Candle Light Dinner',
                             extLink: '',
-                            routerLink: '/by-admin/518'
+                            routerLink: '/stores/CandleLightDinner_6'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg',
+                            label: 'Personalised Cake For The Special One',
+                            extLink: '',
+                            routerLink: '/stores/PersonalisedCakeForTheSpecialOne'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Houseparty.jpg',
+                            label: 'Customised House Party',
+                            extLink: '',
+                            routerLink: '/stores/CustomisedOrderForYourHouseParty'
                         }
                     ]
                 },
@@ -3794,54 +3791,119 @@ export const Vendors = {
                     desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/RajmaChawal.jpeg',
-                            name: 'DELICIOUS RAJMA CHAWAL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
+                            name: 'TORI KASTU ROLL',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PanFriedCottage.jpeg',
-                            name: 'PAN FRIED COTTAGE CHEESE STEAK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
+                            name: 'YASAI FUTO MAKI',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/GrilledFish.jpeg',
-                            name: 'GRILLED FISH STEAK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
+                            name: 'CRAB TEMPURA',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/DeepawaliSweets.jpeg',
-                            name: 'DIWALI SPECIAL SWEETS',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
+                            name: 'SPICY SALMON SUSHI ROLL',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
+                            name: 'MURGH MALAI CHAAP',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
+                            name: 'SABNAMI VEG SHEEK',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
+                            name: 'VEG CHILLY MILLY KEBAB',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
+                            name: 'MURGH SOLEY KEBAB',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
+                            name: 'KHUMB CHEMAN TIKKI',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         }
@@ -3849,77 +3911,77 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Dining Experiences',
+                    heading: 'RHG Signature Dish',
                     desc: 'A fine dining experience is about more than just the food on the plate. We believe countryInn is the destination in itself',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/romanticcandleDInner.jpg',
-                            name: 'Romantic Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/prawn.jpg',
+                            name: 'RHG Mangalorean Prawns',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_4',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/Romanticcandlelightdinner_4',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
-                            name: 'Private Get Together',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Fish_curry.jpg',
+                            name: 'RHG Malvani Style Fish Curry',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideGetTogether',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/PoolSideGetTogether',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df506fe0d0c003e43b20f',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birthdayParty.jpg',
-                            name: 'Birthday Party',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TawaFish.jpg',
+                            name: 'RHG Tawa Macchali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PrivateBirthdayParty_1',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/PrivateBirthdayParty_1',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df582fe0d0c003e43b217',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/SundayBrunch.jpg',
-                            name: 'Sunday Brunch',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/amritsari-fish.jpg',
+                            name: 'RHG Fish Amritsari',
                             desc: '',
-                            routerLink: '/stores/Sundaybrunch_7',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/Sundaybrunch_7',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df614fe0d0c003e43b224',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mosiacdinnerr.jpg',
-                            name: 'Buffet at Mosaic',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Butter_chickenn.jpg',
+                            name: 'RHG Butter Chicken',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Sundaybrunch_7',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/Sundaybrunch_7',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df6cefe0d0c003e43b231',
+                                label: 'ORDER NOW'
                             }
                         }
                     ]
                 },
                 activities: {
-                    active: true,
+                    active: false,
                     heading: 'Gourmet Packages',
                     desc: 'Set off on the ultimate gourmet journey with CountryInn Suites by Radisson. Every moment promises to be in the greatest of taste.',
                     items: [
@@ -4392,7 +4454,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Candle Light Dinner By The Pool',
+                            name: 'Candle Light Dinner',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'benaulimIcon/candle-light.png',
@@ -4401,11 +4463,13 @@ export const Vendors = {
                             placeholder: 'Example: I would like to book a table for two',
                             headerText: 'Select a slot for this experience',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candle2.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candle3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CandleLightDinner.jpeg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Personalised Gadbad Icecream',
@@ -4871,10 +4935,13 @@ export const Vendors = {
                             placeholder: 'Example: Cake should have Happy Birthday Priya',
                             headerText: 'Please select the date & time for collecting this special cake',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picknic1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picnic2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cake1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cake2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cake3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                             
                         },
                         {
@@ -4902,9 +4969,11 @@ export const Vendors = {
                             placeholder: 'Example: I want to book it for 20 people',
                             headerText: 'lease select the preferred date & time',
                             gallery: [
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/hp2.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Houseparty.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                             
                         }
                     ]
@@ -76746,24 +76815,9 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dave.jpg',
-                            heading: 'Kashmir Food Festival',
-                            subHeading: 'Buffet Dinner at Mosaic',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/BuffetDinneratMosaic',
-                                label: 'BOOK A TABLE'
-                            }
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
-                            heading: 'Celebrate Your Special Day With Us',
-                            subHeading: 'Banquet Hall | Party Room',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/by-admin/518',
-                                label: 'ENQUIRE NOW'
-                            }
+                            heading: 'Country Inn & Suites Manipal',
+                            subHeading: 'Food Experiences',
                         }
                     ]
                 },
@@ -76779,10 +76833,22 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PartyHallBooking.jpg',
-                            label: 'PARTY HALL BOOKING',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CandleLightDinner.jpeg',
+                            label: 'Romantic Candle Light Dinner',
                             extLink: '',
-                            routerLink: '/by-admin/518'
+                            routerLink: '/stores/CandleLightDinner_6'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg',
+                            label: 'Personalised Cake For The Special One',
+                            extLink: '',
+                            routerLink: '/stores/PersonalisedCakeForTheSpecialOne'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Houseparty.jpg',
+                            label: 'Customised House Party',
+                            extLink: '',
+                            routerLink: '/stores/CustomisedOrderForYourHouseParty'
                         }
                     ]
                 },
@@ -76792,54 +76858,119 @@ export const Vendors = {
                     desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/RajmaChawal.jpeg',
-                            name: 'DELICIOUS RAJMA CHAWAL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
+                            name: 'TORI KASTU ROLL',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922750cc8178003c1612cd',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PanFriedCottage.jpeg',
-                            name: 'PAN FRIED COTTAGE CHEESE STEAK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
+                            name: 'YASAI FUTO MAKI',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/619226e6cc8178003c1612c8',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/GrilledFish.jpeg',
-                            name: 'GRILLED FISH STEAK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
+                            name: 'CRAB TEMPURA',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922651cc8178003c1612c3',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/DeepawaliSweets.jpeg',
-                            name: 'DIWALI SPECIAL SWEETS',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
+                            name: 'SPICY SALMON SUSHI ROLL',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/61922535cc8178003c1612bf',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
+                            name: 'MURGH MALAI CHAAP',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
+                            name: 'SABNAMI VEG SHEEK',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
+                            name: 'VEG CHILLY MILLY KEBAB',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
+                            name: 'MURGH SOLEY KEBAB',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                                label: 'ORDER NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
+                            name: 'KHUMB CHEMAN TIKKI',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
                                 label: 'ORDER NOW'
                             }
                         }
@@ -76847,77 +76978,77 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Dining Experiences',
+                    heading: 'RHG Signature Dish',
                     desc: 'A fine dining experience is about more than just the food on the plate. We believe countryInn is the destination in itself',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/romanticcandleDInner.jpg',
-                            name: 'Romantic Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/prawn.jpg',
+                            name: 'RHG Mangalorean Prawns',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_4',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/Romanticcandlelightdinner_4',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/newSlider.jpeg',
-                            name: 'Private Get Together',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Fish_curry.jpg',
+                            name: 'RHG Malvani Style Fish Curry',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideGetTogether',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/PoolSideGetTogether',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df506fe0d0c003e43b20f',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/birthdayParty.jpg',
-                            name: 'Birthday Party',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TawaFish.jpg',
+                            name: 'RHG Tawa Macchali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PrivateBirthdayParty_1',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/PrivateBirthdayParty_1',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df582fe0d0c003e43b217',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/SundayBrunch.jpg',
-                            name: 'Sunday Brunch',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/amritsari-fish.jpg',
+                            name: 'RHG Fish Amritsari',
                             desc: '',
-                            routerLink: '/stores/Sundaybrunch_7',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/Sundaybrunch_7',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df614fe0d0c003e43b224',
+                                label: 'ORDER NOW'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mosiacdinnerr.jpg',
-                            name: 'Buffet at Mosaic',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Butter_chickenn.jpg',
+                            name: 'RHG Butter Chicken',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Sundaybrunch_7',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
                             btn: {
-                                routerLink: '/stores/Sundaybrunch_7',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df6cefe0d0c003e43b231',
+                                label: 'ORDER NOW'
                             }
                         }
                     ]
                 },
                 activities: {
-                    active: true,
+                    active: false,
                     heading: 'Gourmet Packages',
                     desc: 'Set off on the ultimate gourmet journey with CountryInn Suites by Radisson. Every moment promises to be in the greatest of taste.',
                     items: [
@@ -77390,7 +77521,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Candle Light Dinner By The Pool',
+                            name: 'Candle Light Dinner',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'benaulimIcon/candle-light.png',
@@ -77399,11 +77530,13 @@ export const Vendors = {
                             placeholder: 'Example: I would like to book a table for two',
                             headerText: 'Select a slot for this experience',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candle2.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candledinner3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/candle3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CandleLightDinner.jpeg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Personalised Gadbad Icecream',
@@ -77869,10 +78002,13 @@ export const Vendors = {
                             placeholder: 'Example: Cake should have Happy Birthday Priya',
                             headerText: 'Please select the date & time for collecting this special cake',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picknic1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/picnic2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cake1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cake2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cake3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                             
                         },
                         {
@@ -77900,9 +78036,11 @@ export const Vendors = {
                             placeholder: 'Example: I want to book it for 20 people',
                             headerText: 'lease select the preferred date & time',
                             gallery: [
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/hp2.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Houseparty.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                             
                         }
                     ]
