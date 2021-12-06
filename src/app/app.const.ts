@@ -76847,14 +76847,14 @@ export const Vendors = {
             bookSlotLabel: 'Raise Request',
             footer: {
                 terms: {
-                    isAnchor: false,
+                    isAnchor: true,
                     route: 'terms',
-                    url: 'https://www.countryinnsuites.com'
+                    url: 'http://blogs.goyaana.com/terms-conditions/'
                 },
                 privacy: {
-                    isAnchor: false,
+                    isAnchor: true,
                     route: 'privacy',
-                    url: 'https://www.countryinnsuites.com'
+                    url: 'http://blogs.goyaana.com/privacy-policy/'
                 },
                 about: {
                     isAnchor: true,
