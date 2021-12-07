@@ -76848,12 +76848,12 @@ export const Vendors = {
             footer: {
                 terms: {
                     isAnchor: true,
-                    route: 'terms',
+                    route: '',
                     url: 'http://blogs.goyaana.com/terms-conditions/'
                 },
                 privacy: {
                     isAnchor: true,
-                    route: 'privacy',
+                    route: '',
                     url: 'http://blogs.goyaana.com/privacy-policy/'
                 },
                 about: {
