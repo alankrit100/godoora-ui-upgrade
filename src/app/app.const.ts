@@ -3727,14 +3727,14 @@ export const Vendors = {
             bookSlotLabel: 'Raise Request',
             footer: {
                 terms: {
-                    isAnchor: false,
-                    route: 'terms',
-                    url: 'https://www.countryinnsuites.com'
+                    isAnchor: true,
+                    route: '',
+                    extLink: 'http://blogs.goyaana.com/terms-conditions/'
                 },
                 privacy: {
-                    isAnchor: false,
-                    route: 'privacy',
-                    url: 'https://www.countryinnsuites.com'
+                    isAnchor: true,
+                    route: '',
+                    extLink: 'http://blogs.goyaana.com/privacy-policy/'
                 },
                 about: {
                     isAnchor: true,
@@ -3749,8 +3749,8 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/headingPage.jpg',
-                            heading: 'Country Inn & Suites Manipal',
-                            subHeading: 'Food Experiences',
+                            heading: 'WELCOME OFFER : GET 15% FLAT DISCOUNT ON YOUR ORDER',
+                            subHeading: 'Country Inn & Suites, Manipal - Food Experiences',
                         }
                     ]
                 },
@@ -76869,8 +76869,8 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/headingPage.jpg',
-                            heading: 'Country Inn & Suites Manipal',
-                            subHeading: 'Food Experiences',
+                            heading: 'WELCOME OFFER : GET 15% FLAT DISCOUNT ON YOUR ORDER',
+                            subHeading: 'Country Inn & Suites, Manipal - Food Experiences',
                         }
                     ]
                 },
