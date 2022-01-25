@@ -3749,8 +3749,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/headingPage.jpg',
-                            heading: 'WELCOME OFFER : GET 15% FLAT DISCOUNT ON YOUR ORDER',
-                            subHeading: '',
+                            heading: 'GET 15% FLAT DISCOUNT ON YOUR ORDER',
+                            subHeading: 'Country Inn & Suites, Manipal - Food Delivery',
+                            btn: {
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search',
+                                routerLink: '',
+                                label: 'ORDER NOW'
+                            }
                         }
                     ]
                 },
@@ -78510,7 +78515,7 @@ export const Vendors = {
     ],
     'www.countryinnmanipal-experiences.goyaana.com': [
         {
-            branch: 'countryInnManipal',
+            branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
             id: 'www.countryinnmanipal-expreiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/countryInnLogo.png',
@@ -78549,12 +78554,12 @@ export const Vendors = {
                 terms: {
                     isAnchor: true,
                     route: '',
-                    extLink: 'http://blogs.goyaana.com/terms-conditions/'
+                    url: 'http://blogs.goyaana.com/terms-conditions/'
                 },
                 privacy: {
                     isAnchor: true,
                     route: '',
-                    extLink: 'http://blogs.goyaana.com/privacy-policy/'
+                    url: 'http://blogs.goyaana.com/privacy-policy/'
                 },
                 about: {
                     isAnchor: true,
@@ -78569,8 +78574,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/headingPage.jpg',
-                            heading: 'WELCOME OFFER : GET 15% FLAT DISCOUNT ON YOUR ORDER',
-                            subHeading: 'Country Inn & Suites, Manipal - Food Experiences',
+                            heading: 'GET 15% FLAT DISCOUNT ON YOUR ORDER',
+                            subHeading: 'Country Inn & Suites, Manipal - Food Delivery',
+                            btn: {
+                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search',
+                                routerLink: '',
+                                label: 'ORDER NOW'
+                            }
                         }
                     ]
                 },
@@ -78813,7 +78823,7 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/thawaafishh.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TawaFish.jpg',
                             name: 'RHG Tawa Macchali',
                             location: '',
                             views: '',
