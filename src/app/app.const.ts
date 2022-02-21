@@ -86277,9 +86277,10 @@ export const Vendors = {
             branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
             id: 'www.griham-homestays.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
             idCategory: 25,
+            displayProperty: true,
             favIconLink: 'assets/icon/favicon.png',
             title: 'Griham',
             storeImg: 'social2.jpg',
@@ -86718,191 +86719,160 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/coorg1.jpg',
-                            label: 'Hampi Sight Visit Package',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi5.jpg',
+                            label: 'Udupi Homestay1',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
-                            label: 'Bonfire setup for open area dinner party',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi4.jpg',
+                            label: 'Udupi Homestay2',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/myth.jpg',
-                            label: 'Mythical Landscape Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi3.jpg',
+                            label: 'Udupi Homestay3',
+                            extLink: 'Udupi Homestay3',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi1.jpg',
+                            label: 'Udupi Homestay4',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
-                            label: 'Candle Light Occasions',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi2.jpg',
+                            label: 'Udupi Homestay5',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/old_bang_183x145.jpg',
-                            label: 'Old Bangalore walk',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi6.jpg',
+                            label: 'Udupi Homestay6',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/nandi_183x145.jpg',
-                            label: 'Hilltop picnic at NandiHills',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg1.jpg',
+                            label: 'Coorg Homestay1',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/cycle_183x276.jpg',
-                            label: 'Morning Cycle Rides to NandiHills',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg2.jpg',
+                            label: 'Coorg Homestay2',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/barbeque_183x145.jpg',
-                            label: 'Dinner time',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg7.jpg',
+                            label: 'Coorg Homestay3',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/stud_183x145.jpg',
-                            label: 'Celebrate birthdays at stud farms',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg4.jpg',
+                            label: 'Coorg Homestay4',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/houseboat.jpg',
-                            label: 'Houseboat Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg5.jpg',
+                            label: 'Coorg Homestay5',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/badami.jpg',
-                            label: 'Badami, Aihole & Pattadkal',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur1.jpg',
+                            label: 'Sakleshpur Homestay1',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Night_camping.jpg',
-                            label: 'Night Camping',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur2.jpg',
+                            label: 'Sakleshpur Homestay2',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Cinema.jpg',
-                            label: 'Bar-be-que evening with movie screening',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur3.jpg',
+                            label: 'Sakleshpur Homestay3',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Yoga_session.jpg',
-                            label: 'Yoga and Meditation',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
-
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur4.jpg',
+                            label: 'Sakleshpur Homestay4',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Pasta.jpg',
-                            label: 'Watch Yakshagana In Udupi',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
-                        }, 
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Triund+trek.jpg',
-                            label: 'Triund day trek',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur5.jpg',
+                            label: 'Sakleshpur Homestay5',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Cycle+tour.jpg',
-                            label: 'Bicycle tour',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie2.jpg',
+                            label: 'Mussoorie Homestay1',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Nature+walk.jpg',
-                            label: 'Nature walks',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie3.jpg',
+                            label: 'Mussoorie Homestay2',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/strems_canopy_dining.jpg',
-                            label: 'Stars canopy dining experience',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie4.jpg',
+                            label: 'Mussoorie Homestay3',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/High_tea_nature.jpg',
-                            label: 'High tea Experience in the nature',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie6.jpg',
+                            label: 'Mussoorie Homestay4',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/stream_dining.jpg',
-                            label: 'Stream dining',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie5.jpg',
+                            label: 'Mussoorie Homestay5',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/tea-in-jungle.jpg',
-                            label: 'Cutting Chai by the falls',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj2.jpg',
+                            label: 'McLeodganj Homestay1',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Art%26Craft.jpeg',
-                            label: 'Art & Craft classes',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj1.jpg',
+                            label: 'McLeodganj Homestay2',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dance.jpg',
-                            label: 'Dance Classes',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj3.jpg',
+                            label: 'McLeodganj Homestay3',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            label: 'Cook With Chef',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj4.jpg',
+                            label: 'McLeodganj Homestay4',
+                            extLink: '',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
-                            label: 'Bedmaking',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Exp_Lambi_Dehar.jpg',
-                            label: 'Experience the mysterious Lambi Dehar Mines',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Food_tour.jpg',
-                            label: 'Food Tour of cuisines of Mussoorie',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/walk_guide.jpg',
-                            label: 'Walk with a local to learn the story of the city',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Trek_with_Expert.jpg',
-                            label: 'Trek with an expert',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/George_Everest.jpg',
-                            label: 'George Everest Trek Point',
-                            routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj5.jpg',
+                            label: 'McLeodganj Homestay5',
+                            extLink: '',
+                            routerLink: ''
                         }
                     ]
                 },
@@ -87715,7 +87685,7 @@ export const Vendors = {
             branch: 'udupi',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi1.jpg',
             id: 'www.griham-homestays.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
             idCategory: 25,
             favIconLink: 'assets/icon/favicon.png',
@@ -89002,7 +88972,7 @@ export const Vendors = {
             branch: 'coorg',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/coorg_homestay.jpg',
             id: 'www.griham-homestays.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
             idCategory: 25,
             favIconLink: 'assets/icon/favicon.png',
@@ -90283,7 +90253,7 @@ export const Vendors = {
             branch: 'sakleshpur',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/saklesh1.jpg',
             id: 'www.griham-homestays.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
             idCategory: 25,
             favIconLink: 'assets/icon/favicon.png',
@@ -91564,7 +91534,7 @@ export const Vendors = {
             branch: 'mussoorie',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie2.jpg',
             id: 'www.griham-homestays.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
             idCategory: 25,
             favIconLink: 'assets/icon/favicon.png',
@@ -92845,7 +92815,7 @@ export const Vendors = {
             branch: 'mcleodganj',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie2.jpg',
             id: 'www.griham-homestays.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
             idCategory: 25,
             favIconLink: 'assets/icon/favicon.png',
