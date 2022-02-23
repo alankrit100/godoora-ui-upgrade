@@ -90282,7 +90282,7 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/coorg1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Sakleshpur5.jpg',
                             label: 'Flashcard2',
                             extLink: '',
                             routerLink: ''
@@ -90645,36 +90645,6 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi1.jpg',
-                            label: 'The Palm Island',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi2.jpg',
-                            label: 'Ave Maria',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi3.jpg',
-                            label: 'Ashirvad house',
-                            extLink: 'Udupi Homestay3',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi4.jpg',
-                            label: 'Star of Bethlehem',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi5.jpg',
-                            label: 'HisGrace BEACH COTTAGES & TENTS',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
                             label: 'Abbydhama Estate Stay',
                             extLink: '',
@@ -90701,6 +90671,36 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Coorg5.jpg',
                             label: 'Forestdale Coorg',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi1.jpg',
+                            label: 'The Palm Island',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi2.jpg',
+                            label: 'Ave Maria',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi3.jpg',
+                            label: 'Ashirvad house',
+                            extLink: 'Udupi Homestay3',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi4.jpg',
+                            label: 'Star of Bethlehem',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi5.jpg',
+                            label: 'HisGrace BEACH COTTAGES & TENTS',
                             extLink: '',
                             routerLink: ''
                         },
@@ -92046,32 +92046,32 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi5.jpg',
-                            label: 'A Beachfront Cottage Getaway In Udupi',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi4.jpg',
-                            label: 'Seethanadi Nature Camp in Udupi',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi3.jpg',
-                            label: 'Ashirvad house',
-                            extLink: 'Udupi Homestay3',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi1.jpg',
                             label: 'The Palm Island',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi2.jpg',
                             label: 'Ave Maria',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi3.jpg',
+                            label: 'Ashirvad house',
+                            extLink: 'Udupi Homestay3',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi4.jpg',
+                            label: 'Star of Bethlehem',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi5.jpg',
+                            label: 'HisGrace BEACH COTTAGES & TENTS',
                             extLink: '',
                             routerLink: ''
                         },
@@ -93327,32 +93327,32 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg1.jpg',
-                            label: 'ABBYDHAMA Estate Stay',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
+                            label: 'Abbydhama Estate Stay',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg2.jpg',
-                            label: 'Nisarga Thana',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg7.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Coorg2.jpg',
                             label: 'The Coorg Heaven',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg4.jpg',
-                            label: 'Coorg -Kunji Phad River View Homestay',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Coorg3.jpg',
+                            label: 'Whistling Woods Farm Stay',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg5.jpg',
-                            label: 'Doddakallu Betta Homestay Coorg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Coorg4.jpg',
+                            label: 'Coorg Kolamotte',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Coorg5.jpg',
+                            label: 'Forestdale Coorg',
                             extLink: '',
                             routerLink: ''
                         },
@@ -94608,32 +94608,32 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur1.jpg',
-                            label: 'Hilltop Bungalow Stay In Sakleshpur',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Sakleshpur1.jpg',
+                            label: 'The CoffeeBean Villa Sakleshpur',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur2.jpg',
-                            label: 'A Stream Side Hideaway Amidst the Lush Greens of Sakleshpur',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Sakleshpur2.jpg',
+                            label: 'Robin Woods Homestay',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur3.jpg',
-                            label: 'Offbeat Countryside Homestay in Sakleshpur',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Sakleshpur3.jpg',
+                            label: 'GREEN INN',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur4.jpg',
-                            label: 'A Weekend Hideaway Tucked In Coffee Plantation Of Sakleshpur',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Sakleshpur4.jpg',
+                            label: 'YohStay - Sakleshpura',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur5.jpg',
-                            label: 'Homestay Cottages With Swimming Pool Into The Woods Sakleshpur',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Sakleshpur5.jpg',
+                            label: 'BISILE HOMESTAY',
                             extLink: '',
                             routerLink: ''
                         },
@@ -95889,32 +95889,32 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie2.jpg',
-                            label: 'Mussoorie Homestay1',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mussoorie1.jpg',
+                            label: 'Rokeby Manor, Mussoorie',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie3.jpg',
-                            label: 'Mussoorie Homestay2',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mussoorie2.jpg',
+                            label: 'JW Marriott Mussoorie Walnut Grove Resort & Spa',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie4.jpg',
-                            label: 'Mussoorie Homestay3',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mussoorie3.jpg',
+                            label: 'A Blissful Stay with the Panoramic Valley View in Mussoorie',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie6.jpg',
-                            label: 'Mussoorie Homestay4',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mussoorie4.jpg',
+                            label: 'Castle Stay In Mussorrie Staycation',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie5.jpg',
-                            label: 'Mussoorie Homestay5',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mussoorie5.jpg',
+                            label: 'Larisa Resort, Mussoorie',
                             extLink: '',
                             routerLink: ''
                         },
@@ -97170,35 +97170,35 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj2.jpg',
-                            label: 'McLeodganj Homestay1',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj1.jpg',
+                            label: 'Citrus McLeodGanj',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj1.jpg',
-                            label: 'McLeodganj Homestay2',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj2.jpg',
+                            label: 'Villa In Mcleodganj',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj3.jpg',
-                            label: 'McLeodganj Homestay3',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj3.jpg',
+                            label: 'Fortune Park Moksha-Member ITC Hotel Group',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj4.jpg',
-                            label: 'McLeodganj Homestay4',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj4.jpg',
+                            label: 'The Cocoon',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj5.jpg',
-                            label: 'McLeodganj Homestay5',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj5.jpg',
+                            label: 'Hotel Norbu House',
                             extLink: '',
                             routerLink: ''
-                        },
+                        }
                     ]
                 },
                 heroIntro: {
