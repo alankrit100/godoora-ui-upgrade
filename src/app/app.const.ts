@@ -90647,7 +90647,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
                             label: 'Abbydhama Estate Stay',
-                            extLink: '',
+                            extLink: 'https://beta.thebesttrip.in/abbydhama/landing',
                             routerLink: ''
                         },
                         {
@@ -93329,7 +93329,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
                             label: 'Abbydhama Estate Stay',
-                            extLink: '',
+                            extLink: 'https://beta.thebesttrip.in/abbydhama/landing',
                             routerLink: ''
                         },
                         {
