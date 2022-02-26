@@ -18160,14 +18160,14 @@ export const Vendors = {
             }
         },
         {
-            branch: 'homestay',
+            branch: 'abbydhama',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
-            id: 'www.myhomestay-experiences.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/homestay.jpeg',
+            id: 'www.abbydhamaestatestay.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/logo.png',
             theme: 'grey-theme',
-            idCategory: 20,
+            idCategory: 26,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Homestay',
+            title: 'ABBYDHAMA Estate Stay',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -18218,12 +18218,12 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/homestay.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider1.jpg',
                             heading: 'Rejuvenate yourself',
                             subHeading: 'Experience| Memories | Positivity'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/homestay.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
                             heading: 'Enjoy Your Days With Our Homestay',
                             subHeading: 'Unique Experience| Creative Workshopss'
                         }
@@ -18231,42 +18231,42 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Home Stay Experience',
+                    heading: 'The HomeStay Experiences',
                     desc: `You will enjoy delicius style food.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/room_booking.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
                             label: 'Book A Room',
-                            extLink: '',
+                            extLink: 'https://www.palacegarden-experiences.goyaana.com/by-admin/510',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kediyoor/digital.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/FoodMenu.jpg',
                             label: 'Food Menu',
-                            extLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/Free+Food+Menu.pdf',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/menu.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/MakePayment.jpg',
                             label: 'Make Payment',
-                            extLink: '',
+                            extLink: 'https://www.palacegarden-experiences.goyaana.com/stores/Payment',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/offers.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/assistance.jpeg',
                             label: 'Assistance',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/by-admin/527'
                         }
                     ]
                 },
                 destinations: {
                     active: true,
-                    heading: 'Pre-Book Special Dining',
+                    heading: 'Pre-Book Special Experience',
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/candle_dinner.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/StaycationPackage.jpg',
                             name: 'Staycation Package',
                             location: '',
                             views: '',
@@ -18274,7 +18274,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/sea_food.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/LongWeekendPackage.jpg',
                             name: 'Long Weekend Package',
                             location: '',
                             views: '',
@@ -18282,7 +18282,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/man_thali.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/NewYearpack.jpg',
                             name: 'New Year Package',
                             location: '',
                             views: '',
@@ -18290,7 +18290,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/breakfast.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/StaycationPackage.jpg',
                             name: 'Special Celebration Package',
                             location: '',
                             views: '',
@@ -18425,108 +18425,66 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: false,
+                    active: true,
                     cols: 3,
                     rowHeight: 1,
                     title: 'masonry title',
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/hosamane_fruit+room.jpg',
+                            label: 'Hosamane-Coffee Fruit',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/433x649/?Uruguay',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
+                            label: 'Rooftop dining',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/530x572/?Jamaica',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/dining_area.jpg',
+                            label: 'Dining Room',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/531x430/?Kuwait',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/hosamane_coffee_cherry.jpg',
+                            label: 'Hosamane-Coffee Cherry',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/hosamane_Coffe_blossom.jpg',
+                            label: 'Hosamane-Coffee Blossom',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/500x571/?Ecuador',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/Hosamane_room.jpg',
+                            label: 'Hosamane Room',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/pathway.jpg',
+                            label: 'Pathway',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/503x548/?Angola',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/View2.jpg',
+                            label: 'Enjoy The View With your Loved One',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/511x630/?Mauritania',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/View.jpg',
+                            label: 'Enjoy Sunset View',
+                            extLink: '',
                             routerLink: ''
                         },
-                        {
-                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/443x704/?St. Helena',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/441x1145/?Namibia',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/491x1097/?Samoa',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/570x851/?Eritrea',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/560x1072/?Iraq',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/551x598/?Togo',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        }
                     ]
                 },
                 heroIntro: {
@@ -18573,18 +18531,18 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Front Desk',
-                    icon: 'kediyoor-icon/reception.png',
+                    name: 'Food Menu',
+                    icon: 'abbydhama/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
-                    extLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/Free+Food+Menu.pdf',
                     services: [
                         {
-                            name: 'Reception',
+                            name: 'Menu',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/reception.png',
+                            icon: 'abbydhama/menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to know if there is a cloak room',
@@ -18625,18 +18583,18 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Housekeeping',
-                    icon: 'kediyoor-icon/housekeeper.png',
+                    name: 'Assistance',
+                    icon: 'abbydhama/reception.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Extra Crockery & Cutlery',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/restaurant.png',
+                            name: 'Web Check-In',
+                            extLink: 'https://docs.google.com/forms/d/e/1FAIpQLSdLnogiyIX15ojvy5w00U-1EmkYL2f7XK_V531RTqIdSI1yPQ/viewform',
+                            routerLink: '',
+                            icon: 'abbydhama/reception.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I need 2 dinnner plates along with spoons',
@@ -18646,10 +18604,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Additional Bedding',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/bed.png',
+                            name: 'Terms and Condition',
+                            extLink: 'https://forms.gle/wPCqguWnR97uXqAn8',
+                            routerLink: '',
+                            icon: 'abbydhama/terms.png',
                             showTextarea: true,
                             placeholder: 'Example: Please send me an extra pillow',
                             headerText: 'Select a time you would like to receive it.',
@@ -18658,10 +18616,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Laundry Service',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/washing-machine.png',
+                            name: 'Special Request',
+                            extLink: 'https://docs.google.com/forms/d/e/1FAIpQLSel549zEJ19Kta3T8MTvDLvgiT-YfZCUMhEes7ioOjJmQvfvQ/viewform',
+                            routerLink: '',
+                            icon: 'abbydhama/SpecRequest.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please arrange laundry pickup for me',
@@ -18671,10 +18629,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Room Cleaning',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/cleaning.png',
+                            name: 'Route Map',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/map.pdf',
+                            routerLink: '',
+                            icon: 'abbydhama/map.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please sanitize my room and replace bedding',
