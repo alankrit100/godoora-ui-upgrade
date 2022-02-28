@@ -94589,16 +94589,16 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Enjoy the best comfort and convenience with us on your jolly visit. We want you to give us a chance to serve you with the cultural and Homestay warmth at Udupi. We open our arms to you and welcome you to join us in this effort. `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi8.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
                             label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi4.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/foood.jpg',
                             label: 'Food Experiences of udupi',
                             extLink: '',
                             routerLink: ''
@@ -95870,16 +95870,16 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Enjoy the best comfort and convenience with us on your jolly visit. We want you to give us a chance to serve you with the cultural and Homestay warmth at Coorg. We open our arms to you and welcome you to join us in this effort. `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg1.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
                             label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/foood.jpg',
                             label: 'Food Experiences of Coorg',
                             extLink: '',
                             routerLink: ''
@@ -97151,16 +97151,16 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Enjoy the best comfort and convenience with us on your jolly visit. We want you to give us a chance to serve you with the cultural and Homestay warmth at Sakleshpura. We open our arms to you and welcome you to join us in this effort. `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur1.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
                             label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/foood.jpg',
                             label: 'Food Experiences of Sakleshpur',
                             extLink: '',
                             routerLink: ''
@@ -98423,7 +98423,7 @@ export const Vendors = {
                             subHeading: 'Unique Experiences | Creative Workshops',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/homestay2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/MusSlider1.jpg',
                             heading: 'Get Direct Deals From HomeStays',
                             subHeading: 'At Best Price',
                         }
@@ -98432,16 +98432,16 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Enjoy the best comfort and convenience with us on your jolly visit. We want you to give us a chance to serve you with the cultural and Homestay warmth at Mussoorie. We open our arms to you and welcome you to join us in this effort. `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/foood.jpg',
                             label: 'Food Experiences of Mussoorie',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie3.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
                             label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
@@ -99699,7 +99699,7 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Homestay12.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/MclSilder.jpg',
                             heading: 'Your One-Stop-Shop of HomeStays',
                             subHeading: 'The Perfect Place To Rejuvenate',
                         },
@@ -99713,16 +99713,16 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Enjoy the best comfort and convenience with us on your jolly visit. We want you to give us a chance to serve you with the cultural and Homestay warmth at Mcleodganj. We open our arms to you and welcome you to join us in this effort. `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/MclSlider.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
                             label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj4.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/foood.jpg',
                             label: 'Food Experiences of Mcleodganj',
                             extLink: '',
                             routerLink: ''
