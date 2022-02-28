@@ -101371,7 +101371,7 @@ export const Vendors = {
                     cols: 3,
                     rowHeight: 1,
                     title: 'Trending Restaurant',
-                    desc: '',
+                    desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi1.jpg',
@@ -102476,7 +102476,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 27,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Udupi',
+            title: 'Udupi Restaurants',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -102528,30 +102528,30 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi8.jpg',
-                            heading: 'Udupi : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Hungry?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi.jpg',
-                            heading: 'Try The New Udupi Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi1.jpg',
+                            heading: 'Unexpected guests?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉) `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi6.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Trending Restaurant',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi4.jpg',
-                            label: 'Flashcard2',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
+                            label: 'Trending Food Experience',
                             extLink: '',
                             routerLink: ''
                         },
@@ -102909,8 +102909,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Restaurant',
+                    desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi1.jpg',
@@ -103787,7 +103787,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 27,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Manipal',
+            title: 'Manipal Restaurants',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -103838,36 +103838,36 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal2.jpg',
-                            heading: 'Coorg : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing1.jpg',
+                            heading: 'Hungry?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal7.jpg',
-                            heading: 'Try The New Coorg Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing2.jpg',
+                            heading: 'Unexpected guests?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/basil.jpg',
-                            heading: 'Try The New Coorg Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/basilLanding.jpg',
+                            heading: 'Cooking gone wrong?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal3.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Trending Restaurant',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal4.jpg',
-                            label: 'Flashcard2',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
+                            label: 'Trending Food Experience',
                             extLink: '',
                             routerLink: ''
                         },
@@ -104225,8 +104225,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Restaurant',
+                    desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/headingPage.jpg',
@@ -104235,7 +104235,7 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/CelebrateSpecialDays.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/ItsMoments.jpg',
                             label: 'Hakunamatata Restaurant',
                             extLink: 'https://www.hakunamatata-restaurant.goyaana.com',
                             routerLink: ''
@@ -105103,7 +105103,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 27,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Brahmavara',
+            title: 'Brahmavara Restaurants',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -105155,35 +105155,35 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara8.jpg',
-                            heading: 'Sakleshpur : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Hungry?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara10.jpg',
-                            heading: 'Try The New Sakleshpur Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Unexpected guests?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara9.jpg',
-                            heading: 'Try The New Sakleshpur Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Cooking gone wrong?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara2.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Trending Restaurant',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara6.jpg',
-                            label: 'Flashcard2',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
+                            label: 'Trending Food Experience',
                             extLink: '',
                             routerLink: ''
                         },
@@ -105541,8 +105541,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Restaurant',
+                    desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara1.jpg',
@@ -106417,9 +106417,9 @@ export const Vendors = {
             id: 'www.gofoodie.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
             theme: 'fortune-theme',
-            idCategory: 27,
+            idCategory: 25,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Griham Mussoorie',
+            title: 'Kundapur Restaurants',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -106471,35 +106471,35 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur1.jpg',
-                            heading: 'Mussoorie : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Hungry?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur3.jpg',
-                            heading: 'Try The New Mussoorie Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Unexpected guests?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur4.jpg',
-                            heading: 'Try The New Mussoorie Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Cooking gone wrong?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur5.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Trending Restaurant',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur6.jpg',
-                            label: 'Flashcard2',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
+                            label: 'Trending Food Experience',
                             extLink: '',
                             routerLink: ''
                         },
@@ -106857,8 +106857,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Restaurant',
+                    desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur1.jpg',
@@ -107733,9 +107733,9 @@ export const Vendors = {
             id: 'www.griham-homestays.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
             theme: 'fortune-theme',
-            idCategory: 27,
+            idCategory: 25,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Griham McLeodganj',
+            title: 'Kaup Restaurants',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -107787,35 +107787,35 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing2.jpg',
-                            heading: 'McLeodganj : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Hungry?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            heading: 'Try The New McLeodganj Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Unexpected guests?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup7.jpg',
-                            heading: 'Try The New McLeodganj Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Cooking gone wrong?',
+                            subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
+                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup3.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Trending Restaurant',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup8.jpg',
-                            label: 'Flashcard2',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
+                            label: 'Trending Food Experience',
                             extLink: '',
                             routerLink: ''
                         },
@@ -108173,8 +108173,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Restaurant',
+                    desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup1.jpg',
