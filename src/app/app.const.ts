@@ -93030,14 +93030,14 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Homestay14.jpg',
-                            heading: 'Udupi : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/UdupiSlider1.jpg',
+                            heading: 'Your One-Stop-Shop of HomeStays',
+                            subHeading: 'The Perfect Place To Rejuvenate',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi5.jpg',
-                            heading: 'Try The New Udupi Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/UdupiSlider2.jpg',
+                            heading: 'Get Direct Deals From HomeStays',
+                            subHeading: 'At Best Price',
                         }
                     ]
                 },
@@ -93048,13 +93048,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi8.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Udupi4.jpg',
-                            label: 'Flashcard2',
+                            label: 'Food Experiences of udupi',
                             extLink: '',
                             routerLink: ''
                         },
@@ -93412,8 +93412,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Homestays in Udupi',
+                    desc: 'Get Direct Deal From Hotels At The Best Price ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Udupi1.jpg',
@@ -94312,13 +94312,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/slidre1.jpg',
-                            heading: 'Coorg : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Discover Unique HomeStay Experiences',
+                            subHeading: 'Unique Experiences | Creative Workshops',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg5.jpg',
-                            heading: 'Try The New Coorg Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Get Direct Deals From HomeStays',
+                            subHeading: 'At Best Price',
                         }
                     ]
                 },
@@ -94329,13 +94329,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg1.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorg2.jpg',
-                            label: 'Flashcard2',
+                            label: 'Food Experiences of Coorg',
                             extLink: '',
                             routerLink: ''
                         },
@@ -94693,8 +94693,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Homestays in Coorg',
+                    desc: 'Get Direct Deal From Hotels At The Best Price',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
@@ -95593,13 +95593,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/homestay3.jpg',
-                            heading: 'Sakleshpur : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Get Direct Deals From HomeStays',
+                            subHeading: 'At Best Price',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Homestay13.jpg',
-                            heading: 'Try The New Sakleshpur Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Your One-Stop-Shop of HomeStays',
+                            subHeading: 'The Perfect Place To Rejuvenate',
                         }
                     ]
                 },
@@ -95610,13 +95610,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur1.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Sakleshpur2.jpg',
-                            label: 'Flashcard2',
+                            label: 'Food Experiences of Sakleshpur',
                             extLink: '',
                             routerLink: ''
                         },
@@ -95974,8 +95974,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Homestays in Sakleshpur',
+                    desc: 'Get Direct Deal From Hotels At The Best Price',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Sakleshpur1.jpg',
@@ -96874,13 +96874,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/slider2.jpg',
-                            heading: 'Mussoorie : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Discover Unique HomeStay Experiences',
+                            subHeading: 'Unique Experiences | Creative Workshops',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/homestay2.jpg',
-                            heading: 'Try The New Mussoorie Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Get Direct Deals From HomeStays',
+                            subHeading: 'At Best Price',
                         }
                     ]
                 },
@@ -96891,13 +96891,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie2.jpg',
-                            label: 'Flashcard 1',
+                            label: 'Food Experiences of Mussoorie',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie3.jpg',
-                            label: 'Flashcard2',
+                            label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
@@ -97255,8 +97255,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Homestays in Mussoorie',
+                    desc: 'Get Direct Deal From Hotels At The Best Price',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mussoorie1.jpg',
@@ -98155,13 +98155,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Homestay12.jpg',
-                            heading: 'McLeodganj : Where People And Places Connect',
-                            subHeading: 'Art & Culture | Food & Drink | City',
+                            heading: 'Your One-Stop-Shop of HomeStays',
+                            subHeading: 'The Perfect Place To Rejuvenate',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Homestay11.jpg',
-                            heading: 'Try The New McLeodganj Trip Planning With Our Homestay',
-                            subHeading: 'Unique Experiences | Creative Workshops',
+                            heading: 'Get Direct Deals From HomeStays',
+                            subHeading: 'At Best Price',
                         }
                     ]
                 },
@@ -98171,14 +98171,14 @@ export const Vendors = {
                     desc: `Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth at CountryInn. We open our arms to you and welcome you to join us in this effort. `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj3.jpg',
-                            label: 'Flashcard 1',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/MclSlider.jpg',
+                            label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj4.jpg',
-                            label: 'Flashcard2',
+                            label: 'Food Experiences of Mcleodganj',
                             extLink: '',
                             routerLink: ''
                         },
@@ -98536,8 +98536,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
+                    title: 'Trending Homestays in Mcleodganj',
+                    desc: 'Get Direct Deal From Hotels At The Best Price',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj1.jpg',
@@ -98553,7 +98553,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj3.jpg',
-                            label: 'Fortune Park Moksha-Member ITC Hotel Group',
+                            label: 'Satobari Greens Homestay',
                             extLink: '',
                             routerLink: ''
                         },
@@ -98564,7 +98564,7 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Masnory/Mcleodganj5.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/MclSlider.jpg',
                             label: 'Hotel Norbu House',
                             extLink: '',
                             routerLink: ''
