@@ -100984,23 +100984,23 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing1.jpg',
-                            heading: 'Hungry?',
+                            heading: 'Get Direct Deals',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing2.jpg',
-                            heading: 'Unexpected guests?',
+                            heading: 'Get Quality Service',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing3.jpg',
-                            heading: 'Cooking gone wrong?',
+                            heading: 'Support Your Local Restaurants',
                             subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
-                    active: true,
+                    active: false,
                     heading: 'The True Food Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉) `,
                     items: [
@@ -101370,7 +101370,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Trending Restaurant',
+                    title: 'Trending Restaurants',
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
@@ -102528,18 +102528,18 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi8.jpg',
-                            heading: 'Hungry?',
+                            heading: 'Get Direct Deals',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi1.jpg',
-                            heading: 'Unexpected guests?',
+                            heading: 'Get Quality Service',
                             subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
-                    active: true,
+                    active: false,
                     heading: 'The True Travel Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉) `,
                     items: [
@@ -102909,7 +102909,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Trending Restaurant',
+                    title: 'Trending Restaurants',
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
@@ -103839,23 +103839,23 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing1.jpg',
-                            heading: 'Hungry?',
+                            heading: 'Get Direct Deals',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing2.jpg',
-                            heading: 'Unexpected guests?',
+                            heading: 'Get Quality Service',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/basilLanding.jpg',
-                            heading: 'Cooking gone wrong?',
+                            heading: 'Support Your Local Restaurants',
                             subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
-                    active: true,
+                    active: false,
                     heading: 'The True Travel Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
@@ -104225,7 +104225,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Trending Restaurant',
+                    title: 'Trending Restaurants',
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
@@ -105155,23 +105155,23 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara8.jpg',
-                            heading: 'Hungry?',
+                            heading: 'Get Direct Deals',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara10.jpg',
-                            heading: 'Unexpected guests?',
+                            heading: 'Get Quality Service',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara9.jpg',
-                            heading: 'Cooking gone wrong?',
+                            heading: 'Support Your Local Restaurants',
                             subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
-                    active: true,
+                    active: false,
                     heading: 'The True Travel Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
@@ -105541,7 +105541,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Trending Restaurant',
+                    title: 'Trending Restaurants',
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
@@ -106471,23 +106471,23 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur1.jpg',
-                            heading: 'Hungry?',
+                            heading: 'Get Direct Deals',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur3.jpg',
-                            heading: 'Unexpected guests?',
+                            heading: 'Get Quality Service',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur4.jpg',
-                            heading: 'Cooking gone wrong?',
+                            heading: 'Support Your Local Restaurants',
                             subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
-                    active: true,
+                    active: false,
                     heading: 'The True Travel Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
@@ -106857,7 +106857,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Trending Restaurant',
+                    title: 'Trending Restaurants',
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
@@ -107787,23 +107787,23 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing2.jpg',
-                            heading: 'Hungry?',
+                            heading: 'Get Direct Deals',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            heading: 'Unexpected guests?',
+                            heading: 'Get Quality Service',
                             subHeading: 'Order food from favourite restaurants near you',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup7.jpg',
-                            heading: 'Cooking gone wrong?',
+                            heading: 'Support Your Local Restaurants',
                             subHeading: 'Order food from favourite restaurants near you',
                         }
                     ]
                 },
                 experience: {
-                    active: true,
+                    active: false,
                     heading: 'The True Travel Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
@@ -108173,7 +108173,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Trending Restaurant',
+                    title: 'Trending Restaurants',
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
