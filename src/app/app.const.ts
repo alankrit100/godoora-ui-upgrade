@@ -115501,6 +115501,1126 @@ export const Vendors = {
                 heading: 'The season is almost here',
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
+        },
+        {
+            branch: 'Jaipur',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/JaipurBranchImage.jpg',
+            id: 'www.lordshotels-experiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/logo.png',
+            theme: 'fortune-theme',
+            idCategory: 29,
+            favIconLink: 'assets/icon/favicon.png',
+            title: 'Lords Hotels',
+            storeImg: 'social2.jpg',
+            label: 'Hotel Admin', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'www.fortunehotels.in'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'www.fortunehotels.in'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'www.fortunehotels.in'
+                },
+                feedBackEmail: 'rmo.north@fortunehotels.in'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/slider1.jpg',
+                            heading: 'Stars canopy dining experience',
+                            subHeading: 'At Lords Grace'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/slider2.jpg',
+                            heading: 'A trip that will fulfil your dream list',
+                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/slider3.jpg',
+                            heading: 'An experience that you will cherish forever',
+                            subHeading: 'Experience | Hospitality | Memories'
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'The Lords Hotel Experience',
+                    desc: `At Lords hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Jaipur. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/roomdining.jpg',
+                            label: 'Restaurant Menu',
+                            extLink: '',
+                            routerLink: '/by-admin/601'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/spa.jpg',
+                            label: 'SPA LAUNDRY AND MINIBAR MENU',
+                            extLink: '',
+                            routerLink: '/by-admin/602'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/digital_exp.jpg',
+                            label: 'Digital Guest Experience',
+                            extLink: '',
+                            routerLink: '/home'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/PlanYourTrip.png',
+                            label: 'Plan your trip',
+                            extLink: '',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Dining Experiences',
+                    desc: 'You can avail these exciting offers only while booking through this app.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/candle+dinner.jpg',
+                            name: 'Candle Light Dinner',
+                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/CandleLightDinner_9',
+                                extLink: '',
+                                label: 'Book A Table'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/movie.jpg',
+                            name: 'Barbeque evening with Movie',
+                            location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/BarbequeeveningwithMovie_5',
+                                extLink: '',
+                                label: 'Book A Table'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/ghazal.jpg',
+                            name: 'Personalised Dinner with Ghazal',
+                            location: 'Book any 1 outdoor activity from our website and get 1 Hour pool table free.',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/PersonalisedDinnerwithGhazal_2',
+                                extLink: '',
+                                label: 'Book A Table'
+                            }
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-House Experiences',
+                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Night_camping.jpg',
+                            name: 'Night Camping',
+                            location: 'Camping is the best way to enjoy the Great Outdoors',
+                            views: '',
+                            routerLink: '/stores/NightCamping_4',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/BurmaBridge.jpg',
+                            name: 'Burma Bridge',
+                            location: 'When you cross a bridge, you take a break from this world!',
+                            views: '',
+                            routerLink: '/stores/BurmaBridge_4',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/CommandoNet.jpg',
+                            name: 'Commando Net',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CommandoNet_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Zip_lining.jpg',
+                            name: 'Zip Line',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/ZipLine_4',
+                            extLink: ''
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'WorkShop ',
+                    desc: 'A workshop is a period of discussion or practical work on a particular subject in which a group of people share their knowledge or experience.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/towelOrigami.jpg',
+                            name: 'Towel Origamy',
+                            desc: 'Duration: 2 hours',
+                            routerLink: '/stores/TowelOrigamy_7',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/cocktail.jpg',
+                            name: 'Cocktail Making Class',
+                            desc: 'Duration: 2 hours',
+                            routerLink: '/stores/CocktailMakingClass_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/cook_chef.jpg',
+                            name: 'Cook With Chef',
+                            desc: 'Duration: 2 hours',
+                            routerLink: '/stores/CookWithChef_5',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/foldance.jpg',
+                            name: 'Folk Dance Class',
+                            desc: 'Duration: 1 hours',
+                            routerLink: '/stores/FolkDanceClass_2',
+                            extLink: ''
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Local Experiences',
+                    desc: 'Everything is just a click away.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic1.jpg',
+                            name: 'Experience The Susnet At Jaipur',
+                            desc: '',
+                            routerLink: '/stores/ExperienceTheSusnetAtJaipur',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic2.jpg',
+                            name: 'Enjoy A Picknic With Your Family',
+                            desc: '',
+                            routerLink: '/stores/EnjoyAPicknicWithYourFamily_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic3.jpg',
+                            name: 'Enjoy A Lovley Sight With Your Loved One',
+                            desc: '',
+                            routerLink: '/stores/EnjoyALovleySightWithYourLovedOne_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic4.jpg',
+                            name: 'Take A Moment To Sit In The Nature',
+                            desc: '',
+                            extLink: '',
+                            routerLink: '/stores/TakeAMomentToSitInTheNature_1'
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: 'Behind the scenes',
+                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
+                            videoId: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
+                            videoId: ''
+                        }
+                    ]
+                },
+                masonry: {
+                    active: true,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'masonry title',
+                    desc: 'masonry Description',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic1.jpg',
+                            name: 'Experience The Susnet At Jaipur',
+                            desc: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic2.jpg',
+                            name: 'Enjoy A Picknic With Your Family',
+                            desc: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic3.jpg',
+                            name: 'Enjoy A Lovley Sight With Your Loved One',
+                            desc: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Picknic4.jpg',
+                            name: 'Take A Moment To Sit In The Nature',
+                            desc: '',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Night_camping.jpg',
+                            name: 'Night Camping',
+                            location: 'Camping is the best way to enjoy the Great Outdoors',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/BurmaBridge.jpg',
+                            name: 'Burma Bridge',
+                            location: 'When you cross a bridge, you take a break from this world!',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/CommandoNet.jpg',
+                            name: 'Commando Net',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/LordsHotels/Jaipur/Zip_lining.jpg',
+                            name: 'Zip Line',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Plan Your Trip',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
+                    routerLink: '',
+                    icon: 'paper-plane-outline'
+                },
+                {
+                    label: 'Order Food',
+                    extLink: '',
+                    routerLink: '/coming-soon',
+                    icon: 'fast-food-outline'
+                },
+                {
+                    label: 'Local Shopping',
+                    extLink: '',
+                    routerLink: '/coming-soon',
+                    icon: 'card-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Front Desk',
+                    icon: 'fortunemussoorieicons/Front.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Reception',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Reception.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Web Checkin',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'tourism.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Web Checkout',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'receptionist.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Housekeeping',
+                    icon: 'fortunemussoorieicons/Housekeeping.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Extra Crockery & Cutlery',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Extra.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Additional Bedding',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Bedding.png',
+                            showTextarea: true,
+                            placeholder: 'Example: Please send me an extra pillow',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Laundry Service',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Laundry.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please arrange laundry pickup for me',
+                            headerText: 'Select a time when our person can knock your door',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Room Cleaning',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please sanitize my room and replace bedding',
+                            headerText: 'Select an ideal time for us to work in your room',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Wellness and Fitness',
+                    icon: 'fortunemussoorieicons/fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gym',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Gym.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to use the treadmill',
+                            headerText: 'When would you like to hit the Gym?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Swimming Pool',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Swimming.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                            headerText: 'When would you like to get into the pool?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Recreation & Sports',
+                    icon: 'fortunemussoorieicons/Sports.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Table Tennis',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/tennis.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Pool Table',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Travel and Activities',
+                    icon: 'tour-bus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the cab'
+                        },
+                        {
+                            name: 'Local Taxi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Cab'
+                        },
+                        {
+                            name: 'Local Restaurant',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'restaurant-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a slow'
+                        },
+                        {
+                            name: 'Amusement Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'ferris-wheel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
+                            headerText: 'When are you planning to visit?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book tickets'
+                        },
+                        {
+                            name: 'Cinemas / Plays',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'movie-theater.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
+                            headerText: 'When are you planning to go for the movie?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book Tickets'
+                        },
+                        {
+                            name: 'Forex',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'neutral-trading.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
+                            headerText: 'When would you like to collect it?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Local Shopping',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'shopping-bag.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
+                            headerText: 'When would you like to go for shopping?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Fix appointment'
+                        },
+                        {
+                            name: 'Arrange a Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'tour-bus.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Repairs',
+                    icon: 'fortunemussoorieicons/Repairs.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'TV',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/TV.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'AC',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/AC.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Coffee Maker',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'coffee-maker.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Hair Dryer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Hair.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Please replace the hair dryer',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Electrical',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Electrical.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Others',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Others.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Dining Experiences',
+                    icon: 'jaipuricons/dinner-table.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Candle Light Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/candle-light.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Barbeque evening with Movie',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/barbeque.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised Dinner with Ghazal',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/dinner-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'In-House Experiences',
+                    icon: 'jaipuricons/Inhouse.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Night Camping',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/Camp.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Burma Bridge',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/Burma.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Commando Net',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/Net.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Zip Line',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/zipline.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'WorkShop',
+                    icon: 'jaipuricons/training.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Towel Origamy',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/towel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cocktail Making Class',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cook With Chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Folk Dance Class',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/dancer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Local Experiences',
+                    icon: 'jaipuricons/localexp.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Experience The Susnet At Jaipur',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/river.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Enjoy A Picknic With Your Family',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/picnic-basket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Enjoy A Lovley Sight With Your Loved One',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/picnic-basket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Take A Moment To Sit In The Nature',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/save-nature.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'SPA LAUNDRY AND MINIBAR MENU',
+                    icon: 'jaipuricons/spa.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'SPA LAUNDRY',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'MINIBAR',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'jaipuricons/bar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                }
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
         }
     ]
 };
