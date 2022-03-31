@@ -93169,12 +93169,12 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/slidre1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Coorgslider2.jpg',
                             heading: 'Get Direct Deals From HomeStays',
                             subHeading: 'At Best Price',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/slider2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/CoorgSlider1.jpg',
                             heading: 'Discover Unique HomeStay Experiences',
                             subHeading: 'Unique Experiences | Creative Workshops',
                         },
@@ -93535,19 +93535,19 @@ export const Vendors = {
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/The+Birchwood+Retreat.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/Green+Pastures.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiLuxury/Wild+Woods+Resort.jpg',
                             videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hotel+Gowri.jpg',
                             videoId: ''
                         }
                     ]
@@ -94746,7 +94746,7 @@ export const Vendors = {
                 offers: {
                     active: true,
                     heading: 'Farm Houses',
-                    desc: 'Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiFarmHouse/Hegde+Farm+House.jpg',
@@ -94792,20 +94792,20 @@ export const Vendors = {
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiLuxury/Wild+Woods+Resort.jpg',
+                            videoId: 'vg9ZQmJyi94'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video1.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiBudget/FreshUp+Minds.jpg',
+                            videoId: '5KY1gAYUo9A'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video2.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/udupihostel/Malpe+Sea+Front+Cottages.jpg',
+                            videoId: 'FuJ-znXqQRw'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video3.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiFarmHouse/Hegde+Farm+House.jpg',
+                            videoId: '0ZlRsKXJKAA'
                         }
                     ]
                 },
@@ -95867,7 +95867,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Capitol+Village+Resort.jpg',
                             name: 'Capitol Village Resort',
-                            location: 'Rs.1800 onwards',
+                            desc: 'Rs.1800 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -95880,7 +95880,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Hotel+Caveri+Inn.jpg',
                             name: 'Hotel Caveri Inn',
-                            location: 'Rs.2000 onwards',
+                            desc: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -95893,7 +95893,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/KSTDC+Hotel+Mayura+Tala+Kaveri.jpg',
                             name: 'KSTDC Hotel Mayura Tala Kaveri',
-                            location: 'Rs.2000 onwards',
+                            desc: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -95904,9 +95904,9 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Zostel+Homes.jpg7',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Zostel+Homes.jpg',
                             name: 'Zostel Homes',
-                            location: 'Rs.2500 onwards',
+                            desc: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -95926,7 +95926,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Coorg+Rain+Drop+Farm+Stay.jpg',
                             name: 'Coorg Rain Drop Farm Stay',
-                            location: 'Rs.9000 onwards',
+                            des: 'Rs.9000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -95938,7 +95938,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Heights+Farm+Stay.jpg',
                             name: 'Heights Farm Stay',
-                            location: 'Rs.10000 onwards',
+                            desc: 'Rs.10000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -95950,7 +95950,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Deep+Woodz+Estate+Stay.jpg',
                             name: 'Deep Woodz Estate Stay',
-                            location: 'Rs.10000 onwards',
+                            desc: 'Rs.10000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -95962,7 +95962,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Kwality+Estate.jpg',
                             name: 'Kwality Estate',
-                            location: 'Rs.11000 onwards',
+                            desc: 'Rs.11000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -95979,20 +95979,20 @@ export const Vendors = {
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/Green+Pastures.jpg',
+                            videoId: 'HayxjXWyvaY'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video1.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/The+Birchwood+Retreat.jpg',
+                            videoId: 'RdKwIsH38DI'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video2.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Zostel+Homes.jpg',
+                            videoId: 'UOd0utCvALg'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video3.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/KSTDC+Hotel+Mayura+Tala+Kaveri.jpg',
+                            videoId: 'AhDdPbVmgiM'
                         }
                     ]
                 },
@@ -97029,7 +97029,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/Karadikallu+Homestay.jpg',
                             name: 'Karadikallu Homestay',
-                            location: 'Rs.3000 onwards',
+                            desc: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -97042,7 +97042,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/ROCKFORT+RESORT.jpg',
                             name: 'Rockfort Resort',
-                            location: 'Rs.3500 onwards',
+                            desc: 'Rs.3500 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -97055,7 +97055,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/Sakleshpur+home+stay.jpg',
                             name: 'Sakleshpur Homestay',
-                            location: 'Rs.3000 onwards',
+                            desc: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -97075,7 +97075,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/Nature+INN+with+Mountain+View.jpg',
                             name: 'Nature INN ',
-                            location: 'Rs.3200 onwards',
+                            desc: 'Rs.3200 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -97087,7 +97087,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/STAYMAKER+Veera+Homestay.jpg',
                             name: 'Staymaker Veera  ',
-                            location: 'Rs.6000 onwards',
+                            desc: 'Rs.6000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -97099,7 +97099,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/Vamoose+Friendz+Homestay.jpg',
                             name: 'Vamoose Friend ',
-                            location: 'Rs.8000 onwards',
+                            desc: 'Rs.8000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -97116,20 +97116,20 @@ export const Vendors = {
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Luxury/Wild+Wood+Resort.jpg',
+                            videoId: 'teJzM1LBmv8'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video1.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/Nature+INN+with+Mountain+View.jpg',
+                            videoId: 'x9Li_Ao87BE'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video2.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/Vamoose+Friendz+Homestay.jpg',
+                            videoId: '7wdLyLHqKVw'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video3.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/ROCKFORT+RESORT.jpg',
+                            videoId: 'oh7VHHn3seI'
                         }
                     ]
                 },
@@ -98154,7 +98154,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Gopi+Guest+House.jpg',
                             name: 'Gopi Guest House',
-                            location: 'Rs.2000 onwards',
+                            desc: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -98167,7 +98167,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Khushi+Cottage.jpg',
                             name: 'Khushi Cottage',
-                            location: 'Rs.3000 onwards',
+                            desc: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -98180,7 +98180,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Padmaa+Hampi+Villa.jpg',
                             name: 'Padmaa Hampi Villa',
-                            location: 'Rs.2500 onwards',
+                            desc: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -98200,7 +98200,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MALPE_PICKNICbassket.jpg',
                             name: 'Malpe Picknic',
-                            location: 'Rs.9000 onwards',
+                            desc: 'Rs.9000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -98212,7 +98212,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hampi+Heritage+and+Wilderness+Resort.jpg',
                             name: 'Wilderness Resort',
-                            location: 'Rs.8000 onwards',
+                            desc: 'Rs.8000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -98224,7 +98224,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hotel+Gowri.jpg',
                             name: 'Hotel Gowri',
-                            location: 'Rs.7000 onwards',
+                            desc: 'Rs.7000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -98241,19 +98241,19 @@ export const Vendors = {
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Budget/Coconut+Homestay+Hampi.jpg',
+                            videoId: 'UAMbmFb54HY'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video1.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Padmaa+Hampi+Villa.jpg',
+                            videoId: 'b4UfPiopqiU'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video2.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Khushi+Cottage.jpg',
+                            videoId: 'SW7WwHaEur0'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/video3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hotel+Gowri.jpg',
                             videoId: ''
                         }
                     ]
@@ -99311,7 +99311,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/FarmHouse/Devbagh+beach+resort.jpg',
                             name: 'Devbagh bench Resort',
-                            location: 'Rs.10000 onwards',
+                            desc: 'Rs.10000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
@@ -99323,7 +99323,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/FarmHouse/Majali+Beach+Resorts.jpg',
                             name: 'Majali Beach Resorts',
-                            location: 'Rs.8000 onwards',
+                            desc: 'Rs.8000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
