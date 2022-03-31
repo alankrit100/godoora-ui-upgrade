@@ -94613,39 +94613,39 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiLuxury/Paradise+Wild+Hills+Resort.jpg',
                             name: 'Paradise Wild Hills Resort',
-                            location: '',
+                            location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiLuxury/Sai+Vishram+Beach+Resort.jpg',
                             name: 'Sai Vishram Beach Resort',
-                            location: '',
+                            location: 'Rs.5500 onwards ',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiLuxury/Wild+Woods+Resort.jpg',
                             name: 'Wild Woods Resort',
-                            location: '',
+                            location: 'Rs.5000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -94659,39 +94659,39 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiBudget/Akuna+Matata.jfif',
                             name: 'Akuna Matata',
-                            location: '',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiBudget/FreshUp+Minds.jpg',
                             name: 'FreshUp Minds',
-                            location: '',
+                            location: 'Rs.2200 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiBudget/Hotel+Sharada+International.jpg',
                             name: 'Hotel Sharada International',
-                            location: '',
+                            location: 'Rs.1800 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -94705,39 +94705,39 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/udupihostel/Hotel+Janardana.jpg',
                             name: 'Hotel Janardana',
-                            location: '',
+                            location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/udupihostel/Malpe+Sea+Front+Cottages.jpg',
                             name: 'Malpe Sea Front Cottages',
-                            location: '',
+                            location: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/udupihostel/Samanvay+Boutique+Hotel.jpg',
                             name: 'Samanvay Boutique Hotel',
-                            location: '',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -94751,36 +94751,36 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiFarmHouse/Hegde+Farm+House.jpg',
                             name: 'Hegde Farm House',
-                            desc: '',
+                            location: 'Rs.11000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiFarmHouse/Neel+Taranga.jpg',
                             name: 'Neel Taranga',
-                            desc: '',
+                            location: 'Rs.5000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/UdupiFarmHouse/Shetty+Riverview+Farm+House.jpg',
                             name: 'Shetty Riverview Farm House',
-                            desc: '',
+                            location: 'Rs.8000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -95750,52 +95750,52 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/ama+Plantation+Trails.jpg',
                             name: 'Ama Plantation Trails',
-                            location: '',
+                            location: 'Rs.10000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/Bopaiah+Inn.jpg',
                             name: 'Bopaiah Inn',
-                            location: '',
+                            location: 'Rs.9000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/Green+Pastures.jpg',
                             name: 'Green Pastures',
-                            location: '',
+                            location: 'Rs.8000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+luxury/The+Birchwood+Retreat.jpg',
                             name: 'The Birchwood Retreat',
-                            location: '',
+                            location: 'Rs.9500 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -95809,51 +95809,51 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+budget/Coorg+Tree+House.jpg',
                             name: 'Coorg Tree House',
-                            location: '',
+                            location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+budget/Kunji+Phad+River+View+Homestay.jpg',
                             name: 'Kunja Phad River View Homestay',
-                            location: '',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+budget/The+Coorg+Heaven.jpg',
                             name: 'The Coorg Heaven',
-                            location: '',
+                            location: 'Rs.2600 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+budget/Treebo+Trend+Sans+Sarav+Kushalnagar.jpg',
                             name: 'Treebo Trend Sans Sarav Kushalnagar',
-                            desc: '',
+                            location: 'Rs.2200 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -95867,52 +95867,52 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Capitol+Village+Resort.jpg',
                             name: 'Capitol Village Resort',
-                            location: '',
+                            location: 'Rs.1800 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Hotel+Caveri+Inn.jpg',
                             name: 'Hotel Caveri Inn',
-                            location: '',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/KSTDC+Hotel+Mayura+Tala+Kaveri.jpg',
                             name: 'KSTDC Hotel Mayura Tala Kaveri',
-                            location: '',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+hostel/Zostel+Homes.jpg7',
                             name: 'Zostel Homes',
-                            location: '',
+                            location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -95926,48 +95926,48 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Coorg+Rain+Drop+Farm+Stay.jpg',
                             name: 'Coorg Rain Drop Farm Stay',
-                            desc: '',
+                            location: 'Rs.9000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Heights+Farm+Stay.jpg',
                             name: 'Heights Farm Stay',
-                            desc: '',
+                            location: 'Rs.10000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Deep+Woodz+Estate+Stay.jpg',
                             name: 'Deep Woodz Estate Stay',
-                            desc: '',
+                            location: 'Rs.10000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/coorg+farmhouse/Kwality+Estate.jpg',
                             name: 'Kwality Estate',
-                            desc: '',
+                            location: 'Rs.11000 onwards',
                             routerLink: '',
                             extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -96899,12 +96899,12 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/homestay3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Budget/Farmers+Son+CampingGround.jpg',
                             heading: 'Get Direct Deals From HomeStays',
                             subHeading: 'At Best Price',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Homestay13.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/ROCKFORT+RESORT.jpg',
                             heading: 'Your One-Stop-Shop of HomeStays',
                             subHeading: 'The Perfect Place To Rejuvenate',
                         }
@@ -96935,172 +96935,42 @@ export const Vendors = {
                     desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
-                            name: 'TORI KASTU ROLL',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Luxury/YohStay.jpg',
+                            name: 'YohStay',
+                            location: 'Rs.5000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
-                            name: 'YASAI FUTO MAKI',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Luxury/Wild+Wood+Resort.jpg',
+                            name: 'Wild Wood Resort',
+                            location: 'Rs.4500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
-                            name: 'CRAB TEMPURA',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Luxury/TripThrill+Swastha+Homestay.jpg',
+                            name: 'TripThrill Swastha Homestay',
+                            location: 'Rs.3500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
-                            name: 'SPICY SALMON SUSHI ROLL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
-                            name: 'MURGH MALAI CHAAP',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
-                            name: 'SABNAMI VEG SHEEK',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
-                            name: 'VEG CHILLY MILLY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
-                            name: 'MURGH SOLEY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
-                            name: 'KHUMB CHEMAN TIKKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/sushi.jpeg',
-                            name: 'DILCIOUS MIX SUSHI PLATTERS',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rajma.jpeg',
-                            name: 'DILCIOUS RAJMA CHAWAL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/crispyshrimp.jpeg',
-                            name: 'DILCIOUS CRISPY SHRIMP MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/salmonmaki.jpeg',
-                            name: 'DILCIOUS FLAMED SALMON MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -97111,67 +96981,42 @@ export const Vendors = {
                     desc: 'A fine dining experience is about more than just the food on the plate. We believe countryInn is the destination in itself',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/prawwnn.jpeg',
-                            name: 'RHG Mangalorean Prawns',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Budget/Farmers+Son+CampingGround.jpg',
+                            name: 'Farmers Son CampingGround',
+                            location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Fish_curry.jpg',
-                            name: 'RHG Malvani Style Fish Curry',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Budget/Mandaara+homestay+Hongadahalla.jpg',
+                            name: 'Mandaara Homestay',
+                            location: 'Rs.2200 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df506fe0d0c003e43b20f',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TawaFish.jpg',
-                            name: 'RHG Tawa Macchali',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Budget/CoffeeINN+Homestay.jpg',
+                            name: 'Coffee Inn Homestay',
+                            location: 'Rs.2600 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df582fe0d0c003e43b217',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/amritsari-fish.jpg',
-                            name: 'RHG Fish Amritsari',
-                            desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df614fe0d0c003e43b224',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Butter_chickenn.jpg',
-                            name: 'RHG Butter Chicken',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df6cefe0d0c003e43b231',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -97182,55 +97027,42 @@ export const Vendors = {
                     desc: 'Set off on the ultimate gourmet journey with CountryInn Suites by Radisson. Every moment promises to be in the greatest of taste.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VegBasket.jpg',
-                            name: 'St.Marys Island Tour with Picnic Basket',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/Karadikallu+Homestay.jpg',
+                            name: 'Karadikallu Homestay',
+                            location: 'Rs.3000 onwards',
                             views: '',
-                            routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Religius+Bsket.jpg',
-                            name: 'Pure Veg Food Basket For Religious Tour',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/ROCKFORT+RESORT.jpg',
+                            name: 'Rockfort Resort',
+                            location: 'Rs.3500 onwards',
                             views: '',
-                            routerLink: '/stores/PureVegFoodBasketForReligiuosour',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/PureVegFoodBasketForReligiuosour',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg',
-                            name: 'Personalised Cake For The Special One',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/Hostels/Sakleshpur+home+stay.jpg',
+                            name: 'Sakleshpur Homestay',
+                            location: 'Rs.3000 onwards',
                             views: '',
-                            routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/HomeParty.jpg',
-                            name: 'Customised Order For Your House Party',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CustomisedOrderForYourHouseParty',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/CustomisedOrderForYourHouseParty',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -97241,21 +97073,45 @@ export const Vendors = {
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MALPE_PICKNICbassket.jpg',
-                            name: 'Malpe Tour With Gourmet Picnic Basket',
-                            desc: '',
-                            routerLink: '/stores/Malpetourwithpicnicbasket',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/Nature+INN+with+Mountain+View.jpg',
+                            name: 'Nature INN ',
+                            location: 'Rs.3200 onwards',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/Malpetourwithpicnicbasket',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/STAYMAKER+Veera+Homestay.jpg',
+                            name: 'Staymaker Veera  ',
+                            location: 'Rs.6000 onwards',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Sakleshpur/FarmHouse/Vamoose+Friendz+Homestay.jpg',
+                            name: 'Vamoose Friend ',
+                            location: 'Rs.8000 onwards',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
                 },
                 stories: {
-                    active: false,
+                    active: true,
                     heading: 'Behind The Scenes',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
@@ -98123,7 +97979,7 @@ export const Vendors = {
         },
         {
             branch: 'Hampi',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mussoorie2.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hampi+Heritage+and+Wilderness+Resort.jpg',
             id: 'www.griham-homestays.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
@@ -98180,12 +98036,12 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/slider2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hotel+Gowri.jpg',
                             heading: 'Discover Unique HomeStay Experiences',
                             subHeading: 'Unique Experiences | Creative Workshops',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/MusSlider1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Luxury/Clarks+INN+Hampi.jpg',
                             heading: 'Get Direct Deals From HomeStays',
                             subHeading: 'At Best Price',
                         }
@@ -98216,174 +98072,32 @@ export const Vendors = {
                     desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
-                            name: 'TORI KASTU ROLL',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Luxury/Clarks+INN+Hampi.jpg',
+                            name: 'Clarks INN Hampi',
+                            location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
-                            name: 'YASAI FUTO MAKI',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Luxury/Heritage+Resort+Hampii.jpg',
+                            name: 'Heritage Resort',
+                            location: 'Rs.7000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                routerLink: 'www.griham-homestays.goyaana.com',
+                                extLink: '',
+                                label: 'EXPLORE'
                             }
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
-                            name: 'CRAB TEMPURA',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
-                            name: 'SPICY SALMON SUSHI ROLL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
-                            name: 'MURGH MALAI CHAAP',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
-                            name: 'SABNAMI VEG SHEEK',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
-                            name: 'VEG CHILLY MILLY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
-                            name: 'MURGH SOLEY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
-                            name: 'KHUMB CHEMAN TIKKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/sushi.jpeg',
-                            name: 'DILCIOUS MIX SUSHI PLATTERS',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rajma.jpeg',
-                            name: 'DILCIOUS RAJMA CHAWAL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/crispyshrimp.jpeg',
-                            name: 'DILCIOUS CRISPY SHRIMP MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/salmonmaki.jpeg',
-                            name: 'DILCIOUS FLAMED SALMON MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        }
+                        
                     ]
                 },
                 experiences: {
@@ -98392,67 +98106,42 @@ export const Vendors = {
                     desc: 'A fine dining experience is about more than just the food on the plate. We believe countryInn is the destination in itself',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/prawwnn.jpeg',
-                            name: 'RHG Mangalorean Prawns',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Budget/Thilak+Home+Stay.jpg',
+                            name: 'Thilak Homestay',
+                            location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                                label: 'ORDER NOW'
+                                extLink: '',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Fish_curry.jpg',
-                            name: 'RHG Malvani Style Fish Curry',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Budget/New+Lakshmi+Tourist+Home.jpg',
+                            name: 'New Lakshmi Tourist Home',
+                            location: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df506fe0d0c003e43b20f',
-                                label: 'ORDER NOW'
+                                extLink: '',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TawaFish.jpg',
-                            name: 'RHG Tawa Macchali',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Budget/Coconut+Homestay+Hampi.jpg',
+                            name: 'Coconut Homestay',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df582fe0d0c003e43b217',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/amritsari-fish.jpg',
-                            name: 'RHG Fish Amritsari',
-                            desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df614fe0d0c003e43b224',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Butter_chickenn.jpg',
-                            name: 'RHG Butter Chicken',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df6cefe0d0c003e43b231',
-                                label: 'ORDER NOW'
+                                extLink: '',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -98463,55 +98152,42 @@ export const Vendors = {
                     desc: 'Set off on the ultimate gourmet journey with CountryInn Suites by Radisson. Every moment promises to be in the greatest of taste.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VegBasket.jpg',
-                            name: 'St.Marys Island Tour with Picnic Basket',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Gopi+Guest+House.jpg',
+                            name: 'Gopi Guest House',
+                            location: 'Rs.2000 onwards',
                             views: '',
-                            routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Religius+Bsket.jpg',
-                            name: 'Pure Veg Food Basket For Religious Tour',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Khushi+Cottage.jpg',
+                            name: 'Khushi Cottage',
+                            location: 'Rs.3000 onwards',
                             views: '',
-                            routerLink: '/stores/PureVegFoodBasketForReligiuosour',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/PureVegFoodBasketForReligiuosour',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg',
-                            name: 'Personalised Cake For The Special One',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/Hostels/Padmaa+Hampi+Villa.jpg',
+                            name: 'Padmaa Hampi Villa',
+                            location: 'Rs.2500 onwards',
                             views: '',
-                            routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/HomeParty.jpg',
-                            name: 'Customised Order For Your House Party',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CustomisedOrderForYourHouseParty',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/CustomisedOrderForYourHouseParty',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -98519,24 +98195,48 @@ export const Vendors = {
                 offers: {
                     active: true,
                     heading: 'Farm Houses',
-                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    desc: '"Experiences are something that we relive and talk about long after the moments are over". We promise to make your journey worth remembering.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MALPE_PICKNICbassket.jpg',
-                            name: 'Malpe Tour With Gourmet Picnic Basket',
-                            desc: '',
-                            routerLink: '/stores/Malpetourwithpicnicbasket',
+                            name: 'Malpe Picknic',
+                            location: 'Rs.9000 onwards',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/Malpetourwithpicnicbasket',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hampi+Heritage+and+Wilderness+Resort.jpg',
+                            name: 'Wilderness Resort',
+                            location: 'Rs.8000 onwards',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/HampiImages/FarmHouse/Hotel+Gowri.jpg',
+                            name: 'Hotel Gowri',
+                            location: 'Rs.7000 onwards',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
                 },
                 stories: {
-                    active: false,
+                    active: true,
                     heading: 'Behind The Scenes',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
@@ -99404,7 +99104,7 @@ export const Vendors = {
         },
         {
             branch: 'Karwar',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Mcleodganj3.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Luxury/Sterling+Karwar.jpg',
             id: 'www.griham-homestays.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/griham_logo.jpg',
             theme: 'fortune-theme',
@@ -99461,12 +99161,12 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/MclSilder.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Budget/Kali+Adventure+Camp.jpg',
                             heading: 'Your One-Stop-Shop of HomeStays',
                             subHeading: 'The Perfect Place To Rejuvenate',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/griham/Homestay11.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Luxury/Sterling+Karwar.jpg',
                             heading: 'Get Direct Deals From HomeStays',
                             subHeading: 'At Best Price',
                         }
@@ -99497,172 +99197,42 @@ export const Vendors = {
                     desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
-                            name: 'TORI KASTU ROLL',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Luxury/Sterling+Karwar.jpg',
+                            name: 'Sterling Karwar',
+                            location: 'Rs.5000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
-                            name: 'YASAI FUTO MAKI',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Luxury/Magnificent+Island+Resort+In+Karwar.jpg',
+                            name: 'Magnificent Island Resort',
+                            location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
-                            name: 'CRAB TEMPURA',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Luxury/Aditi+Comforts+Service+Apartment.jpg',
+                            name: 'Aditi Comforts',
+                            location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
-                            name: 'SPICY SALMON SUSHI ROLL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
-                            name: 'MURGH MALAI CHAAP',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
-                            name: 'SABNAMI VEG SHEEK',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
-                            name: 'VEG CHILLY MILLY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
-                            name: 'MURGH SOLEY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
-                            name: 'KHUMB CHEMAN TIKKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/sushi.jpeg',
-                            name: 'DILCIOUS MIX SUSHI PLATTERS',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rajma.jpeg',
-                            name: 'DILCIOUS RAJMA CHAWAL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/crispyshrimp.jpeg',
-                            name: 'DILCIOUS CRISPY SHRIMP MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/salmonmaki.jpeg',
-                            name: 'DILCIOUS FLAMED SALMON MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -99673,67 +99243,42 @@ export const Vendors = {
                     desc: 'A fine dining experience is about more than just the food on the plate. We believe countryInn is the destination in itself',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/prawwnn.jpeg',
-                            name: 'RHG Mangalorean Prawns',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Budget/Sadashivgad+Sea+View+Resort.jpg',
+                            name: 'Sadashivgad Sea View Resort',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Fish_curry.jpg',
-                            name: 'RHG Malvani Style Fish Curry',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Budget/Kali+Adventure+Camp.jpg',
+                            name: 'Kali Adventure Camp',
+                            location: 'Rs.2200 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df506fe0d0c003e43b20f',
-                                label: 'ORDER NOW'
+                                extLink: '',
+                                label: 'EXPLORE'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TawaFish.jpg',
-                            name: 'RHG Tawa Macchali',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Budget/BLUE+ARROW+HOTEL+KARWAR.jpg',
+                            name: 'Blue Arrow Hotel Karwar',
+                            location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df582fe0d0c003e43b217',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/amritsari-fish.jpg',
-                            name: 'RHG Fish Amritsari',
-                            desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df614fe0d0c003e43b224',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Butter_chickenn.jpg',
-                            name: 'RHG Butter Chicken',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df4a3fe0d0c003e43b207',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/products/618df6cefe0d0c003e43b231',
-                                label: 'ORDER NOW'
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -99744,55 +99289,16 @@ export const Vendors = {
                     desc: 'Set off on the ultimate gourmet journey with CountryInn Suites by Radisson. Every moment promises to be in the greatest of taste.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VegBasket.jpg',
-                            name: 'St.Marys Island Tour with Picnic Basket',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/Hostels/Hotel+West+End.jpg',
+                            name: 'Hotel West End',
+                            location: 'Rs.2500 onwards',
                             views: '',
-                            routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/StMarysIslandTourwithArtisinalPicnicBasket',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Religius+Bsket.jpg',
-                            name: 'Pure Veg Food Basket For Religious Tour',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PureVegFoodBasketForReligiuosour',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/PureVegFoodBasketForReligiuosour',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/PersonalisedCake.jpg',
-                            name: 'Personalised Cake For The Special One',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/PersonalisedCakeForTheSpecialOne',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/HomeParty.jpg',
-                            name: 'Customised Order For Your House Party',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CustomisedOrderForYourHouseParty',
-                            extLink: '',
-                            btn: {
-                                routerLink: '/stores/CustomisedOrderForYourHouseParty',
-                                extLink: '',
-                                label: 'ENQUIRE NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
@@ -99803,15 +99309,27 @@ export const Vendors = {
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MALPE_PICKNICbassket.jpg',
-                            name: 'Malpe Tour With Gourmet Picnic Basket',
-                            desc: '',
-                            routerLink: '/stores/Malpetourwithpicnicbasket',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/FarmHouse/Devbagh+beach+resort.jpg',
+                            name: 'Devbagh bench Resort',
+                            location: 'Rs.10000 onwards',
+                            routerLink: '',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/Malpetourwithpicnicbasket',
-                                extLink: '',
-                                label: 'BOOK NOW'
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/Karwar/FarmHouse/Majali+Beach+Resorts.jpg',
+                            name: 'Majali Beach Resorts',
+                            location: 'Rs.8000 onwards',
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
+                                label: 'EXPLORE'
                             }
                         }
                     ]
