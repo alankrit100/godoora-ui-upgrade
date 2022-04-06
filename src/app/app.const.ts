@@ -115965,7 +115965,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/landingImage.jpg',
                             heading: 'GET 15% FLAT DISCOUNT ON YOUR ORDER',
-                            subHeading: 'Sri Udupi Food Hub - Food Delivery',
+                            subHeading: 'SriUdupiFoodHub - Food Delivery',
                         }
                     ]
                 },
@@ -116083,7 +116083,7 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'www.sriudupifoodhub.goyaana.com',
+                            extLink: '',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub.goyaana.com',
