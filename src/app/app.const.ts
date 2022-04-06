@@ -116015,7 +116015,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub-jayanagar.goyaana.com',
-                                label: 'Click Here'
+                                label: 'Order Now'
                             }
                         },
                         {
@@ -116028,7 +116028,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub-kammanahalli.goyaana.com',
-                                label: 'Click Here'
+                                label: 'Order Now'
                             }
                         },
                         {
@@ -116041,7 +116041,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub-vijayanagar.goyaana.com',
-                                label: 'Click Here'
+                                label: 'Order Now'
                             }
                         }
                     ]
