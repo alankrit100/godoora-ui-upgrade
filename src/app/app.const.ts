@@ -116002,12 +116002,12 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'OurBranches',
+                    heading: 'Our Branches',
                     desc: 'The pocket-friendly menu complements the tastes and preferences of people coming from different demography..',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/landingImage.jpg',
-                            name: 'SriUdupiFoodHub-jayanagar',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/jayanagar.jpg',
+                            name: 'Jayanagar',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -116015,12 +116015,12 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub-jayanagar.goyaana.com',
-                                label: 'Order Now'
+                                label: 'ORDER NOW'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/kammanahalli/sriudupi-kammanahalli.jpg',
-                            name: 'SriUdupiFoodHub-Kammanahalli',
+                            name: 'Kammanahalli',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -116028,12 +116028,12 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub-kammanahalli.goyaana.com',
-                                label: 'Order Now'
+                                label: 'ORDER NOW'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/Vijaynagar.jpg',
-                            name: 'SriUdupiFoodHub-Vijayanagar',
+                            name: 'Vijayanagar',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -116041,19 +116041,19 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub-vijayanagar.goyaana.com',
-                                label: 'Order Now'
+                                label: 'ORDER NOW'
                             }
                         }
                     ]
                 },
                 experiences: {
                     active: true,
-                    heading: 'SriUdupiFoodHub-Catering & Function Hall',
+                    heading: 'Catering & Function Hall',
                     desc: 'A fine dining experience is about more than just the food on the plate. We believe SriUdupiFoodHub is the destination in itself',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/PartyHall.jpg',
-                            name: 'SriUdupiFoodHub-Party Hall',
+                            name: 'Party Hall',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -116061,12 +116061,12 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub.goyaana.com',
-                                label: 'Book NOW'
+                                label: 'BOOK NOW'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/WeddingHall.jpg',
-                            name: 'SriUdupiFoodHub-Wedding Hall',
+                            name: 'Wedding Hall',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -116074,12 +116074,12 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub.goyaana.com',
-                                label: 'Book NOW'
+                                label: 'BOOK NOW'
                             }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sriudupifoodhub/Catering.jpg',
-                            name: 'SriUdupiFoodHub-Catering',
+                            name: 'Catering',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -116087,7 +116087,7 @@ export const Vendors = {
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.sriudupifoodhub.goyaana.com',
-                                label: 'Book NOW'
+                                label: 'BOOK NOW'
                             }
                         }
                     ]
@@ -117104,8 +117104,6 @@ export const Vendors = {
             }
         }
     ]
-    
-
 };
 
 export class LoginType {
