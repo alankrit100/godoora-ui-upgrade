@@ -86909,32 +86909,52 @@ export const Vendors = {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/PoolTable_16',
                             extLink: '',
+                            btn: {
+                                routerLink: '/stores/PoolTable_16',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/dinUnderSky.jpg',
                             name: 'Private Terrace Party',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/DiningUnderStars',
                             extLink: '',
+                            btn: {
+                                routerLink: '/stores/DiningUnderStars',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CandleLightDinner.jpeg',
                             name: 'Candle Light Dinner ',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/CandleLightDinner_6',
                             extLink: '',
+                            btn: {
+                                routerLink: '/stores/CandleLightDinner_6',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cookwithchef1.jpg',
                             name: 'Dine - Private Chef & Butler',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/Cookingwithchef_7',
                             extLink: '',
+                            btn: {
+                                routerLink: '/stores/Cookingwithchef_7',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         }
                     ]
                 },
@@ -86964,7 +86984,7 @@ export const Vendors = {
                             routerLink: '/stores/Kapubeach',
                             extLink: '',
                             btn: {
-                                routerLink: '',
+                                routerLink: '/stores/Kapubeach',
                                 extLink: '',
                                 label: 'BOOK NOW'
                             }
@@ -86996,6 +87016,11 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/TowelOrigamy_4',
                             extLink: '',
+                            btn: {
+                                routerLink: '/stores/TowelOrigamy_4',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/mocktail2.jpg',
@@ -87003,7 +87028,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/Mocktailmakingsession_2',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                routerLink: '/stores/Mocktailmakingsession_2',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/cookwith-chef.jpg',
@@ -87012,6 +87042,11 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/Cookingwithchef_7',
                             extLink: '',
+                            btn: {
+                                routerLink: '/stores/Cookingwithchef_7',
+                                extLink: '',
+                                label: 'BOOK NOW'
+                            }
                         }
                     ]
                 },
