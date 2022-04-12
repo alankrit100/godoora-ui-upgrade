@@ -86909,10 +86909,10 @@ export const Vendors = {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolTable_16',
+                            routerLink: '/stores/Foodnearpool',
                             extLink: '',
                             btn: {
-                                routerLink: '/stores/PoolTable_16',
+                                routerLink: '/stores/Foodnearpool',
                                 extLink: '',
                                 label: 'BOOK NOW'
                             }
