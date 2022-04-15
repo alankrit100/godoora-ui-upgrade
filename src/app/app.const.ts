@@ -117284,7 +117284,7 @@ export const Vendors = {
                             label: 'Enjoy The View With your Loved One',
                             extLink: '',
                             routerLink: ''
-                        },
+                        }
                     ]
                 },
                 heroIntro: {
