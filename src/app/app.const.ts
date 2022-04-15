@@ -116966,7 +116966,7 @@ export const Vendors = {
             id: 'www.islandhomestay.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Islandhomestay.png',
             theme: 'grey-theme',
-            idCategory: 26,
+            idCategory: 31,
             favIconLink: 'assets/icon/favicon.png',
             title: 'ISLAND HOMESTAY',
             storeImg: 'social2.jpg',
@@ -117238,56 +117238,50 @@ export const Vendors = {
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/hosamane_fruit+room.jpg',
-                            label: 'Hosamane-Coffee Fruit',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Bright.jpeg',
+                            label: 'brightfull of light',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/slider2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/roof.jpeg',
                             label: 'Rooftop dining',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/dining_area.jpg',
-                            label: 'Dining Room',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Dinning.jpeg',
+                            label: 'Dining Veranda',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/hosamane_coffee_cherry.jpg',
-                            label: 'Hosamane-Coffee Cherry',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Water.jpeg',
+                            label: 'Water Adventure',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/hosamane_Coffe_blossom.jpg',
-                            label: 'Hosamane-Coffee Blossom',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Pleasant.jpeg',
+                            label: 'pleasant scene',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/Hosamane_room.jpg',
-                            label: 'Hosamane Room',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/enjoy.jpeg',
+                            label: 'Enjoy The Camp With Your Loved One',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/pathway.jpg',
-                            label: 'Pathway',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Nature.jpeg',
+                            label: 'Nature',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/View2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/View.jpeg',
                             label: 'Enjoy The View With your Loved One',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/View.jpg',
-                            label: 'Enjoy Sunset View',
                             extLink: '',
                             routerLink: ''
                         },
