@@ -117115,7 +117115,7 @@ export const Vendors = {
                             name: 'St. Mary`s Island Tour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/StMaryIslandtour_1',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -117123,7 +117123,7 @@ export const Vendors = {
                             name: 'House Boat Ride',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HouseboatRide',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
