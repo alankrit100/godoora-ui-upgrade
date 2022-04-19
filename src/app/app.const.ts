@@ -45817,7 +45817,7 @@ export const Vendors = {
                 {
                     label: 'Services Directory',
                     extLink: '',
-                    routerLink: '',
+                    routerLink: '/by-admin/603',
                     icon: 'calendar-outline'
                 },
                 {
@@ -46897,7 +46897,7 @@ export const Vendors = {
                 },
                 {
                     name: 'SPA LAUNDRY AND MINIBAR MENU',
-                    icon: 'fortunegrace/SPA LAUNDRY AND MINIBAR MENU.png',
+                    icon: 'fortunegrace/spaLUndry.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -47034,7 +47034,7 @@ export const Vendors = {
                             name: 'In Room Dining',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/diningg.png',
+                            icon: 'fortunegrace/serving-dish.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
