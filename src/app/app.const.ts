@@ -45322,7 +45322,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/PlanYourTrip.png',
-                            label: 'Plan your trip',
+                            label: 'Services Directory',
                             extLink: 'https://www.fortunehotels-planner.goyaana.com',
                             routerLink: ''
                         }
@@ -45339,7 +45339,12 @@ export const Vendors = {
                             location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
                             views: '',
                             routerLink: '/stores/CandlelightdinnerattheTerracewithvalleyview',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/CandlelightdinnerattheTerracewithvalleyview',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
@@ -45347,7 +45352,12 @@ export const Vendors = {
                             location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
                             views: '',
                             routerLink: '/stores/Cookwithchef_1',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Cookwithchef_1',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
@@ -45355,7 +45365,12 @@ export const Vendors = {
                             location: 'Book any 1 outdoor activity from our website and get 1 Hour pool table free.',
                             views: '',
                             routerLink: '/by-admin/225',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/225',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
@@ -45363,7 +45378,12 @@ export const Vendors = {
                             location: 'Go on a Heritage walk and get 10 minutes of air hockey free.',
                             views: '',
                             routerLink: '/stores/HeritageWalk',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/HeritageWalk',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                     ]
                 },
@@ -45378,7 +45398,12 @@ export const Vendors = {
                             location: 'Camping is the best way to enjoy the Great Outdoors',
                             views: '',
                             routerLink: '/stores/NightCamping',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/NightCamping',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/BurmaBridge.jpg',
@@ -45386,7 +45411,12 @@ export const Vendors = {
                             location: 'When you cross a bridge, you take a break from this world!',
                             views: '',
                             routerLink: '/stores/BurmaBridge',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/BurmaBridge',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/CommandoNet.jpg',
@@ -45394,7 +45424,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/CommondoNet',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/CommondoNet',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Ladder_Climbing.jpg',
@@ -45402,7 +45437,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/LadderClimbing',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/LadderClimbing',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
@@ -45410,7 +45450,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/by-admin/224',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/224',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
@@ -45418,7 +45463,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/ZipLine',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/ZipLine',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/DubleRope_bridge.jpg',
@@ -45426,7 +45476,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/DoubleRopeBridge',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/DoubleRopeBridge',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Conference.jpg',
@@ -45434,7 +45489,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/Meetinghall',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Meetinghall',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bonfire1.jpg',
@@ -45442,7 +45502,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/Firecamping',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Firecamping',
+                                label: 'ENQUIRE NOW'
+                            }
                         }
                     ]
                 },
@@ -45456,28 +45521,48 @@ export const Vendors = {
                             name: 'Art & Craft classes',
                             desc: 'Duration: 2 hours',
                             routerLink: '/stores/ArtandCraftClasses',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/ArtandCraftClasses',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dance.jpg',
                             name: 'Dance Classes',
                             desc: 'Duration: 2 hours',
                             routerLink: '/stores/DanceClasses',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/DanceClasses',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
                             name: 'Cook With Chef',
                             desc: 'Duration: 2 hours',
                             routerLink: '/stores/Cookwithchef_1',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Cookwithchef_1',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: 'Duration: 1 hours',
                             routerLink: '/stores/Bedmakingworkshopbyhousekeepingstaff',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Bedmakingworkshopbyhousekeepingstaff',
+                                label: 'ENQUIRE NOW'
+                            }
                         }
                     ]
                 },
@@ -45491,56 +45576,96 @@ export const Vendors = {
                             name: 'Experience the mysterious Lambi Dehar Mines',
                             desc: '',
                             routerLink: '/stores/LambiDeharMines',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/LambiDeharMines',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Book_Depot.jpg',
                             name: 'Evening meet with Ruskin Bond at Cambridge Book Depot',
                             desc: '',
                             routerLink: '/stores/CambridgeBookDepot',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/CambridgeBookDepot',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
                             name: 'Heritage Walk',
                             desc: '',
                             routerLink: '/stores/HeritageWalk',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/HeritageWalk',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Food_festival.jpg',
                             name: 'Mussoorie Winterline Carnival | Food Festival',
                             desc: '',
                             extLink: '',
-                            routerLink: '/off-season'
+                            routerLink: '/off-season',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/off-season',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Food_tour.jpg',
                             name: 'Food Tour of cuisines of Mussoorie',
                             desc: '',
                             routerLink: '/stores/FoodTourofcuisinesofMussoorie',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/FoodTourofcuisinesofMussoorie',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/walk_guide.jpg',
                             name: 'Walk with a local to learn the story of the city',
                             desc: '',
                             routerLink: '/stores/Walkwithalocal_1',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Walkwithalocal_1',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Trek_with_Expert.jpg',
                             name: 'Trek with an expert',
                             desc: '',
                             routerLink: '/stores/Trekwithanexpert',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Trekwithanexpert',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/George_Everest.jpg',
                             name: 'George Everest Trek Point',
                             desc: '',
                             routerLink: '/stores/GeorgeEverestTrekPoint',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/GeorgeEverestTrekPoint',
+                                label: 'ENQUIRE NOW'
+                            }
                         }
                     ]
                 },
@@ -45687,6 +45812,12 @@ export const Vendors = {
                     label: 'Booked List',
                     extLink: '',
                     routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'Services Directory',
+                    extLink: '',
+                    routerLink: '',
                     icon: 'calendar-outline'
                 },
                 {
@@ -46853,6 +46984,186 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Services Directory',
+                    icon: 'fortunegrace/directory.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Services Directory',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Sales & Reservations Offices in India',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/2.+Sales+%26+Reservations+Offices+in+India.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/reserve.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'In Room Dining',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/diningg.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Dining Facilities',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/4.+Dining+Facilities.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Other Fortune Hotels',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/5.+Other+Fortune+Hotels.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Safety',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/6.+Safety.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/safety.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'House Rules',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/7.+House+Rules.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/rules.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Telecommunication',
+                            extLink: '  https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/8.+Telecommunication.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/network.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'About the Place',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/9.+About+the+Place.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/place.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Places of Interest',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/10.+Places+of+Interest.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/PlaceOfInterest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
                             ]
                         }
                     ]
