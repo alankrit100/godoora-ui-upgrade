@@ -45321,10 +45321,10 @@ export const Vendors = {
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/PlanYourTrip.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/ServiceDirectory.jpg',
                             label: 'Services Directory',
-                            extLink: 'https://www.fortunehotels-planner.goyaana.com',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/by-admin/603'
                         }
                     ]
                 },
@@ -45925,7 +45925,7 @@ export const Vendors = {
                             name: 'Additional Bedding',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Bedding.png',
+                            icon: 'fortunemussoorieicons/bedmaking.png',
                             showTextarea: true,
                             placeholder: 'Example: Please send me an extra pillow',
                             headerText: 'Select a time you would like to receive it.',
@@ -46587,7 +46587,7 @@ export const Vendors = {
                             name: 'Bedmaking workshop by housekeeping staff',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bed.png',
+                            icon: 'fortunemussoorieicons/bedmaking.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -46897,7 +46897,7 @@ export const Vendors = {
                 },
                 {
                     name: 'SPA LAUNDRY AND MINIBAR MENU',
-                    icon: 'fortunegrace/menu.png',
+                    icon: 'fortunegrace/SPA LAUNDRY AND MINIBAR MENU.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
