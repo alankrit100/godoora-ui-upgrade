@@ -1099,41 +1099,73 @@ export const Vendors = {
             },
             landingPage: {
                 slider: {
-                    active: false,
+                    active: true,
                     items: [
                         {
-                            img: 'https://images.unsplash.com/photo-1600112356915-089abb8fc71a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1757&q=80',
-                            heading: 'A trip that will fulfil your dream list',
-                            subHeading: 'Art & Culture | Visual Delight | City of Palaces'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/SliderNExtGen.png',
+                            heading: 'SUPERAPP FOR THE NEXT-GEN HOSPITALITY',
+                            subHeading: 'Enabling hotels, restaurants & homestays to go D2C with SuperApp Experience'
                         },
                         {
-                            img: 'https://www.royalorchidhotels.com/Images/slider/17_20_2020_12_20_252.jpg',
-                            heading: 'Dining under the stars',
-                            subHeading: 'Outdoor | Gentle breeze | Ambient music & Lights'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/SliderTraveller.png',
+                            heading: 'SUPERAPP FOR TRAVELLERS',
+                            subHeading: 'Outdoor | Gentle breeze | Ambient music & Lights',
+                            btn: {
+                                extLink: 'https://www.planner.goyaana.com',
+                                routerLink: '',
+                                label: 'EXPLORE  NOW'
+                            }
                         },
                         {
-                            img: 'https://www.royalorchidhotels.com/Images/slider/11_03_2020_05_03_16Jaipur-3.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/SliderHotels.png',
+                            heading: 'SUPERAPP FOR HOTELS',
+                            subHeading: 'Experience | Hospitality | Memories',
+                            btn: {
+                                extLink: 'https://www.superapp.goyaana.com',
+                                routerLink: '',
+                                label: 'EXPLORE NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/SliderRestaurant.png',
+                            heading: 'SUPERAPP FOR RESTAURANTS',
+                            subHeading: 'Experience | Hospitality | Memories',
+                            btn: {
+                                extLink: 'https://www.restaurants.goyaana.com',
+                                routerLink: '',
+                                label: 'EXPLORE NOW'
+                            }
                         }
                     ]
                 },
                 experience: {
-                    active: false,
-                    heading: 'The Hotel Brand Offering',
+                    active: true,
+                    heading: 'Explore all the services at one stop!',
                     desc: `These are brand level services`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
-                            label: 'Plan your dream trip',
-                            extLink: 'https://www.fortunehotels-planner.goyaana.com',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/TRAVELLER.jpg',
+                            label: 'FOR TRAVELLERS',
+                            extLink: 'https://www.planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Shop+with+brand.jpg',
-                            label: 'The Hotel Store',
-                            extLink: '',
-                            routerLink: '/coming-soon'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/HOTELS.jpg',
+                            label: 'FOR HOTELS',
+                            extLink: 'https://www.superapp.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/restaurant.jpg',
+                            label: 'FOR RESTAURANTS',
+                            extLink: 'https://www.restaurants.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/HOMESTAY.jpg',
+                            label: 'FOR HOMESTAYS',
+                            extLink: 'https://www.homestays.goyaana.com',
+                            routerLink: ''
                         }
                     ]
                 },
@@ -1356,7 +1388,7 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Pick an experience that you love!',
@@ -1443,7 +1475,7 @@ export const Vendors = {
                     ]
                 },
                 heroIntro: {
-                    active: true,
+                    active: false,
                     videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
                     preTitle: 'Enrich your trip with',
                     title: 'UNIQUE EXPERIENCES',
