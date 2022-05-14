@@ -87134,7 +87134,7 @@ export const Vendors = {
         {
             branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
-            id: 'www.countryinnmanipal-experiences.goyaana.com',
+            id: 'www.countryinnmanipal-expreiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/countryInnLogo.png',
             theme: 'fortune-theme',
             idCategory: 19,
@@ -87235,9 +87235,9 @@ export const Vendors = {
                             routerLink: '/stores/CustomisedOrderForYourHouseParty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/BanquetHall.jpg',
-                            label: 'Banquet Hall Booking',
-                            extLink: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/foodOrder.jpg',
+                            label: 'FOOD DELIVERY APP',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com',
                             routerLink: ''
                         }
                     ]
@@ -88332,31 +88332,7 @@ export const Vendors = {
                             
                         }
                     ]
-                },
-                {
-                    name: 'Meeting and Events Booking',
-                    icon: 'kediyoor-icon/Meeting.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Banquet Hall Booking',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/BanquetHall.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this Hall.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Banquet1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Banquet2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Banquet3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                }
             ],
             comingSoon: {
                 active: true,
@@ -117482,7 +117458,7 @@ export const Vendors = {
                             name: 'St. Mary`s Island Tour',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/StMaryIslandtour_1',
                             extLink: ''
                         },
                         {
@@ -117490,7 +117466,7 @@ export const Vendors = {
                             name: 'House Boat Ride',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/HouseboatRide',
                             extLink: ''
                         },
                         {
@@ -118403,7 +118379,7 @@ export const Vendors = {
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         }
-    ],
+    ]
 };
 
 export class LoginType {
