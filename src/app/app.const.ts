@@ -87134,7 +87134,7 @@ export const Vendors = {
         {
             branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
-            id: 'www.countryinnmanipal-expreiences.goyaana.com',
+            id: 'www.countryinnmanipal-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/countryInnLogo.png',
             theme: 'fortune-theme',
             idCategory: 19,
@@ -118403,7 +118403,7 @@ export const Vendors = {
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         }
-    ]
+    ],
 };
 
 export class LoginType {
