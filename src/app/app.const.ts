@@ -87238,7 +87238,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/BanquetHall.jpg',
                             label: 'Banquet Hall Booking',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/BanquetHallBooking'
                         }
                     ]
                 },
