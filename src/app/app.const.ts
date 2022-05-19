@@ -88347,7 +88347,7 @@ export const Vendors = {
                             routerLink: 'test',
                             icon: 'kediyoor-icon/BanquetHall.png',
                             showTextarea: true,
-                            textAreaLabel: 'Request Summary',
+                            textAreaLabel: 'Whether you’re hosting an upscale soiree, a corporate training seminar, or a grand wedding reception, the Country Inn & Suites, Manipal has the ideal venue to suit your needs. Featuring upscale decor, on-site catering, and state-of-the-art presentation equipment like an LCD projector, our meeting rooms make every gathering feel special. Ask our event coordinators for assistance with everything from decoration and floral arrangements to customized menus for spectacular banquets',
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
