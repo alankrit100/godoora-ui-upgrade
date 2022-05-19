@@ -117367,14 +117367,14 @@ export const Vendors = {
             bookSlotLabel: 'Raise Request',
             footer: {
                 terms: {
-                    isAnchor: false,
+                    isAnchor: true,
                     route: 'terms',
-                    url: 'https://www.daiwikhotels.com'
+                    url: 'http://blogs.goyaana.com/terms-conditions/'
                 },
                 privacy: {
-                    isAnchor: false,
+                    isAnchor: true,
                     route: 'privacy',
-                    url: 'https://www.daiwikhotels.com'
+                    url: 'http://blogs.goyaana.com/privacy-policy/'
                 },
                 about: {
                     isAnchor: true,
@@ -117412,8 +117412,8 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
                             label: 'Book A Room',
-                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/605',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/by-admin/605'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/FoodMenu.jpg',
@@ -117424,7 +117424,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/MakePayment.jpg',
                             label: 'Make Payment',
-                            extLink: 'https://www.palacegarden-experiences.goyaana.com/stores/Payment',
+                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/stores/Payment',
                             routerLink: ''
                         },
                         {
