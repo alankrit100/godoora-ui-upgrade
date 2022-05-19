@@ -18637,7 +18637,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Terms and Condition',
-                            extLink: 'https://forms.gle/wPCqguWnR97uXqAn8',
+                            extLink: 'https://forms.gle/gYSYStMjVxM3uJKz8',
                             routerLink: '',
                             icon: 'abbydhama/terms.png',
                             showTextarea: true,
@@ -117412,7 +117412,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
                             label: 'Book A Room',
-                            extLink: 'https://www.palacegarden-experiences.goyaana.com/by-admin/510',
+                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/605',
                             routerLink: ''
                         },
                         {
@@ -117431,45 +117431,29 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/assistance.jpeg',
                             label: 'Assistance',
                             extLink: '',
-                            routerLink: '/by-admin/527'
+                            routerLink: '/by-admin/607'
                         }
                     ]
                 },
                 destinations: {
                     active: true,
-                    heading: 'Pre-Book Special Experience',
+                    heading: 'Book Rooms at Special Offers',
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/StaycationPackage.jpg',
-                            name: 'Staycation Package',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Bright.jpeg',
+                            name: 'Superior Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandlelightdinnerwithBirthdayCake',
+                            routerLink: '/stores/SuperiorRoom',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/LongWeekendPackage.jpg',
-                            name: 'Long Weekend Package',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Suite+Room.jpeg',
+                            name: 'Suite Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SeaFoodPlatter_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/NewYearpack.jpg',
-                            name: 'New Year Package',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/MangaloreThali',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/StaycationPackage.jpg',
-                            name: 'Special Celebration Package',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/UdupiBreakfast',
+                            routerLink: '/stores/SuiteRoom',
                             extLink: ''
                         }
                     ]
@@ -117604,17 +117588,17 @@ export const Vendors = {
                     cols: 3,
                     rowHeight: 1,
                     title: 'masonry title',
-                    desc: 'masonry Description',
+                    desc: 'View photo gallery of Island Homestay, restaurants and rooms and suites. Take a glimpse of amenities offered at Island Homestay in Coorg.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Bright.jpeg',
-                            label: 'brightfull of light',
+                            label: 'Brightful of Light',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/roof.jpeg',
-                            label: 'Rooftop dining',
+                            label: 'Rooftop Dining',
                             extLink: '',
                             routerLink: ''
                         },
@@ -117761,7 +117745,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Web Check-In',
-                            extLink: 'https://docs.google.com/forms/d/e/1FAIpQLSdLnogiyIX15ojvy5w00U-1EmkYL2f7XK_V531RTqIdSI1yPQ/viewform',
+                            extLink: 'https://forms.gle/gYSYStMjVxM3uJKz8',
                             routerLink: '',
                             icon: 'abbydhama/reception.png',
                             showTextarea: true,
@@ -117774,7 +117758,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Terms and Condition',
-                            extLink: 'https://forms.gle/wPCqguWnR97uXqAn8',
+                            extLink: 'https://forms.gle/zZAXvCz1EtDxXkS57',
                             routerLink: '',
                             icon: 'abbydhama/terms.png',
                             showTextarea: true,
@@ -117786,7 +117770,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Special Request',
-                            extLink: 'https://docs.google.com/forms/d/e/1FAIpQLSel549zEJ19Kta3T8MTvDLvgiT-YfZCUMhEes7ioOjJmQvfvQ/viewform',
+                            extLink: 'https://forms.gle/pmks5u7TcGAs8J6x6',
                             routerLink: '',
                             icon: 'abbydhama/SpecRequest.png',
                             showTextarea: true,
@@ -118390,6 +118374,50 @@ export const Vendors = {
                             menuImgs: [
 
                             ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Book Rooms at Special Offers',
+                    icon: 'palace/travel-luggage.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Superior Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Any special requests?',
+                            placeholder: 'Ex: I need one extra bed.',
+                            headerText: 'Please select below the dates for your stay',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room3.jpg' }
+                            ],
+                            bookingEngine: true,
+                            confirmBtnLabel: 'BOOK NOW'
+                        },
+                        {
+                            name: 'Suite Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Any special requests?',
+                            placeholder: 'Ex: I need one extra bed.',
+                            headerText: 'Please select below the dates for your stay',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room1.jpg' }
+                            ],
+                            bookingEngine: true,
+                            confirmBtnLabel: 'BOOK NOW'
                         }
                     ]
                 },
