@@ -117367,12 +117367,12 @@ export const Vendors = {
             bookSlotLabel: 'Raise Request',
             footer: {
                 terms: {
-                    isAnchor: true,
+                    isAnchor: false,
                     route: 'terms',
                     url: 'http://blogs.goyaana.com/terms-conditions/'
                 },
                 privacy: {
-                    isAnchor: true,
+                    isAnchor: false,
                     route: 'privacy',
                     url: 'http://blogs.goyaana.com/privacy-policy/'
                 },
@@ -117413,7 +117413,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
                             label: 'Book A Room',
                             extLink: '',
-                            routerLink: '/by-admin/605'
+                            routerLink: '/stores/605'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/FoodMenu.jpg',
@@ -117431,7 +117431,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/assistance.jpeg',
                             label: 'Assistance',
                             extLink: '',
-                            routerLink: '/by-admin/607'
+                            routerLink: '/stores/607'
                         }
                     ]
                 },
