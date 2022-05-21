@@ -117412,8 +117412,8 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
                             label: 'Book A Room',
-                            extLink: '',
-                            routerLink: '/stores/605'
+                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/by-admin/605',
+                            routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/FoodMenu.jpg',
@@ -117430,8 +117430,8 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/assistance.jpeg',
                             label: 'Assistance',
-                            extLink: '',
-                            routerLink: '/stores/607'
+                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/607',
+                            routerLink: ''
                         }
                     ]
                 },
