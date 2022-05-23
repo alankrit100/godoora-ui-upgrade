@@ -117685,7 +117685,7 @@ export const Vendors = {
             departments: [
                 {
                     name: 'Food Menu',
-                    icon: 'abbydhama/menu.png',
+                    icon: 'Islandicons/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -117737,7 +117737,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Assistance',
-                    icon: 'abbydhama/reception.png',
+                    icon: 'Islandicons/reception.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -117747,7 +117747,7 @@ export const Vendors = {
                             name: 'Web Check-In',
                             extLink: 'https://forms.gle/gYSYStMjVxM3uJKz8',
                             routerLink: '',
-                            icon: 'abbydhama/reception.png',
+                            icon: 'Islandicons/reception.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I need 2 dinnner plates along with spoons',
@@ -117760,7 +117760,7 @@ export const Vendors = {
                             name: 'Terms and Condition',
                             extLink: 'https://forms.gle/zZAXvCz1EtDxXkS57',
                             routerLink: '',
-                            icon: 'abbydhama/terms.png',
+                            icon: 'Islandicons/terms.png',
                             showTextarea: true,
                             placeholder: 'Example: Please send me an extra pillow',
                             headerText: 'Select a time you would like to receive it.',
@@ -117772,7 +117772,7 @@ export const Vendors = {
                             name: 'Special Request',
                             extLink: 'https://forms.gle/pmks5u7TcGAs8J6x6',
                             routerLink: '',
-                            icon: 'abbydhama/SpecRequest.png',
+                            icon: 'Islandicons/SpecRequest.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please arrange laundry pickup for me',
@@ -117783,7 +117783,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Route Map',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/map.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/routmap.jpg',
                             routerLink: '',
                             icon: 'abbydhama/map.png',
                             showTextarea: true,
