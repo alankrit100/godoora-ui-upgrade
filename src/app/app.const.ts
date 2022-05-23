@@ -117412,7 +117412,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
                             label: 'Book A Room',
-                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/by-admin/605',
+                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/605',
                             routerLink: ''
                         },
                         {
@@ -117424,7 +117424,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/MakePayment.jpg',
                             label: 'Make Payment',
-                            extLink: 'https://www.islandhomestay.goyaana.com/by-admin/stores/Payment',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg',
                             routerLink: ''
                         },
                         {
@@ -118415,6 +118415,23 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room1.jpg' }
+                            ],
+                            bookingEngine: true,
+                            confirmBtnLabel: 'BOOK NOW'
+                        },
+                        {
+                            name: 'Group Package',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/boxes.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Any special requests?',
+                            placeholder: 'Ex: I need one extra bed.',
+                            headerText: 'Please select below the dates for your stay',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pckge3.jpg' }
                             ],
                             bookingEngine: true,
                             confirmBtnLabel: 'BOOK NOW'
