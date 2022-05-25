@@ -117455,6 +117455,14 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/SuiteRoom',
                             extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/gPack.jpg',
+                            name: 'Group Package',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/GroupPackage_1',
+                            extLink: ''
                         }
                     ]
                 },
