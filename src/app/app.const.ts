@@ -117389,8 +117389,8 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Slider1.jpeg',
-                            heading: 'Rejuvenate yourself',
-                            subHeading: 'Experience| Memories | Positivity'
+                            heading: 'Island Homestay',
+                            subHeading: 'A holiday home surrounded by river cauvery, an ideal hideaway for your holidays.'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Slider2.jpeg',
@@ -117406,8 +117406,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The HomeStay Experiences',
-                    desc: `You will enjoy delicius style food.`,
+                    heading: 'Digital Reception Desk.',
+                    desc: `Welcome to Island Homestay. We are here to help you with all your queries from booking a room to pre-booking your food and more.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
@@ -117438,7 +117438,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Book Rooms at Special Offers',
-                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
+                    desc: 'Enjoy experiences you always dream of and fulfil your dream',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Bright.jpeg',
@@ -117596,7 +117596,7 @@ export const Vendors = {
                     cols: 3,
                     rowHeight: 1,
                     title: 'masonry title',
-                    desc: 'View photo gallery of Island Homestay, restaurants and rooms and suites. Take a glimpse of amenities offered at Island Homestay in Coorg.',
+                    desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Bright.jpeg',
