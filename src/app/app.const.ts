@@ -118446,6 +118446,65 @@ export const Vendors = {
                         }
                     ]
                 },
+                {
+                    name: 'About Us',
+                    icon: 'palace/aboutus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'About Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/about.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pgp1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Contact Us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/contact.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pgp1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Payment',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/cashless-payment.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to make the payment',
+                            headerText: 'What kind of payment do you like to make?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                }
             ],
             comingSoon: {
                 active: true,
