@@ -117424,7 +117424,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/MakePayment.jpg',
                             label: 'Make Payment',
-                            extLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg',
                             routerLink: '/stores/Payment_1'
                         },
                         {
@@ -118498,7 +118498,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to make the payment',
                             headerText: 'What kind of payment do you like to make?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
