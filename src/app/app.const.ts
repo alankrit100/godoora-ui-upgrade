@@ -117595,7 +117595,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'masonry title',
+                    title: 'Island Homestay Experiances',
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
