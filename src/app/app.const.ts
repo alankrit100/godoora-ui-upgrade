@@ -117660,6 +117660,24 @@ export const Vendors = {
             },
             leftSideMenu: [
                 {
+                    label: 'About Us',
+                    extLink: '',
+                    routerLink: '/stores/AboutUs_2',
+                    icon: 'home-outline'
+                },
+                {
+                    label: 'Contact Us',
+                    extLink: '',
+                    routerLink: '/stores/ContactUs_2',
+                    icon: 'call-outline'
+                },
+                {
+                    label: 'Pay Now',
+                    extLink: '',
+                    routerLink: '/stores/Payment_1',
+                    icon: 'card-outline'
+                },
+                {
                     label: 'Booked List',
                     extLink: '',
                     routerLink: '/booked-slots',
@@ -117670,24 +117688,6 @@ export const Vendors = {
                     extLink: '',
                     routerLink: '/user-shops',
                     icon: 'list-outline'
-                },
-                {
-                    label: 'Plan Your Trip',
-                    extLink: 'https://www.daiwik-planner.goyaana.com',
-                    routerLink: '',
-                    icon: 'paper-plane-outline'
-                },
-                {
-                    label: 'Order Food',
-                    extLink: 'http://13.235.86.41:5201/',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: 'http://13.235.86.41:5201/',
-                    routerLink: '',
-                    icon: 'card-outline'
                 }
             ],
             departments: [
