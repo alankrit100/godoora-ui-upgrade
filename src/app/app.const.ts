@@ -1099,7 +1099,7 @@ export const Vendors = {
             },
             landingPage: {
                 slider: {
-                    active: true,
+                    active: false,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/SliderNExtGen.png',
@@ -1121,7 +1121,7 @@ export const Vendors = {
                             heading: 'SUPERAPP FOR HOTELS',
                             subHeading: 'Experience | Hospitality | Memories',
                             btn: {
-                                extLink: 'https://www.superapp.goyaana.com',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'EXPLORE NOW'
                             }
@@ -1140,8 +1140,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'Explore all the services at one stop!',
-                    desc: `These are brand level services`,
+                    heading: 'Our Products',
+                    desc: `Empowering Travellers and Tourism Businesses with next-gen technology products.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/TRAVELLER.jpg',
@@ -1152,7 +1152,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/HOTELS.jpg',
                             label: 'FOR HOTELS',
-                            extLink: 'https://www.superapp.goyaana.com',
+                            extLink: 'https://hotelasaplatform.com/',
                             routerLink: ''
                         },
                         {
@@ -1164,8 +1164,8 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/HOMESTAY.jpg',
                             label: 'FOR HOMESTAYS',
-                            extLink: 'https://www.homestays.goyaana.com',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/coming-soon'
                         }
                     ]
                 },
@@ -1388,7 +1388,7 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: false,
+                    active: true,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Pick an experience that you love!',
