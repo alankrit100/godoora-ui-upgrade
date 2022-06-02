@@ -1475,7 +1475,7 @@ export const Vendors = {
                     ]
                 },
                 heroIntro: {
-                    active: false,
+                    active:true,
                     videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
                     preTitle: 'Enrich your trip with',
                     title: 'UNIQUE EXPERIENCES',
