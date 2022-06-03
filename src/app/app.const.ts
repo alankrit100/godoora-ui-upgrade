@@ -1158,7 +1158,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/restaurant.jpg',
                             label: 'FOR RESTAURANTS',
-                            extLink: 'https://www.restaurants.goyaana.com',
+                            extLink: 'https://varunnew.wixsite.com/website-6',
                             routerLink: ''
                         },
                         {
@@ -89489,7 +89489,7 @@ export const Vendors = {
         }
     ],
     'www.palacegarden-experiences.goyaana.com': [
-    {
+        {
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/branchimage.jpg',
             id: 'www.palacegarden-experiences.goyaana.com',
@@ -118465,7 +118465,7 @@ export const Vendors = {
                             headerText: 'You can contact us through text or call.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pgp1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/contactus.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -118482,7 +118482,7 @@ export const Vendors = {
                             headerText: 'You can contact us through text or call.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pgp1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/contactus.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
