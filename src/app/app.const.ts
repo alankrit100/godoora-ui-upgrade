@@ -87134,7 +87134,7 @@ export const Vendors = {
         {
             branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
-            id: 'www.countryinnmanipal-expreiences.goyaana.com',
+            id: 'www.countryinnmanipal-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/countryInnLogo.png',
             theme: 'fortune-theme',
             idCategory: 19,
@@ -87201,13 +87201,8 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/headingPage.jpg',
-                            heading: 'GET 15% FLAT DISCOUNT ON YOUR ORDER',
+                            heading: '',
                             subHeading: 'Country Inn & Suites, Manipal - Food Delivery',
-                            btn: {
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search',
-                                routerLink: '',
-                                label: 'ORDER NOW'
-                            }
                         }
                     ]
                 },
