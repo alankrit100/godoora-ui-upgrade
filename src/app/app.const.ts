@@ -48421,19 +48421,19 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Restaurant Menu',
                             extLink: '',
-                            routerLink: '/by-admin/609'
+                            routerLink: '/by-admin/444'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
                             label: 'Fun Filled Workshops',
                             extLink: '',
-                            routerLink: '/by-admin/610'
+                            routerLink: '/by-admin/383'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Exclusive Offers',
                             extLink: '',
-                            routerLink: '/by-admin/611'
+                            routerLink: '/by-admin/445'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
@@ -50393,19 +50393,19 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Restaurant Menu',
                             extLink: '',
-                            routerLink: '/by-admin/444'
+                            routerLink: '/by-admin/609'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
                             label: 'Fun Filled Workshops',
                             extLink: '',
-                            routerLink: '/by-admin/383'
+                            routerLink: '/by-admin/610'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Exclusive Offers',
                             extLink: '',
-                            routerLink: '/by-admin/445'
+                            routerLink: '/by-admin/611'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
