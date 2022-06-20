@@ -51456,7 +51456,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Workshop',
+                    name: 'Fun Filled Workshops',
                     icon: 'dharmshala/workshop.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -53428,7 +53428,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Workshop',
+                    name: 'Fun Filled Workshops',
                     icon: 'dharmshala/workshop.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -55400,7 +55400,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Workshop',
+                    name: 'Fun Filled Workshops',
                     icon: 'dharmshala/workshop.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -57372,7 +57372,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Workshop',
+                    name: 'Fun Filled Workshops',
                     icon: 'dharmshala/workshop.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -59344,7 +59344,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Workshop',
+                    name: 'Fun Filled Workshops',
                     icon: 'dharmshala/workshop.png',
                     size: '64px',
                     color: '#1a8cd2',
