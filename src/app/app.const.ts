@@ -60228,17 +60228,17 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding1.jpg',
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding2.jpg',
                             heading: 'Exclusive Personalised Dinners',
                             subHeading: 'At Amoha Retreat'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding3.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         }
@@ -60253,19 +60253,19 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Exclusive Offers',
                             extLink: '',
-                            routerLink: '/by-admin/445'
+                            routerLink: '/by-admin/624'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
                             label: 'Service Directory',
                             extLink: '',
-                            routerLink: '/by-admin/383'
+                            routerLink: '/by-admin/625'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Restaurant Menu',
                             extLink: '',
-                            routerLink: '/by-admin/444'
+                            routerLink: '/by-admin/626'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
@@ -61266,34 +61266,6 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Art and Craft Classes',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Art.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Dance Classes',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Dance.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
                             name: 'Cook with chef',
                             extLink: '',
                             routerLink: 'test',
@@ -61313,7 +61285,21 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Bedmaking workshop by housekeeping staff',
+                            name: 'Bedmaking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/bedmaking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Towel Origamy',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/bedmaking.png',
@@ -61372,7 +61358,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Local Offering',
+                    name: 'Local Experience',
                     icon: 'fortunemussoorieicons/local.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -61380,35 +61366,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Lambi Dehar Mines',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/lambi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Cambridge Book Depot',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/book.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Heritage Walk',
+                            name: 'Heritage and culture tour of Vijayawada',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/walk.png',
@@ -61422,10 +61380,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Food Tour of cuisines of Mussoorie',
+                            name: 'Adventures trip to Bhavani Island',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Food.png',
+                            icon: 'Vijaywadaicons/adventurer.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -61436,38 +61394,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Walk with a local',
+                            name: 'Trip to nearby Valleys',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/guide.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Trek with an expert',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/trekking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'George Everest Trek Point',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/george.png',
+                            icon: 'Vijaywadaicons/road-trip.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -61480,7 +61410,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Unique Offering',
+                    name: 'Our Unique Offerings',
                     icon: 'fortunemussoorieicons/unique.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -61488,10 +61418,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Uttarakhand food festival',
+                            name: 'Banquet hall booking',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/uttarakhand.png',
+                            icon: 'Vijaywadaicons/Banquet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -61502,10 +61432,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Meeting hall',
+                            name: 'Gourmet Box',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/meeting.png',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -61516,10 +61446,52 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Fire camping',
+                            name: 'Sunday brunch',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/fire.png',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Customised House Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'guided Yoga experience',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Chauffeur-drive Airport Transfer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/driver.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -61636,7 +61608,7 @@ export const Vendors = {
                             name: 'Yoga Hut Dining Offer',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/dining11.png',
+                            icon: 'Vijaywadaicons/dining11.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -61656,7 +61628,7 @@ export const Vendors = {
                             name: 'Buy 02 beer get 01 beer free',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/beer.png',
+                            icon: 'Vijaywadaicons/beer.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -61847,7 +61819,79 @@ export const Vendors = {
                             ]
                         }
                     ]
-                }
+                },
+                {
+                    name: 'Special Offer',
+                    icon: 'Vijaywadaicons/SpecialOffer.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'personalized dinner experience With Your choice of food',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/dining11.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv4.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv5.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv6.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv7.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Buy 02 beer get 01 beer free',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cook with Chef Experience Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Combo Offer Spa + Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/Combo.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
@@ -61950,19 +61994,19 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Exclusive Offers',
                             extLink: '',
-                            routerLink: '/by-admin/445'
+                            routerLink: '/by-admin/629'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
                             label: 'Service Directory',
                             extLink: '',
-                            routerLink: '/by-admin/383'
+                            routerLink: '/by-admin628'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Restaurant Menu',
                             extLink: '',
-                            routerLink: '/by-admin/444'
+                            routerLink: '/by-admin/627'
                         }
                     ]
                 },
