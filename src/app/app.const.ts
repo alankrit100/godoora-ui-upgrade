@@ -60285,7 +60285,7 @@ export const Vendors = {
                             name: 'personalized dinner experience With Your choice of food',
                             location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/store/personalizeddinnerexperienceWithYourchoiceoffood',
                             extLink: '',
                         },    
                         {
@@ -60293,7 +60293,7 @@ export const Vendors = {
                             name: 'Buy 2 beer and get 1 free',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/store/Buy02beerget01beerfree_1',
                             extLink: ''
                         },
                         {
@@ -60301,7 +60301,7 @@ export const Vendors = {
                             name: 'Cook with Chef Experience Offer',
                             location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/store/CookwithChefExperienceOffer',
                             extLink: '',
                         },
                         {
@@ -60309,7 +60309,7 @@ export const Vendors = {
                             name: 'Combo Offer Spa + Dinner',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/store/ComboOfferSpaDinner',
                             extLink: ''
                         }
                     ]
@@ -60324,7 +60324,7 @@ export const Vendors = {
                             name: 'Heritage and culture tour of Vijayawada',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/store/HeritageandculturetourofVijayawada',
                             extLink: ''
                         },
                         {
@@ -60332,7 +60332,7 @@ export const Vendors = {
                             name: 'Adventures trip to Bhavani Island',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/store/AdventurestriptoBhavaniIsland',
                             extLink: ''
                         },
                         {
@@ -60340,7 +60340,7 @@ export const Vendors = {
                             name: 'Trip to nearby Valleys',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/store/TriptonearbyValleys',
                             extLink: ''
                         }
                     ]
@@ -60354,42 +60354,42 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
                             name: 'Banquet hall booking',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/store/Banquethallbooking_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
                             name: 'Gourmet Box',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/store/GourmetBox',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
                             name: 'Sunday brunch',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/store/Sundaybrunch_9',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
                             name: 'Customised House Party',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/store/CustomisedHouseParty',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
                             name: 'guided Yoga experience',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/store/guidedYogaexperience',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
                             name: 'Chauffeur-drive Airport Transfer',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/store/ChauffeurdriveAirportTransfer',
                             extLink: ''
                         }
                     ]
@@ -60403,21 +60403,21 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
                             name: 'Cook With Chef',
                             desc: 'Duration: 2 hours',
-                            routerLink: '',
+                            routerLink: '/store/Cookwithchef_6',
                             extLink: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: 'Duration: 1 hours',
-                            routerLink: '',
+                            routerLink: '/store/Bedmaking_11',
                             extLink: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/towel-origami.jpg',
                             name: 'Towel Origamy',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/store/TowelOrigamy_8',
                             extLink: ''
                         }
                     ]
@@ -61641,7 +61641,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Services Directory',
+                    name: 'Service Directory',
                     icon: 'fortunegrace/directory.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -61649,7 +61649,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Services Directory',
+                            name: 'Service Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
