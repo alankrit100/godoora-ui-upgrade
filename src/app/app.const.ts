@@ -60250,12 +60250,6 @@ export const Vendors = {
                     desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dalhousie. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
-                            label: 'Digital Guest Experience',
-                            extLink: '',
-                            routerLink: '/home'
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Exclusive Offers',
                             extLink: '',
@@ -60272,247 +60266,158 @@ export const Vendors = {
                             label: 'Restaurant Menu',
                             extLink: '',
                             routerLink: '/by-admin/444'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
+                            label: 'Digital Guest Experience',
+                            extLink: '',
+                            routerLink: '/home'
                         }
                     ]
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
+                    heading: 'Special Offer ',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
-                            name: 'Painting by the Banyan Tree',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
+                            name: 'personalized dinner experience With Your choice of food',
+                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                        },    
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Beer.jpeg',
+                            name: 'Buy 2 beer and get 1 free',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PaintingbytheBanyanTree',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
-                            name: 'Yoga experience',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
+                            name: 'Cook with Chef Experience Offer',
+                            location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
                             views: '',
-                            routerLink: '/by-admin/509',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/gardening.jpg',
-                            name: 'GARDENING – Lets Go Green',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/ComboOffer.jpg',
+                            name: 'Combo Offer Spa + Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Gardening',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/nature-walk.jpg',
-                            name: 'Nature Walk',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/NatureWalk_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
-                            name: 'Close to Nature Breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Naturebreakfast',
-                            extLink: ''
-
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/folk-dance.jpg',
-                            name: 'Folk Evenings',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Folkevenings',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique dining experiences.',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
+                    heading: 'Local Experience',
+                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
-                            name: 'Exclusive Personalised Dinners',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage.jpg',
+                            name: 'Heritage and culture tour of Vijayawada',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ExclusivePersonalisedDinner',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
-                            name: 'Close to nature breakfast',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventurestrip.jpg',
+                            name: 'Adventures trip to Bhavani Island',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Closetonaturebreakfast',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Valleys.jpg',
+                            name: 'Trip to nearby Valleys',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/thali.jpg',
-                            name: 'Kangri Dham Lunch Thali',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/KangriDhamLunchThali',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Local Experiences',
+                    heading: 'Our Unique Offerings',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/devi-temple.jpg',
-                            name: 'Naina Devi Temple Trek',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
+                            name: 'Banquet hall booking',
                             desc: '',
-                            routerLink: '/stores/NainaDeviTempleTreck',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/forest-picnic.jpg',
-                            name: 'Pine Tree Forest Picnic',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
+                            name: 'Gourmet Box',
                             desc: '',
-                            routerLink: '/stores/PineTreeForestPicnic',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/river-side-picnic.jpg',
-                            name: 'The River Side Picnic',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
+                            name: 'Sunday brunch',
                             desc: '',
-                            routerLink: '/stores/RiverSidePicnic',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/temple-hike.jpg',
-                            name: 'Diktu Temple Hike',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
+                            name: 'Customised House Party',
                             desc: '',
-                            routerLink: '/stores/DiktuTempleHike',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/garhi.jpg',
-                            name: 'Garhi Hike',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
+                            name: 'guided Yoga experience',
                             desc: '',
-                            routerLink: '/stores/GarhiHike',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/villge.jpg',
-                            name: 'Village walk',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
+                            name: 'Chauffeur-drive Airport Transfer',
                             desc: '',
-                            routerLink: '/stores/Villagewalk',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/paragliding.jpg',
-                            name: 'Exclusive Paragliding with a hike',
-                            desc: '',
-                            routerLink: '/stores/Paraglidingwithahike',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/tour.jpg',
-                            name: 'Mcleodganj Tour Package',
-                            desc: '',
-                            routerLink: '/stores/McleodganjTourPackage',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/gliding.jpg',
-                            name: 'Paragliding',
-                            desc: '',
-                            routerLink: '/stores/Paragliding_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/Z-line.jpg',
-                            name: 'Zip Line',
-                            desc: '',
-                            routerLink: '/stores/ZipLine_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/atv.jpg',
-                            name: 'ATVs',
-                            desc: '',
-                            routerLink: '/stores/ATVs',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/camping.jpg',
-                            name: 'Camping',
-                            desc: '',
-                            routerLink: '/stores/Camping_2',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/horseride.jpg',
-                            name: 'Horseride',
-                            desc: '',
-                            routerLink: '/stores/Horseride',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/trekkk.jpg',
-                            name: 'Trekking',
-                            desc: '',
-                            routerLink: '/stores/Trekking',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
                 },
                 offers: {
                     active: true,
-                    heading: 'Unique Offerings',
+                    heading: 'Workshop',
                     desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/towel.jpg',
-                            name: 'Towel Origamy Classes',
-                            desc: '',
-                            routerLink: '/stores/TowelOrigamyClasses',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
+                            name: 'Cook With Chef',
+                            desc: 'Duration: 2 hours',
+                            routerLink: '',
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking With Chef',
-                            desc: '',
-                            routerLink: '/stores/CookingWithChefs',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
+                            name: 'Bedmaking',
+                            desc: 'Duration: 1 hours',
+                            routerLink: '',
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/mocktail.jpg',
-                            name: 'Mocktail Making session',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/towel-origami.jpg',
+                            name: 'Towel Origamy',
                             desc: '',
-                            routerLink: '/stores/MocktailMakingsession',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/tea.jpg',
-                            name: 'Tea With Chef',
-                            desc: '',
-                            routerLink: '/stores/TeaWithChef',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/resort-tour.jpg',
-                            name: 'Resort Farm Tour',
-                            desc: '',
-                            routerLink: '/stores/ResortFarmTour',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
