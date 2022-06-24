@@ -60147,7 +60147,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
-                            name: 'Sunday brunch',
+                            name: 'Sunday Brunch',
                             desc: '',
                             routerLink: '/stores/Sundaybrunch_9',
                             extLink: ''
