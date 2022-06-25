@@ -61842,7 +61842,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Special+Offer/Cooking+with+chef+Experience.jpg',
                             name: 'Cook with Chef Experience Offer',
-                            location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
+                            location: '',
                             views: '',
                             routerLink: '/stores/CookwithChefExperienceOffer_1',
                             extLink: '',
