@@ -61631,7 +61631,7 @@ export const Vendors = {
                             name: 'personalized dinner experience With Your choice of food',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/dining11.png',
+                            icon: 'Vijaywadaicons/dinning.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -61778,10 +61778,10 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Slider5.jpg',
                             heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'At Amoha Retreat'
+                            subHeading: 'Fortune Park Sishmo'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Slider6.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Slider6.png',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         }
@@ -61789,7 +61789,7 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Park Dalhousie Experience',
+                    heading: 'The Fortune Park Sishmo Experience',
                     desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dalhousie. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
@@ -61826,9 +61826,9 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Special+Offer/personalized+dinner+experience+With+Your+choice+of+food.jpeg',
                             name: 'personalized dinner experience With Your choice of food',
-                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_1',
                             extLink: '',
                         },    
                         {
@@ -61836,7 +61836,7 @@ export const Vendors = {
                             name: 'Buy 2 beer and get 1 free',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Buy02beerget01beerfree_5',
                             extLink: ''
                         },
                         {
@@ -61844,7 +61844,7 @@ export const Vendors = {
                             name: 'Cook with Chef Experience Offer',
                             location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookwithChefExperienceOffer_1',
                             extLink: '',
                         },
                         {
@@ -61852,7 +61852,7 @@ export const Vendors = {
                             name: 'Combo Offer Spa + Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ComboOfferSpaDinner_1',
                             extLink: ''
                         }
                     ]
@@ -63184,7 +63184,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Services Directory',
+                    name: 'Service Directory',
                     icon: 'fortunegrace/directory.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -63192,7 +63192,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Services Directory',
+                            name: 'Service Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
@@ -63375,7 +63375,7 @@ export const Vendors = {
                             name: 'personalized dinner experience With Your choice of food',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/dining11.png',
+                            icon: 'Vijaywadaicons/dinning.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
