@@ -64900,7 +64900,7 @@ export const Vendors = {
                     desc: 'You can avail these exciting offers only while booking through this app.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/beverage.jpg',
                             name: 'Beverages Combo',
                             location: '',
                             views: '',
@@ -64908,7 +64908,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/spa.jpg',
                             name: 'Spa Offers',
                             location: '',
                             views: '',
@@ -64916,15 +64916,15 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
-                            name: 'Pickup & Dropr',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/piackupDrop.jpg',
+                            name: 'Pickup & Drop',
                             location: '',
                             views: '',
                             routerLink: '',
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/extendStay.jpg',
                             name: 'Extended Stay Offers',
                             location: '',
                             views: '',
@@ -64939,7 +64939,7 @@ export const Vendors = {
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Night_camping.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Sultanpur.jpg',
                             name: 'Closer to Nature at Sultanpur National Park',
                             location: 'Camping is the best way to enjoy the Great Outdoors',
                             views: '',
@@ -64947,7 +64947,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/BurmaBridge.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/LeisureValley.jpg',
                             name: 'Leisure Valley',
                             location: 'When you cross a bridge, you take a break from this world!',
                             views: '',
@@ -64955,7 +64955,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ArtTribal.jpg',
                             name: 'The Museum of Folk and Tribal Art',
                             location: '',
                             views: '',
@@ -64963,7 +64963,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/aravali.jpg',
                             name: 'The Eco Adventure Aravalli Biodiversity Park',
                             location: '',
                             views: '',
@@ -64971,7 +64971,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/egames.jpg',
                             name: 'E-Games Available At Hotel',
                             location: '',
                             views: '',
@@ -64986,7 +64986,7 @@ export const Vendors = {
                     desc: 'Manage vendor activities and maintain both new and existing vendor relationships.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor1.png',
                             name: 'SuperApp',
                             location: '',
                             views: '',
@@ -64994,21 +64994,13 @@ export const Vendors = {
                             extLink: 'https://www.goyaana.com/landing',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
                             name: 'Vendor2',
                             location: '',
                             views: '',
                             routerLink: '',
                             extLink: '',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
-                            name: 'Vendor3',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: '',
-                        },
+                        }
                     ]
                 },
                 offers: {
@@ -65017,7 +65009,7 @@ export const Vendors = {
                     desc: 'Everything is just a click away.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/video.jpg',
                             name: 'Videos...',
                             location: '',
                             views: '',
