@@ -63388,36 +63388,36 @@ export const Vendors = {
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le1.jpg',
-                            name: '5-Hour Pvt Mumbai Sightseeing Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/kle1.jpg',
+                            name: 'Pvt Half Day Kolkata Tour',
                             desc: '',
                             routerLink: '/stores/5HourPvtMumbaiSightseeingTour',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le2.jpg',
-                            name: 'Pvt Slumdog Millionaire Slum Tour in Dharavi',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/tk1.jpg',
+                            name: 'Taste of Kolkata',
                             desc: '',
                             routerLink: '/stores/PvtSlumdogMillionaireSlumTourinDharavi',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le3.jpg',
-                            name: 'Elephanta Caves Mumbai Excursion',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/sk1.jpg',
+                            name: 'Shantiniketan Day Excursion of Kolkata',
                             desc: '',
                             routerLink: '/stores/ElephantaCavesMumbaiExcursion',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le4.jpg',
-                            name: 'Walking Tour of Famous Dharavi Slum',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/gs1.jpg',
+                            name: 'Gangasagar Full Day Pvt Tour',
                             desc: '',
                             routerLink: '/stores/WalkingTourofFamousDharaviSlum',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le5.jpg',
-                            name: 'Pvt Full Day Mumbai Sightseeing Tour with Dharavi Slums',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/cs1.jpg',
+                            name: 'Custom Pvt Kolkata Sightseeing Trip',
                             desc: '',
                             routerLink: '/stores/PvtFullDayMumbaiSightseeingTourwithDharaviSlums',
                             extLink: ''
@@ -64587,82 +64587,82 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: '5-Hour Pvt Mumbai Sightseeing Tour',
+                            name: 'Pvt Half Day Kolkata Tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'thane/mumbai.png',
+                            icon: 'kolkatta/kol.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/a1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/a2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le1.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/kle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/kle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/kle1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Pvt Slumdog Millionaire Slum Tour in Dharavi',
+                            name: 'Taste of Kolkata',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'thane/slam.png',
+                            icon: 'kolkatta/taste.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/b1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/b2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le2.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/tk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/tk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/tk3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Elephanta Caves Mumbai Excursion',
+                            name: 'Shantiniketan Day Excursion of Kolkata',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'thane/cave.png',
+                            icon: 'kolkatta/home.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/c1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/c2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/sk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/sk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/sk3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Walking Tour of Famous Dharavi Slum',
+                            name: 'Gangasagar Full Day Pvt Tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'thane/w1.png',
+                            icon: 'kolkatta/river.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/c1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/d1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/gs2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/gs3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/gs1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Pvt Full Day Mumbai Sightseeing Tour with Dharavi Slums',
+                            name: 'Custom Pvt Kolkata Sightseeing Trip',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'thane/w2.png',
+                            icon: 'kolkatta/trip.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/d3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/le5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/localexp/d4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/cs1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/cs2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/cs3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
