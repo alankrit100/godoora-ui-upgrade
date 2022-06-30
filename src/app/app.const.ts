@@ -66549,7 +66549,7 @@ export const Vendors = {
                             heading: 'Welcome to Annul GM Meet',
                             subHeading: '',
                             btn: {
-                                extLink: '',
+                                extLink: 'https://www.youtube.com/watch?v=vr_2ZbCUYkY',
                                 routerLink: '',
                                 label: 'Memo'
                             }
@@ -66675,21 +66675,61 @@ export const Vendors = {
                 },
                 activities: {
                     active: true,
-                    heading: 'VENDORS',
-                    desc: 'Manage vendor activities and maintain both new and existing vendor relationships.',
+                    heading: 'VISITING VENDORS',
+                    desc: 'You can find the vendor details here',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor1.png',
-                            name: 'SuperApp',
-                            location: '',
+                            name: 'GoYaana',
+                            location: 'SuperApp',
                             views: '',
                             routerLink: '',
                             extLink: 'https://www.goyaana.com/landing',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
-                            name: 'Vendor2',
+                            name: 'ACE INTERNATIONAL',
                             location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            name: 'KAAPI',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            name: 'UNIFORMS',
+                            location: 'Iris',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            name: 'DOLPHY',
+                            location: 'One room',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            name: 'SATTVIKO ',
+                            location: 'Ediables',
+                            views: '',
+                            routerLink: '',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            name: 'GOODWYN TEA',
+                            location: 'New launch',
                             views: '',
                             routerLink: '',
                             extLink: '',
@@ -66702,12 +66742,20 @@ export const Vendors = {
                     desc: 'Everything is just a click away.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/video.jpg',
-                            name: 'Videos...',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: '',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
+                            videoId: 'Pl0KgqGIeNQ'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
+                            videoId: 'vr_2ZbCUYkY'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
+                            videoId: 'LL7eITSVuFk'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -67938,8 +67986,8 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'SPA LAUNDRY AND MINIBAR MENU',
-                    icon: 'fortunegrace/spaLUndry.png',
+                    name: 'All Menu',
+                    icon: 'FortuneGurgaon/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -67947,9 +67995,9 @@ export const Vendors = {
                     services: [
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/SPA+MENU.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/tender-leaves-spa+(1).jpg',
                             routerLink: '',
-                            icon: 'fortunegrace/spa.png',
+                            icon: 'FortuneGurgaon/spa.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -67977,7 +68025,7 @@ export const Vendors = {
                             name: 'LAUNDRY Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/LAUNDRY.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/laundry-machine.png',
+                            icon: 'FortuneGurgaon/laundry-machine.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Please send the staff to collect the things',
@@ -68004,7 +68052,63 @@ export const Vendors = {
                             name: 'MINIBAR Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/MINIBAR.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/minibar.png',
+                            icon: 'FortuneGurgaon/minibar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'IRD Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/IRD+Menu-Park+Orange-Sidhrawali.pdf',
+                            routerLink: '',
+                            icon: 'FortuneGurgaon/minibar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'ORCHID Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ORCHID+MENU+JUNE+2019++New.pdf',
+                            routerLink: '',
+                            icon: 'FortuneGurgaon/minibar.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -68209,7 +68313,7 @@ export const Vendors = {
                             ]
                         }
                     ]
-                }
+                },
             ],
             comingSoon: {
                 active: true,
