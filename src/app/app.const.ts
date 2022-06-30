@@ -63391,35 +63391,35 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/kle1.jpg',
                             name: 'Pvt Half Day Kolkata Tour',
                             desc: '',
-                            routerLink: '/stores/5HourPvtMumbaiSightseeingTour',
+                            routerLink: '/stores/PvtHalfDayKolkataTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/tk1.jpg',
                             name: 'Taste of Kolkata',
                             desc: '',
-                            routerLink: '/stores/PvtSlumdogMillionaireSlumTourinDharavi',
+                            routerLink: '/stores/TasteofKolkata',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/sk1.jpg',
                             name: 'Shantiniketan Day Excursion of Kolkata',
                             desc: '',
-                            routerLink: '/stores/ElephantaCavesMumbaiExcursion',
+                            routerLink: '/stores/ShantiniketanDayExcursionofKolkata',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/gs1.jpg',
                             name: 'Gangasagar Full Day Pvt Tour',
                             desc: '',
-                            routerLink: '/stores/WalkingTourofFamousDharaviSlum',
+                            routerLink: '/stores/GangasagarFullDayPvtTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/kolkata/localexp/cs1.jpg',
                             name: 'Custom Pvt Kolkata Sightseeing Trip',
                             desc: '',
-                            routerLink: '/stores/PvtFullDayMumbaiSightseeingTourwithDharaviSlums',
+                            routerLink: '/stores/CustomPvtKolkataSightseeingTrip',
                             extLink: ''
                         }  
                     ]
