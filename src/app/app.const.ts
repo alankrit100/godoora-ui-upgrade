@@ -66546,7 +66546,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Fslider1.jpg',
-                            heading: 'Welcome to Annul GM Meet',
+                            heading: 'Welcome to Annual GM Meet',
                             subHeading: '',
                             btn: {
                                 extLink: 'https://www.youtube.com/watch?v=vr_2ZbCUYkY',
@@ -66687,7 +66687,7 @@ export const Vendors = {
                             extLink: 'https://www.goyaana.com/landing',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ace.png',
                             name: 'ACE INTERNATIONAL',
                             location: '',
                             views: '',
@@ -66695,7 +66695,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/kaapi.jpg',
                             name: 'KAAPI',
                             location: '',
                             views: '',
@@ -66711,7 +66711,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/dolphy.jpg',
                             name: 'DOLPHY',
                             location: 'One room',
                             views: '',
@@ -66719,7 +66719,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/sattviko.png',
                             name: 'SATTVIKO ',
                             location: 'Ediables',
                             views: '',
@@ -66727,7 +66727,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/goodweyn.jpg',
                             name: 'GOODWYN TEA',
                             location: 'New launch',
                             views: '',
@@ -68080,7 +68080,7 @@ export const Vendors = {
                             name: 'IRD Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/IRD+Menu-Park+Orange-Sidhrawali.pdf',
                             routerLink: '',
-                            icon: 'FortuneGurgaon/minibar.png',
+                            icon: 'FortuneGurgaon/SPA LAUNDRY AND MINIBAR MENU.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -68108,7 +68108,7 @@ export const Vendors = {
                             name: 'ORCHID Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ORCHID+MENU+JUNE+2019++New.pdf',
                             routerLink: '',
-                            icon: 'FortuneGurgaon/minibar.png',
+                            icon: 'FortuneGurgaon/menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -68136,7 +68136,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Services Directory',
-                    icon: 'fortunegrace/directory.png',
+                    icon: 'FortuneGurgaon/directory.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -68144,9 +68144,9 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Orange+Service+Directory_1.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/directory.png',
+                            icon: 'FortuneGurgaon/directory.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -68313,7 +68313,7 @@ export const Vendors = {
                             ]
                         }
                     ]
-                },
+                }
             ],
             comingSoon: {
                 active: true,
