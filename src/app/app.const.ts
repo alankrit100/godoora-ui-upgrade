@@ -66565,13 +66565,13 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/spa.jpg',
                             label: 'All Menu',
                             extLink: '',
-                            routerLink: '/by-admin/525'
+                            routerLink: '/by-admin/676'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/ServiceDirectory.jpg',
                             label: 'Services Directory',
                             extLink: '',
-                            routerLink: '/by-admin/603'
+                            routerLink: '/by-admin/675'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/digital_exp.jpg',
@@ -66703,14 +66703,6 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/vendor2.jpeg',
-                            name: 'UNIFORMS',
-                            location: 'Iris',
-                            views: '',
-                            routerLink: '',
-                            extLink: '',
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/dolphy.jpg',
                             name: 'DOLPHY',
                             location: 'One room',
@@ -66737,7 +66729,7 @@ export const Vendors = {
                     ]
                 },
                 offers: {
-                    active: true,
+                    active: false,
                     heading: 'Featured Video',
                     desc: 'Everything is just a click away.',
                     items: [
@@ -66760,25 +66752,25 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
-                    heading: 'Behind the scenes',
+                    active: true,
+                    heading: 'Featured Video',
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
-                            videoId: ''
+                            img: '',
+                            videoId: 'Pl0KgqGIeNQ'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
-                            videoId: ''
+                            img: '',
+                            videoId: 'vr_2ZbCUYkY'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
-                            videoId: ''
+                            img: '',
+                            videoId: 'LL7eITSVuFk'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
-                            videoId: ''
+                            img: '',
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -68159,8 +68151,40 @@ export const Vendors = {
                                 
                             ]
                         },
+
+                    ]
+                },
+                {
+                    name: 'VISITING VENDORS',
+                    icon: 'FortuneGurgaon/seller.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
                         {
-                            name: 'Sales & Reservations Offices in India',
+                            name: 'GoYaana',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'FortuneGurgaon/seller.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/superapp.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/superapp3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/superapp4.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/superapp2.jpeg' },
+                
+                            ],
+                            
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'SuperApp',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/2.+Sales+%26+Reservations+Offices+in+India.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/reserve.png',
@@ -68169,7 +68193,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68186,7 +68210,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68203,7 +68227,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68220,7 +68244,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68237,7 +68261,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68254,7 +68278,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68271,7 +68295,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68288,7 +68312,7 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68305,7 +68329,201 @@ export const Vendors = {
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
-
+                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Your Bleisure Trip',
+                    icon: 'FortuneGurgaon/Experiences.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Closer to Nature at Sultanpur National Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'FortuneGurgaon/Experiences.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Sultanpur.jpg' }
+                
+                            ],
+                            
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Leisure Valley',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/reserve.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/LeisureValley.jpg' }
+                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'The Museum of Folk and Tribal Art',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ArtTribal.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'The Eco Adventure Aravalli Biodiversity Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'The Eco Adventure Aravalli Biodiversity Park' }
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'E-Games Available At Hotel',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/egames.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Offers',
+                    icon: 'FortuneGurgaon/Experiences.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Beverages Combo',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'FortuneGurgaon/Experiences.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/bvg.jpeg' }
+                
+                            ],
+                            
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Pickup & Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'FortuneGurgaon/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/piackupDrop.jpg' }
+                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'The Museum of Folk and Tribal Art',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ArtTribal.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'The Eco Adventure Aravalli Biodiversity Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'The Eco Adventure Aravalli Biodiversity Park' }
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'E-Games Available At Hotel',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunegrace/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/egames.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -68314,6 +68532,7 @@ export const Vendors = {
                         }
                     ]
                 }
+
             ],
             comingSoon: {
                 active: true,
