@@ -66597,7 +66597,7 @@ export const Vendors = {
                             name: 'Beverages Combo',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/BeveragesCombo',
                             extLink: '',
                         },
                         {
@@ -66613,7 +66613,7 @@ export const Vendors = {
                             name: 'Pickup & Drop',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/Pickup&Drop',
                             extLink: '',
                         },
                         {
@@ -66636,7 +66636,7 @@ export const Vendors = {
                             name: 'Closer to Nature at Sultanpur National Park',
                             location: 'Camping is the best way to enjoy the Great Outdoors',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/ClosertoNatureatSultanpurNationalPark',
                             extLink: '',
                         },
                         {
@@ -66644,7 +66644,7 @@ export const Vendors = {
                             name: 'Leisure Valley',
                             location: 'When you cross a bridge, you take a break from this world!',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/LeisureValley',
                             extLink: '',
                         },
                         {
@@ -66652,7 +66652,7 @@ export const Vendors = {
                             name: 'The Museum of Folk and Tribal Art',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/TheMuseumofFolkandTribalArt',
                             extLink: '',
                         },
                         {
@@ -66660,7 +66660,7 @@ export const Vendors = {
                             name: 'The Eco Adventure Aravalli Biodiversity Park',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/TheEcoAdventureAravalliBiodiversityPark',
                             extLink: '',
                         },
                         {
@@ -66668,7 +66668,7 @@ export const Vendors = {
                             name: 'E-Games Available At Hotel',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/EGamesAvailableAtHotel',
                             extLink: '',
                         },
                     ]
@@ -66683,7 +66683,7 @@ export const Vendors = {
                             name: 'GoYaana',
                             location: 'SuperApp',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/GoYaana_3',
                             extLink: 'https://www.goyaana.com/landing',
                         },
                         {
@@ -66691,7 +66691,7 @@ export const Vendors = {
                             name: 'ACE INTERNATIONAL',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/SuperApp',
                             extLink: '',
                         },
                         {
@@ -66757,19 +66757,19 @@ export const Vendors = {
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/video1.jpeg',
                             videoId: 'Pl0KgqGIeNQ'
                         },
                         {
-                            img: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/video2.jpeg',
                             videoId: 'vr_2ZbCUYkY'
                         },
                         {
-                            img: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/video3.jpeg',
                             videoId: 'LL7eITSVuFk'
                         },
                         {
-                            img: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/video4.jpeg',
                             videoId: '8QDZeDijg-k'
                         }
                     ]
