@@ -43316,30 +43316,30 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Park Orange Experience',
-                    desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Gurgaon. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
+                    heading: 'Fortune GM Conclave 2022',
+                    desc: `On behalf of the Fortune hotels, we cordially invite your institution to be a part of the Annual GM Conclave 2022 which is scheduled to be held from 7 July to 9 July at the Fortune Orange Park, Gurgaon. We look forward to an intellectually stimulating and enjoyable conference, and we hope you do too. The host team is trying their best to make this experience unparalleled and enriching for you. Thank you.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/spa.jpg',
-                            label: 'Event Details',
+                            label: 'EVENT DETAILS',
                             extLink: '',
                             routerLink: '/by-admin/676'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/survey.jpg',
-                            label: 'Event Survey',
+                            label: 'EVENT SURVEY',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/digital_exp.jpg',
-                            label: 'Digital Concierge',
+                            label: 'HOTEL HELPDESK',
                             extLink: '',
                             routerLink: '/home'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/ServiceDirectory.jpg',
-                            label: 'Services Directory',
+                            label: 'SERVICES DIRECTORY',
                             extLink: '',
                             routerLink: '/by-admin/675'
                         },
@@ -43348,7 +43348,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Special Offers',
-                    desc: 'You can avail these exciting offers only while booking through this app.',
+                    desc: 'You can avail these exciting offers during this conclve.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/beverage.jpg',
@@ -43360,7 +43360,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/BeveragesCombo',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43373,7 +43373,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43386,7 +43386,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/Pickup&Drop',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43399,7 +43399,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                     ]
@@ -43419,7 +43419,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/ClosertoNatureatSultanpurNationalPark',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43432,7 +43432,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/LeisureValley',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43445,7 +43445,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/TheMuseumofFolkandTribalArt',
-                                label: 'ENQUIRE NOW'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43458,7 +43458,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/TheEcoAdventureAravalliBiodiversityPark',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43471,7 +43471,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/EGamesAvailableAtHotel',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                     ]
@@ -43491,7 +43491,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/GoYaana_3',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43504,7 +43504,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/SuperApp',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43517,7 +43517,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43530,7 +43530,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43543,7 +43543,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         },
                         {
@@ -43556,7 +43556,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'ENQUIRE'
+                                label: 'KNOW MORE'
                             }
                         }
                     ]
@@ -44834,6 +44834,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/2.jpg' },
@@ -44862,6 +44863,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/2.jpg' },
@@ -44889,6 +44891,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
@@ -44917,6 +44920,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
@@ -44952,6 +44956,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -44983,7 +44988,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/superapp2.jpeg' },
                 
                             ],
-                            
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45001,6 +45006,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45018,6 +45024,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45035,6 +45042,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45052,6 +45060,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45069,6 +45078,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45086,6 +45096,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45103,6 +45114,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45120,6 +45132,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45137,6 +45150,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45164,7 +45178,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Sultanpur.jpg' }
                 
                             ],
-                            
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45183,6 +45197,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45200,6 +45215,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ArtTribal.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45217,6 +45233,7 @@ export const Vendors = {
                                 { path: 'The Eco Adventure Aravalli Biodiversity Park' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45234,6 +45251,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/egames.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45261,7 +45279,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/bvg.jpeg' }
                 
                             ],
-                            
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45280,6 +45298,7 @@ export const Vendors = {
                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45297,6 +45316,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/ArtTribal.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45314,6 +45334,7 @@ export const Vendors = {
                                 { path: 'The Eco Adventure Aravalli Biodiversity Park' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
@@ -45331,6 +45352,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/egames.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
                                 
                             ]
