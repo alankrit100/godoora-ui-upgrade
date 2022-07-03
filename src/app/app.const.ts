@@ -43317,7 +43317,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'Fortune GM Conclave 2022',
-                    desc: `On behalf of the Fortune hotels, we cordially invite your institution to be a part of the Annual GM Conclave 2022 which is scheduled to be held from 7 July to 9 July at the Fortune Orange Park, Gurgaon. We look forward to an intellectually stimulating and enjoyable conference, and we hope you do too. The host team is trying their best to make this experience unparalleled and enriching for you. Thank you.`,
+                    desc: `On behalf of the Fortune hotels, we cordially invite you to be a part of the Annual GM Conclave 2022 which is scheduled to be held from 7 July to 9 July at the Fortune Orange Park, Gurgaon. We look forward to an intellectually stimulating and enjoyable conference, and we hope you do too. The host team is trying their best to make this experience unparalleled and enriching for you. Thank you.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/spa.jpg',
@@ -43328,7 +43328,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/survey.jpg',
                             label: 'EVENT SURVEY',
-                            extLink: '',
+                            extLink: 'https://www.surveymonkey.com',
                             routerLink: ''
                         },
                         {
@@ -43339,7 +43339,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/ServiceDirectory.jpg',
-                            label: 'SERVICES DIRECTORY',
+                            label: 'EVENT CONTENT',
                             extLink: '',
                             routerLink: '/by-admin/675'
                         },
@@ -43348,7 +43348,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Special Offers',
-                    desc: 'You can avail these exciting offers during this conclve.',
+                    desc: 'You can avail these exciting offers during this conclave.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/beverage.jpg',
@@ -43360,7 +43360,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/BeveragesCombo',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43373,7 +43373,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43386,7 +43386,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/Pickup&Drop',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43399,7 +43399,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                     ]
@@ -43419,7 +43419,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/ClosertoNatureatSultanpurNationalPark',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43432,7 +43432,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/LeisureValley',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43445,7 +43445,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/TheMuseumofFolkandTribalArt',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43458,7 +43458,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/TheEcoAdventureAravalliBiodiversityPark',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43471,7 +43471,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/EGamesAvailableAtHotel',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                     ]
@@ -43491,7 +43491,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/GoYaana_3',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43504,7 +43504,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/SuperApp',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43517,7 +43517,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43530,7 +43530,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43543,7 +43543,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         },
                         {
@@ -43556,7 +43556,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/',
-                                label: 'KNOW MORE'
+                                label: 'DETAILS'
                             }
                         }
                     ]
@@ -43781,7 +43781,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Web Checkin',
@@ -43796,7 +43797,8 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            checkinForm: true
+                            checkinForm: true,
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Web Checkout',
@@ -43810,7 +43812,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -43834,7 +43837,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Additional Bedding',
@@ -43847,7 +43851,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Laundry Service',
@@ -43861,7 +43866,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Room Cleaning',
@@ -43875,7 +43881,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -43899,7 +43906,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Gym',
@@ -43913,7 +43921,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book a Slot'
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Swimming Pool',
@@ -43927,7 +43936,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book a Slot'
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -43951,7 +43961,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book a Slot'
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Pool Table',
@@ -43965,13 +43976,14 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
                 {
                     name: 'Travel and Activities',
-                    icon: 'tour-bus.png',
+                    icon: 'FortuneGurgaon/bus.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -43989,7 +44001,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book the cab'
+                            confirmBtnLabel: 'Book the cab',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Local Taxi',
@@ -44003,7 +44016,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book a Cab'
+                            confirmBtnLabel: 'Book a Cab',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Local Restaurant',
@@ -44017,7 +44031,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book a slow'
+                            confirmBtnLabel: 'Book a slow',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Amusement Park',
@@ -44031,7 +44046,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book tickets'
+                            confirmBtnLabel: 'Book tickets',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Cinemas / Plays',
@@ -44045,7 +44061,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book Tickets'
+                            confirmBtnLabel: 'Book Tickets',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Forex',
@@ -44059,7 +44076,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Local Shopping',
@@ -44073,7 +44091,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Fix appointment'
+                            confirmBtnLabel: 'Fix appointment',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Arrange a Tour',
@@ -44087,7 +44106,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -44111,7 +44131,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'AC',
@@ -44125,7 +44146,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Coffee Maker',
@@ -44139,7 +44161,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Hair Dryer',
@@ -44153,7 +44176,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Electrical',
@@ -44167,7 +44191,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Others',
@@ -44181,7 +44206,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -44211,6 +44237,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
 
                             ]
@@ -44233,6 +44260,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Place the order',
+                            storePageAsBlog: true,
                             menuImgs: [
 
                             ]
@@ -44255,6 +44283,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
                             menuImgs: [
 
                             ]
@@ -44277,6 +44306,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Place the order',
+                            storePageAsBlog: true,
                             menuImgs: [
 
                             ]
@@ -44299,6 +44329,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Place the order',
+                            storePageAsBlog: true,
                             menuImgs: [
 
                             ]
@@ -44321,6 +44352,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Place the order',
+                            storePageAsBlog: true,
                             menuImgs: [
 
                             ]
@@ -44343,6 +44375,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Place the order',
+                            storePageAsBlog: true,
                             menuImgs: [
 
                             ]
@@ -44369,7 +44402,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Burma Bridge',
@@ -44383,7 +44417,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Commondo Net',
@@ -44397,7 +44432,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Ladder Climbing',
@@ -44411,7 +44447,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Zip Line',
@@ -44425,7 +44462,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Double Rope Bridge',
@@ -44439,7 +44477,8 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -44936,18 +44975,18 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Services Directory',
-                    icon: 'FortuneGurgaon/directory.png',
+                    name: 'EVENT CONTENT',
+                    icon: 'FortuneGurgaon/direct.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Orange+Service+Directory_1.pdf',
+                            name: 'Day 1',
+                            extLink: 'https://www.drive.google.com',
                             routerLink: '',
-                            icon: 'FortuneGurgaon/directory.png',
+                            icon: 'FortuneGurgaon/Day1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -44961,7 +45000,42 @@ export const Vendors = {
                                 
                             ]
                         },
+                        {
+                            name: 'Day 2',
+                            extLink: 'https://www.drive.google.com',
+                            routerLink: '',
+                            icon: 'FortuneGurgaon/Day2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
 
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Day 3',
+                            extLink: 'https://www.drive.google.com',
+                            routerLink: '',
+                            icon: 'FortuneGurgaon/Day3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true,
+                            menuImgs: [
+                                
+                            ]
+                        }
                     ]
                 },
                 {
@@ -67158,7 +67232,7 @@ export const Vendors = {
                     ]
                 },
                 destinations: {
-                    active: false,
+                    active: true,
                     heading: 'Unique Fortune Experiences',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream',
                     items: [
@@ -67167,54 +67241,83 @@ export const Vendors = {
                             name: 'Day Picnic',
                             location: 'Plan for picnic next to stream and enjoy gourmet delight during the day',
                             views: '',
-                            routerLink: '/stores/DayPicnic',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Farm_to_fork.jpg',
                             name: 'Farm to Fork',
                             location: 'A walk through our organic herb and vegetable garden, pick up the fresh local produce',
                             views: '',
-                            routerLink: '/stores/FarmtoFork',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Cinema.jpg',
                             name: 'Bar-be-que evening with movie screening',
                             location: 'Let’s pine & peak  be your open theater, enjoy movie experience under the moon light with bar-be-que dinner',
                             views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Yoga_session.jpg',
                             name: 'Yoga and Meditation',
                             location: 'Yoga and meditation with some detox juices spread',
                             views: '',
-                            routerLink: '/stores/YogaandMeditation',
-                            extLink: ''
-
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Pasta.jpg',
                             name: 'Pasta on the way',
                             location: 'Pick up the fresh herbs and vegetable from our garden on your way to Jungle trek let your Chef and Butler carry the rest of ingredients and enjoy pasta during Lunch',
                             views: '',
-                            routerLink: '/stores/Pastaontheway_1',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Evening_tea.jpg',
                             name: 'Evening tea rituals under',
                             location: 'Let’s come out of the room post afternoon and enjoy tea coffee and snacks and involve yourself in fun activities (Pottery classes, cooking classes, and many more)',
                             views: '',
-                            routerLink: '/stores/Eveningtearitualsunder',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         }
                     ]
                 },
                 experiences: {
-                    active: false,
+                    active: true,
                     heading: 'Local Experiences',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
@@ -67223,45 +67326,70 @@ export const Vendors = {
                             name: 'Triund day trek',
                             location: 'Duration: 10 hours',
                             views: 'Experience the majestic himalayas and feel the heavenly feeling.',
-                            routerLink: '/stores/Triunddaytrek',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Cycle+tour.jpg',
                             name: 'Bicycle tour',
                             location: 'Duration: 2 hours',
                             views: 'Visit the offbeat part of the city with scenic views.',
-                            routerLink: '/stores/Bicycletour',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/ram-yoga-house.jpg',
                             name: 'Yoga session',
                             location: 'Duration: 3 hours',
                             views: 'Learn the art of yoga and meditation with our spiritual guru.',
-                            routerLink: '/stores/Yogasession',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Nature+walk.jpg',
                             name: 'Nature walks',
                             location: 'Duration: 2 hours',
                             views: 'A perfect way to enjoy the nature and mountains.',
-                            routerLink: '/stores/Naturewalks',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/peepal+farm.jpg',
                             name: 'Visit peepal farm to meet the rescued animals',
                             location: 'Duration: 2 hours',
                             views: 'Farm visit',
-                            routerLink: '/stores/PeepalFarm',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         }
                     ]
                 },
                 activities: {
-                    active: false,
+                    active: true,
                     heading: 'Unique dining experiences',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
@@ -67269,55 +67397,90 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/strems_canopy_dining.jpg',
                             name: 'Stars canopy dining experience',
                             desc: 'Dine under the stars with a personal chef & butler who look after your meal for the evening along with bonfire with live bar-be-que',
-                            routerLink: '/stores/Starscanopydiningexperience',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/yoga_hut_dining.jpg',
                             name: 'Yoga hut dining experience',
                             desc: 'Dine at the yoga hut overlooking to snow caped Dhuladhar ranges, with a personal chef & butler who look after your meal',
-                            routerLink: '/stores/Yogahutdiningexperience',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: '',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/High_tea_nature.jpg',
                             name: 'High tea Experience in the nature',
                             desc: 'High tea in the Jungle, with a personal chef & butler',
-                            routerLink: '/stores/HighteaExperienceinthenature',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/stream_dining.jpg',
                             name: 'Stream dining',
                             desc: 'Stream dining experience with steaming Momos , Thupkas and Tibetan food  trail',
-                            routerLink: '/stores/Locavoredinninginwoods',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Locavor_dining.jpg',
                             name: 'Locavore dinning in woods',
                             desc: 'Go local enjoy traditional Kangra Dham',
-                            routerLink: '/stores/Locavoredinninginwoods',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/tea-in-jungle.jpg',
                             name: 'Cutting Chai by the falls',
                             desc: 'Cutting chai next to waterfall with Pakors and sandwich',
-                            routerLink: '/stores/CuttingChaibythefalls',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Bonfire_sky.jpg',
                             name: 'Bonfire under the Sky',
                             desc: 'Dine under the canopy of countless star with live bar-be-que and music',
-                            routerLink: '/stores/BonfireundertheSky_1',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         }
                     ]
                 },
                 offers: {
-                    active: false,
+                    active: true,
                     heading: 'Other Offerings',
                     desc: 'Services that make your trip even more exciting and complete',
                     items: [
@@ -67325,22 +67488,37 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/SpaWithoutStay.png',
                             name: 'Access hotel without sleeping there',
                             desc: 'Wedding photography | Book Spa | Book a table at restaurant',
-                            routerLink: '/by-admin/216',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/MeetingHall.jpg',
                             name: 'Book our meeting hall',
                             desc: 'Plan your meetings with us',
-                            extLink: '',
-                            routerLink: '/stores/BookMeetings&ConferenceRoom'
+                            extLink: 'https://www.fortunehotels.in/',
+                            routerLink: '',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Tickets.jpg',
                             name: 'Tickets for local events',
                             desc: 'Lhasa tickets | Tibetan Opera festival | Cricket at Dharamshala stadium',
-                            routerLink: '/by-admin/217',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
                         }
                     ]
                 },
