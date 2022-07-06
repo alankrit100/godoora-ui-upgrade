@@ -43305,18 +43305,13 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Slider.jpg',
                             heading: 'Welcome to Leadership Conclave',
-                            subHeading: '',
-                            btn: {
-                                extLink: 'https://www.youtube.com/watch?v=vr_2ZbCUYkY',
-                                routerLink: '',
-                                label: 'READ MEMO'
-                            }
+                            subHeading: ''
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Leadership Conclave 2022',
+                    heading: 'Leadership Conclave 2022',
                     desc: `On behalf of the Fortune hotels, we cordially invite you to be a part of the Annual Leadership Conclave 2022 which is scheduled to be held from 7 July to 9 July at the Fortune Orange Park, Gurgaon. We look forward to an intellectually stimulating and enjoyable conference, and we hope you do too. The host team is trying their best to make this experience unparalleled and enriching for you. Thank you.`,
                     items: [
                         {
@@ -43340,7 +43335,33 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/images.jpg',
-                            name: 'Food Menu',
+                            name: 'Orchid Menu',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ORCHID+MENU+JUNE+2019++New.pdf',
+                            btn: {
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ORCHID+MENU+JUNE+2019++New.pdf',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/images.jpg',
+                            name: 'IRD Menu',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/IRD+Menu-Park+Orange-Sidhrawali.pdf',
+                            btn: {
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/IRD+Menu-Park+Orange-Sidhrawali.pdf',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/images.jpg',
+                            name: 'Neptune Menu',
                             location: '',
                             views: '',
                             routerLink: '',
@@ -43373,7 +43394,7 @@ export const Vendors = {
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/',
+                                routerLink: '/stores/SpaOffers',
                                 label: 'DETAILS'
                             }
                         },
@@ -43399,7 +43420,7 @@ export const Vendors = {
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/',
+                                routerLink: '/stores/ExtendedStayOffers',
                                 label: 'DETAILS'
                             }
                         },
@@ -43504,7 +43525,46 @@ export const Vendors = {
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/SuperApp',
+                                routerLink: '/stores/UniformsUnlimited',
+                                label: 'DETAILS'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Vendors/ace.jpg',
+                            name: 'ZMIPL Brief',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ZMIPL.eml',
+                            btn: {
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ZMIPL.eml',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Vendors/ace.jpg',
+                            name: 'Ace International ',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ACE.eml',
+                            btn: {
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ACE.eml',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Vendors/ace.jpg',
+                            name: 'Biotique',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/Biotique.eml',
+                            btn: {
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/Biotique.eml',
+                                routerLink: '',
                                 label: 'DETAILS'
                             }
                         },
@@ -43517,7 +43577,7 @@ export const Vendors = {
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/',
+                                routerLink: '/stores/GoodWorthLinens',
                                 label: 'DETAILS'
                             }
                         },
@@ -43530,7 +43590,7 @@ export const Vendors = {
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/',
+                                routerLink: '/stores/GOODWYNTEA',
                                 label: 'DETAILS'
                             }
                         }
@@ -44816,7 +44876,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Day 1',
-                            extLink: 'https://www.drive.google.com',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/Session+Schedule+V4.pdf',
                             routerLink: '',
                             icon: 'FortuneGurgaon/Day1.png',
                             showTextarea: true,
@@ -44834,7 +44894,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Day 2',
-                            extLink: 'https://www.drive.google.com',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/Session+Schedule+V4.pdf',
                             routerLink: '',
                             icon: 'FortuneGurgaon/Day2.png',
                             showTextarea: true,
@@ -44852,7 +44912,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Day 3',
-                            extLink: 'https://www.drive.google.com',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/Session+Schedule+V4.pdf',
                             routerLink: '',
                             icon: 'FortuneGurgaon/Day3.png',
                             showTextarea: true,
@@ -44921,7 +44981,7 @@ export const Vendors = {
                             name: 'Uniforms Unlimited',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'FortuneGurgaon/shirtr.png',
+                            icon: 'FortuneGurgaon/shirt.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
