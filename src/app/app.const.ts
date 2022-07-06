@@ -43305,12 +43305,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Slider.jpg',
                             heading: 'Welcome to GM Conclave',
-                            subHeading: '',
-                            btn: {
-                                extLink: 'https://www.youtube.com/watch?v=vr_2ZbCUYkY',
-                                routerLink: '',
-                                label: 'READ MEMO'
-                            }
+                            subHeading: ''
                         }
                     ]
                 },
