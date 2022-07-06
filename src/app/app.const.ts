@@ -43347,7 +43347,7 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/images.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Food1.jpg',
                             name: 'IRD Menu',
                             location: '',
                             views: '',
@@ -43360,7 +43360,7 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/images.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/foood.jpg',
                             name: 'Neptune Menu',
                             location: '',
                             views: '',
@@ -43530,40 +43530,40 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Vendors/ace.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/image3.jpg',
                             name: 'ZMIPL Brief',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ZMIPL.eml',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ZMIPL.pdf',
                             btn: {
-                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ZMIPL.eml',
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ZMIPL.pdf',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Vendors/ace.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/image2.jpg',
                             name: 'Ace International ',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ACE.eml',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ACE.pdf',
                             btn: {
-                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ACE.eml',
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ACE.pdf',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/Vendors/ace.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/image1.jpg',
                             name: 'Biotique',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/Biotique.eml',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/BIOTIQUE.pdf',
                             btn: {
-                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/Biotique.eml',
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/BIOTIQUE.pdf',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
