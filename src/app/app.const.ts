@@ -67049,9 +67049,9 @@ export const Vendors = {
                             subHeading: 'At Fortune Moksha'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Yoga_and_meditation.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/ITCHotels/HomePage.jpg',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Make your stay a gratifying experience, even before you step in'
                         }
                     ]
                 },
@@ -67061,21 +67061,21 @@ export const Vendors = {
                     desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mcleodganj. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
+                            label: 'Special Offers',
+                            extLink: 'https://www.fortunehotels.in/special-offers/?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Special+Offers+%7C+Website-Visits+%7C+July+2022',
+                            routerLink: ''
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
                             label: 'Plan your trip',
                             extLink: 'https://www.fortunehotels-planner.goyaana.com',
                             routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/for_store.jpg',
-                            label: 'The Fortune Store',
-                            extLink: '',
-                            routerLink: '/coming-soon'
                         }
                     ]
                 },
                 destinations: {
-                    active: true,
+                    active: false,
                     heading: 'Unique Fortune Experiences',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream',
                     items: [
@@ -67160,7 +67160,7 @@ export const Vendors = {
                     ]
                 },
                 experiences: {
-                    active: true,
+                    active: false,
                     heading: 'Local Experiences',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
@@ -67232,7 +67232,7 @@ export const Vendors = {
                     ]
                 },
                 activities: {
-                    active: true,
+                    active: false,
                     heading: 'Unique dining experiences',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
@@ -67323,7 +67323,7 @@ export const Vendors = {
                     ]
                 },
                 offers: {
-                    active: true,
+                    active: false,
                     heading: 'Other Offerings',
                     desc: 'Services that make your trip even more exciting and complete',
                     items: [
@@ -67521,24 +67521,6 @@ export const Vendors = {
                     extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
-                },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Brand Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
                 }
             ],
             departments: [
@@ -139085,31 +139067,16 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/ITCHotels/slider1.jpg',
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.fortunehotels.in/',
-                                label: 'KNOW MORE'
-                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/ITCHotels/slider2.jpg',
                             heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'At ITC Hotel',
-                            btn: {
-                                routerLink: 'https://www.fortunehotels.in/',
-                                extLink: '',
-                                label: 'KNOW MORE'
-                            }
+                            subHeading: 'At ITC Hotel'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/ITCHotels/slider3.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.fortunehotels.in/',
-                                label: 'KNOW MORE'
-                            }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/ITCHotels/HomePage.jpg',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Make your stay a gratifying experience, even before you step in'
                         }
                     ]
                 },
@@ -139119,48 +139086,16 @@ export const Vendors = {
                     desc: `At ITC hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through here. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Restaurant Menu',
-                            extLink: '',
-                            routerLink: '',
-                            btn: {
-                                routerLink: 'https://www.fortunehotels.in/',
-                                extLink: '',
-                                label: 'KNOW MORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
-                            label: 'Fun Filled Workshops',
-                            extLink: '',
-                            routerLink: '',
-                            btn: {
-                                routerLink: 'https://www.fortunehotels.in/',
-                                extLink: '',
-                                label: 'KNOW MORE'
-                            }
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
-                            label: 'Exclusive Offers',
-                            extLink: '',
-                            routerLink: '',
-                            btn: {
-                                routerLink: 'https://www.fortunehotels.in/',
-                                extLink: '',
-                                label: 'KNOW MORE'
-                            }
+                            label: 'Special Offers',
+                            extLink: 'https://www.itchotels.com/in/en/fortunehotels?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Special+Offers+%7C+Website-Visits+%7C+July+2022',
+                            routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
-                            label: 'Digital Guest Experience',
-                            extLink: '',
-                            routerLink: '',
-                            btn: {
-                                routerLink: 'https://www.fortunehotels.in/',
-                                extLink: '',
-                                label: 'KNOW MORE'
-                            }
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
+                            label: 'Plan your trip',
+                            extLink: 'https://www.fortunehotels-planner.goyaana.com',
+                            routerLink: ''
                         }
                     ]
                 },
