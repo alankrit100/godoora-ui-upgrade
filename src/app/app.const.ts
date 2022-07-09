@@ -139100,7 +139100,7 @@ export const Vendors = {
                     ]
                 },
                 destinations: {
-                    active: true,
+                    active: false,
                     heading: 'In-House Experiences',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
@@ -139186,7 +139186,7 @@ export const Vendors = {
                     ]
                 },
                 experiences: {
-                    active: true,
+                    active: false,
                     heading: 'Unique dining experiences.',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
                     items: [
@@ -139245,7 +139245,7 @@ export const Vendors = {
                     ]
                 },
                 activities: {
-                    active: true,
+                    active: false,
                     heading: 'Local Experiences',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
@@ -139420,7 +139420,7 @@ export const Vendors = {
                     ]
                 },
                 offers: {
-                    active: true,
+                    active: false,
                     heading: 'Unique Offerings',
                     desc: 'Services that make your trip even more exciting and complete.',
                     items: [
@@ -139487,7 +139487,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: 'Behind the scenes',
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
