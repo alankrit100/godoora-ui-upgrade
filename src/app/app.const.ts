@@ -68684,7 +68684,7 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Murali Park Hotel',
+                    heading: 'The Fortune Park, Airport Road  Hubbali ',
                     desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Andhra Pradesh through Murali Park Hotel. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
@@ -70106,10 +70106,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Service Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            name: 'Welcome',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Welcome.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/directory.png',
+                            icon: 'hublii/welcome.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70123,10 +70123,10 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/2.+Sales+%26+Reservations+Offices+in+India.pdf',
+                            name: 'Telecommunication',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Telecommunication.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/reserve.png',
+                            icon: 'hublii/network.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70140,10 +70140,10 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'In Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
+                            name: 'Sale And Reservation Office',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Sale+and+Reservation+Office+in+India.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/serving-dish.png',
+                            icon: 'hublii/work.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70157,10 +70157,10 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Dining Facilities',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/4.+Dining+Facilities.pdf',
+                            name: 'Place of Workship',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Place+of+Workship.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/serving-dish.png',
+                            icon: 'hublii/chinese-temple.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70175,7 +70175,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Other Fortune Hotels',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/5.+Other+Fortune+Hotels.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Other+Fortune+Hotel.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
@@ -70191,10 +70191,44 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Safety',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/6.+Safety.pdf',
+                            name: 'Other Features',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Other+Features.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/safety.png',
+                            icon: 'hublii/features.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Laundry Services',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Laundry+Services.pdf',
+                            routerLink: '',
+                            icon: 'hublii/laundry.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Important Telephone Extensions',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Important+Telephone+Extensions.pdf',
+                            routerLink: '',
+                            icon: 'hublii/landline.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70209,9 +70243,9 @@ export const Vendors = {
                         },
                         {
                             name: 'House Rules',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/7.+House+Rules.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/House+Rules.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/rules.png',
+                            icon: 'hublii/book.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70225,10 +70259,10 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Telecommunication',
-                            extLink: '  https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/8.+Telecommunication.pdf',
+                            name: 'Emergency & Safety',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Emergency+%26+Safety.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/network.png',
+                            icon: 'hublii/emergency-sign.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70242,10 +70276,10 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/9.+About+the+Place.pdf',
+                            name: 'Directory Of Services',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Directory+of+Services.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/place.png',
+                            icon: 'hublii/root-directory.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -70259,10 +70293,10 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Places of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/10.+Places+of+Interest.pdf',
+                            name: 'Dining Facilities',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/DINING+FACILITIES.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/PlaceOfInterest.png',
+                            icon: 'hublii/dining-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
