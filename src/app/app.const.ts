@@ -68763,7 +68763,7 @@ export const Vendors = {
                             name: 'Full day trip to Humpi',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HeritageandculturetourofVijayawada',
+                            routerLink: '/stores/FulldaytriptoHumpi',
                             extLink: ''
                         },
                         {
@@ -68771,7 +68771,7 @@ export const Vendors = {
                             name: 'Short trip to Nrupatunga Betta',
                             location: '',
                             views: '',
-                            routerLink: '/stores/AdventurestriptoBhavaniIsland',
+                            routerLink: '/stores/ShorttriptoNrupatungaBetta',
                             extLink: ''
                         },
                         {
@@ -68779,7 +68779,7 @@ export const Vendors = {
                             name: 'Unlock hidden Utsav rock garden tour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/TriptonearbyValleys_1',
+                            routerLink: '/stores/UnlockhiddenUtsavrockgardentour',
                             extLink: ''
                         }
                     ]
