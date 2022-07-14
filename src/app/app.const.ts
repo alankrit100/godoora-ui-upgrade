@@ -54128,8 +54128,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Park Dalhousie Experience',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dalhousie. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    heading: 'The Fortune Resort Heevan, Srinagar',
+                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Jammu and Kashmir through Heevan RM. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
@@ -56100,8 +56100,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Park Dalhousie Experience',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dalhousie. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    heading: 'The Fortune JP Palace,  Mysore',
+                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Karnataka through JP Palace. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
@@ -58072,8 +58072,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Park Dalhousie Experience',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dalhousie. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    heading: 'The Fortune Miramar, Goa',
+                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Goa through Miramar. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
@@ -68685,7 +68685,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Fortune Park, Airport Road  Hubbali ',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Andhra Pradesh through Murali Park Hotel. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Karnataka through Fortune Park Hubballi. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
@@ -68724,7 +68724,7 @@ export const Vendors = {
                             name: 'personalized dinner experience With Your choice of food',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_2',
                             extLink: '',
                         },    
                         {
@@ -68732,7 +68732,7 @@ export const Vendors = {
                             name: 'Buy 2 beer and get 1 free',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Buy02beerget01beerfree_8',
                             extLink: ''
                         },
                         {
@@ -68740,7 +68740,7 @@ export const Vendors = {
                             name: 'Cook with Chef Experience Offer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookwithChefExperienceOffer_2',
                             extLink: '',
                         },
                         {
@@ -68748,7 +68748,7 @@ export const Vendors = {
                             name: 'Combo Offer Spa + Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ComboOfferSpaDinner_2',
                             extLink: ''
                         }
                     ]
@@ -68779,7 +68779,7 @@ export const Vendors = {
                             name: 'Unlock hidden Utsav rock garden tour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/TriptonearbyValleys',
+                            routerLink: '/stores/TriptonearbyValleys_1',
                             extLink: ''
                         }
                     ]
@@ -68793,42 +68793,42 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
                             name: 'Banquet hall booking',
                             desc: '',
-                            routerLink: '/stores/Banquethallbooking_3',
+                            routerLink: '/stores/Banquethallbooking_5',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
                             name: 'Gourmet Box',
                             desc: '',
-                            routerLink: '/stores/GourmetBox',
+                            routerLink: '/stores/GourmetBox_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
                             name: 'Sunday Brunch',
                             desc: '',
-                            routerLink: '/stores/Sundaybrunch_9',
+                            routerLink: '/stores/SundayBrunch_11',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
                             name: 'Customised House Party',
                             desc: '',
-                            routerLink: '/stores/CustomisedHouseParty',
+                            routerLink: '/stores/CustomisedHouseParty_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
                             name: 'guided Yoga experience',
                             desc: '',
-                            routerLink: '/stores/guidedYogaexperience',
+                            routerLink: '/stores/guidedYogaexperience_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
                             name: 'Chauffeur-drive Airport Transfer',
                             desc: '',
-                            routerLink: '/stores/ChauffeurdriveAirportTransfer',
+                            routerLink: '/stores/ChauffeurdriveAirportTransfer_2',
                             extLink: ''
                         }
                     ]
@@ -68842,21 +68842,21 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
                             name: 'Cook With Chef',
                             desc: 'Duration: 2 hours',
-                            routerLink: '/stores/Cookwithchef_6',
+                            routerLink: '/stores/Cookwithchef_10',
                             extLink: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: 'Duration: 1 hours',
-                            routerLink: '/stores/Bedmaking_11',
+                            routerLink: '/stores/Bedmaking_13',
                             extLink: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Workshop+/towel+Origami+.jpg',
                             name: 'Towel Origamy',
                             desc: '',
-                            routerLink: '/stores/TowelOrigamy_8',
+                            routerLink: '/stores/TowelOrigamy_10',
                             extLink: ''
                         }
                     ]
@@ -69805,10 +69805,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Heritage and culture tour of Vijayawada',
+                            name: 'Full day trip to Humpi',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/walk.png',
+                            icon: 'hublii/chinese-temple.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -69821,10 +69821,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Adventures trip to Bhavani Island',
+                            name: 'Short trip to Nrupatunga Betta',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/adventurer.png',
+                            icon: 'FortuneGurgaon/hiking.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -69837,10 +69837,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Trip to nearby Valleys',
+                            name: 'Unlock hidden Utsav rock garden tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/road-trip.png',
+                            icon: 'FortuneGurgaon/forest.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
