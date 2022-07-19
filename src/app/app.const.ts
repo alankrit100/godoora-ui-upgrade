@@ -63578,7 +63578,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
                             label: 'Service Directory',
                             extLink: '',
-                            routerLink: '/by-admin628'
+                            routerLink: '/by-admin/628'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
