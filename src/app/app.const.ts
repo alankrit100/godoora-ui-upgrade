@@ -67097,13 +67097,13 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/ITCHotels/HomePage.jpg',
                             heading: 'Book Direct With Us',
-                            subHeading: 'Make your stay a gratifying experience, even before you step in'
+                            subHeading: ''
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Experience',
+                    heading: 'Make your stay a gratifying experience, even before you step in',
                     desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
