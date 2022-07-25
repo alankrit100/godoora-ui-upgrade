@@ -50466,7 +50466,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Restaurant Menu',
                             extLink: '',
-                            routerLink: '/by-admin/444'
+                            routerLink: '/by-admin/707'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
@@ -52090,7 +52090,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Restaurant Menu',
-                    icon: 'dharmshala/tray.png',
+                    icon: 'dalhousie/tray.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -52100,7 +52100,7 @@ export const Vendors = {
                             name: 'FoodLogue Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/FOODLOGUE_MENU.pdf',
                             routerLink: '',
-                            icon: 'dharmshala/nost.png',
+                            icon: 'dalhousie/nost.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -52127,7 +52127,7 @@ export const Vendors = {
                             name: 'In Room dining Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/IRD_MENU1.pdf',
                             routerLink: '',
-                            icon: 'dharmshala/restaurant1.png',
+                            icon: 'dalhousie/restaurant1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -52155,7 +52155,7 @@ export const Vendors = {
                             name: 'TIPSY TRAILS LIQUOR MENU',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/TIPSI+-TRAIL++LIQUOR+MENU+SEP2021..pdf',
                             routerLink: '',
-                            icon: 'dharmshala/menuu.png',
+                            icon: 'dalhousie/menuu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
