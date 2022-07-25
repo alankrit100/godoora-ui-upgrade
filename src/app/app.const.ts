@@ -67274,7 +67274,7 @@ export const Vendors = {
                             name: 'Indroda Dinosaur and Fossil Park',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HeritageandculturetourofVijayawada',
+                            routerLink: '/stores/IndrodaDinosaurandFossilPark',
                             extLink: ''
                         },
                         {
@@ -67282,7 +67282,7 @@ export const Vendors = {
                             name: 'Dandi Kutir Museum',
                             location: '',
                             views: '',
-                            routerLink: '/stores/AdventurestriptoBhavaniIsland',
+                            routerLink: '/stores/DandiKutirMuseum',
                             extLink: ''
                         },
                         {
@@ -67290,7 +67290,7 @@ export const Vendors = {
                             name: 'Adalaj ni Vav',
                             location: '',
                             views: '',
-                            routerLink: '/stores/TriptonearbyValleys',
+                            routerLink: '/stores/AdalajniVav',
                             extLink: ''
                         },
                         {
@@ -67298,7 +67298,7 @@ export const Vendors = {
                             name: 'Akshardham Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/TriptonearbyValleys',
+                            routerLink: '/stores/AkshardhamTemple',
                             extLink: ''
                         }
                         
