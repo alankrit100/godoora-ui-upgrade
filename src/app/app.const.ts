@@ -50599,19 +50599,19 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Kalatop.jpg',
                             name: 'Kalatop Wildlife Sanctuary',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KalatopWildlifeSanctuary',
                             extLink: ''
                         },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/ChameraLake.jpg',
                             name: 'Chamera Lake',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ChameraLake',
                             extLink: ''
                         },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/HeliSkiing.jpg',
                             name: 'Heli Skiing',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HeliSkiing',
                             extLink: ''
                         }
                     ]
