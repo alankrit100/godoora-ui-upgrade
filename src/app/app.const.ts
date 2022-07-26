@@ -50441,12 +50441,12 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider2.jpg',
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider2.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider1.jpg',
                             heading: 'Exclusive Personalised Dinners',
                             subHeading: 'At Amoha Retreat'
                         },
@@ -50589,101 +50589,29 @@ export const Vendors = {
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/devi-temple.jpg',
-                            name: 'Naina Devi Temple Trek',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/DainkundPeak.jpg',
+                            name: 'Dainkund Peak',
                             desc: '',
-                            routerLink: '/stores/NainaDeviTempleTreck',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/forest-picnic.jpg',
-                            name: 'Pine Tree Forest Picnic',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Kalatop.jpg',
+                            name: 'Kalatop Wildlife Sanctuary',
                             desc: '',
-                            routerLink: '/stores/PineTreeForestPicnic',
+                            routerLink: '/stores/',
                             extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/river-side-picnic.jpg',
-                            name: 'The River Side Picnic',
+                        },{
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/ChameraLake.jpg',
+                            name: 'Chamera Lake',
                             desc: '',
-                            routerLink: '/stores/RiverSidePicnic',
+                            routerLink: '/stores/',
                             extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/temple-hike.jpg',
-                            name: 'Diktu Temple Hike',
+                        },{
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/HeliSkiing.jpg',
+                            name: 'Heli Skiing',
                             desc: '',
-                            routerLink: '/stores/DiktuTempleHike',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/garhi.jpg',
-                            name: 'Garhi Hike',
-                            desc: '',
-                            routerLink: '/stores/GarhiHike',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/villge.jpg',
-                            name: 'Village walk',
-                            desc: '',
-                            routerLink: '/stores/Villagewalk',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/paragliding.jpg',
-                            name: 'Exclusive Paragliding with a hike',
-                            desc: '',
-                            routerLink: '/stores/Paraglidingwithahike',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/tour.jpg',
-                            name: 'Mcleodganj Tour Package',
-                            desc: '',
-                            routerLink: '/stores/McleodganjTourPackage',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/gliding.jpg',
-                            name: 'Paragliding',
-                            desc: '',
-                            routerLink: '/stores/Paragliding_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/Z-line.jpg',
-                            name: 'Zip Line',
-                            desc: '',
-                            routerLink: '/stores/ZipLine_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/atv.jpg',
-                            name: 'ATVs',
-                            desc: '',
-                            routerLink: '/stores/ATVs',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/camping.jpg',
-                            name: 'Camping',
-                            desc: '',
-                            routerLink: '/stores/Camping_2',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/horseride.jpg',
-                            name: 'Horseride',
-                            desc: '',
-                            routerLink: '/stores/Horseride',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/trekkk.jpg',
-                            name: 'Trekking',
-                            desc: '',
-                            routerLink: '/stores/Trekking',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -51843,18 +51771,18 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Local Experience',
-                    icon: 'dharmshala/skills.png',
+                    name: 'Local Experiences',
+                    icon: 'dalhousie/skills.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Naina Devi Temple Treck',
+                            name: 'Dainkund Peak',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/temple.png',
+                            icon: 'dalhousie/peak.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -51870,10 +51798,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Pine Tree Forest Picnic',
+                            name: 'Kalatop Wildlife Sanctuary',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/forest.png',
+                            icon: 'dalhousie/tiger.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -51889,10 +51817,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'River Side Picnic',
+                            name: 'Chamera Lake',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/river.png',
+                            icon: 'dalhousie/landscape.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -51908,10 +51836,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Diktu Temple Hike',
+                            name: 'Heli Skiing',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/hiking.png',
+                            icon: 'dalhousie/ski.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -51926,166 +51854,6 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Garhi Hike',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/hiking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Village walk',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/village.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Paragliding with a hike',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paragliding.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Mcleodganj Tour Package',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/tour-bus.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Paragliding',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paraglidingg.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/paraggliding.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Zip Line',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/zipline.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/zippline.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'ATVs',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/atv.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/atvride.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Camping',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/tent.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/campingg.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Horseride',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/riding.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/horsseride.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Trekking',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/hikingg.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/treking.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
                     ]
                 },
                 {
