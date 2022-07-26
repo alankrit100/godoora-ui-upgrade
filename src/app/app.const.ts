@@ -66895,7 +66895,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Murali Park Hotel',
+            title: 'Fortune Inn Haveli Gandhinagar',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -66953,7 +66953,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding2.jpg',
                             heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'Fortune Murali Park Hotel'
+                            subHeading: 'Fortune Inn Haveli Gandhinagar'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding3.jpg',
