@@ -64617,8 +64617,8 @@ export const Vendors = {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Our+unique+offerings/Banquet1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Our+unique+offerings/Banquet1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Our+unique+offerings/Banquet1.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Our+unique+offerings/Banquet2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Our+unique+offerings/Banquet3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -64874,7 +64874,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Sale And Reservation Office',
+                            name: 'Sales & Reservations Offices in India',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Sale+and+Reservation+Office+in+India.pdf',
                             routerLink: '',
                             icon: 'hublii/work.png',
@@ -65010,7 +65010,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Directory Of Services',
+                            name: 'Directory of Services',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/pdf/Directory+of+Services.pdf',
                             routerLink: '',
                             icon: 'hublii/root-directory.png',
@@ -65064,13 +65064,13 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Special+Offer/Dinner1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Special+Offer/Dinner1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Special+Offer/Dinner1.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Special+Offer/Dinner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Special+Offer/Dinner3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Buy 02 beer get 01 beer free',
+                            name: 'Buy 2 beer and get 1 free',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/beer.png',
