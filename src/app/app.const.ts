@@ -73943,7 +73943,7 @@ export const Vendors = {
                             name: 'Yoga Session',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/YogaSession_1',
                             extLink: '',
                         },    
                         {
@@ -73951,7 +73951,7 @@ export const Vendors = {
                             name: 'Tombola',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Tombola',
                             extLink: ''
                         },
                         {
@@ -73959,7 +73959,7 @@ export const Vendors = {
                             name: 'Karaoke',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Karaoke',
                             extLink: '',
                         },
                         {
@@ -73967,7 +73967,7 @@ export const Vendors = {
                             name: 'Archery',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Archery',
                             extLink: ''
                         },
                         {
@@ -73990,7 +73990,7 @@ export const Vendors = {
                             name: 'Village Tour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/VillageTour',
                             extLink: ''
                         },
                         {
@@ -73998,7 +73998,7 @@ export const Vendors = {
                             name: 'Sightseeing in Timber Trail',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SightseeinginTimberTrail',
                             extLink: ''
                         },
                         {
@@ -74006,7 +74006,7 @@ export const Vendors = {
                             name: 'Nature Walk at The Lover`s Lane',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NatureWalkatTheLoversLane',
                             extLink: ''
                         },
                         {
@@ -74014,7 +74014,7 @@ export const Vendors = {
                             name: 'Trekking to Monkey Point',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TrekkingtoMonkeyPoint',
                             extLink: ''
                         }
                     ]
@@ -74029,7 +74029,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_11',
                             extLink: ''
                         },
                         {
@@ -74037,7 +74037,7 @@ export const Vendors = {
                             name: 'Barbeque',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Barbeque_7',
                             extLink: ''
                         },
                         {
@@ -74045,7 +74045,7 @@ export const Vendors = {
                             name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Closetonaturebreakfast_2',
                             extLink: ''
                         }
                     ]
@@ -74059,21 +74059,21 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/towel.jpg',
                             name: 'Towel Origamy Classes',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TowelOrigamyClasses_5',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
                             name: 'Cooking With Chef',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingWithChefs_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/mocktail.jpg',
                             name: 'Mocktail Making session',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MocktailMakingsession_5',
                             extLink: ''
                         },
                     ]
