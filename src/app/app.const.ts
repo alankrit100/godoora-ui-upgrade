@@ -73828,23 +73828,14 @@ export const Vendors = {
             }
         },
         {
-<<<<<<< HEAD
-            branch: 'Lucknow',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/BranchhImage.jpg',
-=======
             branch: 'Kasauli',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Kasauli/Kasauli.jpg',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-<<<<<<< HEAD
-            title: 'Fortune Park Dalhousie',
-=======
             title: 'Fortune Select Forest Hill Kasauli',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -73895,30 +73886,17 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-<<<<<<< HEAD
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider2.jpg',
-=======
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Kasauli/Slider1.jpg',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
                         {
-<<<<<<< HEAD
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider1.jpg',
-                            heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'At Amoha Retreat'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider3.jpg',
-=======
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Kasauli/Slider2.jpg',
                             heading: 'Exclusive Personalised Dinners',
                             subHeading: 'Fortune Murali Park Hotel'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Kasauli/Slider3.jpg',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         }
@@ -73926,28 +73904,6 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-<<<<<<< HEAD
-                    heading: 'The Fortune Park Dalhousie Experience',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dalhousie. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Restaurant Menu',
-                            extLink: '',
-                            routerLink: '/by-admin/707'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
-                            label: 'Fun Filled Workshops',
-                            extLink: '',
-                            routerLink: '/by-admin/383'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
-                            label: 'Exclusive Offers',
-                            extLink: '',
-                            routerLink: '/by-admin/445'
-=======
                     heading: 'The Fortune Murali Park Hotel',
                     desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Andhra Pradesh through Murali Park Hotel. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
@@ -73968,7 +73924,6 @@ export const Vendors = {
                             label: 'Restaurant Menu',
                             extLink: '',
                             routerLink: '/by-admin/730'
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
@@ -73984,54 +73939,6 @@ export const Vendors = {
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-<<<<<<< HEAD
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
-                            name: 'Painting by the Banyan Tree',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PaintingbytheBanyanTree',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
-                            name: 'Yoga experience',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/509',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/gardening.jpg',
-                            name: 'GARDENING – Lets Go Green',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Gardening',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/nature-walk.jpg',
-                            name: 'Nature Walk',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/NatureWalk_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
-                            name: 'Close to Nature Breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Naturebreakfast',
-                            extLink: ''
-
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/folk-dance.jpg',
-                            name: 'Folk Evenings',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Folkevenings',
-=======
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Kasauli/Yoga.jpg',
                             name: 'Yoga Session',
                             location: '',
@@ -74069,48 +73976,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             extLink: ''
                         }
                     ]
                 },
                 experiences: {
                     active: true,
-<<<<<<< HEAD
-                    heading: 'Unique Dining Experiences.',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
-                            name: 'Exclusive Personalised Dinners',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/ExclusivePersonalisedDinner',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
-                            name: 'Close to nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Closetonaturebreakfast',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CookingSessionWithChef',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/thali.jpg',
-                            name: 'Kangri Dham Lunch Thali',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/KangriDhamLunchThali',
-=======
                     heading: 'Local Experience',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
@@ -74144,42 +74015,12 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/TrekkingtoMonkeyPoint',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             extLink: ''
                         }
                     ]
                 },
                 activities: {
                     active: true,
-<<<<<<< HEAD
-                    heading: 'Local Experiences',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/DainkundPeak.jpg',
-                            name: 'Dainkund Peak',
-                            desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Kalatop.jpg',
-                            name: 'Kalatop Wildlife Sanctuary',
-                            desc: '',
-                            routerLink: '/stores/KalatopWildlifeSanctuary',
-                            extLink: ''
-                        },{
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/ChameraLake.jpg',
-                            name: 'Chamera Lake',
-                            desc: '',
-                            routerLink: '/stores/ChameraLake',
-                            extLink: ''
-                        },{
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/HeliSkiing.jpg',
-                            name: 'Heli Skiing',
-                            desc: '',
-                            routerLink: '/stores/HeliSkiing',
-=======
                     heading: 'Unique Dining Experiences',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
                     items: [
@@ -74205,69 +74046,36 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/Closetonaturebreakfast_2',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             extLink: ''
                         }
                     ]
                 },
                 offers: {
                     active: true,
-<<<<<<< HEAD
-                    heading: 'Workshops',
-=======
                     heading: 'Workshop',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/towel.jpg',
                             name: 'Towel Origamy Classes',
                             desc: '',
-<<<<<<< HEAD
-                            routerLink: '/stores/TowelOrigamyClasses',
-=======
                             routerLink: '/stores/TowelOrigamyClasses_5',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
                             name: 'Cooking With Chef',
                             desc: '',
-<<<<<<< HEAD
-                            routerLink: '/stores/CookingWithChefs',
-=======
                             routerLink: '/stores/CookingWithChefs_3',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/mocktail.jpg',
                             name: 'Mocktail Making session',
                             desc: '',
-<<<<<<< HEAD
-                            routerLink: '/stores/MocktailMakingsession',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/tea.jpg',
-                            name: 'Tea With Chef',
-                            desc: '',
-                            routerLink: '/stores/TeaWithChef',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/resort-tour.jpg',
-                            name: 'Resort Farm Tour',
-                            desc: '',
-                            routerLink: '/stores/ResortFarmTour',
-                            extLink: ''
-                        }
-=======
                             routerLink: '/stores/MocktailMakingsession_5',
                             extLink: ''
                         },
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     ]
                 },
                 stories: {
@@ -74425,11 +74233,7 @@ export const Vendors = {
             departments: [
                 {
                     name: 'Front Desk',
-<<<<<<< HEAD
-                    icon: 'dharmshala/reception.png',
-=======
                     icon: 'fortunemussoorieicons/Front.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -74439,26 +74243,13 @@ export const Vendors = {
                             name: 'Reception',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/reception.png',
-=======
                             icon: 'fortunemussoorieicons/Reception.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to know if there is a cloak room',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -74495,11 +74286,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Housekeeping',
-<<<<<<< HEAD
-                    icon: 'dharmshala/housekeeper.png',
-=======
                     icon: 'fortunemussoorieicons/Housekeeping.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -74509,26 +74296,13 @@ export const Vendors = {
                             name: 'Extra Crockery & Cutlery',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/restaurant.png',
-=======
                             icon: 'fortunemussoorieicons/Extra.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I need 2 dinnner plates along with spoons',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -74536,25 +74310,12 @@ export const Vendors = {
                             name: 'Additional Bedding',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/bed.png',
-=======
                             icon: 'fortunemussoorieicons/bedmaking.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             placeholder: 'Example: Please send me an extra pillow',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -74562,26 +74323,13 @@ export const Vendors = {
                             name: 'Laundry Service',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/washing-machine.png',
-=======
                             icon: 'fortunemussoorieicons/Laundry.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please arrange laundry pickup for me',
                             headerText: 'Select a time when our person can knock your door',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -74589,160 +74337,21 @@ export const Vendors = {
                             name: 'Room Cleaning',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/cleaning.png',
-=======
                             icon: 'fortunemussoorieicons/Room.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please sanitize my room and replace bedding',
                             headerText: 'Select an ideal time for us to work in your room',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Food and Beverage',
-                    icon: 'dharmshala/food.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Book a Table - at Restaurant',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Order Online',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/take-away.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Book a Table - FORTUNE DELI',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to host a private party',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Book a table - NEPTUNE BAR & LOUNGE',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'In Room Dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
-                            headerText: 'When would you like the food to arrive at your room?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-=======
 
                             ],
                             confirmBtnLabel: 'Submit Request'
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                         }
                     ]
                 },
                 {
                     name: 'Wellness and Fitness',
-<<<<<<< HEAD
-                    icon: 'dharmshala/fitness.png',
-=======
                     icon: 'fortunemussoorieicons/fitness.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -74752,26 +74361,13 @@ export const Vendors = {
                             name: 'Spa',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/fitness.png',
-=======
                             icon: 'fortunemussoorieicons/Spa.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -74779,26 +74375,13 @@ export const Vendors = {
                             name: 'Gym',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/gym.png',
-=======
                             icon: 'fortunemussoorieicons/Gym.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like to use the treadmill',
                             headerText: 'When would you like to hit the Gym?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
@@ -74806,26 +74389,13 @@ export const Vendors = {
                             name: 'Swimming Pool',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/swimming.png',
-=======
                             icon: 'fortunemussoorieicons/Swimming.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         }
@@ -74833,43 +74403,23 @@ export const Vendors = {
                 },
                 {
                     name: 'Recreation & Sports',
-<<<<<<< HEAD
-                    icon: 'dharmshala/cricket.png',
-=======
                     icon: 'fortunemussoorieicons/Sports.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-<<<<<<< HEAD
-                            name: 'Tennis',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/tenniss.png',
-=======
                             name: 'Table Tennis',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/tennis.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Please keep the racket in the court',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
@@ -74877,26 +74427,13 @@ export const Vendors = {
                             name: 'Pool Table',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/ping-pong.png',
-=======
                             icon: 'fortunemussoorieicons/pool.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Please keep the rackets and the ball on the table',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -74904,11 +74441,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Travel and Activities',
-<<<<<<< HEAD
-                    icon: 'dharmshala/bus.png',
-=======
                     icon: 'tour-bus.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -74918,26 +74451,13 @@ export const Vendors = {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/taxi.png',
-=======
                             icon: 'taxi.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book the cab'
                         },
@@ -74945,26 +74465,13 @@ export const Vendors = {
                             name: 'Local Taxi',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/taxi.png',
-=======
                             icon: 'taxi.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Arrange a Sedan for local sightseeing',
                             headerText: 'When are you planning to start from hotel?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book a Cab'
                         },
@@ -74972,26 +74479,13 @@ export const Vendors = {
                             name: 'Local Restaurant',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/restaurant.png',
-=======
                             icon: 'restaurant-table.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
                             headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book a slow'
                         },
@@ -74999,26 +74493,13 @@ export const Vendors = {
                             name: 'Amusement Park',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/amusement.png',
-=======
                             icon: 'ferris-wheel.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
                             headerText: 'When are you planning to visit?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book tickets'
                         },
@@ -75026,26 +74507,13 @@ export const Vendors = {
                             name: 'Cinemas / Plays',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/cinema.png',
-=======
                             icon: 'movie-theater.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
                             headerText: 'When are you planning to go for the movie?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Book Tickets'
                         },
@@ -75053,26 +74521,13 @@ export const Vendors = {
                             name: 'Forex',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/forex.png',
-=======
                             icon: 'neutral-trading.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
                             headerText: 'When would you like to collect it?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -75080,26 +74535,13 @@ export const Vendors = {
                             name: 'Local Shopping',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/shopping.png',
-=======
                             icon: 'shopping-bag.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
                             headerText: 'When would you like to go for shopping?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Fix appointment'
                         },
@@ -75107,26 +74549,13 @@ export const Vendors = {
                             name: 'Arrange a Tour',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/bus.png',
-=======
                             icon: 'tour-bus.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -75134,11 +74563,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Repairs',
-<<<<<<< HEAD
-                    icon: 'dharmshala/repair.png',
-=======
                     icon: 'fortunemussoorieicons/Repairs.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -75148,26 +74573,13 @@ export const Vendors = {
                             name: 'TV',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/tv.png',
-=======
                             icon: 'fortunemussoorieicons/TV.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: None of the Kannada channels are not working',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -75175,26 +74587,13 @@ export const Vendors = {
                             name: 'AC',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/ac.png',
-=======
                             icon: 'fortunemussoorieicons/AC.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I need help in adjusting room temprature',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -75202,26 +74601,13 @@ export const Vendors = {
                             name: 'Coffee Maker',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/coffee.png',
-=======
                             icon: 'coffee-maker.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Need help in operating the coffee maker',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -75229,26 +74615,13 @@ export const Vendors = {
                             name: 'Hair Dryer',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/dryer.png',
-=======
                             icon: 'fortunemussoorieicons/Hair.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Please replace the hair dryer',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -75256,24 +74629,12 @@ export const Vendors = {
                             name: 'Electrical',
                             extLink: '',
                             routerLink: 'test',
-<<<<<<< HEAD
-                            icon: 'dharmshala/bulb.png',
-=======
                             icon: 'fortunemussoorieicons/Electrical.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'placeholder',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-<<<<<<< HEAD
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -75289,121 +74650,20 @@ export const Vendors = {
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
                 },
                 {
-<<<<<<< HEAD
-                    name: 'Workshop',
-                    icon: 'dharmshala/workshop.png',
-=======
                     name: 'Food and Beverage',
                     icon: 'fortunemussoorieicons/beverage.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-<<<<<<< HEAD
-                            name: 'Towel Origamy Classes',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/towel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Cooking With Chefs',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Mocktail Making session',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/mocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Resort Farm Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/resort.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Tea With Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/tea.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-=======
                             name: 'Pre-Order Garhwali Thali / Punjabi Thali',
                             extLink: '',
                             routerLink: 'test',
@@ -75556,41 +74816,18 @@ export const Vendors = {
                             menuImgs: [
 
                             ]
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                         }
                     ]
                 },
                 {
-<<<<<<< HEAD
-                    name: 'In-house Experience',
-                    icon: 'dharmshala/home.png',
-=======
                     name: 'In-House Experiences',
                     icon: 'fortunemussoorieicons/house.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-<<<<<<< HEAD
-                            name: 'Painting by the Banyan Tree',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paint.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
                             name: 'Yoga Session',
                             extLink: '',
                             routerLink: 'test',
@@ -75601,27 +74838,10 @@ export const Vendors = {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Yoga experience',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
-=======
                             name: 'Tombola',
                             extLink: '',
                             routerLink: 'test',
@@ -75632,28 +74852,10 @@ export const Vendors = {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Gardening',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/gardening.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
                             name: 'Karaoke',
                             extLink: '',
                             routerLink: 'test',
@@ -75664,28 +74866,10 @@ export const Vendors = {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Nature Walk',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/walking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
                             name: 'Archery',
                             extLink: '',
                             routerLink: 'test',
@@ -75696,20 +74880,10 @@ export const Vendors = {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
 
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Nature breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-=======
                             name: 'Tracking',
                             extLink: '',
                             routerLink: 'test',
@@ -75741,7 +74915,6 @@ export const Vendors = {
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
@@ -75754,44 +74927,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Folk evenings',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/folk.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Unique dining experiences',
-                    icon: 'dharmshala/dining-table.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Exclusive Personalised Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-=======
                             name: 'Cooking With Chefs',
                             extLink: '',
                             routerLink: 'test',
@@ -75799,7 +74934,6 @@ export const Vendors = {
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
@@ -75812,17 +74946,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Close to nature breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-=======
                             name: 'Mocktail Making session',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/mocktail.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -75836,81 +74963,18 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
-<<<<<<< HEAD
-                        },
-                        {
-                            name: 'Cooking Session With Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Kangri Dham Lunch Thali',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-=======
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                         }
                     ]
                 },
                 {
-<<<<<<< HEAD
-                    name: 'Local Experiences',
-                    icon: 'dalhousie/skills.png',
-=======
                     name: 'Local Experience',
                     icon: 'fortunemussoorieicons/local.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-<<<<<<< HEAD
-                            name: 'Dainkund Peak',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dalhousie/peak.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
                             name: 'Village Tour',
                             extLink: '',
                             routerLink: 'test',
@@ -75920,28 +74984,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Kalatop Wildlife Sanctuary',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dalhousie/tiger.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
                             name: 'Sightseeing in Timber Trail',
                             extLink: '',
                             routerLink: 'test',
@@ -75951,28 +74997,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Chamera Lake',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dalhousie/landscape.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-=======
                             name: 'Nature Walk at The Lover`s Lane',
                             extLink: '',
                             routerLink: 'test',
@@ -75982,31 +75010,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Heli Skiing',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dalhousie/ski.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-=======
                             name: 'Trekking to Monkey Point',
                             extLink: '',
                             routerLink: 'test',
@@ -76022,28 +75029,17 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     ]
                 },
                 {
                     name: 'Restaurant Menu',
-<<<<<<< HEAD
-                    icon: 'dalhousie/tray.png',
-=======
                     icon: 'fortunemussoorieicons/menu.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-<<<<<<< HEAD
-                            name: 'FoodLogue Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/FOODLOGUE_MENU.pdf',
-                            routerLink: '',
-                            icon: 'dalhousie/nost.png',
-=======
                             name: 'NOSTRADAMUS Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/Nostradamus_menu.pdf',
                             routerLink: '',
@@ -76076,7 +75072,6 @@ export const Vendors = {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/ORC_Menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -76100,17 +75095,10 @@ export const Vendors = {
                             ]
                         },
                         {
-<<<<<<< HEAD
-                            name: 'In Room dining Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/IRD_MENU1.pdf',
-                            routerLink: '',
-                            icon: 'dalhousie/restaurant1.png',
-=======
                             name: 'Room Service Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/IRD_Menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -76133,243 +75121,6 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
                             ]
-<<<<<<< HEAD
-                        },
-                        {
-                            name: 'TIPSY TRAILS LIQUOR MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/TIPSI+-TRAIL++LIQUOR+MENU+SEP2021..pdf',
-                            routerLink: '',
-                            icon: 'dalhousie/menuu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/MENU.pdf',
-                            routerLink: '',
-                            icon: 'dalhousie/tray.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'NEPTUNE MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Neptune+Menu.pdf',
-                            routerLink: '',
-                            icon: 'dalhousie/terms.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'ZODIAC MENU NEW',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Zodiac+Menu+NEW.pdf',
-                            routerLink: '',
-                            icon: 'dharmshala/menuu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Exclusive Offers',
-                    icon: 'dharmshala/offer.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Painting by the Banyan Tree Offer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paint.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Buy 02 beer get 01 beer free',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/beer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Yoga experience',
-                    icon: 'dharmshala/yoga.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Tibetan singing bowl sound bath',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/bowl.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Meditation',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/meditation.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Yoga Therapy',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Breathe work',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breath.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
-=======
                         }
                     ]
                 },
@@ -76618,27 +75369,10 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Candle1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Candle2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Candle3.jpg' }
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Pranayam',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/pranayam.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
-=======
                             name: 'Barbeque',
                             extLink: '',
                             routerLink: 'test',
@@ -76651,27 +75385,10 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Barbeque1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Barbeque2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Barbeque3.jpg' }
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-<<<<<<< HEAD
-                            name: 'Yoga Class',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/yoga-class.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
-=======
                             name: 'Close to nature breakfast',
                             extLink: '',
                             routerLink: 'test',
@@ -76684,16 +75401,11 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close3.jpg' }
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
-<<<<<<< HEAD
-                }
-=======
                 },
->>>>>>> d11c451b2d502bcbaa3ef6e07051168d3fdf0b36
             ],
             comingSoon: {
                 active: true,
@@ -76706,6 +75418,7 @@ export const Vendors = {
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         }
+
     ],
     'www.clarksinn-experiences.goyaana.com': [
         {
