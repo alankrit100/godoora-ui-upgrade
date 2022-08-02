@@ -68752,7 +68752,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Fortune Inn Grazia',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Andhra Pradesh through Murali Park Hotel. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Fortune Inn Grazia. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
@@ -68829,7 +68829,7 @@ export const Vendors = {
                             name: 'ISKCON Temple Ghaziabad',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HeritageandculturetourofVijayawada',
+                            routerLink: '/stores/ISKCONTempleGhaziabad',
                             extLink: ''
                         },
                         {
@@ -68837,7 +68837,7 @@ export const Vendors = {
                             name: 'Drizzling Land',
                             location: '',
                             views: '',
-                            routerLink: '/stores/AdventurestriptoBhavaniIsland',
+                            routerLink: '/stores/DrizzlingLand',
                             extLink: ''
                         },
                         {
@@ -68845,7 +68845,7 @@ export const Vendors = {
                             name: 'Swarna Jayanti Park',
                             location: '',
                             views: '',
-                            routerLink: '/stores/TriptonearbyValleys',
+                            routerLink: '/stores/SwarnaJayantiPark',
                             extLink: ''
                         }
                     ]
