@@ -75236,10 +75236,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Yoga Hut Dining Offer',
+                            name: '5% off on Food, Soft beverages',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/dining-table.png',
+                            icon: 'Vijaywadaicons/offer.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -75256,10 +75256,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Buy 02 beer get 01 beer free',
+                            name: '5% off on Room rate & Laundry',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/beer.png',
+                            icon: 'Vijaywadaicons/offer.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -75621,8 +75621,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Murali Park Hotel',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Andhra Pradesh through Murali Park Hotel. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    heading: 'The Fortune Select Forest Hill Kasauli Hotel',
+                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Himachal Pradesh through Fortune Select Forest Hill Kasauli Hotel. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
@@ -77135,7 +77135,6 @@ export const Vendors = {
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         }
-
     ],
     'www.clarksinn-experiences.goyaana.com': [
         {
