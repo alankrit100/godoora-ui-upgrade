@@ -70471,8 +70471,8 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Biryani.png',
                             label: 'MEAL UPGRADE',
-                            extLink: 'https://www.fortunehotels-planner.goyaana.com',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink:'/coming-soon'
                         }
                     ]
                 },
