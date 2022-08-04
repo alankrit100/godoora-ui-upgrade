@@ -79,7 +79,7 @@
       </div>
     </section>
   
-    <section class="most_loved_destination mb-2" *ngIf="selectedBranch === 'default' && totalBranches && totalBranches.length > 1 && vendorDeatil?.displayProperty">
+    <!--<section class="most_loved_destination mb-2" *ngIf="selectedBranch === 'default' && totalBranches && totalBranches.length > 1 && vendorDeatil?.displayProperty">
       <div class="container">
         <div class="row m-0">
           <div class="col-12 p-0">
@@ -90,12 +90,6 @@
           </div>
         </div>
         <div class="row m-0" style="overflow: scroll;flex-wrap: nowrap;">
-          <!-- <carousel class="branch-carousel" [loop]="true" *ngIf="slides && slides.length">
-          <div class="carousel-cell" *ngFor="let slide of slides">
-            <img [src]="slide.path">
-            <span>Branch Name</span>
-          </div>
-        </carousel> -->
           <ng-container *ngFor="let item of totalBranches">
             <div class="wrap_destination branches px-1 display-5box" *ngIf="item.branch != 'default'"
               (click)="navigateToBranchPage(item)">
@@ -111,7 +105,7 @@
           </ng-container>
         </div>
       </div>
-    </section>
+    </section>-->
   
     <section class="most_loved_destination" *ngIf="vendorDeatil.landingPage?.destinations?.active">
       <div class="container">

@@ -70469,8 +70469,8 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
-                            label: 'Plan your trip',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Biryani.png',
+                            label: 'MEAL UPGRADE',
                             extLink: 'https://www.fortunehotels-planner.goyaana.com',
                             routerLink: ''
                         }
