@@ -147724,18 +147724,52 @@ export const Vendors = {
                             confirmBtnLabel: 'BOOK NOW'
                         },
                         {
-                            name: 'Group Package',
+                            name: 'Continental Plan',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'palace/boxes.png',
+                            icon: 'palace/plan1.png',
                             showTextarea: true,
                             textAreaLabel: 'Any special requests?',
                             placeholder: 'Ex: I need one extra bed.',
                             headerText: 'Please select below the dates for your stay',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/package2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pckge3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
+                            ],
+                            bookingEngine: true,
+                            confirmBtnLabel: 'BOOK NOW'
+                        },
+                        {
+                            name: 'American Plan',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/plan2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Any special requests?',
+                            placeholder: 'Ex: I need one extra bed.',
+                            headerText: 'Please select below the dates for your stay',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
+                            ],
+                            bookingEngine: true,
+                            confirmBtnLabel: 'BOOK NOW'
+                        },
+                        {
+                            name: 'Modified American plan',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'palace/plan3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Any special requests?',
+                            placeholder: 'Ex: I need one extra bed.',
+                            headerText: 'Please select below the dates for your stay',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
                             ],
                             bookingEngine: true,
                             confirmBtnLabel: 'BOOK NOW'
