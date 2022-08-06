@@ -146737,11 +146737,27 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/gPack.jpg',
-                            name: 'Group Package',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/continental.jpg',
+                            name: 'Continental Plan',
                             location: '',
                             views: '',
-                            routerLink: '/stores/GroupPackage_1',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/American.jpg',
+                            name: 'American Plan',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/modified-american-plan.jpg',
+                            name: 'Modified American plan',
+                            location: '',
+                            views: '',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
