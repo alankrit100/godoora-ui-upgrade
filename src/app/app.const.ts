@@ -146871,18 +146871,14 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
-                            videoId: 'zYL9YuLbMGk&t=11s'
+                            videoId: 'zYL9YuLbMGk&t=17s'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
-                            videoId: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/videos/CLIP+1+RS.mp4'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/videos/CLIP+1+RS.mp4',
+                            videoId: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
-                            videoId: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/videos/My+VidePULLBACK+RZD.mp4'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/videos/My+VidePULLBACK+RZD.mp4',
                             videoId: ''
                         }
                     ]
