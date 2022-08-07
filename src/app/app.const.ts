@@ -146865,7 +146865,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
+                    active: true,
                     heading: 'Behind the scenes',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
@@ -147699,9 +147699,9 @@ export const Vendors = {
                             placeholder: 'Ex: I need one extra bed.',
                             headerText: 'Please select below the dates for your stay',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
                             ],
                             bookingEngine: true,
                             confirmBtnLabel: 'BOOK NOW'
@@ -147716,9 +147716,9 @@ export const Vendors = {
                             placeholder: 'Ex: I need one extra bed.',
                             headerText: 'Please select below the dates for your stay',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/room1.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
                             ],
                             bookingEngine: true,
                             confirmBtnLabel: 'BOOK NOW'
