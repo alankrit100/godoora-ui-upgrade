@@ -146827,18 +146827,18 @@ export const Vendors = {
                 stories: {
                     active: true,
                     heading: 'Behind the scenes',
-                    desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
+                    desc: 'Feel the Purity of cauvery, Essence of greenery, Peace of mind and Experience coorg like never before',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Behindscene1.jpeg',
                             videoId: 'FY286yHFd3c'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Behindscene2.jpeg',
                             videoId: 'W1EybEqptsg'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Behindscene3.jpeg',
                             videoId: '0bbArP_NbPE'
                         }
                     ]
