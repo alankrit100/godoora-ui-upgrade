@@ -70469,8 +70469,8 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Biryani.png',
-                            label: 'MEAL UPGRADE',
+                            img: '',
+                            label: 'COMING SOON',
                             extLink: '',
                             routerLink:'/coming-soon'
                         }
@@ -71017,13 +71017,13 @@ export const Vendors = {
                     ]
                 },
                 experiences: {
-                    active: false,
-                    heading: 'Local Experiences',
+                    active: true,
+                    heading: 'Quick Upgrades',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Triund+trek.jpg',
-                            name: 'Triund day trek',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/UpRoom.jpg',
+                            name: 'Upgrade Room',
                             location: 'Duration: 10 hours',
                             views: 'Experience the majestic himalayas and feel the heavenly feeling.',
                             routerLink: '',
@@ -71035,8 +71035,8 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Cycle+tour.jpg',
-                            name: 'Bicycle tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Biryani.png',
+                            name: 'Upgrade Meal',
                             location: 'Duration: 2 hours',
                             views: 'Visit the offbeat part of the city with scenic views.',
                             routerLink: '',
@@ -71048,8 +71048,8 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/ram-yoga-house.jpg',
-                            name: 'Yoga session',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/ExtBed.jpg',
+                            name: 'Extra Bed',
                             location: 'Duration: 3 hours',
                             views: 'Learn the art of yoga and meditation with our spiritual guru.',
                             routerLink: '',
@@ -71061,8 +71061,8 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Nature+walk.jpg',
-                            name: 'Nature walks',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/Cab.jpg',
+                            name: 'Get Cab Pick-Up And Drop-Off',
                             location: 'Duration: 2 hours',
                             views: 'A perfect way to enjoy the nature and mountains.',
                             routerLink: '',
@@ -71074,8 +71074,8 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/peepal+farm.jpg',
-                            name: 'Visit peepal farm to meet the rescued animals',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/BusinessCentre.jpg',
+                            name: 'Avail Business Centre Services',
                             location: 'Duration: 2 hours',
                             views: 'Farm visit',
                             routerLink: '',
@@ -71089,14 +71089,15 @@ export const Vendors = {
                     ]
                 },
                 activities: {
-                    active: false,
-                    heading: 'Unique dining experiences',
+                    active: true,
+                    heading: 'Other Benefits',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/strems_canopy_dining.jpg',
-                            name: 'Stars canopy dining experience',
-                            desc: 'Dine under the stars with a personal chef & butler who look after your meal for the evening along with bonfire with live bar-be-que',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/discount.jpg',
+                            name: 'Avail A 20% Discount On Spa Services',
+                            location: '',
+                            views: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/',
                             btn: {
@@ -71106,21 +71107,10 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/yoga_hut_dining.jpg',
-                            name: 'Yoga hut dining experience',
-                            desc: 'Dine at the yoga hut overlooking to snow caped Dhuladhar ranges, with a personal chef & butler who look after your meal',
-                            routerLink: '',
-                            extLink: '',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/High_tea_nature.jpg',
-                            name: 'High tea Experience in the nature',
-                            desc: 'High tea in the Jungle, with a personal chef & butler',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/PoolSideDinner.jpg',
+                            name: 'Vantage Poolside Dining For Couple',
+                            location: '',
+                            views: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/',
                             btn: {
@@ -71130,9 +71120,10 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/stream_dining.jpg',
-                            name: 'Stream dining',
-                            desc: 'Stream dining experience with steaming Momos , Thupkas and Tibetan food  trail',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/CustomDine.jpg',
+                            name: 'Custom In-Room Dining Menu',
+                            location: '',
+                            views: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/',
                             btn: {
@@ -71142,33 +71133,10 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Locavor_dining.jpg',
-                            name: 'Locavore dinning in woods',
-                            desc: 'Go local enjoy traditional Kangra Dham',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/tea-in-jungle.jpg',
-                            name: 'Cutting Chai by the falls',
-                            desc: 'Cutting chai next to waterfall with Pakors and sandwich',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Bonfire_sky.jpg',
-                            name: 'Bonfire under the Sky',
-                            desc: 'Dine under the canopy of countless star with live bar-be-que and music',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/special_day.jpg',
+                            name: 'Celebrate Your Special Day With Us',
+                            location: '',
+                            views: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/',
                             btn: {
@@ -71180,14 +71148,14 @@ export const Vendors = {
                     ]
                 },
                 offers: {
-                    active: false,
-                    heading: 'Other Offerings',
+                    active: true,
+                    heading: 'Plan Your Trip',
                     desc: 'Services that make your trip even more exciting and complete',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/SpaWithoutStay.png',
-                            name: 'Access hotel without sleeping there',
-                            desc: 'Wedding photography | Book Spa | Book a table at restaurant',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/citytoour.jpg',
+                            name: 'Book A City Tour',
+                            desc: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/',
                             btn: {
@@ -71197,11 +71165,11 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/MeetingHall.jpg',
-                            name: 'Book our meeting hall',
-                            desc: 'Plan your meetings with us',
-                            extLink: 'https://www.fortunehotels.in/',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/guide.jpg',
+                            name: 'Hire A Local Sherpa/Guide',
+                            desc: '',
                             routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
                             btn: {
                                 extLink: 'https://www.fortunehotels.in/',
                                 routerLink: '',
@@ -71209,9 +71177,21 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Tickets.jpg',
-                            name: 'Tickets for local events',
-                            desc: 'Lhasa tickets | Tibetan Opera festival | Cricket at Dharamshala stadium',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/food.jpg',
+                            name: 'Explore The Citys Food Trail',
+                            desc: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/',
+                                routerLink: '',
+                                label: 'DETAILS'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/heritage.jpg',
+                            name: 'Explore The Citys Heritage Trail',
+                            desc: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/',
                             btn: {
