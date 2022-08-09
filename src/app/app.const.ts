@@ -79252,32 +79252,52 @@ export const Vendors = {
                             name: 'personalized dinner experience With Your choice of food',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_4',
                             extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         },    
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Beer.jpeg',
                             name: 'Buy 2 beer and get 1 free',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/Buy02beerget01beerfree_13',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Buy02beerget01beerfree_13',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
                             name: 'Cook with Chef Experience Offer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookwithChefExperienceOffer_4',
                             extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/CookwithChefExperienceOffer_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/ComboOffer.jpg',
                             name: 'Combo Offer Spa + Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/ComboOfferSpaDinner_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/ComboOfferSpaDinner_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         }
                     ]
                 },
@@ -79321,43 +79341,73 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
                             name: 'Banquet hall booking',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/Banquethallbooking_7',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Banquethallbooking_7',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
                             name: 'Gourmet Box',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/GourmetBox_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/GourmetBox_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
                             name: 'Sunday Brunch',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/SundayBrunch_13',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/SundayBrunch_13',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
                             name: 'Customised House Party',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/CustomisedHouseParty_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/CustomisedHouseParty_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
                             name: 'guided Yoga experience',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/guidedYogaexperience_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/guidedYogaexperience_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
                             name: 'Chauffeur-drive Airport Transfer',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/ChauffeurdriveAirportTransfer_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/ChauffeurdriveAirportTransfer_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         }
                     ]
                 },
@@ -79370,22 +79420,37 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
                             name: 'Cook With Chef',
                             desc: 'Duration: 2 hours',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Cookwithchef_12',
                             extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Cookwithchef_12',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
                             name: 'Bedmaking',
                             desc: 'Duration: 1 hours',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bedmaking_15',
                             extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Bedmaking_15',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Workshop+/towel+Origami+.jpg',
                             name: 'Towel Origamy',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '/stores/TowelOrigamy_12',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/TowelOrigamy_12',
+                                label: 'ENQUIRE NOW'
+                            }
                         }
                     ]
                 },
