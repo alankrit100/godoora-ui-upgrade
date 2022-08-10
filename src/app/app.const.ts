@@ -71881,18 +71881,18 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Experience',
-                    icon: 'fortunemoksha/experience.png',
+                    name: 'Upgrade Room',
+                    icon: 'FortuneHomepage/room.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Whimsical Dining Experience',
+                            name: 'Fortune Park Ahmedabad',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/dining.png',
+                            icon: 'FortuneHomepage/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -71903,10 +71903,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Dine at the yoga hut',
+                            name: 'Fortune Park Moksha',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/dining11.png',
+                            icon: 'FortuneHomepage/forutne.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -71917,85 +71917,13 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Pasta on the way',
+                            name: 'Fortune Resort Grace',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemoksha/pasta.png',
+                            icon: 'FortuneHomepage/hotel1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bonfire under the sky',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/bonfire.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Evening tea ritual',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/tea-cup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Stream dining experence',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-
-                        {
-                            name: 'A high tea in jungle',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/jungle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-
-                        {
-                            name: 'Be your open theater',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemoksha/movie.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
 
@@ -72005,7 +71933,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Workshop',
+                    name: 'Avail A 20% Discount On Spa',
                     icon: 'fortunemoksha/worksho.png',
                     size: '64px',
                     color: '#1a8cd2',
