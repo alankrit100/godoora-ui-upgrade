@@ -70469,7 +70469,7 @@ export const Vendors = {
                             routerLink: ''
                         },
                         {
-                            img: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/comingsoon.jpg',
                             label: 'COMING SOON',
                             extLink: '',
                             routerLink:'/coming-soon'
@@ -71019,17 +71019,17 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'Quick Upgrades',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    desc: 'Get the services at your fingertips',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/UpRoom.jpg',
                             name: 'Upgrade Room',
-                            location: 'Duration: 10 hours',
-                            views: 'Experience the majestic himalayas and feel the heavenly feeling.',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/757',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71037,12 +71037,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Biryani.png',
                             name: 'Upgrade Meal',
-                            location: 'Duration: 2 hours',
-                            views: 'Visit the offbeat part of the city with scenic views.',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71050,12 +71050,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/ExtBed.jpg',
                             name: 'Extra Bed',
-                            location: 'Duration: 3 hours',
-                            views: 'Learn the art of yoga and meditation with our spiritual guru.',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71063,12 +71063,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/Cab.jpg',
                             name: 'Get Cab Pick-Up And Drop-Off',
-                            location: 'Duration: 2 hours',
-                            views: 'A perfect way to enjoy the nature and mountains.',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71076,12 +71076,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/BusinessCentre.jpg',
                             name: 'Avail Business Centre Services',
-                            location: 'Duration: 2 hours',
-                            views: 'Farm visit',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71091,17 +71091,17 @@ export const Vendors = {
                 activities: {
                     active: true,
                     heading: 'Other Benefits',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
+                    desc: 'We offer a truly great experience where our guests needs are anticipated and make every moment memorable',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/discount.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/spa.jpg',
                             name: 'Avail A 20% Discount On Spa Services',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71112,9 +71112,9 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71125,9 +71125,9 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71138,9 +71138,9 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71155,11 +71155,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/citytoour.jpg',
                             name: 'Book A City Tour',
-                            desc: '',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71167,11 +71168,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/guide.jpg',
                             name: 'Hire A Local Sherpa/Guide',
-                            desc: '',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71179,11 +71181,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/food.jpg',
                             name: 'Explore The Citys Food Trail',
-                            desc: '',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
@@ -71191,11 +71194,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/heritage.jpg',
                             name: 'Explore The Citys Heritage Trail',
-                            desc: '',
+                            location: '',
+                            views: '',
                             routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/',
+                            extLink: '',
                             btn: {
-                                extLink: 'https://www.fortunehotels.in/',
+                                extLink: '',
                                 routerLink: '',
                                 label: 'DETAILS'
                             }
