@@ -79114,7 +79114,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Landing2.jpg',
                             heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'Fortune Murali Park Hotel'
+                            subHeading: 'Fortune Park Haridwar'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Landing3.jpg',
