@@ -49316,17 +49316,17 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Slider1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/sliderimage/s1.jpg',
                             heading: 'A trip that will fulfil your dream list’',
                             subHeading: 'Art & Culture | Beaches | Serene Beauty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/slider2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/sliderimage/s2.jpg',
                             heading: 'Rejuvenate yourself',
                             subHeading: 'At Fortune Resort'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/slider3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/sliderimage/s3.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         }
@@ -50020,8 +50020,8 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Garden restaurant menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/nept_menu.pdf',
+                            name: 'Zodiac Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/1+_+NEW+-Zodiac+Menu-Benaulim+Goa.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/nost.png',
                             showTextarea: true,
@@ -50033,8 +50033,8 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Pool bar menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Orchid_Menu.pdf',
+                            name: 'Digital IRD Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/2_+NEW+-+Digital+IRD+Menu-Benaulim+Goa.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
@@ -50046,8 +50046,8 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Cafe Succoriana menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/IRD_Menu.pdf',
+                            name: 'JOECONS BAR Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/JOECONS+BAR+Menu-Benaulim+Goa+rev+(1)_converted_by_abcdpdf.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/menu.png',
                             showTextarea: true,
