@@ -48888,8 +48888,8 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'NOSTRADAMUS Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/Nostradamus_menu.pdf',
+                            name: 'Nostradamus Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -48917,7 +48917,7 @@ export const Vendors = {
                         },
                         {
                             name: 'ORCHID Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Mussoorie+ORCHID+Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/ORCHID+Menu+MUSSOORIE.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -48943,8 +48943,8 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Room Service Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/IRD_Menu.pdf',
+                            name: 'IRD Menu Mussoorie',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/IRD+Menu+Mussoorie.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
                             showTextarea: true,
@@ -52204,7 +52204,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Service Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Service+Directory.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Service+Directory.pdf',
                             routerLink: '',
                             icon: 'hublii/root-directory.png',
                             showTextarea: true,
@@ -52221,9 +52221,9 @@ export const Vendors = {
                         },
                         {
                             name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Sales+%26+Reservations+Offices+in+India.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Sales+%26+Reservations+Offices+in+India.pdf',
                             routerLink: '',
-                            icon: 'hublii/work.pnghublii/network.png',
+                            icon: 'hublii/network.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -52238,7 +52238,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Dining Facilities',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Dining+Facilities.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Dining+Facilities.pdf',
                             routerLink: '',
                             icon: 'hublii/dining-table.png',
                             showTextarea: true,
@@ -52255,7 +52255,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Other Fortune Hotels',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Other+Fortune+Hotels.xlsx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Other+Fortune+Hotels.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
@@ -52272,7 +52272,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Safety',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Safety.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Safety.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
@@ -52289,7 +52289,7 @@ export const Vendors = {
                         },
                         {
                             name: 'House Rules',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/House+Rules.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/House+Rules.pdf',
                             routerLink: '',
                             icon: 'hublii/book.png',
                             showTextarea: true,
@@ -52306,7 +52306,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Telecommunication',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Telecommunication.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Telecommunication.pdf',
                             routerLink: '',
                             icon: 'hublii/landline.png',
                             showTextarea: true,
@@ -52323,7 +52323,7 @@ export const Vendors = {
                         },
                         {
                             name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/About+the+Place.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/About+the+Place.pdf',
                             routerLink: '',
                             icon: 'hublii/emergency-sign.png',
                             showTextarea: true,
@@ -52340,7 +52340,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Places+of+Interest.docx',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Places+of+Interest.pdf',
                             routerLink: '',
                             icon: 'hublii/book.png',
                             showTextarea: true,
