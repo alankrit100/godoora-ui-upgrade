@@ -63641,7 +63641,7 @@ export const Vendors = {
                             name: 'personalized dinner experience With Your choice of food',
                             location: '',
                             views: '',
-                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_1',
+                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_5',
                             extLink: '',
                         },    
                         {
@@ -63649,7 +63649,7 @@ export const Vendors = {
                             name: 'Buy 2 beer and get 1 free',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Buy02beerget01beerfree_5',
+                            routerLink: '/stores/Buy2beerandget1free',
                             extLink: ''
                         },
                         {
@@ -63657,7 +63657,7 @@ export const Vendors = {
                             name: 'Cook with Chef Experience Offer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookwithChefExperienceOffer_1',
+                            routerLink: '/stores/CookwithChefExperienceOffer_5',
                             extLink: '',
                         },
                         {
@@ -63665,7 +63665,7 @@ export const Vendors = {
                             name: 'Combo Offer Spa + Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ComboOfferSpaDinner_1',
+                            routerLink: '/stores/ComboOfferSpaDinner_5',
                             extLink: ''
                         }
                     ]
@@ -64894,7 +64894,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'NOSTRADAMUS Menu',
+                            name: 'NEPTUNE Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/Nostradamus_menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
