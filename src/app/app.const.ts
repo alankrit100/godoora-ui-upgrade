@@ -82463,7 +82463,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park Haridwar',
+            title: 'Fortune Inn Riviera',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -82532,7 +82532,7 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Park Haridwar',
+                    heading: 'Fortune Inn Riviera, Jammu',
                     desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Uttarakhand through Fortune Park Haridwar. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
@@ -83168,7 +83168,16 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/NatureWalk_1',
                             extLink: ''
-                        } 
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
+                            name: 'Close to Nature Breakfast',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Naturebreakfast',
+                            extLink: ''
+
+                        }
                     ]
                 },
                 offers: {
