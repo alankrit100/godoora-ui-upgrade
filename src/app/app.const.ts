@@ -83135,122 +83135,78 @@ export const Vendors = {
                 activities: {
                     active: true,
                     heading: 'In-House Experience',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
-                            name: 'Banquet hall booking',
-                            desc: '',
-                            routerLink: '/stores/Banquethallbooking_7',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/Banquethallbooking_7',
-                                label: 'ENQUIRE NOW'
-                            }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
+                            name: 'Painting by the Banyan Tree',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PaintingbytheBanyanTree',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
-                            name: 'Gourmet Box',
-                            desc: '',
-                            routerLink: '/stores/GourmetBox_4',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/GourmetBox_4',
-                                label: 'ENQUIRE NOW'
-                            }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
+                            name: 'Yoga experience',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/509',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
-                            name: 'Sunday Brunch',
-                            desc: '',
-                            routerLink: '/stores/SundayBrunch_13',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/SundayBrunch_13',
-                                label: 'ENQUIRE NOW'
-                            }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/gardening.jpg',
+                            name: 'GARDENING – Lets Go Green',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Gardening',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
-                            name: 'Customised House Party',
-                            desc: '',
-                            routerLink: '/stores/CustomisedHouseParty_4',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/CustomisedHouseParty_4',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
-                            name: 'guided Yoga experience',
-                            desc: '',
-                            routerLink: '/stores/guidedYogaexperience_4',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/guidedYogaexperience_4',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
-                            name: 'Chauffeur-drive Airport Transfer',
-                            desc: '',
-                            routerLink: '/stores/ChauffeurdriveAirportTransfer_4',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/ChauffeurdriveAirportTransfer_4',
-                                label: 'ENQUIRE NOW'
-                            }
-                        }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/nature-walk.jpg',
+                            name: 'Nature Walk',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/NatureWalk_1',
+                            extLink: ''
+                        } 
                     ]
                 },
                 offers: {
                     active: true,
                     heading: 'Unique Dinning Experience',
-                    desc: 'Services that make your trip even more exciting and complete.',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Cook With Chef',
-                            desc: 'Duration: 2 hours',
-                            routerLink: '/stores/Cookwithchef_12',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/Cookwithchef_12',
-                                label: 'ENQUIRE NOW'
-                            }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
+                            name: 'Exclusive Personalised Dinners',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/ExclusivePersonalisedDinner',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
-                            name: 'Bedmaking',
-                            desc: 'Duration: 1 hours',
-                            routerLink: '/stores/Bedmaking_15',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/Bedmaking_15',
-                                label: 'ENQUIRE NOW'
-                            }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
+                            name: 'Close to nature breakfast',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Closetonaturebreakfast',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Workshop+/towel+Origami+.jpg',
-                            name: 'Towel Origamy',
-                            desc: '',
-                            routerLink: '/stores/TowelOrigamy_12',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/TowelOrigamy_12',
-                                label: 'ENQUIRE NOW'
-                            }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
+                            name: 'Cooking Session With Chef',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CookingSessionWithChef',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/thali.jpg',
+                            name: 'Kangri Dham Lunch Thali',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/KangriDhamLunchThali',
+                            extLink: ''
                         }
                     ]
                 },
@@ -83261,19 +83217,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Mcleodganj-1.jpg',
-                            videoId: ''
+                            videoId: '60ZnD6EckHk'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
-                            videoId: ''
+                            videoId: '64wfmV9u1dU'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/amoha11.jpg',
-                            videoId: ''
+                            videoId: '60ZnD6EckHk'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
-                            videoId: ''
+                            videoId: '64wfmV9u1dU'
                         }
                     ]
                 },
