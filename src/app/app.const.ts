@@ -82538,8 +82538,8 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Digital Menus',
-                            extLink: '',
-                            routerLink: '/by-admin/744'
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/746',
+                            routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
@@ -82550,8 +82550,8 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Special Benefits',
-                            extLink: '',
-                            routerLink: '/by-admin/746'
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/744',
+                            routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
@@ -83225,7 +83225,7 @@ export const Vendors = {
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Mcleodganj-1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
                             videoId: '60ZnD6EckHk'
                         },
                         {
