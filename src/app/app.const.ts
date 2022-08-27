@@ -83142,7 +83142,7 @@ export const Vendors = {
                             name: 'Painting by the Banyan Tree',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PaintingbytheBanyanTree_4',
                             extLink: ''
                         },
                         {
@@ -83150,7 +83150,7 @@ export const Vendors = {
                             name: 'Yoga experience',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/Yogaexperience_5',
                             extLink: ''
                         },
                         {
@@ -83158,7 +83158,7 @@ export const Vendors = {
                             name: 'GARDENING – Lets Go Green',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gardening_2',
                             extLink: ''
                         },
                         {
@@ -83166,7 +83166,7 @@ export const Vendors = {
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NatureWalk_3',
                             extLink: ''
                         },
                         {
@@ -83174,7 +83174,7 @@ export const Vendors = {
                             name: 'Close to Nature Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Naturebreakfast_3',
                             extLink: ''
 
                         }
@@ -83190,7 +83190,7 @@ export const Vendors = {
                             name: 'Exclusive Personalised Dinners',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExclusivePersonalisedDinner_1',
                             extLink: ''
                         },
                         {
@@ -83198,7 +83198,7 @@ export const Vendors = {
                             name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Closetonaturebreakfast_3',
                             extLink: ''
                         },
                         {
@@ -83206,7 +83206,7 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingSessionWithChef_1',
                             extLink: ''
                         },
                         {
@@ -83214,7 +83214,7 @@ export const Vendors = {
                             name: 'Kangri Dham Lunch Thali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KangriDhamLunchThali_1',
                             extLink: ''
                         }
                     ]
