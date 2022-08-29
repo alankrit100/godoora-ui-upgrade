@@ -82554,7 +82554,7 @@ export const Vendors = {
                             routerLink: '/by-admin/775'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/land.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/PlanYourTrip.png',
                             label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: '/by-admin/776'
@@ -84562,8 +84562,8 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Restaurant Menu',
-                            extLink: '',
-                            routerLink: 'test',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
+                            routerLink: '',
                             icon: 'JammuIcons/RestaurantMenu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -84575,8 +84575,8 @@ export const Vendors = {
                         },
                         {
                             name: 'In-Room Dining Menu',
-                            extLink: '',
-                            routerLink: 'test',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
+                            routerLink: '',
                             icon: 'JammuIcons/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -84588,8 +84588,8 @@ export const Vendors = {
                         },
                         {
                             name: 'Spa Laundry and Minibar Menu',
-                            extLink: '',
-                            routerLink: 'test',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/SPA+MENU.pdf',
+                            routerLink: '',
                             icon: 'JammuIcons/SpaMenu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
