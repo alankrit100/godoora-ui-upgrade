@@ -50443,7 +50443,12 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider2.jpg',
                             heading: 'A trip that will fulfil your dream list’',
-                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                            subHeading: 'Art & Culture | Mountains | Serene Beauty',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/779',
+                                label: 'CONTACT US'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider1.jpg',
@@ -52357,6 +52362,67 @@ export const Vendors = {
                         }
                     ]
                 },
+                {
+                    name: 'Contact Us',
+                    icon: 'dalhousie/Contact.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Email ID', 
+                            extLink: 'reservations.fpdh@fortunehotels.in',
+                            routerLink: '',
+                            icon: 'dalhousie/Mail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Facebook',
+                            extLink: 'https://www.facebook.com/FortuneParkDalhousie',
+                            routerLink: '',
+                            icon: 'dalhousie/Facebook.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Instagram',
+                            extLink: 'https://www.instagram.com/fortuneparkdalhousie/?hl=en',
+                            routerLink: '',
+                            icon: 'dalhousie/Instagram.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        }
+                    ]
+                }
             ],
             comingSoon: {
                 active: true,
