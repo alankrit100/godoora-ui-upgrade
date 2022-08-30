@@ -50453,7 +50453,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider1.jpg',
                             heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'At Amoha Retreat'
+                            subHeading: 'At Fortune Park Dalhousie'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/slider3.jpg',
@@ -52372,7 +52372,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Email ID', 
-                            extLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie',
                             routerLink: '',
                             icon: 'dalhousie/Mail.png',
                             showTextarea: true,
