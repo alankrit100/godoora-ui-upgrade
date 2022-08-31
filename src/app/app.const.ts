@@ -52371,10 +52371,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Email ID', 
+                            name: 'Fortune Website', 
                             extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie',
                             routerLink: '',
-                            icon: 'dalhousie/Mail.png',
+                            icon: 'dalhousie/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -52383,7 +52383,22 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Book the table',
-                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Email ID',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dalhousie/Mail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+                            ],
+                            storePageAsBlog: true,
+                            menuImgs: [
+                                
+                            ]
                         },
                         {
                             name: 'Facebook',
