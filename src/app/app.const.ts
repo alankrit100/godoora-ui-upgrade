@@ -155872,9 +155872,9 @@ export const Vendors = {
             branch: 'chamundiparadise',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
             id: 'www.chamundiparadise.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Islandhomestay.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Chamundi+logo.png',
             theme: 'grey-theme',
-            idCategory: 31,
+            idCategory: 33,
             favIconLink: 'assets/icon/favicon.png',
             title: 'CHAMUNDI PARADISE HOMESTAY',
             storeImg: 'social2.jpg',
@@ -155976,121 +155976,82 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'Book Rooms at Special Offers',
+                    heading: 'In-House Experiences',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Bright.jpeg',
-                            name: 'Superior Room',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Fishing.jpg',
+                            name: 'Fishing',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SuperiorRoom',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Suite+Room.jpeg',
-                            name: 'Suite Room',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Bird+Watching.jpg',
+                            name: 'Bird watching',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SuiteRoom',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/continental.jpg',
-                            name: 'Continental Plan',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/ContinentalPlan',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/American.jpg',
-                            name: 'American Plan',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/AmericanPlan',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/modified-american-plan.jpg',
-                            name: 'Modified American plan',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/ModifiedAmericanplan',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
                 },
                 experiences: {
-                    active: false,
-                    heading: 'Pre-Book Local Sightseeing',
+                    active: true,
+                    heading: 'Special Offers',
                     desc: 'Live like a local: Experiences for a lifetime',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/island.jpg',
-                            name: 'St. Mary`s Island Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Superior+Room.jpg',
+                            name: 'Superior Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/StMaryIslandtour_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/houseboat.jpg',
-                            name: 'House Boat Ride',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Suite+Room.jpg',
+                            name: 'Suite Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HouseboatRide',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/scuba_dive.jpg',
-                            name: 'Scuba Diving',
+                            name: 'Stay With Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ScubaDiving',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/water_scooter.jpg',
-                            name: 'Water Scooter',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/WaterScooter',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
                 },
                 activities: {
-                    active: false,
-                    heading: 'Inhouse experiences & workshops',
+                    active: true,
+                    heading: 'Local Experiences',
                     desc: 'Enjoy the best comfort and convenience with us on your holy visit. We want you to give us a chance to serve you with the cultural and spiritual warmth of Rameswaram at Daiwik. We open our arms to you and welcome you to join us in this effort.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cook with chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/coffee+Plantation+Walk.jpg',
+                            name: 'Coffee Plantation Walk',
                             desc: '',
                             routerLink: '/stores/Cookingwithchef_4',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/towel.jpg',
-                            name: 'Towel Origami Class',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Mountain+Trek.jpg',
+                            name: 'Mountain Trek',
                             desc: '',
                             routerLink: '/stores/TowelOrigamiClass',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/moctail.jpg',
-                            name: 'Mocktail making class',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/mountain-safari.jpg',
+                            name: 'Mountain Safari',
                             desc: '',
                             routerLink: '/stores/MocktailMakingClass',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/homestay/painting.jpg',
-                            name: 'Learn Painting from Udupi artists',
-                            desc: '',
-                            routerLink: '/stores/LearnPaintingfromUdupiartists',
                             extLink: ''
                         }
                     ]
@@ -156689,7 +156650,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'In-house Experiences and Workshops',
+                    name: 'In-House Experiences',
                     icon: 'kediyoor-icon/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -156697,10 +156658,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Towel Origami Class',
+                            name: 'Fishing',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/towel.png',
+                            icon: 'Chamundiicons/fishing.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -156710,36 +156671,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Cooking with chef',
+                            name: 'Bird watching',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/chef.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Mocktail Making Class',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/mocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Learn Painting from Udupi artists',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/art.png',
+                            icon: 'Chamundiicons/birdwatching.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -156937,7 +156872,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Book Rooms at Special Offers',
+                    name: 'Special Offers',
                     icon: 'palace/travel-luggage.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -156979,44 +156914,10 @@ export const Vendors = {
                             confirmBtnLabel: 'BOOK NOW'
                         },
                         {
-                            name: 'Continental Plan',
+                            name: 'Stay With Breakfast',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'palace/plan1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Any special requests?',
-                            placeholder: 'Ex: I need one extra bed.',
-                            headerText: 'Please select below the dates for your stay',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
-                            ],
-                            bookingEngine: true,
-                            confirmBtnLabel: 'BOOK NOW'
-                        },
-                        {
-                            name: 'American Plan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/plan2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Any special requests?',
-                            placeholder: 'Ex: I need one extra bed.',
-                            headerText: 'Please select below the dates for your stay',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
-                            ],
-                            bookingEngine: true,
-                            confirmBtnLabel: 'BOOK NOW'
-                        },
-                        {
-                            name: 'Modified American plan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/plan3.png',
+                            icon: 'Chamundiicons/breakfast.png',
                             showTextarea: true,
                             textAreaLabel: 'Any special requests?',
                             placeholder: 'Ex: I need one extra bed.',
@@ -157078,6 +156979,65 @@ export const Vendors = {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'palace/cashless-payment.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to make the payment',
+                            headerText: 'What kind of payment do you like to make?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                },
+                {
+                    name: 'Local Experiences',
+                    icon: 'Chamundiicons/store.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Coffee Plantation Walk',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Chamundiicons/replant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/contactus.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Mountain Trek',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Chamundiicons/hiking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know the services offered by you.',
+                            headerText: 'You can contact us through text or call.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/contactus.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Mountain Safari',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Chamundiicons/safari.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to make the payment',
