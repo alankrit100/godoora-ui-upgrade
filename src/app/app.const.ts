@@ -47484,11 +47484,11 @@ export const Vendors = {
                             name: 'Meeting Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Meetinghall',
+                            routerLink: '/stores/MeetingHall_1',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/Meetinghall',
+                                routerLink: '/stores/MeetingHall_1',
                                 label: 'ENQUIRE NOW'
                             }
                         },
@@ -47497,11 +47497,11 @@ export const Vendors = {
                             name: 'Special events',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Firecamping',
+                            routerLink: '/stores/Specialevents_1',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/Firecamping',
+                                routerLink: '/stores/Specialevents_1',
                                 label: 'ENQUIRE NOW'
                             }
                         }
