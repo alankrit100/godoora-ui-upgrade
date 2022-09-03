@@ -49227,7 +49227,7 @@ export const Vendors = {
             comingSoon: {
                 active: true,
                 heading: 'Something Awesome is in the works',
-                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later'
             },
             offSeason: {
                 active: true,
