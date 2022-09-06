@@ -117346,7 +117346,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/ParaGliding1.jpeg,
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/ParaGliding1.jpeg',
                             name: 'Paragliding',
                             desc: '',
                             routerLink: '/stores/Paragliding_1',
