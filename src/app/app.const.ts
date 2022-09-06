@@ -117346,7 +117346,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/ParaGliding1.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/ParaGliding1.jpeg,
                             name: 'Paragliding',
                             desc: '',
                             routerLink: '/stores/Paragliding_1',
@@ -117395,7 +117395,7 @@ export const Vendors = {
                     desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/towel.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Unique+Dinning+Experiences/towel1.jpg',
                             name: 'Towel Origamy Classes',
                             desc: '',
                             routerLink: '/stores/TowelOrigamyClasses',
@@ -118247,12 +118247,11 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Unique+Dinning+Experiences/towel1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Unique+Dinning+Experiences/towel2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Unique+Dinning+Experiences/towel3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Unique+Dinning+Experiences/towel4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Unique+Dinning+Experiences/towewl5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -118537,7 +118536,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Pine+tree1.pngg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Pine+tree1.png' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Pine+tree2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Pine+tree3.jpg' }
                             ],
@@ -118569,7 +118568,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/river+side3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/diktu+tempe+1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/diktu+tempe+2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/diktu+tempe+3.png' }
                             ],
@@ -118617,12 +118616,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/ParaGliding1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/ParaGliding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/ParaGliding3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -118702,8 +118698,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/camping1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/camping2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/camping3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/camping2.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/camping3.png' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -118734,7 +118730,7 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Trekking1.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Trekking2.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Trekking2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/local+experiences/Trekking3.png' }
                             ],
                             confirmBtnLabel: 'Submit Request'
