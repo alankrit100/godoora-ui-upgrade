@@ -45322,7 +45322,7 @@ export const Vendors = {
                     desc: 'Enjoy experiences you always dream of and fulfil your dream',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/fortuneexp/picnic.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Day_picnic.jpg',
                             name: 'Day Picnic',
                             location: '',
                             views: '',
@@ -45330,7 +45330,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/fortuneexp/farm.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Farm_to_fork.jpg',
                             name: 'Farm to Fork',
                             location: '',
                             views: '',
@@ -45338,7 +45338,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/fortuneexp/bar1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/bn1.jpg',
                             name: 'Bar-be-que evening with movie screening',
                             location: '',
                             views: '',
@@ -45346,7 +45346,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/fortuneexp/medi1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Yoga+and+Meditation+Hut.jpeg',
                             name: 'Yoga and Meditation',
                             location: '',
                             views: '',
@@ -45355,7 +45355,7 @@ export const Vendors = {
 
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/fortuneexp/pasta.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Pasta.jpg',
                             name: 'Pasta on the way',
                             location: '',
                             views: '',
@@ -45363,7 +45363,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/fortuneexp/chai.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Evening_tea.jpg',
                             name: 'Evening tea rituals under',
                             location: '',
                             views: '',
@@ -45378,7 +45378,7 @@ export const Vendors = {
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/local+exp/td1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Triund+trek.jpg',
                             name: 'Triund day trek',
                             location: '',
                             views: '',
@@ -45386,7 +45386,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/local+exp/b1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Bicycle_tour.jpg',
                             name: 'Bicycle tour',
                             location: '',
                             views: '',
@@ -45394,7 +45394,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/local+exp/y1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/YogaSession.jpg',
                             name: 'Yoga session',
                             location: '',
                             views: '',
@@ -45402,7 +45402,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Nature+walk.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Nature+walk.jpg',
                             name: 'Nature walks',
                             location: '',
                             views: '',
@@ -45410,7 +45410,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/local+exp/t1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/peepal+farm.jpg',
                             name: 'Visit peepal farm to meet the rescued animals',
                             location: '',
                             views: '',
@@ -45425,49 +45425,49 @@ export const Vendors = {
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/uniquedinexp/star.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/strems_canopy_dining.jpg',
                             name: 'Stars canopy dining experience',
                             desc: '',
                             routerLink: '/stores/Starscanopydiningexperience',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/yoga_hut_dining.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/yoga_hut_dining.jpg',
                             name: 'Yoga hut dining experience',
                             desc: '',
                             routerLink: '/stores/Yogahutdiningexperience',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/uniquedinexp/tea.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/High_tea_nature.jpg',
                             name: 'High tea Experience in the nature',
                             desc: '',
                             routerLink: '/stores/HighteaExperienceinthenature',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/uniquedinexp/sd1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/StreamDining.jpg',
                             name: 'Stream dining',
                             desc: '',
                             routerLink: '/stores/Streamdinning',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/uniquedinexp/locavara.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Locavor_dining.jpg',
                             name: 'Locavore dinning in woods',
                             desc: '',
                             routerLink: '/stores/Locavoredinninginwoods',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/tea-in-jungle.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/TeaMountainView.jpg',
                             name: 'Cutting Chai by the falls',
                             desc: '',
                             routerLink: '/stores/CuttingChaibythefalls',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/uniquedinexp/fire.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Bonfire_sky.jpg',
                             name: 'Bonfire under the Sky',
                             desc: '',
                             routerLink: '/stores/BonfireundertheSky_1',
@@ -45488,14 +45488,14 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/otheroffer/con1.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/MeetingHall.jpg',
                             name: 'Book our meeting hall',
                             desc: '',
                             extLink: '',
                             routerLink: '/stores/BookMeetings&ConferenceRoom'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/otheroffer/tec1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/Tickets.jpg',
                             name: 'Tickets for local events',
                             desc: '',
                             routerLink: '/by-admin/217',
