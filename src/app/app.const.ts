@@ -117306,7 +117306,7 @@ export const Vendors = {
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/branch-image.jpg',
             id: 'www.amoharetreat-experiences.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/amoha-hotel-logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/amohalogo.png',
             theme: 'fortune-theme',
             idCategory: 17,
             favIconLink: 'assets/icon/favicon.png',
