@@ -82791,25 +82791,25 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/Fortune%2BInn%2BRiviera%2BJammu.jpg',
-                            heading: 'A trip that will fulfil your dream list’',
-                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                            heading: 'Fortune Inn Riviera, Jammu',
+                            subHeading: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
                             heading: 'Book Direct With Us',
-                            subHeading: 'Fortune  Park Haridwar'
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/Fortune%2BLeisure%2BEscape.jpeg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
+                            heading: 'FORTUNE LEISURE ESCAPE',
+                            subHeading: ''
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'Fortune Inn Riviera, Jammu',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Jammu and Kashmi through Fortune Inn Riviera. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `Fortune Inn Riviera, Jammu is a contemporary full service hotel conveniently situated in the heart of the city, offering an ideal base for leisure as well as business travelers. Savour the pristine locations of Jammu, one of the most beautiful places on earth in the lap of the majestic Himalayas, during your stay at Fortune Inn Riviera. Treat your eyes to the gorgeous snow clad mountain peaks visible through the hotel and give your mind a much-deserved break from the humdrums of city life.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -82830,7 +82830,7 @@ export const Vendors = {
                             routerLink: '/by-admin/775'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/PlanYourTrip.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: '/by-admin/776'
@@ -82840,7 +82840,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Special Offers ',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
@@ -82871,7 +82871,7 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'In-House Experience',
-                    desc: 'Services that make your trip even more exciting and complete.',
+                    desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
@@ -82919,7 +82919,7 @@ export const Vendors = {
                 activities: {
                     active: true,
                     heading: 'Unique Dinning Experience',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
@@ -82958,7 +82958,7 @@ export const Vendors = {
                 offers: {
                     active: true,
                     heading: 'Explore Our Hotels',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+SG+Highway+Ahmedabad.jpg',
