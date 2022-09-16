@@ -156398,7 +156398,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Web Check-In',
-                            extLink: 'https://forms.gle/gYSYStMjVxM3uJKz8',
+                            extLink: 'https://forms.gle/QbZBhkope3V9kpWa6',
                             routerLink: '',
                             icon: 'Islandicons/reception.png',
                             showTextarea: true,
@@ -156411,7 +156411,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Terms and Condition',
-                            extLink: 'https://forms.gle/zZAXvCz1EtDxXkS57',
+                            extLink: 'https://forms.gle/LzUAfb8H2ZSsWP6t9',
                             routerLink: '',
                             icon: 'Islandicons/terms.png',
                             showTextarea: true,
@@ -156423,7 +156423,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Special Request',
-                            extLink: 'https://forms.gle/pmks5u7TcGAs8J6x6',
+                            extLink: 'https://forms.gle/yRAUQVg2zadzvNBv6',
                             routerLink: '',
                             icon: 'Islandicons/SpecRequest.png',
                             showTextarea: true,
