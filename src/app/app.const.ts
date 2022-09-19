@@ -156310,7 +156310,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Landing3.jpg',
-                            heading: 'Your One-Stop-Shop of Homestay',
+                            heading: '100 acre property covered by nature',
                             subHeading: ''
                         }
                     ]
@@ -156422,6 +156422,27 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/mountain-safari.jpg',
                             name: 'Mountain Safari',
+                            desc: '',
+                            routerLink: '/stores/MocktailMakingClass',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/nature.jpg',
+                            name: 'Nature Walk with Botanist',
+                            desc: '',
+                            routerLink: '/stores/MocktailMakingClass',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/flora.jpg',
+                            name: 'Explore the flora and fauna',
+                            desc: '',
+                            routerLink: '/stores/MocktailMakingClass',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/falls.jpg',
+                            name: 'Our Own WaterFall',
                             desc: '',
                             routerLink: '/stores/MocktailMakingClass',
                             extLink: ''
@@ -157416,6 +157437,49 @@ export const Vendors = {
                             headerText: 'What kind of payment do you like to make?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Nature Walk with Botanist',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Chamundiicons/tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to make the payment',
+                            headerText: 'What kind of payment do you like to make?',
+                            gallery: [
+                                { path: '' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Our Own WaterFall',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Chamundiicons/waterfall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to make the payment',
+                            headerText: 'What kind of payment do you like to make?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Explore the flora and fauna',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Chamundiicons/forest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to make the payment',
+                            headerText: 'What kind of payment do you like to make?',
+                            gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
