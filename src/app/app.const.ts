@@ -156324,7 +156324,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/BookRoom.jpg',
                             label: 'Book A Room',
                             extLink: '',
-                            routerLink: '/by-admin/605'
+                            routerLink: '/by-admin/780'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/FoodMenu.jpg',
@@ -156342,7 +156342,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/assistance.jpeg',
                             label: 'Assistance',
                             extLink: '',
-                            routerLink: '/by-admin/607'
+                            routerLink: '/by-admin/789'
                         }
                     ]
                 },
@@ -156356,7 +156356,7 @@ export const Vendors = {
                             name: 'Fishing',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Fishing',
                             extLink: ''
                         },
                         {
@@ -156364,7 +156364,7 @@ export const Vendors = {
                             name: 'Bird watching',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Birdwatching',
                             extLink: ''
                         }
                     ]
@@ -156379,7 +156379,7 @@ export const Vendors = {
                             name: 'Superior Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SuperiorRoom_3',
                             extLink: ''
                         },
                         {
@@ -156387,7 +156387,7 @@ export const Vendors = {
                             name: 'Suite Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SuiteRoom_3',
                             extLink: ''
                         },
                         {
@@ -156395,7 +156395,7 @@ export const Vendors = {
                             name: 'Stay With Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/StayWithBreakfast',
                             extLink: ''
                         }
                     ]
@@ -156409,42 +156409,42 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/coffee+Plantation+Walk.jpg',
                             name: 'Coffee Plantation Walk',
                             desc: '',
-                            routerLink: '/stores/Cookingwithchef_4',
+                            routerLink: '/stores/CoffeePlantationWalk',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Mountain+Trek.jpg',
                             name: 'Mountain Trek',
                             desc: '',
-                            routerLink: '/stores/TowelOrigamiClass',
+                            routerLink: '/stores/MountainTrek',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/mountain-safari.jpg',
                             name: 'Mountain Safari',
                             desc: '',
-                            routerLink: '/stores/MocktailMakingClass',
+                            routerLink: '/stores/MountainSafari',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/nature.jpg',
                             name: 'Nature Walk with Botanist',
                             desc: '',
-                            routerLink: '/stores/MocktailMakingClass',
+                            routerLink: '/stores/NatureWalkwithBotanist',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/flora.jpg',
                             name: 'Explore the flora and fauna',
                             desc: '',
-                            routerLink: '/stores/MocktailMakingClass',
+                            routerLink: '/stores/Explorethefloraandfauna',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/falls.jpg',
                             name: 'Our Own WaterFall',
                             desc: '',
-                            routerLink: '/stores/MocktailMakingClass',
+                            routerLink: '/stores/OurOwnWaterFall',
                             extLink: ''
                         }
                     ]
