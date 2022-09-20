@@ -156304,7 +156304,7 @@ export const Vendors = {
                             subHeading: 'A holiday home surrounded by river cauvery, an ideal hideaway for your holidays.'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Landing2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside.jpg',
                             heading: 'Enjoy Your Days With Our Homestay',
                             subHeading: 'Unique Experience| Creative Workshopss'
                         },
@@ -156413,7 +156413,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Mountain+Trek.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/trekking.jpg',
                             name: 'Mountain Trek',
                             desc: '',
                             routerLink: '/stores/MountainTrek',
@@ -156441,7 +156441,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/falls.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/falls.jpg',
                             name: 'Our Own WaterFall',
                             desc: '',
                             routerLink: '/stores/OurOwnWaterFall',
@@ -156504,49 +156504,49 @@ export const Vendors = {
                     desc: '"Experiences are something that we relive and talk about long after the moments are over”. We promise to make your journey worth remembering.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Bright.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside.jpg',
                             label: 'Brightful of Light',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/roof.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Landing1.jpg',
                             label: 'Rooftop Dining',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Dinning.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/dinning.jpg',
                             label: 'Dining Veranda',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Water.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/falls.jpg',
                             label: 'Water Adventure',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Pleasant.jpeg',
-                            label: 'pleasant scene',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/trekking.jpg',
+                            label: 'Trekking',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/enjoy.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside1.jpg',
                             label: 'Enjoy The Camp With Your Loved One',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/Nature.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/nature.jpg',
                             label: 'Nature',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Masnory/View.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/Landing3.jpg',
                             label: 'Enjoy The View With your Loved One',
                             extLink: '',
                             routerLink: ''
@@ -157282,9 +157282,9 @@ export const Vendors = {
                             placeholder: 'Ex: I need one extra bed.',
                             headerText: 'Please select below the dates for your stay',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/kitchen.jpg' }
                             ],
                             bookingEngine: true,
                             confirmBtnLabel: 'BOOK NOW'
@@ -157299,9 +157299,9 @@ export const Vendors = {
                             placeholder: 'Ex: I need one extra bed.',
                             headerText: 'Please select below the dates for your stay',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/kitchen.jpg' }
                             ],
                             bookingEngine: true,
                             confirmBtnLabel: 'BOOK NOW'
@@ -157316,9 +157316,9 @@ export const Vendors = {
                             placeholder: 'Ex: I need one extra bed.',
                             headerText: 'Please select below the dates for your stay',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/inside1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Chamundiparadise/photos/kitchen.jpg' }
                             ],
                             bookingEngine: true,
                             confirmBtnLabel: 'BOOK NOW'
@@ -157402,12 +157402,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to know the services offered by you',
                             headerText: 'You can contact us through text or call.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/contactus.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Mountain Trek',
@@ -157424,7 +157420,6 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Mountain Safari',
@@ -157436,10 +157431,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to make the payment',
                             headerText: 'What kind of payment do you like to make?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Nature Walk with Botanist',
@@ -157451,10 +157444,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to make the payment',
                             headerText: 'What kind of payment do you like to make?',
                             gallery: [
-                                { path: '' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Our Own WaterFall',
@@ -157468,7 +157459,6 @@ export const Vendors = {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Explore the flora and fauna',
@@ -157482,7 +157472,6 @@ export const Vendors = {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 }
