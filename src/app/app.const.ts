@@ -85895,19 +85895,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q&t=3s'
+                            videoId: '1mXIwfBhk6Q&t=16s'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
-                            videoId: '1mXIwfBhk6Q&t=3s'
+                            videoId: '1mXIwfBhk6Q&t=16s'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/amoha11.jpg',
-                            videoId: '1mXIwfBhk6Q&t=3s'
+                            videoId: '1mXIwfBhk6Q&t=16s'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
-                            videoId: '1mXIwfBhk6Q&t=3s'
+                            videoId: '1mXIwfBhk6Q&t=16s'
                         }
                     ]
                 },
