@@ -29295,7 +29295,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/mumbai-food.jpg',
                             name: 'Mumbai Food Walks',
-                            location: 'Duration: 4 hours | 4000',
+                            location: 'Rs. 4000 | 4 hours',
                             views: 'Taste the mumbai special Vadapav (Indian Burger), Pav Bhaji, Bhelpuri',
                             routerLink: '/stores/FoodTour_2',
                             extLink: ''
@@ -29303,7 +29303,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/slum.jpg',
                             name: 'Dharavi Slum Tour',
-                            location: 'Duration: 2 hours | 3000',
+                            location: 'Rs. 3000 | 2 hours',
                             views: 'Place where Slumdog Millionaire was shot, Pottery, Making of soap',
                             routerLink: '/stores/DharawiTour_2',
                             extLink: ''
@@ -29311,7 +29311,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/bollywood-tour.jpg',
                             name: 'Bollywood Outdoor Tour',
-                            location: 'Duration: 3 hours | 2000',
+                            location: 'Rs. 2000 | 3 hours',
                             views: 'Live Shootings, Costume Gallery, Empty Sets',
                             routerLink: '/stores/BollywoodTour_2',
                             extLink: ''
