@@ -29295,7 +29295,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/mumbai-food.jpg',
                             name: 'Mumbai Food Walks',
-                            location: 'Duration: 4 hours',
+                            location: 'Duration: 4 hours | 4000',
                             views: 'Taste the mumbai special Vadapav (Indian Burger), Pav Bhaji, Bhelpuri',
                             routerLink: '/stores/FoodTour_2',
                             extLink: ''
@@ -29303,9 +29303,17 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/slum.jpg',
                             name: 'Dharavi Slum Tour',
-                            location: 'Duration: 2 hours',
+                            location: 'Duration: 2 hours | 3000',
                             views: 'Place where Slumdog Millionaire was shot, Pottery, Making of soap',
                             routerLink: '/stores/DharawiTour_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/bollywood-tour.jpg',
+                            name: 'Bollywood Outdoor Tour',
+                            location: 'Duration: 3 hours | 2000',
+                            views: 'Live Shootings, Costume Gallery, Empty Sets',
+                            routerLink: '/stores/BollywoodTour_2',
                             extLink: ''
                         },
                         {
@@ -29320,14 +29328,6 @@ export const Vendors = {
                             name: 'Learn Local Culture',
                             desc: '',
                             routerLink: '/by-admin/254',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/bollywood-tour.jpg',
-                            name: 'Bollywood Outdoor Tour',
-                            location: 'Duration: 3 hours',
-                            views: 'Live Shootings, Costume Gallery, Empty Sets',
-                            routerLink: '/stores/BollywoodTour_2',
                             extLink: ''
                         }
                     ]
@@ -29429,7 +29429,12 @@ export const Vendors = {
                             location: 'Duration: 2 hours',
                             views: '',
                             routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/DemoHotelService',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/art.jpg',
@@ -29437,7 +29442,12 @@ export const Vendors = {
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
                             routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/DemoHotelService',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/puppet.jpg',
@@ -29445,7 +29455,12 @@ export const Vendors = {
                             location: 'Family Fun | Workshops',
                             views: '',
                             routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/DemoHotelService',
+                                label: 'BOOK NOW'
+                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bamboo.jpg',
@@ -29453,7 +29468,12 @@ export const Vendors = {
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
                             routerLink: '/stores/DemoHotelService',
-                            extLink: ''
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/DemoHotelService',
+                                label: 'BOOK NOW'
+                            }
                         }
                     ]
                 },
@@ -85895,19 +85915,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q&t=16s'
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
-                            videoId: '1mXIwfBhk6Q&t=16s'
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/amoha11.jpg',
-                            videoId: '1mXIwfBhk6Q&t=16s'
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
-                            videoId: '1mXIwfBhk6Q&t=16s'
+                            videoId: '1mXIwfBhk6Q'
                         }
                     ]
                 },
