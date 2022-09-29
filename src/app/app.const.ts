@@ -43846,7 +43846,7 @@ export const Vendors = {
                         }
                     ]
                 },
-                offers: {
+                activities: {
                     active: true,
                     heading: 'WorkShop ',
                     desc: 'A workshop is a period of discussion or practical work on a particular subject in which a group of people share their knowledge or experience.',
@@ -43874,7 +43874,7 @@ export const Vendors = {
                         }
                     ]
                 },
-                activities: {
+                offers: {
                     active: true,
                     heading: 'Explore Our Hotels',
                     desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
@@ -44411,7 +44411,6 @@ export const Vendors = {
                                 routerLink: '',
                                 label: 'EXPLORE'
                             }
-                        }
                     ]
                 },
                 stories: {
