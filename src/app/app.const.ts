@@ -44411,6 +44411,7 @@ export const Vendors = {
                                 routerLink: '',
                                 label: 'EXPLORE'
                             }
+                        }
                     ]
                 },
                 stories: {
