@@ -71950,8 +71950,8 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gandhinagar/Fortune+Inn+Haveli+Gandhinagar+-+Copy+(1).jpg',
-                            heading: 'A trip that will fulfil your dream list',
-                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                            heading: 'Fortune Inn Haveli Gandhinagar',
+                            subHeading: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
@@ -71965,21 +71965,22 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gandhinagar/Banner+4.jpg',
-                            heading: 'FORTUNE BUSINESS ESCAPE',
+                            heading: 'FORTUNE LEISURE ESCAPE',
                             subHeading: ''
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Inn Riviera, Jammu',
-                    desc: `Fortune Inn Riviera, Jammu is a contemporary full service hotel conveniently situated in the heart of the city, offering an ideal base for leisure as well as business travelers. Savour the pristine locations of Jammu, one of the most beautiful places on earth in the lap of the majestic Himalayas, during your stay at Fortune Inn Riviera. Treat your eyes to the gorgeous snow clad mountain peaks visible through the hotel and give your mind a much-deserved break from the humdrums of city life.`,
+                    heading: 'Fortune Inn Haveli, Gandhinagar',
+                    desc: `Nestled in the hills, Fortune Resort Grace is perched cozily on a pine covered hill slope with an enchanting view of the Doon valley. This resort in Mussoorie is located at the Library End of the Mall Road, yet it retains the charm of a quiet country resort. This is a hotel for leisure, recreation, family and corporate bonding, and a select venue for conferences.
+                    `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/by-admin/798'
+                            routerLink: '/home'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
@@ -72004,7 +72005,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Special Offer ',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
@@ -72043,7 +72044,7 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'Our Unique Offerings',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
@@ -72092,7 +72093,7 @@ export const Vendors = {
                 activities: {
                     active: true,
                     heading: 'Workshop',
-                    desc: 'Services that make your trip even more exciting and complete.',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
