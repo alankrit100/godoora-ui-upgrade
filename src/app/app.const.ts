@@ -124935,7 +124935,7 @@ export const Vendors = {
                         },
                         {
                             name: 'TIPSY TRAILS LIQUOR MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Storii+Amoha+Fact+Sheet.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/amoharetreat/Storii-Amoha-Beverage-Menu.pdf',
                             routerLink: '',
                             icon: 'dharmshala/menuu.png',
                             showTextarea: true,
