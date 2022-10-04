@@ -1,3 +1,5 @@
+import { TmplAstRecursiveVisitor } from "@angular/compiler";
+
 export const Vendors = {
     'localhost:4200': [
         {
@@ -165640,14 +165642,14 @@ export const Vendors = {
             branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
             id: 'www.godigital.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
+            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
             theme: 'fortune-theme',
-            idCategory: 27,
+            idCategory: 34,
             displayProperty: true,
             favIconLink: 'assets/icon/favicon.png',
             title: 'GoDigital',
             storeImg: 'social2.jpg',
-            label: 'Hotel admin', // Login label
+            label: 'Admin', // Login label
             serviceLabel: 'Service',
             pwaInstallTimer: 15000,
             gAnalyticscode: 'UA-144064030-1',
@@ -165696,9 +165698,9 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/CP_Sobha-25-Richmond.jpg',
                             heading: 'Marketing Creatives',
-                            subHeading: 'Order food from favourite restaurants near you',
+                            subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
                     ]
                 },
@@ -167173,15 +167175,15 @@ export const Vendors = {
         },
         {
             branch: 'Bangalore North',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi8.jpg',
-            id: 'www.gofoodie.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
+            id: 'www.godigital.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/sobha_logo_resize.png',
             theme: 'fortune-theme',
-            idCategory: 27,
+            idCategory: 34,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Udupi Restaurants',
+            title: 'Bangalore North',
             storeImg: 'social2.jpg',
-            label: 'Hotel admin', // Login label
+            label: 'Admin', // Login label
             serviceLabel: 'Service',
             pwaInstallTimer: 15000,
             gAnalyticscode: 'UA-144064030-1',
@@ -167231,33 +167233,40 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi8.jpg',
-                            heading: 'Get Direct Deals',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi1.jpg',
-                            heading: 'Get Quality Service',
-                            subHeading: 'Order food from favourite restaurants near you',
+                            heading: 'marketing creatives',
+                            subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
                     ]
                 },
                 experience: {
-                    active: false,
-                    heading: 'The True Travel Experience',
+                    active: true,
+                    heading: 'The Sobha Construction',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉) `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi6.jpg',
-                            label: 'Trending Restaurant',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
+                            label: 'Sobha Athena',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            label: 'Trending Food Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
+                            label: 'Sobha HRC Pristine',
                             extLink: '',
                             routerLink: ''
                         },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg',
+                            label: 'Sobha Lifestyle Legacy',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North4_Sobha.jpg',
+                            label: 'Sobha Victoria Park',
+                            extLink: '',
+                            routerLink: ''
+                        }
                     ]
                 },
                 destinations: {
@@ -167586,8 +167595,8 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
-                    heading: 'Behind The Scenes',
+                    active: true,
+                    heading: 'Videos',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
@@ -167609,7 +167618,7 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Trending Restaurants',
@@ -168484,15 +168493,15 @@ export const Vendors = {
         },
         {
             branch: 'Bangalore South',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal1.jpg',
-            id: 'www.gofoodie.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
+            id: 'www.godigital.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/sobha_logo_resize.png',
             theme: 'fortune-theme',
-            idCategory: 27,
+            idCategory: 34,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Manipal Restaurants',
+            title: 'Bangalore South',
             storeImg: 'social2.jpg',
-            label: 'Hotel admin', // Login label
+            label: 'Admin', // Login label
             serviceLabel: 'Service',
             pwaInstallTimer: 15000,
             gAnalyticscode: 'UA-144064030-1',
@@ -168541,39 +168550,42 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing1.jpg',
-                            heading: 'Get Direct Deals',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing2.jpg',
-                            heading: 'Get Quality Service',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/basilLanding.jpg',
-                            heading: 'Support Your Local Restaurants',
-                            subHeading: 'Order food from favourite restaurants near you',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg',
+                            heading: 'Marketing Creatives',
+                            subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
                     ]
                 },
                 experience: {
-                    active: false,
-                    heading: 'The True Travel Experience',
+                    active: true,
+                    heading: 'The Sobha Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal3.jpg',
-                            label: 'Trending Restaurant',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
+                            label: 'Sobha Clovelly',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            label: 'Trending Food Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
+                            label: 'Sobha Forest Edge',
                             extLink: '',
                             routerLink: ''
                         },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South3.jpg',
+                            label: 'Sobha Royal Pavillion',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg',
+                            label: 'Sobha Windsor',
+                            extLink: '',
+                            routerLink: ''
+                        }
+                        
                     ]
                 },
                 destinations: {
@@ -168902,8 +168914,8 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
-                    heading: 'Behind The Scenes',
+                    active: true,
+                    heading: 'Videos',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
@@ -168925,7 +168937,7 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Trending Restaurants',
@@ -169800,13 +169812,13 @@ export const Vendors = {
         },
         {
             branch: 'Bangalore East',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara1.jpg',
-            id: 'www.gofoodie.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
+            id: 'www.godigital.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/sobha_logo_resize.png',
             theme: 'fortune-theme',
-            idCategory: 27,
+            idCategory: 34,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Brahmavara Restaurants',
+            title: 'Bangalore East',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -169858,38 +169870,40 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara8.jpg',
-                            heading: 'Get Direct Deals',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara10.jpg',
-                            heading: 'Get Quality Service',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara9.jpg',
-                            heading: 'Support Your Local Restaurants',
-                            subHeading: 'Order food from favourite restaurants near you',
+                            heading: 'Marketing Creatives',
+                            subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
                     ]
                 },
                 experience: {
-                    active: false,
-                    heading: 'The True Travel Experience',
+                    active: true,
+                    heading: 'The Sobha Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara2.jpg',
-                            label: 'Trending Restaurant',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
+                            label: 'Sobha Dream Acres',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            label: 'Trending Food Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
+                            label: 'Sobha Lake garden',
                             extLink: '',
                             routerLink: ''
                         },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east3.jpg',
+                            label: 'Sobha Royal Pavillion',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east4.webp',
+                            label: 'Sobha Sentosa',
+                            extLink: '',
+                            routerLink: ''
+                        }
                     ]
                 },
                 destinations: {
@@ -170218,8 +170232,8 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
-                    heading: 'Behind The Scenes',
+                    active: true,
+                    heading: 'Videos',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
@@ -170241,7 +170255,7 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Trending Restaurants',
@@ -171116,13 +171130,13 @@ export const Vendors = {
         },
         {
             branch: 'Bangalore West',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur1.jpg',
-            id: 'www.gofoodie.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
+            id: 'www.godigital.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/sobha_logo_resize.png',
             theme: 'fortune-theme',
-            idCategory: 25,
+            idCategory: 34,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Kundapur Restaurants',
+            title: 'Bangalore West',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -171173,36 +171187,38 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur1.jpg',
-                            heading: 'Get Direct Deals',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur3.jpg',
-                            heading: 'Get Quality Service',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur4.jpg',
-                            heading: 'Support Your Local Restaurants',
-                            subHeading: 'Order food from favourite restaurants near you',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west1.jpg',
+                            heading: 'Marketing Creatives',
+                            subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
                     ]
                 },
                 experience: {
-                    active: false,
+                    active: TmplAstRecursiveVisitor,
                     heading: 'The True Travel Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur5.jpg',
-                            label: 'Trending Restaurant',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west1.jpg',
+                            label: 'Sobha Dreams Garden',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            label: 'Trending Food Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west2.jpg',
+                            label: 'Sobha Forest Edge',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
+                            label: 'Sobha Palm Court',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
+                            label: 'Sobha Rajvilas',
                             extLink: '',
                             routerLink: ''
                         },
@@ -171534,8 +171550,8 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
-                    heading: 'Behind The Scenes',
+                    active: true,
+                    heading: 'Videos',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
@@ -171557,7 +171573,7 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Trending Restaurants',
@@ -172432,13 +172448,13 @@ export const Vendors = {
         },
         {
             branch: 'Bangalore Central',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup2.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
             id: 'www.griham-homestays.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/sobha_logo_resize.png',
             theme: 'fortune-theme',
-            idCategory: 25,
+            idCategory: 34,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Kaup Restaurants',
+            title: 'Bangalore Central',
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
@@ -172489,39 +172505,23 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/Landing2.jpg',
-                            heading: 'Get Direct Deals',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            heading: 'Get Quality Service',
-                            subHeading: 'Order food from favourite restaurants near you',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup7.jpg',
-                            heading: 'Support Your Local Restaurants',
-                            subHeading: 'Order food from favourite restaurants near you',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
+                            heading: 'Marketing Creatives',
+                            subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
                     ]
                 },
                 experience: {
-                    active: false,
+                    active: true,
                     heading: 'The True Travel Experience',
                     desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup3.jpg',
-                            label: 'Trending Restaurant',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
+                            label: 'Sobha 25 Richmond',
                             extLink: '',
                             routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/FlashCard1.jpg',
-                            label: 'Trending Food Experience',
-                            extLink: '',
-                            routerLink: ''
-                        },
+                        }
                     ]
                 },
                 destinations: {
@@ -172850,8 +172850,8 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
-                    heading: 'Behind The Scenes',
+                    active: true,
+                    heading: 'Videos',
                     desc: 'Our story is incomplete without our hidden heroes behind all preparations and necessary procedures to be taken care of in order to provide our guest the highest level of satisfaction and make them feel valued and welcomed.',
                     items: [
                         {
@@ -172873,7 +172873,7 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Trending Restaurants',
