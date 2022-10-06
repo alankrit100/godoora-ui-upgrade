@@ -165790,293 +165790,59 @@ export const Vendors = {
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi1.jpg',
-                            label: 'Mitra Samaj',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
+                            label: 'Sobha Athena',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi2.jpg',
-                            label: 'Hotel Vrindavan Nest',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
+                            label: 'Sobha HRC Pristine',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi3.jpg',
-                            label: 'MTR - Mavalli Tiffin Rooms',
-                            extLink: 'Udupi Homestay3',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi4.jpg',
-                            label: 'Thimmappa Fish Hotel',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
+                            label: 'Sobha Clovelly',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi5.jpg',
-                            label: 'Woodlands Restaurant',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
+                            label: 'Sobha Forest Edge',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi6.jpg',
-                            label: 'Machali Udupi',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
+                            label: 'Sobha Dream Acres',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi7.jpg',
-                            label: 'Planet cafe',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
+                            label: 'Sobha Lake garden',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi8.jpg',
-                            label: 'Hotel The fish house',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
+                            label: 'Sobha Palm Court',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi9.jpg',
-                            label: 'KALIYUGA Toddy Cafel',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
+                            label: 'Sobha Rajvilas',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi10.jpg',
-                            label: 'Oh Me Oh Slice',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
+                            label: 'Sobha 25 Richmond',
                             extLink: '',
                             routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/headingPage.jpg',
-                            label: 'CountryInn Suites ',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HakunaMatata/CelebrateSpecialDays.jpg',
-                            label: 'Hakunamatata Restaurant',
-                            extLink: 'https://www.hakunamatata-restaurant.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Landing/basil.jpg',
-                            label: 'Basil Cafe Manipal',
-                            extLink: 'https://www.basilcafemanipal-restaurant.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal1.jpg',
-                            label: 'The Egg Factory',
-                            extLink: 'https://beta.thebesttrip.in/abbydhama/landing',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal2.jpg',
-                            label: 'Madhuvan Veg Restaurant',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal3.jpg',
-                            label: 'Eye of the Tige',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal4.jpg',
-                            label: 'Pingara',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal5.jpg',
-                            label: 'Silk Route',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal6.jpg',
-                            label: 'CTF Manipal',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Manipal/Manipal7.jpg',
-                            label: 'Teapot Cafe',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara1.jpg',
-                            label: 'Unwind restaurant',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara2.jpg',
-                            label: 'Kings Court Fine Dine Restaurant',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara3.jpg',
-                            label: 'Idli Street Karwar',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara4.jpg',
-                            label: 'Royal Veg',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara5.jpg',
-                            label: 'Kings Court',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara6.jpg',
-                            label: 'Hotel Abhirath',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara7.jpg',
-                            label: 'Hotel SWADISHT BRAHMAVARA',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara8.jpg',
-                            label: 'Hotel Swathi',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara9.jpg',
-                            label: 'Brindavan Atithi-Pure Veg Family Restaurant',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara10.jpg',
-                            label: 'Hotel Nisarga',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur1.jpg',
-                            label: 'Cafe Atlantis',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur2.jpg',
-                            label: 'White house',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur3.jpg',
-                            label: 'Naveen Drive in Bar - Family Restaurant',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur4.jpg',
-                            label: 'Ashirwad Ready-to-eat',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur5.jpg',
-                            label: 'VINAYAKA GRAND RESTAURANT',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur6.jpg',
-                            label: 'Banjara Family Restaurant and Bar',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur7.jpg',
-                            label: 'Hotel Sahana Orchid',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur8.jpg',
-                            label: 'Hotel Arya ',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur9.jpg',
-                            label: 'Hotel Parijatha',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kundapur/Kundapur10.jpg',
-                            label: '7th Heaven',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup1.jpg',
-                            label: 'Machli Non Veg Family Restaurant',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup2.jpg',
-                            label: 'HOTEL BIRYANI POINT',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup3.jpg',
-                            label: 'SAGAR FISH LAND',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup4.jpg',
-                            label: 'Hotel Sai Samruddhi',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup5.jpg',
-                            label: 'Winter Cafe',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup6.jpg',
-                            label: 'Food Pump Cafe and Cakes',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup7.jpg',
-                            label: 'Sagar ratna',
-                            extLink: '',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Kaup/Kaup8.jpg',
-                            label: 'Coastal Family Restaurant',
-                            extLink: '',
-                            routerLink: ''
-                        }, 
+                        }
                     ]
                 },
                 heroIntro: {
@@ -166943,8 +166709,8 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Udupi/Udupi8.jpg',
-                            heading: 'marketing creatives',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
+                            heading: 'Marketing Creatives',
                             subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
                     ]
@@ -166952,30 +166718,30 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Sobha Construction',
-                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉) `,
+                    desc: `Get direct deals from us at the best price.(No commission involoved😉) `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
                             label: 'Sobha Athena',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
                             label: 'Sobha HRC Pristine',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg',
                             label: 'Sobha Lifestyle Legacy',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North4_Sobha.jpg',
                             label: 'Sobha Victoria Park',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         }
                     ]
@@ -168270,30 +168036,30 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Sobha Experience',
-                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
+                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
                             label: 'Sobha Clovelly',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
                             label: 'Sobha Forest Edge',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South3.jpg',
                             label: 'Sobha Royal Pavillion',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg',
                             label: 'Sobha Windsor',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         }
                         
@@ -169580,7 +169346,7 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gofoodie/Brahmavara/Brahmavara8.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
                             heading: 'Marketing Creatives',
                             subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
                         }
@@ -169589,30 +169355,30 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Sobha Experience',
-                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
+                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
                             label: 'Sobha Dream Acres',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
                             label: 'Sobha Lake garden',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east3.jpg',
                             label: 'Sobha Royal Pavillion',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east4.webp',
                             label: 'Sobha Sentosa',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         }
                     ]
@@ -170905,32 +170671,32 @@ export const Vendors = {
                     ]
                 },
                 experience: {
-                    active: TmplAstRecursiveVisitor,
+                    active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
+                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west1.jpg',
                             label: 'Sobha Dreams Garden',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west2.jpg',
                             label: 'Sobha Forest Edge',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
                             label: 'Sobha Palm Court',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
                             label: 'Sobha Rajvilas',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         },
                     ]
@@ -172225,12 +171991,12 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The True Travel Experience',
-                    desc: `Get direct deals from Restaurant at the best price.(No commission involoved😉)`,
+                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
                             label: 'Sobha 25 Richmond',
-                            extLink: '',
+                            extLink: 'https://cdn.pixabay.com/photo/2015/08/03/13/58/whatsapp-873316_960_720.png',
                             routerLink: ''
                         }
                     ]
@@ -174681,7 +174447,7 @@ export const Vendors = {
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         }
-    ],
+    ]
 };
 
 export class LoginType {
