@@ -166717,7 +166717,7 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Sobha Construction',
+                    heading: 'The Sobha Experience',
                     desc: `Get direct deals from us at the best price.(No commission involoved😉) `,
                     items: [
                         {
@@ -167189,18 +167189,18 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Local Experiences',
-                    icon: 'kediyoor-icon/river.png',
+                    name: 'The Sobha Experience',
+                    icon: 'godigital/one.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'St.Mary Island Tour',
+                            name: 'Sobha Athena',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/island.png',
+                            icon: 'godigital/two.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -167213,11 +167213,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Houseboat In Backwaters',
+                            name: 'Sobha HRC Pristine',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/house.png',
+                            icon: 'godigital/three.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -167230,10 +167230,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Malpe Tour With Picnic Basket',
+                            name: 'Sobha Lifestyle Legacy',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/river.png',
+                            icon: 'godigital/four.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -167246,11 +167246,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Kapu Beach',
+                            name: 'Sobha Victoria Park',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/rafting.png',
+                            icon: 'godigital/five.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -168508,18 +168508,18 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Local Experiences',
-                    icon: 'kediyoor-icon/river.png',
+                    name: 'The Sobha Experience',
+                    icon: 'godigital/one.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'St.Mary Island Tour',
+                            name: 'Sobha Clovelly',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/island.png',
+                            icon: 'godigital/two.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -168532,11 +168532,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Houseboat In Backwaters',
+                            name: 'Sobha Forest Edge',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/house.png',
+                            icon: 'godigital/three.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -168549,10 +168549,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Malpe Tour With Picnic Basket',
+                            name: 'Sobha Royal Pavillion',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/river.png',
+                            icon: 'godigital/four.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -168565,11 +168565,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Kapu Beach',
+                            name: 'Sobha Windsor',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/rafting.png',
+                            icon: 'godigital/five.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -169826,18 +169826,18 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Local Experiences',
-                    icon: 'kediyoor-icon/river.png',
+                    name: 'The Sobha Experience',
+                    icon: 'godigital/one.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'St.Mary Island Tour',
+                            name: 'Sobha Dream Acres',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/island.png',
+                            icon: 'godigital/two.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -169850,11 +169850,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Houseboat In Backwaters',
+                            name: 'Sobha Lake garden',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/house.png',
+                            icon: 'godigital/three.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -169867,10 +169867,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Malpe Tour With Picnic Basket',
+                            name: 'Sobha Royal Pavillion',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/river.png',
+                            icon: 'godigital/four.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -169883,11 +169883,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Kapu Beach',
+                            name: 'Sobha Sentosa',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/rafting.png',
+                            icon: 'godigital/five.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -170672,7 +170672,7 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The True Travel Experience',
+                    heading: 'The Sobha Experience',
                     desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
                     items: [
                         {
@@ -171144,18 +171144,18 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Local Experiences',
-                    icon: 'kediyoor-icon/river.png',
+                    name: 'The Sobha Experience',
+                    icon: 'godigital/one.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'St.Mary Island Tour',
+                            name: 'Sobha Dreams Garden',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/island.png',
+                            icon: 'godigital/two.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -171168,11 +171168,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Houseboat In Backwaters',
+                            name: 'Sobha Forest Edge',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/house.png',
+                            icon: 'godigital/three.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -171185,10 +171185,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Malpe Tour With Picnic Basket',
+                            name: 'Sobha Palm Court',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/river.png',
+                            icon: 'godigital/four.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -171201,11 +171201,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Kapu Beach',
+                            name: 'Sobha Rajvilas',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/rafting.png',
+                            icon: 'godigital/five.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -171990,7 +171990,7 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The True Travel Experience',
+                    heading: 'The Sobha Experience',
                     desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
                     items: [
                         {
@@ -172432,18 +172432,18 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Local Experiences',
-                    icon: 'kediyoor-icon/river.png',
+                    name: 'The Sobha Experience',
+                    icon: 'godigital/one.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'St.Mary Island Tour',
+                            name: 'Sobha 25 Richmond',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/island.png',
+                            icon: 'godigital/two.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -172456,11 +172456,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Houseboat In Backwaters',
+                            name: 'Sobha Forest Edge',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/house.png',
+                            icon: 'godigital/three.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
@@ -172473,10 +172473,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Malpe Tour With Picnic Basket',
+                            name: 'Sobha Palm Court',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kediyoor-icon/river.png',
+                            icon: 'godigital/four.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -172489,11 +172489,11 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Kapu Beach',
+                            name: 'Sobha Rajvilas',
                             extLink: '',
                             routerLink: 'test',
 
-                            icon: 'kediyoor-icon/rafting.png',
+                            icon: 'godigital/five.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this experience.',
