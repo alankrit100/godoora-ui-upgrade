@@ -80981,19 +80981,19 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/694'
+                            routerLink: '/by-admin/844'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Special Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/695'
+                            routerLink: '/by-admin/845'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpgg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/846'
                         }
                     ]
                 },
