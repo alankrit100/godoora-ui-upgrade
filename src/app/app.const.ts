@@ -83744,7 +83744,7 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Dining Experiences.',
+                    heading: 'Unique Dining Experiences',
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
