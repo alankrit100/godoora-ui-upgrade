@@ -67270,49 +67270,49 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding1.jpg',
-                            heading: 'A trip that will fulfil your dream list’',
-                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                            heading: 'Fortune Murali Park Hotel',
+                            subHeading: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding2.jpg',
-                            heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'Fortune Murali Park Hotel'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sliding3.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
+                            heading: 'FORTUNE LEISURE ESCAPE',
+                            subHeading: ''
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'The Fortune Murali Park Hotel',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Andhra Pradesh through Murali Park Hotel. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `Fortune Murali Park is a first class full service business hotel, located on MG Road and walking distance from the city centre. This hotel in Vijayawada is a perfect combination of uncompromising hospitality and amenities; including comprehensive business facilities to cater to the needs of the discerning business traveler. The hotel provides comfortable accommodation, a selection of dining outlets and modern banquet facilities in the city.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
-                            label: 'Exclusive Offers',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/by-admin/624'
+                            routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
-                            label: 'Service Directory',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/625'
+                            routerLink: '/by-admin/841'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Restaurant Menu',
+                            label: 'Special Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/626'
+                            routerLink: '/by-admin/842'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
-                            label: 'Digital Guest Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
+                            label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/843'
                         }
                     ]
                 },
@@ -67356,37 +67356,6 @@ export const Vendors = {
                     ]
                 },
                 experiences: {
-                    active: true,
-                    heading: 'Local Experience',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage.jpg',
-                            name: 'Heritage and culture tour of Vijayawada',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/HeritageandculturetourofVijayawada',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventurestrip.jpg',
-                            name: 'Adventures trip to Bhavani island',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/AdventurestriptoBhavaniIsland',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Valleys.jpg',
-                            name: 'Trip to nearby Valleys',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/TriptonearbyValleys',
-                            extLink: ''
-                        }
-                    ]
-                },
-                activities: {
                     active: true,
                     heading: 'Our Unique Offerings',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
@@ -67435,7 +67404,7 @@ export const Vendors = {
                         }
                     ]
                 },
-                offers: {
+                activities: {
                     active: true,
                     heading: 'Workshop',
                     desc: 'Services that make your trip even more exciting and complete.',
@@ -67460,6 +67429,546 @@ export const Vendors = {
                             desc: '',
                             routerLink: '/stores/TowelOrigamy_8',
                             extLink: ''
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Explore Our Hotels',
+                    desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+SG+Highway+Ahmedabad.jpg',
+                            name: 'Fortune Select SG Highway Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Ahmedabad.jpg',
+                            name: 'Fortune Park Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Landmark+Ahmedabad.jpg',
+                            name: 'Fortune Landmark Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%20202',
+                            btn: {
+                                extLink: '',
+                                routerLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Trinity+Bangalore.jpg',
+                            name: 'Fortune Select Trinity Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+JP+Celestial+Bangalore.jpg',
+                            name: 'Fortune Park JP Celestial Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+JP+Cosmos+Bangalore.jpg',
+                            name: 'Fortune Select JP Cosmos Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Sishmo+Bhubaneswar.jpg',
+                            name: 'Fortune Park Sishmo Bhubaneswar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dahej.jpg',
+                            name: 'Fortune Park Dahej',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dalhousie.jpg',
+                            name: 'Fortune Park Dalhousie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Pushpanjali%2C+Durgapur.jpg',
+                            name: 'Fortune Park Pushpanjali, Durgapur',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Haveli+Gandhinagar.jpg',
+                            name: 'Fortune Inn Haveli Gandhinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia+Ghaziabad.jpg',
+                            name: 'Fortune Inn Grazia Ghaziabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Benaulim+Goa.jpg',
+                            name: 'Fortune Resort Benaulim Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Miramar%2C+Goa.jpg',
+                            name: 'Fortune Miramar Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Global+Gurgaon.JPG',
+                            name: 'Fortune Select Global, Gurgaon',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Orange+Sidhrawali.jpg',
+                            name: 'Fortune Park Orange',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Haridwar.jpg',
+                            name: 'Fortune Park Haridwar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Hubballi.jpg',
+                            name: 'Fortune Park Airport Road Hubballi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Avenue+Jalandhar.jpg',
+                            name: 'Fortune Avenue Jalandhar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Riviera+Jammu.jpg',
+                            name: 'Fortune Inn Riviera Jammu',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Forest+Hill+Solan.jpg',
+                            name: 'Fortune Select Forest Hill, Mahiya, Kasauli',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Panchwati+Kolkata.jpg',
+                            name: 'Fortune Park Panchwati Kolkata',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+BBD%2C+Lucknow.jpg',
+                            name: 'Fortune Park BBD Lucknow',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/facade.png',
+                            name: 'Fortune Pandiyan Madurai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Valley+View+Manipal.jpg',
+                            name: 'Fortune Inn Valley View, Manipal',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Moksha+McleodGanj.jpg',
+                            name: 'Fortune Park Moksha Mcleod Ganj',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Exotica+Navi+Mumbai.jpg',
+                            name: 'Fortune Select Exotica, Navi Mumbai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Lake+City+Thane.jpg',
+                            name: 'Fortune Park Lake City, Thane',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Grace%2C+Mussoorie.jpg',
+                            name: 'Fortune Resort Grace Mussoorie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JP+Palace%2C+Mysore.jpg',
+                            name: 'Fortune JP Palace Mysore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia%2C+Noida.jpg',
+                            name: 'Fortune Inn Grazia, Noida',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Sullivan+Court%2C+Ooty.jpg',
+                            name: 'Fortune Resort Sullivan Court Ooty',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JPS+Grand+Rajkot.jpg',
+                            name: 'Fortune Park JPS Grand Rajkot',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Heevan+Srinagar.jpg',
+                            name: 'Fortune Resort Heevan Srinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Grand+Ridge%2C+Tirupati.jpg',
+                            name: 'Fortune Select Grand Ridge Tirupati',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Promenade%2C+Vadodara.jpg',
+                            name: 'Fortune Inn Promenade, Vadodara',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Galaxy+Vapi.jpg',
+                            name: 'Fortune Park Galaxy Vapi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Vellore.jpg',
+                            name: 'Fortune Park Vellore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Murali+Park+Vijaywada.jpg',
+                            name: 'Fortune Murali Park Vijayawada',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Sree+Kanya%2C+Visakhapatnam.JPG',
+                            name: 'Fortune Inn Sree Kanya Vishakhapatnam',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Kufri+Shimla.tif',
+                            name: 'Fortune Park Kufri Shimla',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
                         }
                     ]
                 },
@@ -68960,6 +69469,143 @@ export const Vendors = {
                         }
                     ]
                 },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Avail a 20% discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Poolside dining @ INR 1999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Custom In-room dining',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate your special day',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/celebrating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade room @ INR 999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Upgrade meal @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Extra bed @ INR 99*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Get a cab @ INR 25* per km',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Business center services @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/service.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                }
             ],
             comingSoon: {
                 active: true,
@@ -80305,47 +80951,47 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/landing+1.jpg',
-                            heading: 'A trip that will fulfil your dream list’',
-                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                            heading: 'Fortune Avenue-jalandhar',
+                            subHeading: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/landing+2.jpg',
-                            heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'Fortune Murali Park Hotel'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/landing+3.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
+                            heading: 'FORTUNE LEISURE ESCAPE',
+                            subHeading: ''
                         }
                     ]
                 },
                 experience: {
                     active: true,
                     heading: 'Fortune Avenue-jalandhar',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of punjab through Fortune Avenue-jalandhar. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `Fortune Avenue, Jalandhar is coveniently located on Mahavir Marg, just 2 kms from Model Town. The hotel is well equipped with all modern amenities and offers efficient service at a great value to the discerning traveller. The hotel offers a selection of 51 contemporary rooms, high speed Wi-Fi connectivity, round the clock dining and banquet facilities for up to 300 guests. Fortune Avenue, Jalandhar is in close proximity to Devi Talab Temple, Chhevin Patshahi Gurudwara and other sacred places.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
-                            label: 'Exclusive Offers',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/by-admin/693'
+                            routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/local_culture.jpg',
-                            label: 'Service Directory',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            label: 'Quick Upgrades',
                             extLink: '',
                             routerLink: '/by-admin/694'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Restaurant Menu',
+                            label: 'Special Benefits',
                             extLink: '',
                             routerLink: '/by-admin/695'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/digital_exp.jpg',
-                            label: 'Digital Guest Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpgg',
+                            label: 'Plan Your Trip',
                             extLink: '',
                             routerLink: '/home'
                         }
@@ -80391,37 +81037,6 @@ export const Vendors = {
                     ]
                 },
                 experiences: {
-                    active: true,
-                    heading: 'Local Experience',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Golden+temple.jpg',
-                            name: 'Go Amritsar - Day Tour',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/GoAmritsarDayTour',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/haveli.jpg',
-                            name: 'Rangla Punjab Haveli',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/RanglaPunjabHaveli',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/memorial.jpg',
-                            name: 'Jang-e-Azadi Memorial',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/JangeAzadiMemorial',
-                            extLink: ''
-                        }
-                    ]
-                },
-                activities: {
                     active: true,
                     heading: 'Our Unique Offerings',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
@@ -80470,7 +81085,7 @@ export const Vendors = {
                         }
                     ]
                 },
-                offers: {
+                activities: {
                     active: true,
                     heading: 'Workshop',
                     desc: 'Services that make your trip even more exciting and complete.',
@@ -80495,6 +81110,546 @@ export const Vendors = {
                             desc: '',
                             routerLink: '/stores/TowelOrigamy_11',
                             extLink: ''
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Explore Our Hotels',
+                    desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+SG+Highway+Ahmedabad.jpg',
+                            name: 'Fortune Select SG Highway Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Ahmedabad.jpg',
+                            name: 'Fortune Park Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Landmark+Ahmedabad.jpg',
+                            name: 'Fortune Landmark Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%20202',
+                            btn: {
+                                extLink: '',
+                                routerLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Trinity+Bangalore.jpg',
+                            name: 'Fortune Select Trinity Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+JP+Celestial+Bangalore.jpg',
+                            name: 'Fortune Park JP Celestial Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+JP+Cosmos+Bangalore.jpg',
+                            name: 'Fortune Select JP Cosmos Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Sishmo+Bhubaneswar.jpg',
+                            name: 'Fortune Park Sishmo Bhubaneswar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dahej.jpg',
+                            name: 'Fortune Park Dahej',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dalhousie.jpg',
+                            name: 'Fortune Park Dalhousie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Pushpanjali%2C+Durgapur.jpg',
+                            name: 'Fortune Park Pushpanjali, Durgapur',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Haveli+Gandhinagar.jpg',
+                            name: 'Fortune Inn Haveli Gandhinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia+Ghaziabad.jpg',
+                            name: 'Fortune Inn Grazia Ghaziabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Benaulim+Goa.jpg',
+                            name: 'Fortune Resort Benaulim Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Miramar%2C+Goa.jpg',
+                            name: 'Fortune Miramar Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Global+Gurgaon.JPG',
+                            name: 'Fortune Select Global, Gurgaon',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Orange+Sidhrawali.jpg',
+                            name: 'Fortune Park Orange',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Haridwar.jpg',
+                            name: 'Fortune Park Haridwar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Hubballi.jpg',
+                            name: 'Fortune Park Airport Road Hubballi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Avenue+Jalandhar.jpg',
+                            name: 'Fortune Avenue Jalandhar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Riviera+Jammu.jpg',
+                            name: 'Fortune Inn Riviera Jammu',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Forest+Hill+Solan.jpg',
+                            name: 'Fortune Select Forest Hill, Mahiya, Kasauli',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Panchwati+Kolkata.jpg',
+                            name: 'Fortune Park Panchwati Kolkata',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+BBD%2C+Lucknow.jpg',
+                            name: 'Fortune Park BBD Lucknow',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/facade.png',
+                            name: 'Fortune Pandiyan Madurai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Valley+View+Manipal.jpg',
+                            name: 'Fortune Inn Valley View, Manipal',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Moksha+McleodGanj.jpg',
+                            name: 'Fortune Park Moksha Mcleod Ganj',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Exotica+Navi+Mumbai.jpg',
+                            name: 'Fortune Select Exotica, Navi Mumbai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Lake+City+Thane.jpg',
+                            name: 'Fortune Park Lake City, Thane',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Grace%2C+Mussoorie.jpg',
+                            name: 'Fortune Resort Grace Mussoorie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JP+Palace%2C+Mysore.jpg',
+                            name: 'Fortune JP Palace Mysore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia%2C+Noida.jpg',
+                            name: 'Fortune Inn Grazia, Noida',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Sullivan+Court%2C+Ooty.jpg',
+                            name: 'Fortune Resort Sullivan Court Ooty',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JPS+Grand+Rajkot.jpg',
+                            name: 'Fortune Park JPS Grand Rajkot',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Heevan+Srinagar.jpg',
+                            name: 'Fortune Resort Heevan Srinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Grand+Ridge%2C+Tirupati.jpg',
+                            name: 'Fortune Select Grand Ridge Tirupati',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Promenade%2C+Vadodara.jpg',
+                            name: 'Fortune Inn Promenade, Vadodara',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Galaxy+Vapi.jpg',
+                            name: 'Fortune Park Galaxy Vapi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Vellore.jpg',
+                            name: 'Fortune Park Vellore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Murali+Park+Vijaywada.jpg',
+                            name: 'Fortune Murali Park Vijayawada',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Sree+Kanya%2C+Visakhapatnam.JPG',
+                            name: 'Fortune Inn Sree Kanya Vishakhapatnam',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Kufri+Shimla.tif',
+                            name: 'Fortune Park Kufri Shimla',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
                         }
                     ]
                 },
@@ -81957,6 +83112,143 @@ export const Vendors = {
                         }
                     ]
                 },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade room @ INR 999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Upgrade meal @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Extra bed @ INR 99*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Get a cab @ INR 25* per km',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Business center services @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/service.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Avail a 20% discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Poolside dining @ INR 1999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Custom In-room dining',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate your special day',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/celebrating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                }
             ],
             comingSoon: {
                 active: true,
