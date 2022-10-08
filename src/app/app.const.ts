@@ -83681,7 +83681,7 @@ export const Vendors = {
                             name: 'Longest Happy Hours of Lucknow at Neptune Bar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LongestHappyHoursofLucknowatNeptuneBar',
                             extLink: ''
                         },
                         {
@@ -83689,7 +83689,7 @@ export const Vendors = {
                             name: 'Secretarial Services With Business Travelers',
                             location: 'When you cross a bridge, you take a break from this world!',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SecretarialServicesWithBusinessTravelers',
                             extLink: ''
                         },
                         {
@@ -83697,7 +83697,7 @@ export const Vendors = {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/',
+                            routerLink: '/stores/SwimmingPool_31',
                             extLink: ''
                         },
                         {
@@ -83705,7 +83705,7 @@ export const Vendors = {
                             name: 'Wellness Center including GYM',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/WellnessCenterincludingGYM',
                             extLink: ''
                         },
                         {
@@ -83713,7 +83713,7 @@ export const Vendors = {
                             name: 'SPA & Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SPA&SwimmingPool',
                             extLink: ''
                         },
                         {
@@ -83721,7 +83721,7 @@ export const Vendors = {
                             name: '24 Hours currency exchange',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/24Hourscurrencyexchange',
                             extLink: ''
                         },
                         {
@@ -83729,7 +83729,7 @@ export const Vendors = {
                             name: 'In house laundry',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Inhouselaundry',
                             extLink: ''
                         },
                         {
@@ -83737,7 +83737,7 @@ export const Vendors = {
                             name: 'Doctor on call',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Doctoroncall',
                             extLink: ''
                         }
                     ]
@@ -83752,7 +83752,7 @@ export const Vendors = {
                             name: 'Rendezvous At Neptune Courtyard',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RendezvousAtNeptuneCourtyard',
                             extLink: ''
                         },
                         {
@@ -83760,7 +83760,7 @@ export const Vendors = {
                             name: 'Couples Dinner by the poolside',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CouplesDinnerbythepoolside',
                             extLink: ''
                         },
                         {
@@ -83768,7 +83768,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_12',
                             extLink: ''
                         }
                     ]
