@@ -167102,7 +167102,7 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Trending Restaurants',
+                    title: 'Explore Our Properties ',
                     desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
                     items: [
                         {
