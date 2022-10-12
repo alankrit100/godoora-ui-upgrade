@@ -80950,7 +80950,7 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/landing+1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Fortune+Avenue+Jalandhar+(1).jpg',
                             heading: 'Fortune Avenue-jalandhar',
                             subHeading: ''
                         },
@@ -80999,116 +80999,118 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'Special Offer ',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    heading: 'Special Offers ',
+                    desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
-                            name: 'personalized dinner experience With Your choice of food',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
+                            name: 'Fortune Weekend Escapes',
                             location: '',
                             views: '',
-                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_3',
-                            extLink: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
                         },    
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Beer.jpeg',
-                            name: 'Buy 2 beer and get 1 free',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
+                            name: 'Fortune Leisure Escape',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Buy02beerget01beerfree_10',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Cook with Chef Experience Offer',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
+                            name: 'Fortune Business Stays',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookwithChefExperienceOffer_3',
-                            extLink: '',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/ComboOffer.jpg',
-                            name: 'Combo Offer Spa + Dinner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/ComboOfferSpaDinner_3',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
                         }
                     ]
                 },
                 experiences: {
                     active: true,
-                    heading: 'Our Unique Offerings',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    heading: 'In-House Experience',
+                    desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
-                            name: 'Banquet hall booking',
-                            desc: '',
-                            routerLink: '/stores/Banquethallbooking_6',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
+                            name: 'Painting by the Banyan Tree',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PaintingbytheBanyanTree_4',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
-                            name: 'Gourmet Box',
-                            desc: '',
-                            routerLink: '/stores/GourmetBox_3',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
+                            name: 'Yoga experience',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Yogaexperience_5',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
-                            name: 'Sunday Brunch',
-                            desc: '',
-                            routerLink: '/stores/SundayBrunch_12',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/gardening.jpg',
+                            name: 'GARDENING – Lets Go Green',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Gardening_2',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
-                            name: 'Customised House Party',
-                            desc: '',
-                            routerLink: '/stores/CustomisedHouseParty_3',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/nature-walk.jpg',
+                            name: 'Nature Walk',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/NatureWalk_3',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
-                            name: 'guided Yoga experience',
-                            desc: '',
-                            routerLink: '/stores/guidedYogaexperience_3',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
+                            name: 'Close to Nature Breakfast',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Naturebreakfast_3',
                             extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
-                            name: 'Chauffeur-drive Airport Transfer',
-                            desc: '',
-                            routerLink: '/stores/ChauffeurdriveAirportTransfer_3',
-                            extLink: ''
+
                         }
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Workshop',
-                    desc: 'Services that make your trip even more exciting and complete.',
+                    heading: 'Unique Dinning Experience',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Cook With Chef',
-                            desc: 'Duration: 2 hours',
-                            routerLink: '/stores/Cookwithchef_11',
-                            extLink: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
+                            name: 'Exclusive Personalised Dinners',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/ExclusivePersonalisedDinner_1',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
-                            name: 'Bedmaking',
-                            desc: 'Duration: 1 hours',
-                            routerLink: '/stores/Bedmaking_14',
-                            extLink: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
+                            name: 'Close to nature breakfast',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Closetonaturebreakfast_3',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Workshop+/towel+Origami+.jpg',
-                            name: 'Towel Origamy',
-                            desc: '',
-                            routerLink: '/stores/TowelOrigamy_11',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
+                            name: 'Cooking Session With Chef',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CookingSessionWithChef_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/thali.jpg',
+                            name: 'Kangri Dham Lunch Thali',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/KangriDhamLunchThali_1',
                             extLink: ''
                         }
                     ]
