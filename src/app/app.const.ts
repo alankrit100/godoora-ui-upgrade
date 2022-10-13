@@ -62958,8 +62958,39 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
+                    heading: 'Special Offers ',
                     desc: 'Explore and experience the infinite possibilities with us!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
+                            name: 'Fortune Weekend Escapes',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },    
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
+                            name: 'Fortune Leisure Escape',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
+                            name: 'Fortune Business Stays',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-House Experiences',
+                    desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
@@ -63012,10 +63043,10 @@ export const Vendors = {
                         }
                     ]
                 },
-                experiences: {
+                activities: {
                     active: true,
                     heading: 'Unique dining experiences.',
-                    desc: 'Dive into a whole new world of activities!',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
@@ -63047,111 +63078,6 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/KangriDhamLunchThali',
-                            extLink: ''
-                        }
-                    ]
-                },
-                activities: {
-                    active: true,
-                    heading: 'Local Experiences',
-                    desc: 'Enjoy the best of vantage dining!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/devi-temple.jpg',
-                            name: 'Naina Devi Temple Trek',
-                            desc: '',
-                            routerLink: '/stores/NainaDeviTempleTreck',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/forest-picnic.jpg',
-                            name: 'Pine Tree Forest Picnic',
-                            desc: '',
-                            routerLink: '/stores/PineTreeForestPicnic',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/river-side-picnic.jpg',
-                            name: 'The River Side Picnic',
-                            desc: '',
-                            routerLink: '/stores/RiverSidePicnic',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/temple-hike.jpg',
-                            name: 'Diktu Temple Hike',
-                            desc: '',
-                            routerLink: '/stores/DiktuTempleHike',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/garhi.jpg',
-                            name: 'Garhi Hike',
-                            desc: '',
-                            routerLink: '/stores/GarhiHike',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/villge.jpg',
-                            name: 'Village walk',
-                            desc: '',
-                            routerLink: '/stores/Villagewalk',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/paragliding.jpg',
-                            name: 'Exclusive Paragliding with a hike',
-                            desc: '',
-                            routerLink: '/stores/Paraglidingwithahike',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/tour.jpg',
-                            name: 'Mcleodganj Tour Package',
-                            desc: '',
-                            routerLink: '/stores/McleodganjTourPackage',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/gliding.jpg',
-                            name: 'Paragliding',
-                            desc: '',
-                            routerLink: '/stores/Paragliding_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/Z-line.jpg',
-                            name: 'Zip Line',
-                            desc: '',
-                            routerLink: '/stores/ZipLine_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/atv.jpg',
-                            name: 'ATVs',
-                            desc: '',
-                            routerLink: '/stores/ATVs',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/camping.jpg',
-                            name: 'Camping',
-                            desc: '',
-                            routerLink: '/stores/Camping_2',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/horseride.jpg',
-                            name: 'Horseride',
-                            desc: '',
-                            routerLink: '/stores/Horseride',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/trekkk.jpg',
-                            name: 'Trekking',
-                            desc: '',
-                            routerLink: '/stores/Trekking',
                             extLink: ''
                         }
                     ]
@@ -67319,7 +67245,38 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Special Offer ',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    desc: 'Explore and experience the infinite possibilities with us!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
+                            name: 'Fortune Weekend Escapes',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },    
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
+                            name: 'Fortune Leisure Escape',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
+                            name: 'Fortune Business Stays',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-House Experience ',
+                    desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
@@ -67355,10 +67312,10 @@ export const Vendors = {
                         }
                     ]
                 },
-                experiences: {
+                activities: {
                     active: true,
                     heading: 'Our Unique Offerings',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
@@ -67400,34 +67357,6 @@ export const Vendors = {
                             name: 'Chauffeur-drive Airport Transfer',
                             desc: '',
                             routerLink: '/stores/ChauffeurdriveAirportTransfer',
-                            extLink: ''
-                        }
-                    ]
-                },
-                activities: {
-                    active: true,
-                    heading: 'Workshop',
-                    desc: 'Services that make your trip even more exciting and complete.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Cook With Chef',
-                            desc: 'Duration: 2 hours',
-                            routerLink: '/stores/Cookwithchef_6',
-                            extLink: '',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
-                            name: 'Bedmaking',
-                            desc: 'Duration: 1 hours',
-                            routerLink: '/stores/Bedmaking_11',
-                            extLink: '',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Workshop+/towel+Origami+.jpg',
-                            name: 'Towel Origamy',
-                            desc: '',
-                            routerLink: '/stores/TowelOrigamy_8',
                             extLink: ''
                         }
                     ]
@@ -69389,7 +69318,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Special Offer',
+                    name: 'In-House Experience',
                     icon: 'Vijaywadaicons/SpecialOffer.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -73289,6 +73218,37 @@ export const Vendors = {
                     desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
+                            name: 'Fortune Weekend Escapes',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },    
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
+                            name: 'Fortune Leisure Escape',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
+                            name: 'Fortune Business Stays',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-House Experiences ',
+                    desc: 'Dive into a whole new world of activities!',
+                    items: [
+                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
                             name: 'personalized dinner experience With Your choice of food',
                             location: '',
@@ -73322,10 +73282,10 @@ export const Vendors = {
                         }
                     ]
                 },
-                experiences: {
+                activities: {
                     active: true,
                     heading: 'Our Unique Offerings',
-                    desc: 'Dive into a whole new world of activities!',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
@@ -73367,34 +73327,6 @@ export const Vendors = {
                             name: 'Chauffeur-drive Airport Transfer',
                             desc: '',
                             routerLink: '/stores/ChauffeurdriveAirportTransfer',
-                            extLink: ''
-                        }
-                    ]
-                },
-                activities: {
-                    active: true,
-                    heading: 'Workshop',
-                    desc: 'Enjoy the best of vantage dining!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Cook With Chef',
-                            desc: 'Duration: 2 hours',
-                            routerLink: '/stores/Cookwithchef_6',
-                            extLink: '',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
-                            name: 'Bedmaking',
-                            desc: 'Duration: 1 hours',
-                            routerLink: '/stores/Bedmaking_11',
-                            extLink: '',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Workshop+/towel+Origami+.jpg',
-                            name: 'Towel Origamy',
-                            desc: '',
-                            routerLink: '/stores/TowelOrigamy_8',
                             extLink: ''
                         }
                     ]
