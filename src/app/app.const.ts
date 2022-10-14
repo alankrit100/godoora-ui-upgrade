@@ -87396,12 +87396,12 @@ export const Vendors = {
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/haridwar/hwd+banner+3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Fortune-Leisure-Escape+banner-3.jpg',
                             heading: 'FORTUNE LEISURE ESCAPE',
                             subHeading: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/haridwar/hwd+banner+4.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banner+4+(2).jpg',
                             heading: 'FORTUNE BUSINESS ESCAPE',
                             subHeading: ''
                         }
