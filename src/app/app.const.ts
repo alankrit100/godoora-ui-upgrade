@@ -88057,7 +88057,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/776'
+                            routerLink: '/by-admin/749'
                         }
                     ]
                 },
@@ -88094,7 +88094,7 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'Local Experience',
+                    heading: 'In-House Experience',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
@@ -88153,32 +88153,80 @@ export const Vendors = {
                 },
                 activities: {
                     active: true,
-                    heading: 'In-House Experience',
-                    desc: 'Dive into a whole new world of activities!',
+                    heading: 'Our Unique Offerings',
+                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage.jpg',
-                            name: 'Heritage and culture tour of Vijayawada',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
+                            name: 'Banquet hall booking',
+                            desc: '',
+                            routerLink: '/stores/Banquethallbooking_7',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/Banquethallbooking_7',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventurestrip.jpg',
-                            name: 'Adventures trip to Bhavani island',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
+                            name: 'Gourmet Box',
+                            desc: '',
+                            routerLink: '/stores/GourmetBox_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/GourmetBox_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Valleys.jpg',
-                            name: 'Trip to nearby Valleys',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
+                            name: 'Sunday Brunch',
+                            desc: '',
+                            routerLink: '/stores/SundayBrunch_13',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/SundayBrunch_13',
+                                label: 'ENQUIRE NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
+                            name: 'Customised House Party',
+                            desc: '',
+                            routerLink: '/stores/CustomisedHouseParty_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/CustomisedHouseParty_4',
+                                label: 'ENQUIRE NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
+                            name: 'guided Yoga experience',
+                            desc: '',
+                            routerLink: '/stores/guidedYogaexperience_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/guidedYogaexperience_4',
+                                label: 'ENQUIRE NOW'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
+                            name: 'Chauffeur-drive Airport Transfer',
+                            desc: '',
+                            routerLink: '/stores/ChauffeurdriveAirportTransfer_4',
+                            extLink: '',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/stores/ChauffeurdriveAirportTransfer_4',
+                                label: 'ENQUIRE NOW'
+                            }
                         }
                     ]
                 },
@@ -89979,7 +90027,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Special Offer',
+                    name: 'In-House Experience',
                     icon: 'Vijaywadaicons/SpecialOffer.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -90050,6 +90098,143 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade room @ INR 999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Upgrade meal @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Extra bed @ INR 99*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Get a cab @ INR 25* per km',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Business center services @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/service.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Avail a 20% discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Poolside dining @ INR 1999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Custom In-room dining',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate your special day',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/celebrating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
