@@ -126384,7 +126384,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 17,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Amoha Retreat Dharamshala',
+            title: 'Storii Amoha Retreat ',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -126442,7 +126442,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/slider-1.jpg',
                             heading: 'Exclusive Personalised Dinners',
-                            subHeading: 'At Amoha Retreat'
+                            subHeading: 'At Storii Amoha Retreat'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/sliderr-3.jpg',
@@ -126453,8 +126453,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Amoha Retreat Experience',
-                    desc: `At Amoha Retreat hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dharamshala. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    heading: 'The Storii Amoha Retreat Experience',
+                    desc: `At Storii Amoha Retreat hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dharamshala. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
