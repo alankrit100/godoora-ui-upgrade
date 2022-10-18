@@ -90335,31 +90335,31 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Fortune Pushpanjali Experience',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Lucknow. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `An iconic city landmark, Fortune Park Pushpanjali is located in Durgapur City Centre with easy access to Durgapur Steel Plant, shopping complex and key corporate establishments. The hotel is 20 mins drive from Kazi Nazrul Islam Airport and 15 mins from Durgapur Railway Station.. This first-class, full service hotel offers stylish guest rooms and suites, dining outlets, modern conferencing/ banqueting space and a rejuvenating wellness centre featuring a swimming pool, gymnasium and spa.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/855'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/847'
+                            routerLink: '/by-admin/857'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Special Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/848'
+                            routerLink: '/by-admin/856'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/749'
+                            routerLink: '/by-admin/769'
                         }
                     ]
                 },
@@ -90400,50 +90400,74 @@ export const Vendors = {
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/painting.jpg',
-                            name: 'Night Camping',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PaintingbytheBanyanTree',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/BurmaBridge.jpg',
-                            name: 'Burma Bridge',
-                            location: 'When you cross a bridge, you take a break from this world!',
-                            views: '',
-                            routerLink: '/stores/YogaandMeditationatMunnar',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
-                            name: 'Guided Yoga Session',
+                            name: 'Fitness Yoga Session',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/509',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Shantiniketan.jpg',
+                            name: 'Shantiniketan Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/iscon.jpg',
+                            name: 'Bishnupur Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Bhirbhum.jpg',
+                            name: 'Bhirbhum Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/jungle.jpg',
+                            name: 'Garh Jungle Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/iscon.jpg',
+                            name: 'Iscon Temple',
+                            location: '',
+                            views: '',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique Dining Experiences.',
+                    heading: 'Unique Dining Experiences',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
-                            name: 'Close to Nature Breakfast',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/pooldinner.jpg',
+                            name: 'Pool Side Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Closetonaturebreakfast',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/rdinner.jpg',
-                            name: 'Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/riverdinner.jpg',
+                            name: 'Dinner by the Damodar River Side',
                             location: '',
                             views: '',
-                            routerLink: '/stores/KangriDhamLunchThali',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
@@ -91862,7 +91886,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Guided Yoga Session',
+                            name: 'Fitness Yoga Session',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'lucknow/yoga.png',
@@ -91880,59 +91904,67 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Nature Walk',
+                            name: 'Shantiniketan Tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'lucknow/walking.png',
+                            icon: 'fortune/tour1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Burma Bridge',
+                            name: 'Bishnupur Tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'lucknow/bridge.png',
+                            icon: 'fortune/tour2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Night Camping',
+                            name: 'Bhirbhum Tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'lucknow/tent.png',
+                            icon: 'fortune/tour3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Garh Jungle Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortune/jungle.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Iscon Temple',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortune/temple.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -91947,81 +91979,31 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Rendezvous At Neptune Courtyard',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'lucknow/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Close to Nature Breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'lucknow/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Couples Dinner by the poolside',
+                            name: 'Pool Side Candle Light Dinner',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'lucknow/pool.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
+                            placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Candle Light Dinner',
+                            name: 'Dinner by the Damodar River Side',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'lucknow/dining.png',
+                            icon: 'fortune/picnictable.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
+                            placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        }
+                        },
                     ]
                 },
                 {
@@ -92033,43 +92015,70 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'The River Side Picnic',
+                            name: 'Junction Mall',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'lucknow/river.png',
+                            icon: 'fortune/mall.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Heritage walk',
+                            name: 'Reliance Mall',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'lucknow/village.png',
+                            icon: 'fortune/shoppingmall.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        }
+                        },
+                        {
+                            name: 'Durgapur Barrage',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortune/dam.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Anand Amusement Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortune/park.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Deul Park(Bonkati Burdwan)',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortune/park1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                     ]
                 },
                 {
@@ -92326,7 +92335,167 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
-                }
+                },
+                {
+                    name: 'Digital Menus',
+                    icon: 'JammuIcons/DigitalMenu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Restaurant Menu',
+                            extLink: '',
+                            routerLink: '/by-admin/770',
+                            icon: 'JammuIcons/RestaurantMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade room @ INR 999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Upgrade meal @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Extra bed @ INR 99*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Get a cab @ INR 25* per km',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Business center services @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/service.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Avail a 20% discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Poolside dining @ INR 1999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Custom In-room dining',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate your special day',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/celebrating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
