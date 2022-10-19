@@ -90404,7 +90404,7 @@ export const Vendors = {
                             name: 'Fitness Yoga Session',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/FitnessYogaSession',
                             extLink: ''
                         },
                         {
@@ -90412,7 +90412,7 @@ export const Vendors = {
                             name: 'Shantiniketan Tour',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/ShantiniketanTour',
                             extLink: ''
                         },
                         {
@@ -90420,7 +90420,7 @@ export const Vendors = {
                             name: 'Bishnupur Tour',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/BishnupurTour',
                             extLink: ''
                         },
                         {
@@ -90428,7 +90428,7 @@ export const Vendors = {
                             name: 'Bhirbhum Tour',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/BhirbhumTour',
                             extLink: ''
                         },
                         {
@@ -90436,7 +90436,7 @@ export const Vendors = {
                             name: 'Garh Jungle Tour',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/GarhJungleTour',
                             extLink: ''
                         },
                         {
@@ -90444,7 +90444,7 @@ export const Vendors = {
                             name: 'Iscon Temple',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/IsconTemple',
                             extLink: ''
                         }
                     ]
@@ -90459,7 +90459,7 @@ export const Vendors = {
                             name: 'Pool Side Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/PoolSideCandleLightDinner',
                             extLink: ''
                         },
                         {
@@ -90467,7 +90467,7 @@ export const Vendors = {
                             name: 'Dinner by the Damodar River Side',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/DinnerbytheDamodarRiverSide',
                             extLink: ''
                         }
                     ]
@@ -92090,8 +92090,8 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'IRD FPL MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/IRD+FPL+menu-1.pdf',
+                            name: 'IRD Food And Beverage Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/IRD+Food+and+Beverage+Menu.pdf',
                             routerLink: '',
                             icon: 'lucknow/tray.png',
                             showTextarea: true,
@@ -92118,8 +92118,8 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'NEPTUNE MENU BBD',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/Neptune+Menu+BBD+July%2C2022.pdf',
+                            name: 'Neptune Bar Beverage Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Neptune+Bar+Beverage+Menu.pdf',
                             routerLink: '',
                             icon: 'lucknow/terms.png',
                             showTextarea: true,
@@ -92146,8 +92146,8 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'ORCHID BBD',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/Orchid+BBD+July%2C+2022.pdf',
+                            name: 'Orchid Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Orchid+Menu.pdf',
                             routerLink: '',
                             icon: 'lucknow/menuu.png',
                             showTextarea: true,
@@ -92171,6 +92171,25 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'Fortune Deli Dine',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Fortune+Deli+Dine-in.pdf',
+                            routerLink: '',
+                            icon: 'lucknow/menuu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
                             ]
                         }
                     ]
@@ -92357,6 +92376,19 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
+                        {
+                            name: 'Service Directory',
+                            extLink: '',
+                            routerLink: '/by-admin/770',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                     ]
                 },
                 {
@@ -92496,6 +92528,33 @@ export const Vendors = {
                         }
                     ]
                 },
+                {
+                    name: 'Service Directory',
+                    icon: 'fortunegrace/directory.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Service++Directory.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        }
+                    ]
+                }
             ],
             comingSoon: {
                 active: true,
