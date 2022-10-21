@@ -169618,8 +169618,13 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/CP_Sobha-25-Richmond.jpg',
-                            heading: 'Marketing Creatives',
-                            subHeading: 'SOBHA epitomizes “passion at work” in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.',
+                            heading: 'Explore By location',
+                            subHeading: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg',
+                            heading: 'Best Apartments In Bangalore',
+                            subHeading: '',
                         }
                     ]
                 },
@@ -170920,13 +170925,18 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
                             heading: 'Marketing Creatives',
                             subHeading: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North4_Sobha.jpg',
+                            heading: 'Top Apartment In North Bangalore',
+                            subHeading: '',
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'The Sobha Experience',
-                    desc: `Get direct deals from us at the best price.(No commission involoved😉) `,
+                    heading: 'Featured Projects In Bangalore North',
+                    desc: `Most Popular Real Estate Projects In Bangalore North`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
@@ -172228,13 +172238,18 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg',
                             heading: 'Marketing Creatives',
                             subHeading: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
+                            heading: 'Top Apartment In South Bangalore',
+                            subHeading: '',
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'The Sobha Experience',
-                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
+                    heading: 'Featured Projects In Bangalore South',
+                    desc: `Most Popular Real Estate Projects In Bangalore South`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
@@ -173537,13 +173552,18 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
                             heading: 'Marketing Creatives',
                             subHeading: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east4.webp',
+                            heading: 'Top Apartment In East Bangalore',
+                            subHeading: '',
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'The Sobha Experience',
-                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
+                    heading: 'Featured Projects In Bangalore East',
+                    desc: `Most Popular Real Estate Projects In Bangalore East`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
@@ -174845,13 +174865,18 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west1.jpg',
                             heading: 'Marketing Creatives',
                             subHeading: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
+                            heading: 'Top Apartment In West Bangalore',
+                            subHeading: '',
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'The Sobha Experience',
-                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
+                    heading: 'Featured Projects In Bangalore West',
+                    desc: `Most Popular Real Estate Projects In Bangalore West`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west1.jpg',
@@ -176153,13 +176178,18 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
                             heading: 'Marketing Creatives',
                             subHeading: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North4_Sobha.jpg',
+                            heading: 'Top Apartment In Central Bangalore',
+                            subHeading: '',
                         }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'The Sobha Experience',
-                    desc: `Get direct deals from us at the best price.(No commission involoved😉)`,
+                    heading: 'Featured Projects In Bangalore Central',
+                    desc: `Most Popular Real Estate Projects In Bangalore Central`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
