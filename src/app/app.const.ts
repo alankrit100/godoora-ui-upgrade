@@ -170508,8 +170508,8 @@ export const Vendors = {
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'Explore Our Properties ',
-                    desc: 'Get your favourite food from your favourite restaurants at a discounted price for every item',
+                    title: 'Best Apartments In Bangalore',
+                    desc: '',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
