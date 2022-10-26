@@ -170515,6 +170515,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
                             label: 'Sobha Athena',
                             desc: '3 BHK Super Luxury Flats / Apartments',
+                            location: 'Your wish is our command',
                             extLink: '',
                             routerLink: ''
                         },
