@@ -170127,7 +170127,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            heading: 'Explore By Location',
+                            heading: 'Best Real Estate Projects In Banglore',
                             subHeading: '',
                         },
                         {
@@ -171477,12 +171477,12 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
-                            heading: 'Marketing Creatives',
+                            heading: 'Best Real Estate Projects In North Banglore',
                             subHeading: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            heading: 'Top Apartment In North Bangalore',
+                            heading: 'Top Apartments In North Bangalore',
                             subHeading: '',
                         }
                     ]
@@ -172842,12 +172842,12 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg',
-                            heading: 'Marketing Creatives',
+                            heading: 'Best Real Estate Projects In South Banglore',
                             subHeading: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            heading: 'Top Apartment In South Bangalore',
+                            heading: 'Top Apartments In South Bangalore',
                             subHeading: '',
                         }
                     ]
@@ -174208,12 +174208,12 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            heading: 'Marketing Creatives',
+                            heading: 'Best Real Estate Projects In East Banglore',
                             subHeading: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/slid2.jpg',
-                            heading: 'Top Apartment In East Bangalore',
+                            heading: 'Top Apartments In East Bangalore',
                             subHeading: '',
                         }
                     ]
@@ -175573,12 +175573,12 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west1.jpg',
-                            heading: 'Marketing Creatives',
+                            heading: 'Best Real Estate Projects In West Banglore',
                             subHeading: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
-                            heading: 'Top Apartment In West Bangalore',
+                            heading: 'Top Apartments In West Bangalore',
                             subHeading: '',
                         }
                     ]
@@ -176938,12 +176938,12 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
-                            heading: 'Marketing Creatives',
+                            heading: 'Best Real Estate Projects In Central Banglore',
                             subHeading: '',
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North4_Sobha.jpg',
-                            heading: 'Top Apartment In Central Bangalore',
+                            heading: 'Top Apartments In Central Bangalore',
                             subHeading: '',
                         }
                     ]
