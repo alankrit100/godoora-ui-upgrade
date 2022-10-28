@@ -56803,12 +56803,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56822,11 +56816,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56840,12 +56829,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56859,12 +56842,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56878,12 +56855,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56897,12 +56868,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -56926,12 +56891,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56945,12 +56904,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56964,12 +56917,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -56983,12 +56930,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -57012,12 +56953,6 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -57031,12 +56966,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -57050,12 +56979,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -57069,12 +56992,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -57318,11 +57235,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -140523,7 +140435,7 @@ export const Vendors = {
                             location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140536,7 +140448,7 @@ export const Vendors = {
                             location: 'Rs.5500 onwards ',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140549,7 +140461,7 @@ export const Vendors = {
                             location: 'Rs.5000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140569,7 +140481,7 @@ export const Vendors = {
                             location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140582,7 +140494,7 @@ export const Vendors = {
                             location: 'Rs.2200 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140595,7 +140507,7 @@ export const Vendors = {
                             location: 'Rs.1800 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140615,7 +140527,7 @@ export const Vendors = {
                             location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140628,7 +140540,7 @@ export const Vendors = {
                             location: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140641,7 +140553,7 @@ export const Vendors = {
                             location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140660,7 +140572,7 @@ export const Vendors = {
                             name: 'Hegde Farm House',
                             location: 'Rs.11000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140672,7 +140584,7 @@ export const Vendors = {
                             name: 'Neel Taranga',
                             location: 'Rs.5000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -140684,7 +140596,7 @@ export const Vendors = {
                             name: 'Shetty Riverview Farm House',
                             location: 'Rs.8000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141660,7 +141572,7 @@ export const Vendors = {
                             location: 'Rs.10000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141673,7 +141585,7 @@ export const Vendors = {
                             location: 'Rs.9000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141686,7 +141598,7 @@ export const Vendors = {
                             location: 'Rs.8000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141699,7 +141611,7 @@ export const Vendors = {
                             location: 'Rs.9500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141719,7 +141631,7 @@ export const Vendors = {
                             location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141732,7 +141644,7 @@ export const Vendors = {
                             location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141745,7 +141657,7 @@ export const Vendors = {
                             location: 'Rs.2600 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141757,7 +141669,7 @@ export const Vendors = {
                             name: 'Treebo Trend Sans Sarav Kushalnagar',
                             location: 'Rs.2200 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141777,7 +141689,7 @@ export const Vendors = {
                             desc: 'Rs.1800 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141790,7 +141702,7 @@ export const Vendors = {
                             desc: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141803,7 +141715,7 @@ export const Vendors = {
                             desc: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141816,7 +141728,7 @@ export const Vendors = {
                             desc: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141835,7 +141747,7 @@ export const Vendors = {
                             name: 'Coorg Rain Drop Farm Stay',
                             des: 'Rs.9000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141847,7 +141759,7 @@ export const Vendors = {
                             name: 'Heights Farm Stay',
                             desc: 'Rs.10000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141859,7 +141771,7 @@ export const Vendors = {
                             name: 'Deep Woodz Estate Stay',
                             desc: 'Rs.10000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -141871,7 +141783,7 @@ export const Vendors = {
                             name: 'Kwality Estate',
                             desc: 'Rs.11000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142847,7 +142759,7 @@ export const Vendors = {
                             location: 'Rs.5000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142860,7 +142772,7 @@ export const Vendors = {
                             location: 'Rs.4500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142873,7 +142785,7 @@ export const Vendors = {
                             location: 'Rs.3500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142893,7 +142805,7 @@ export const Vendors = {
                             location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142906,7 +142818,7 @@ export const Vendors = {
                             location: 'Rs.2200 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142919,7 +142831,7 @@ export const Vendors = {
                             location: 'Rs.2600 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142939,7 +142851,7 @@ export const Vendors = {
                             desc: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142952,7 +142864,7 @@ export const Vendors = {
                             desc: 'Rs.3500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142965,7 +142877,7 @@ export const Vendors = {
                             desc: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142984,7 +142896,7 @@ export const Vendors = {
                             name: 'Nature INN ',
                             desc: 'Rs.3200 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -142996,7 +142908,7 @@ export const Vendors = {
                             name: 'Staymaker Veera  ',
                             desc: 'Rs.6000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -143008,7 +142920,7 @@ export const Vendors = {
                             name: 'Vamoose Friend ',
                             desc: 'Rs.8000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -143984,7 +143896,7 @@ export const Vendors = {
                             location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -143997,10 +143909,10 @@ export const Vendors = {
                             location: 'Rs.7000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
-                                routerLink: 'www.griham-homestays.goyaana.com',
-                                extLink: '',
+                                routerLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
@@ -144018,10 +143930,10 @@ export const Vendors = {
                             location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
@@ -144031,10 +143943,10 @@ export const Vendors = {
                             location: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
@@ -144044,10 +143956,10 @@ export const Vendors = {
                             location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         }
@@ -144064,7 +143976,7 @@ export const Vendors = {
                             desc: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -144077,7 +143989,7 @@ export const Vendors = {
                             desc: 'Rs.3000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -144090,7 +144002,7 @@ export const Vendors = {
                             desc: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -144109,7 +144021,7 @@ export const Vendors = {
                             name: 'Malpe Picknic',
                             desc: 'Rs.9000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -144133,7 +144045,7 @@ export const Vendors = {
                             name: 'Hotel Gowri',
                             desc: 'Rs.7000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145109,7 +145021,7 @@ export const Vendors = {
                             location: 'Rs.5000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145122,7 +145034,7 @@ export const Vendors = {
                             location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145135,7 +145047,7 @@ export const Vendors = {
                             location: 'Rs.6000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145155,7 +145067,7 @@ export const Vendors = {
                             location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145168,10 +145080,10 @@ export const Vendors = {
                             location: 'Rs.2200 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
-                                extLink: '',
+                                extLink: 'www.griham-homestays.goyaana.com',
                                 label: 'EXPLORE'
                             }
                         },
@@ -145181,7 +145093,7 @@ export const Vendors = {
                             location: 'Rs.2000 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145201,7 +145113,7 @@ export const Vendors = {
                             location: 'Rs.2500 onwards',
                             views: '',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145220,7 +145132,7 @@ export const Vendors = {
                             name: 'Devbagh bench Resort',
                             desc: 'Rs.10000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
@@ -145232,7 +145144,7 @@ export const Vendors = {
                             name: 'Majali Beach Resorts',
                             desc: 'Rs.8000 onwards',
                             routerLink: '',
-                            extLink: '',
+                            extLink: 'www.griham-homestays.goyaana.com',
                             btn: {
                                 routerLink: '',
                                 extLink: 'www.griham-homestays.goyaana.com',
