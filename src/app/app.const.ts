@@ -76505,7 +76505,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Banner+1.jpg',
-                            heading: '',
+                            heading: 'Fortune Inn Grazia',
                             subHeading: ''
                         },
                         {
@@ -76547,7 +76547,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/865'
+                            routerLink: '/by-admin/741'
                         }
                     ]
                 },
