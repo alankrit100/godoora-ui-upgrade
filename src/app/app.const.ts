@@ -170964,7 +170964,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
-                            label: 'Sobha Athena',
+                            label: 'Sobha Athena (3 BHK Super Luxury Flats / Apartments)',
                             desc: '3 BHK Super Luxury Flats / Apartments',
                             location: 'Your wish is our command',
                             extLink: '',
@@ -170972,91 +170972,91 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (3 BHK Luxury Flats/Apartments)',
                             desc: '3 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
-                            label: 'Sobha Forest Edge',
+                            label: 'Sobha Forest Edge (3 BHK Super Luxury Apartments/Flats)',
                             desc: '3 BHK Super Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (1 BHK Luxury Apartments)',
                             desc: '1 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (4 BHK Luxury Flats/Apartments)',
                             desc: '4 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (2 BHK Luxury Apartments/Flats)',
                             desc: '2 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         }, 
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
-                            label: 'Sobha Palm Court',
+                            label: 'Sobha Palm Court (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (4 BHK Luxury Apartments)',
                             desc: '4 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
-                            label: 'Sobha Rajvilas',
+                            label: 'Sobha Rajvilas (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
-                            label: 'Sobha 25 Richmond',
+                            label: 'Sobha 25 Richmond (3 BHK SUPER Luxury Apartments/Flats)',
                             desc: '3 BHK SUPER Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
@@ -172326,98 +172326,99 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
-                            label: 'Sobha Athena',
+                            label: 'Sobha Athena (3 BHK Super Luxury Flats / Apartments)',
                             desc: '3 BHK Super Luxury Flats / Apartments',
+                            location: 'Your wish is our command',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (3 BHK Luxury Flats/Apartments)',
                             desc: '3 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
-                            label: 'Sobha Forest Edge',
+                            label: 'Sobha Forest Edge (3 BHK Super Luxury Apartments/Flats)',
                             desc: '3 BHK Super Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (1 BHK Luxury Apartments)',
                             desc: '1 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (4 BHK Luxury Flats/Apartments)',
                             desc: '4 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (2 BHK Luxury Apartments/Flats)',
                             desc: '2 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         }, 
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
-                            label: 'Sobha Palm Court',
+                            label: 'Sobha Palm Court (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (4 BHK Luxury Apartments)',
                             desc: '4 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
-                            label: 'Sobha Rajvilas',
+                            label: 'Sobha Rajvilas (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
-                            label: 'Sobha 25 Richmond',
+                            label: 'Sobha 25 Richmond (3 BHK SUPER Luxury Apartments/Flats)',
                             desc: '3 BHK SUPER Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
@@ -172467,9 +172468,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f1_CP_Sobha-Athena.jpg' }
+                               
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172485,9 +172485,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f2_CP_Sobha-HRC-Pristine.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172502,9 +172501,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f3_CP_Sobha-Lifestyle-Legacy.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172520,9 +172518,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f4_CP+Creative-02.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173692,98 +173689,99 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
-                            label: 'Sobha Athena',
+                            label: 'Sobha Athena (3 BHK Super Luxury Flats / Apartments)',
                             desc: '3 BHK Super Luxury Flats / Apartments',
+                            location: 'Your wish is our command',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (3 BHK Luxury Flats/Apartments)',
                             desc: '3 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
-                            label: 'Sobha Forest Edge',
+                            label: 'Sobha Forest Edge (3 BHK Super Luxury Apartments/Flats)',
                             desc: '3 BHK Super Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (1 BHK Luxury Apartments)',
                             desc: '1 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (4 BHK Luxury Flats/Apartments)',
                             desc: '4 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (2 BHK Luxury Apartments/Flats)',
                             desc: '2 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         }, 
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
-                            label: 'Sobha Palm Court',
+                            label: 'Sobha Palm Court (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (4 BHK Luxury Apartments)',
                             desc: '4 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
-                            label: 'Sobha Rajvilas',
+                            label: 'Sobha Rajvilas (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
-                            label: 'Sobha 25 Richmond',
+                            label: 'Sobha 25 Richmond (3 BHK SUPER Luxury Apartments/Flats)',
                             desc: '3 BHK SUPER Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
@@ -173833,9 +173831,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f5_CP_Sobha-Clovelly.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173851,9 +173848,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f6_CP_Sobha-Forest-Edge.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173868,9 +173864,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f7_CP_Sobha-Royal-Pavilion.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173886,9 +173881,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f8_WINDSOR-CP%3D1920X1018.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -175057,98 +175051,99 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
-                            label: 'Sobha Athena',
+                            label: 'Sobha Athena (3 BHK Super Luxury Flats / Apartments)',
                             desc: '3 BHK Super Luxury Flats / Apartments',
+                            location: 'Your wish is our command',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (3 BHK Luxury Flats/Apartments)',
                             desc: '3 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
-                            label: 'Sobha Forest Edge',
+                            label: 'Sobha Forest Edge (3 BHK Super Luxury Apartments/Flats)',
                             desc: '3 BHK Super Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (1 BHK Luxury Apartments)',
                             desc: '1 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (4 BHK Luxury Flats/Apartments)',
                             desc: '4 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (2 BHK Luxury Apartments/Flats)',
                             desc: '2 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         }, 
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
-                            label: 'Sobha Palm Court',
+                            label: 'Sobha Palm Court (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (4 BHK Luxury Apartments)',
                             desc: '4 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
-                            label: 'Sobha Rajvilas',
+                            label: 'Sobha Rajvilas (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
-                            label: 'Sobha 25 Richmond',
+                            label: 'Sobha 25 Richmond (3 BHK SUPER Luxury Apartments/Flats)',
                             desc: '3 BHK SUPER Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
@@ -175198,9 +175193,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f9_CP_Sobha-Dream-Acres.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -175216,9 +175210,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f10_CP_Sobha-Lake-Gardens.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -175233,9 +175226,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f11_CP_Sobha-Royal-Pavilion.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -175251,9 +175243,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f12.webp' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -176422,98 +176413,99 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
-                            label: 'Sobha Athena',
+                            label: 'Sobha Athena (3 BHK Super Luxury Flats / Apartments)',
                             desc: '3 BHK Super Luxury Flats / Apartments',
+                            location: 'Your wish is our command',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (3 BHK Luxury Flats/Apartments)',
                             desc: '3 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
-                            label: 'Sobha Forest Edge',
+                            label: 'Sobha Forest Edge (3 BHK Super Luxury Apartments/Flats)',
                             desc: '3 BHK Super Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (1 BHK Luxury Apartments)',
                             desc: '1 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (4 BHK Luxury Flats/Apartments)',
                             desc: '4 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (2 BHK Luxury Apartments/Flats)',
                             desc: '2 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         }, 
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
-                            label: 'Sobha Palm Court',
+                            label: 'Sobha Palm Court (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (4 BHK Luxury Apartments)',
                             desc: '4 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
-                            label: 'Sobha Rajvilas',
+                            label: 'Sobha Rajvilas (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
-                            label: 'Sobha 25 Richmond',
+                            label: 'Sobha 25 Richmond (3 BHK SUPER Luxury Apartments/Flats)',
                             desc: '3 BHK SUPER Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
@@ -176563,9 +176555,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f13_CP_Sobha-Dream-Gardens.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -176581,9 +176572,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' } 
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f14_CP_Sobha-Forest-Edge.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -176598,9 +176588,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f15_CP_Sobha-Palm-Court.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -176616,9 +176605,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f16_CP_SOBHA-Rajvilas.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -177769,98 +177757,99 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North1_Sobha.jpg',
-                            label: 'Sobha Athena',
+                            label: 'Sobha Athena (3 BHK Super Luxury Flats / Apartments)',
                             desc: '3 BHK Super Luxury Flats / Apartments',
+                            location: 'Your wish is our command',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (3 BHK Luxury Flats/Apartments)',
                             desc: '3 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South2.jpg',
-                            label: 'Sobha Forest Edge',
+                            label: 'Sobha Forest Edge (3 BHK Super Luxury Apartments/Flats)',
                             desc: '3 BHK Super Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (1 BHK Luxury Apartments)',
                             desc: '1 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North2_Sobha.jpg',
-                            label: 'Sobha HRC Pristine',
+                            label: 'Sobha HRC Pristine (4 BHK Luxury Flats/Apartments)',
                             desc: '4 BHK Luxury Flats/Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (2 BHK Luxury Apartments/Flats)',
                             desc: '2 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         }, 
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west3.jpg',
-                            label: 'Sobha Palm Court',
+                            label: 'Sobha Palm Court (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg',
-                            label: 'Sobha Clovelly',
+                            label: 'Sobha Clovelly (4 BHK Luxury Apartments)',
                             desc: '4 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/west4.jpg',
-                            label: 'Sobha Rajvilas',
+                            label: 'Sobha Rajvilas (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/East1.jpg',
-                            label: 'Sobha Dream Acres',
+                            label: 'Sobha Dream Acres (3 BHK Luxury Apartments)',
                             desc: '3 BHK Luxury Apartments',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/central1.jpg',
-                            label: 'Sobha 25 Richmond',
+                            label: 'Sobha 25 Richmond (3 BHK SUPER Luxury Apartments/Flats)',
                             desc: '3 BHK SUPER Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
-                            label: 'Sobha Lake garden',
+                            label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
@@ -177910,9 +177899,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/North3_Sobha.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/South4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/f17_CP_Sobha-25-Richmond.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
