@@ -76971,6 +76971,11 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
                             heading: 'FORTUNE LEISURE ESCAPE',
                             subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Fortune+Weekend+Escapes.jpg',
+                            heading: 'Fortune WEEKEND ESCAPE',
+                            subHeading: ''
                         }
                     ]
                 },
@@ -77037,32 +77042,40 @@ export const Vendors = {
                     ]
                 },
                 experiences: {
-                    active: false,
-                    heading: 'Local Experience',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    active: true,
+                    heading: 'Unique Dinning Experience',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/iskon.jpg',
-                            name: 'ISKCON Temple Ghaziabad',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
+                            name: 'Exclusive Personalised Dinners',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ISKCONTempleGhaziabad',
+                            routerLink: '/stores/ExclusivePersonalisedDinner_1',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/dl.jpg',
-                            name: 'Drizzling Land',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
+                            name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DrizzlingLand',
+                            routerLink: '/stores/Closetonaturebreakfast_3',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/sj1.jpg',
-                            name: 'Swarna Jayanti Park',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
+                            name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwarnaJayantiPark',
+                            routerLink: '/stores/CookingSessionWithChef_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/thali.jpg',
+                            name: 'Kangri Dham Lunch Thali',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/KangriDhamLunchThali_1',
                             extLink: ''
                         }
                     ]
