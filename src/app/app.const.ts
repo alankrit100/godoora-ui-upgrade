@@ -53991,7 +53991,7 @@ export const Vendors = {
                             name: 'Guided Yoga Session',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GuidedYogaSession',
                             extLink: ''
                         },
                         {
@@ -53999,7 +53999,7 @@ export const Vendors = {
                             name: 'Day sigh seeing tours',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Daysighseeingtours',
                             extLink: ''
                         },
                         {
@@ -54007,7 +54007,7 @@ export const Vendors = {
                             name: 'Learn towel art',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Learntowelart',
                             extLink: ''
                         },
                         {
@@ -54015,7 +54015,7 @@ export const Vendors = {
                             name: 'Learn leaf art',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Learnleafart',
                             extLink: ''
                         },
                     ]
@@ -54030,7 +54030,7 @@ export const Vendors = {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideCandleLightDinner',
+                            routerLink: '/stores/PoolSideDinner_2',
                             extLink: ''
                         },                      
                         {
@@ -54038,7 +54038,7 @@ export const Vendors = {
                             name: 'Picnic Hamper',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PicnicHamper',
                             extLink: ''
                         },
                         {
@@ -54046,7 +54046,7 @@ export const Vendors = {
                             name: 'Lawn Experience',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LawnExperience',
                             extLink: ''
                         },
                     ]
@@ -54992,7 +54992,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Quick Upgrades',
-                    icon: 'JammuIcons/upgrader.png',
+                    icon: 'JammuIcons/upgrade.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
