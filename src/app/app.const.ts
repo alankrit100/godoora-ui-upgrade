@@ -54768,6 +54768,326 @@ export const Vendors = {
                 }
             ],
             departments: [
+                {
+                    name: 'Restaurant Menu',
+                    icon: 'benaulimIcon/nost.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Zodiac Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/resturantpdf/Zodiac+Menu.pdf',
+                            routerLink: '',
+                            icon: 'benaulimIcon/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Digital IRD Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/resturantpdf/IRD+Menu.pdf',
+                            routerLink: '',
+                            icon: 'benaulimIcon/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'JOECONS BAR Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/resturantpdf/JOECONS+BAR.pdf',
+                            routerLink: '',
+                            icon: 'benaulimIcon/menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Soulfull delight',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/resturantpdf/Soulfull+delight.pdf',
+                            routerLink: '',
+                            icon: 'benaulimIcon/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Unique Dining Experiences',
+                    icon: 'benaulimIcon/dining.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Pool Side Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'lucknow/pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Picnic Hamper',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/picnic.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Lawn Experience',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/grass.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'In-house Experiences',
+                    icon: 'benaulimIcon/exp.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Guided Yoga Session',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Day sigh seeing tours',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/tour-bus.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn towel art',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/towel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn leaf art',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/art-therapy.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'Local Experience',
+                    icon: 'benaulimIcon/exp.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Benaulim Marathon',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/marathon.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Chitra Museum',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/british-museum.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this ride.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Village tour on E-bike',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/bicycle.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Room Upgrade',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Beach Shuttle',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/shuttle.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Meal plan upgrade',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/thali.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Happy Hours in Joecons Bar',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/bar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Early Bird Meal Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/thali.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Happy hour in SPA',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'benaulimIcon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
@@ -57241,7 +57561,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Avail a 20% discount* on spa',
+                            name: 'Avail  discount* on spa',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/SpaMenu.png',
@@ -57254,7 +57574,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Poolside dining @ INR 1999*',
+                            name: 'Poolside dining',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/swimming-pool.png',
@@ -57303,7 +57623,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room @ INR 999*',
+                            name: 'Upgrade room ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/room.png',
@@ -57316,7 +57636,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Upgrade meal @ INR 499*',
+                            name: 'Upgrade meal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/meal.png',
@@ -57329,7 +57649,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Extra bed @ INR 99*',
+                            name: 'Extra bed ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/bed.png',
@@ -57342,7 +57662,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Get a cab @ INR 25* per km',
+                            name: 'Get a cab ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/cab.png',
@@ -57355,7 +57675,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Business center services @ INR 499*',
+                            name: 'Business center services ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/service.png',
