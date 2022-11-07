@@ -59573,7 +59573,7 @@ export const Vendors = {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PaintingbytheBanyanTree',
+                            routerLink: '/stores/SPA_34',
                             extLink: ''
                         },
                         {
@@ -59581,7 +59581,7 @@ export const Vendors = {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/509',
+                            routerLink: '/stores/BonfireatLawn',
                             extLink: ''
                         },
                         {
@@ -59589,7 +59589,7 @@ export const Vendors = {
                             name: 'Health Centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Gardening',
+                            routerLink: '/stores/HealthCentre',
                             extLink: ''
                         },
                         {
@@ -59597,7 +59597,7 @@ export const Vendors = {
                             name: 'Badminton',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NatureWalk_1',
+                            routerLink: '/stores/Badminton_1',
                             extLink: ''
                         },
                         {
@@ -59605,7 +59605,7 @@ export const Vendors = {
                             name: 'Table Tennis',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast',
+                            routerLink: '/stores/TableTennis_8',
                             extLink: ''
 
                         },
@@ -59614,7 +59614,7 @@ export const Vendors = {
                             name: 'Business Centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Folkevenings',
+                            routerLink: '/stores/BusinessCentre',
                             extLink: ''
                         }
                     ]
