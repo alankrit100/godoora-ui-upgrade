@@ -59629,7 +59629,7 @@ export const Vendors = {
                             name: 'Candle light Dinner at Shehjar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ExclusivePersonalisedDinner',
+                            routerLink: '/stores/CandlelightDinneratShehjar',
                             extLink: ''
                         },
                         {
@@ -59637,7 +59637,7 @@ export const Vendors = {
                             name: 'Live Santoor music on Weekends in Eearthen Oven',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Closetonaturebreakfast',
+                            routerLink: '/stores/LiveSantoormusiconWeekendsinEearthenOven',
                             extLink: ''
                         },
                         {
@@ -59645,7 +59645,7 @@ export const Vendors = {
                             name: '20% discount on SPA,',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef',
+                            routerLink: '/stores/20%discountonSPA',
                             extLink: ''
                         },
                         {
@@ -59653,7 +59653,7 @@ export const Vendors = {
                             name: 'Special offer for in house guests in all day dining cafe chinar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/KangriDhamLunchThali',
+                            routerLink: '/stores/Specialofferforinhouseguestsinalldaydiningcafechina',
                             extLink: ''
                         },
                         {
@@ -59661,7 +59661,7 @@ export const Vendors = {
                             name: 'Complimentary welcome kehwa',
                             location: '',
                             views: '',
-                            routerLink: '/stores/KangriDhamLunchThali',
+                            routerLink: '/stores/Complimentarywelcomekehwa',
                             extLink: ''
                         }
                     ]
@@ -61110,7 +61110,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'In-house Experience',
+                    name: 'In-house Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
