@@ -59565,7 +59565,7 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'In-House Experiences',
+                    heading: 'Hotel Experience',
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
@@ -59621,7 +59621,7 @@ export const Vendors = {
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique dining experiences.',
+                    heading: 'Our unique offerings.',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
                     items: [
                         {
