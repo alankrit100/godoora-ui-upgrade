@@ -39411,7 +39411,7 @@ export const Vendors = {
                     icon: 'JammuIcons/DigitalMenu.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '',
                     extLink: '',
                     services: [
                         {
