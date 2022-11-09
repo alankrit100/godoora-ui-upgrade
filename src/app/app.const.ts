@@ -36911,7 +36911,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/876'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
@@ -36935,61 +36935,33 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'Special Offers',
+                    heading: 'Special Offers ',
                     desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
-                            name: 'Personalised Dinner Experience Offer',
-                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
+                            name: 'Fortune Weekend Escapes',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/CandlelightdinnerattheTerracewithvalleyview',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/CandlelightdinnerattheTerracewithvalleyview',
-                                label: 'ENQUIRE NOW'
-                            }
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },    
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
+                            name: 'Fortune Leisure Escape',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
-                            name: 'Cook with Chef Experience Offer',
-                            location: 'Book COOK WITH CHEF from our website and get Chef Choice dessert for 2 on the house.',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
+                            name: 'Fortune Business Stays',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/Cookwithchef_1',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/Cookwithchef_1',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
-                            name: 'Outdoor Activity Offer',
-                            location: 'Book any 1 outdoor activity from our website and get 1 Hour pool table free.',
-                            views: '',
-                            routerLink: '/by-admin/225',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/by-admin/225',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Heritage_Walk.jpg',
-                            name: 'Heritage Walk Experience Offer',
-                            location: 'Go on a Heritage walk and get 10 minutes of air hockey free.',
-                            views: '',
-                            routerLink: '/stores/HeritageWalk',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/stores/HeritageWalk',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        }
                     ]
                 },
                 experiences: {
@@ -37713,24 +37685,24 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: 'Behind the scenes',
-                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    heading: '#SafeStaysatFortuneHotels',
+                    desc: 'From check-in to check-out, we have you covered',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Temp_Check.jpeg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Sanitising.jpeg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-3.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Service.jpeg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
                         }
                     ]
                 },
@@ -39368,35 +39340,44 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Avail a 20% discount* on spa',
+                            name: 'Personalised Dinner Experience Offer',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/SpaMenu.png',
+                            icon: 'fortunemussoorieicons/Candle.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Example: I need to host a private party',
+                            headerText: 'When would you like to visit the restaurant?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/personlised1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/personlised2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/personlised3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
                         },
                         {
-                            name: 'Poolside dining @ INR 1999*',
+                            name: 'Cook with chef',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/swimming-pool.png',
+                            icon: 'fortunemussoorieicons/Cooking.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/chef1.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/chef3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Custom In-room dining',
+                            name: 'Outdoor Activity Offer',
                             extLink: '',
-                            routerLink: 'test',
+                            routerLink: '/by-admin/225',
                             icon: 'JammuIcons/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -39407,10 +39388,63 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Celebrate your special day',
+                            name: 'Heritage Walk',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/celebrating.png',
+                            icon: 'fortunemussoorieicons/walk.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage3.jpg' }
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Digital Menus',
+                    icon: 'JammuIcons/DigitalMenu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Restaurant Menu',
+                            extLink: '',
+                            routerLink: '/by-admin/442',
+                            icon: 'JammuIcons/RestaurantMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Service Directory',
+                            extLink: '',
+                            routerLink: '/by-admin/603',
+                            icon: 'JammuIcons/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Spa Laundry and Minibar Menu',
+                            extLink: '',
+                            routerLink: '/by-admin/525',
+                            icon: 'JammuIcons/SpaMenu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
