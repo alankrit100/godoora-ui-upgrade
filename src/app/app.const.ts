@@ -36905,7 +36905,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Fortune Resort Grace Experience',
-                    desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mussoorie. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
+                    desc: `Nestled in the hills, Fortune Resort Grace is perched cozily on a pine covered hill slope with an enchanting view of the Doon valley. This resort in Mussoorie is located at the Library End of the Mall Road, yet it retains the charm of a quiet country resort. This is a hotel for leisure, recreation, family and corporate bonding, and a select venue for conferences.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -39411,13 +39411,13 @@ export const Vendors = {
                     icon: 'JammuIcons/DigitalMenu.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '',
+                    routerLink: 'test',
                     extLink: '',
                     services: [
                         {
                             name: 'Restaurant Menu',
-                            extLink: '',
-                            routerLink: '/by-admin/442',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
+                            routerLink: '',
                             icon: 'JammuIcons/RestaurantMenu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -39429,8 +39429,8 @@ export const Vendors = {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: '',
-                            routerLink: '/by-admin/603',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            routerLink: '',
                             icon: 'JammuIcons/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -39442,8 +39442,8 @@ export const Vendors = {
                         },
                         {
                             name: 'Spa Laundry and Minibar Menu',
-                            extLink: '',
-                            routerLink: '/by-admin/525',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/SPA+MENU.pdf',
+                            routerLink: '',
                             icon: 'JammuIcons/SpaMenu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
