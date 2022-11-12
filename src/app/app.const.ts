@@ -39163,7 +39163,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Personalised Dinner Experience Offer',
+                            name: 'Get Mocktail Offer',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/Candle.png',
@@ -39182,7 +39182,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Cook with chef Offer',
+                            name: 'Dessert for 2 Offer',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/Cooking.png',
@@ -39198,7 +39198,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Outdoor Activity Offer',
+                            name: 'Pool Table Offer',
                             extLink: '',
                             routerLink: '/by-admin/225',
                             icon: 'JammuIcons/dinning-table.png',
@@ -39211,7 +39211,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Heritage Walk Offer',
+                            name: 'Air Hockey Offer',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/walk.png',
