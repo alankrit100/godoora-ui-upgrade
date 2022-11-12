@@ -36828,7 +36828,7 @@ export const Vendors = {
             }
         },
         {
-            branch: 'mussoorie',
+            branch: 'Demo mussoorie',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/mussorie_branch.jpg',
             id: 'demohotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/BestTripHotelsLogo.png',
