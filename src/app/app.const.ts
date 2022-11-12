@@ -36979,7 +36979,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/NightCamping',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -36992,7 +36992,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/BurmaBridge',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37005,7 +37005,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/CommondoNet',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37018,7 +37018,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/LadderClimbing',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37031,7 +37031,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/by-admin/224',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37044,7 +37044,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/ZipLine',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37057,7 +37057,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/DoubleRopeBridge',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37070,7 +37070,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/MeetingHall_1',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37083,7 +37083,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/Specialevents_1',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         }
                     ]
@@ -37102,7 +37102,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/ArtandCraftClasses',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37114,7 +37114,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/DanceClasses',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37126,7 +37126,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/Cookwithchef_1',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         },
                         {
@@ -37138,7 +37138,7 @@ export const Vendors = {
                             btn: {
                                 extLink: '',
                                 routerLink: '/stores/Bedmakingworkshopbyhousekeepingstaff',
-                                label: 'ENQUIRE NOW'
+                                label: 'ENQUIRE'
                             }
                         }
                     ]
@@ -38650,7 +38650,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Cook with chef',
+                            name: 'Cook with chef Offer',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/Cooking.png',
@@ -38679,7 +38679,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Heritage Walk',
+                            name: 'Heritage Walk Offer',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/walk.png',
