@@ -36832,7 +36832,7 @@ export const Vendors = {
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/mussorie_branch.jpg',
             id: 'demohotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
-            theme: 'fortune-theme',
+            theme: 'grey-theme',
             idCategory: 9,
             favIconLink: 'assets/icon/favicon.png',
             title: 'Fortune Resort Grace',
