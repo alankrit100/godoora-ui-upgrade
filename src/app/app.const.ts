@@ -55955,7 +55955,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/2.+Sales+%26+Reservations+Offices+in+India.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Sales+and+Reservations+offices+in+India.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/reserve.png',
                             showTextarea: true,
@@ -55972,7 +55972,7 @@ export const Vendors = {
                         },
                         {
                             name: 'In Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Room+Dining.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/serving-dish.png',
                             showTextarea: true,
@@ -56074,7 +56074,7 @@ export const Vendors = {
                         },
                         {
                             name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/9.+About+the+Place.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/About+the+Place.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/place.png',
                             showTextarea: true,
