@@ -45210,7 +45210,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Yoga experience',
+                            name: 'Yoga Session',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/yoga.png',
