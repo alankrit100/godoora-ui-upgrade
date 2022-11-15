@@ -94021,7 +94021,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IN ROOM DINING Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/IN+ROOM+DINING+Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/InDinning.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -94076,7 +94076,7 @@ export const Vendors = {
                         },
                         {
                             name: 'ORCHID MENU PDF',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/ORCHID++MENU+PDF.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Orchid+Menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
                             showTextarea: true,
