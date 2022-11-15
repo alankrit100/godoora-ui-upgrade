@@ -43686,7 +43686,7 @@ export const Vendors = {
                             name: 'Yoga Session',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Yogaexperience_3',
+                            routerLink: '/stores/YogaSession_3',
                             extLink: ''
                         },
                         {
@@ -43694,7 +43694,7 @@ export const Vendors = {
                             name: 'Bonfire',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Yogaexperience_3',
+                            routerLink: '/stores/Bonfire_3',
                             extLink: ''
                         }
                     ]
