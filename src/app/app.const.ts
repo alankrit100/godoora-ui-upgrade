@@ -56090,7 +56090,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Dining Facilities',
+                            name: 'InRoom Dinning',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Room+Dining.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/serving-dish.png',
