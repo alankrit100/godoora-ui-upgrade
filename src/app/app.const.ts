@@ -62356,7 +62356,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Fortune Resort Heevan, Srinagar',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of Jammu and Kashmir through Heevan RM. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `Set in the picturesque valley of Srinagar with a magnificent view of the Zabarwan Mountains, Fortune Resort Heevan is a wonderful blend of traditional Kashmiri architecture with new-age conveniences. Fortune Resort Heevan, Srinagar offers 39 beautifully furnished rooms with an excellent range of modern guest facilities, landscaped gardens and a wide selection of culinary venues; which makes this resort in Srinagar an ideal retreat to experience the charm of Kashmir amidst warm hospitality.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -64092,7 +64092,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/local/Mughal+Garden+Shalimar.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/santoor.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -64107,9 +64107,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/local/Mughal+Garden+Shalimar.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/local/Mughal+Garden+Shalimar.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/local/Mughal+Garden+Shalimar.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/SPA+1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/SPA+2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/SPA+3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -64124,7 +64124,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/local/Mughal+Garden+Shalimar.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/All+Day+Dining.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
