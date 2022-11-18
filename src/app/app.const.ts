@@ -64223,7 +64223,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
