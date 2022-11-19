@@ -60141,29 +60141,32 @@ export const Vendors = {
                 },
                 activities: {
                     active: true,
-                    heading: 'WorkShop ',
-                    desc: 'A workshop is a period of discussion or practical work on a particular subject in which a group of people share their knowledge or experience.',
+                    heading: 'Special Offers ',
+                    desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Workshop/Tea1.jpg',
-                            name: 'How To Make Traditional Tea',
-                            desc: 'Duration: 2 hours',
-                            routerLink: '/stores/HowToMakeTraditionalTea',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
+                            name: 'Fortune Weekend Escapes',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },    
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
+                            name: 'Fortune Leisure Escape',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Workshop/Massage2.jpg',
-                            name: 'Massage Classes',
-                            desc: 'Duration: 2 hours',
-                            routerLink: '/stores/MassageClasses',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Workshop/Baking1.jpg',
-                            name: 'Baking And Confectionary',
-                            desc: 'Duration: 2 hours',
-                            routerLink: '/stores/BakingAndConfectionary',
-                            extLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
+                            name: 'Fortune Business Stays',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
                         }
                     ]
                 },
