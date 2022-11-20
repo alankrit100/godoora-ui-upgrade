@@ -105350,7 +105350,7 @@ export const Vendors = {
                             name: 'Banquet Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Banquethallbooking_8',
                             extLink: ''
                         },
                         {
@@ -105358,7 +105358,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner at Earthern Oven Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandlelightDinneratEarthenOvenRestaurant',
                             extLink: ''
                         },
                         {
@@ -105366,7 +105366,7 @@ export const Vendors = {
                             name: 'Zodiac Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ZodiacRestaurant',
                             extLink: ''
                         },
                     ]
