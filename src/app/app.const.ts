@@ -62363,7 +62363,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Bar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/rest+menu/BAR+Menu+Fortune+2022.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/BAR+Menu.pdf',
                             routerLink: '',
                             icon: 'dharmshala/nost.png',
                             showTextarea: true,
@@ -62390,7 +62390,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/rest+menu/Fortune+IRD+2022_NEW.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/In+Room+Dining+Menu.pdf',
                             routerLink: '',
                             icon: 'dharmshala/restaurant1.png',
                             showTextarea: true,
@@ -62418,7 +62418,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Round the Clock',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/rest+menu/Fortune+PAVILION+2022_NEW_ROUND+THE+CLOCK.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Round+the+Clock+Menu.pdf',
                             routerLink: '',
                             icon: 'dharmshala/menuu.png',
                             showTextarea: true,
@@ -62446,7 +62446,7 @@ export const Vendors = {
                         },
                         {
                             name: 'The Pavilion',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/rest+menu/Fortune+PAVILION+2022_NEW.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Pavilion+-+Restaurant+Menu.pdf',
                             routerLink: '',
                             icon: 'dharmshala/menuu.png',
                             showTextarea: true,
