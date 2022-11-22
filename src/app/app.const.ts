@@ -56386,7 +56386,7 @@ export const Vendors = {
                             name: 'Pillow',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/10.+Places+of+Interest.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/pillows.png',
+                            icon: 'JammuIcons/pillows.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
