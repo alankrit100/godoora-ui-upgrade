@@ -95271,7 +95271,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Neptune Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Neptune+Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Neptune+Bar+Menu+with+Calorific+Values+Haridwar.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
                             showTextarea: true,
