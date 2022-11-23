@@ -65207,6 +65207,31 @@ export const Vendors = {
                         }
                     ]
                 },
+                {
+                    name: 'Spa Menu',
+                    icon: 'dharmshala/tray.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa MENU',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Fortune+Resort+Heevan+Spa+Menu+(1).pdf',
+                            routerLink: '',
+                            icon: 'dharmshala/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
+                        }
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
