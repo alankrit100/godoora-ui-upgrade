@@ -65150,48 +65150,6 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade to next category if available',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/upgrade.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: '20% discount on Buffet Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Complimentary cake on special occassions',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/birthday-cake.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
                             name: '20% discount on live grilled counter at Gulistan',
                             extLink: '',
                             routerLink: 'test',
@@ -65216,7 +65174,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Spa MENU',
+                            name: 'Spa Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Fortune+Resort+Heevan+Spa+Menu+(1).pdf',
                             routerLink: '',
                             icon: 'dharmshala/nost.png',
@@ -65231,7 +65189,7 @@ export const Vendors = {
                             ]
                         }
                     ]
-                },
+                }
             ],
             comingSoon: {
                 active: true,
