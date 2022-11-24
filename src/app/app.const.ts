@@ -105765,7 +105765,7 @@ export const Vendors = {
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Fortune+Weekend+Escapes.jpgg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Fortune+Weekend+Escapes.jpg',
                             heading: 'FORTUNE LEISURE ESCAPE',
                             subHeading: ''
                         },
