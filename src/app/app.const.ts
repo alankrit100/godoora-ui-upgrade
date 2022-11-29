@@ -107374,7 +107374,7 @@ export const Vendors = {
                             name: 'Gymnasium',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gymnasium_1',
                             extLink: ''
                         },
                         {
@@ -107382,7 +107382,7 @@ export const Vendors = {
                             name: 'Currency Exchnage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CurrencyExchange_1',
                             extLink: ''
                         },
                         {
@@ -107390,7 +107390,7 @@ export const Vendors = {
                             name: 'Travel Assistance',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TravelAssistance',
                             extLink: ''
                         },
                         {
@@ -107398,7 +107398,7 @@ export const Vendors = {
                             name: 'In-house Laundry',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/InhouseLaundry_1',
                             extLink: ''
                         },
                         {
@@ -107406,7 +107406,7 @@ export const Vendors = {
                             name: 'Doctor on Call',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DoctoronCall_1',
                             extLink: ''
 
                         },
@@ -107415,7 +107415,7 @@ export const Vendors = {
                             name: 'Valet Parking',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ValetParking',
                             extLink: ''
                         }
                     ]
