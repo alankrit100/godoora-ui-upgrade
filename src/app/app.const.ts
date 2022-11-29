@@ -60681,37 +60681,6 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Dining Experiences',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Barbeque1.jpg',
-                            name: 'Barbeque',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Barbeque_6',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Candle2.jpg',
-                            name: 'Candle Light Dinner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CandleLightDinner_10',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close1.jpg',
-                            name: 'Close to nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Closetonaturebreakfast_1',
-                            extLink: ''
-                        }
-                    ]
-                },
-                activities: {
-                    active: true,
                     heading: 'Special Offers ',
                     desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
@@ -60738,6 +60707,37 @@ export const Vendors = {
                             views: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Unique Dining Experiences',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Barbeque1.jpg',
+                            name: 'Barbeque',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Barbeque_6',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Candle2.jpg',
+                            name: 'Candle Light Dinner',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CandleLightDinner_10',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close1.jpg',
+                            name: 'Close to nature breakfast',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Closetonaturebreakfast_1',
+                            extLink: ''
                         }
                     ]
                 },
