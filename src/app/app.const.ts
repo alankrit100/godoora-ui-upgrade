@@ -62184,29 +62184,6 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg',
-                            name: 'Yoga Session',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/YogaSession_3',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo+ooty/inhouse/Bonfire.png',
-                            name: 'Bonfire',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Bonfire_3',
-                            extLink: ''
-                        }
-                    ]
-                },
-                experiences: {
-                    active: true,
                     heading: 'Special Offers ',
                     desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
@@ -62233,6 +62210,29 @@ export const Vendors = {
                             views: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-House Experiences',
+                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg',
+                            name: 'Yoga Session',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/YogaSession_3',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo+ooty/inhouse/Bonfire.png',
+                            name: 'Bonfire',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Bonfire_3',
+                            extLink: ''
                         }
                     ]
                 },
