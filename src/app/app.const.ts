@@ -59602,7 +59602,7 @@ export const Vendors = {
                             name: 'Painting by the Banyan Tree',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PaintingbytheBanyanTree',
+                            routerLink: '/stores/PaintingbytheBanyanTree_5',
                             extLink: ''
                         },
                         {
@@ -59610,7 +59610,7 @@ export const Vendors = {
                             name: 'Yoga experience',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/509',
+                            routerLink: '/by-admin/899',
                             extLink: ''
                         },
                         {
@@ -59618,7 +59618,7 @@ export const Vendors = {
                             name: 'GARDENING – Lets Go Green',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Gardening',
+                            routerLink: '/stores/Gardening_3',
                             extLink: ''
                         },
                         {
@@ -59626,7 +59626,7 @@ export const Vendors = {
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NatureWalk_1',
+                            routerLink: '/stores/NatureWalk_4',
                             extLink: ''
                         },
                         {
@@ -59634,7 +59634,7 @@ export const Vendors = {
                             name: 'Close to Nature Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast',
+                            routerLink: '/stores/Naturebreakfast_4',
                             extLink: ''
 
                         },
@@ -59643,7 +59643,7 @@ export const Vendors = {
                             name: 'Folk Evenings',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Folkevenings',
+                            routerLink: '/stores/Folkevenings_3',
                             extLink: ''
                         }
                     ]
@@ -59658,7 +59658,7 @@ export const Vendors = {
                             name: 'Exclusive Personalised Dinners',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ExclusivePersonalisedDinner',
+                            routerLink: '/stores/ExclusivePersonalisedDinner_2',
                             extLink: ''
                         },
                         {
@@ -59666,7 +59666,7 @@ export const Vendors = {
                             name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Closetonaturebreakfast',
+                            routerLink: '/stores/Closetonaturebreakfast_4',
                             extLink: ''
                         },
                         {
@@ -59674,7 +59674,7 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef',
+                            routerLink: '/stores/CookingSessionWithChef_2',
                             extLink: ''
                         },
                         {
@@ -59682,7 +59682,7 @@ export const Vendors = {
                             name: 'Kangri Dham Lunch Thali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/KangriDhamLunchThali',
+                            routerLink: '/stores/KangriDhamLunchThali_2',
                             extLink: ''
                         }
                     ]
@@ -60229,24 +60229,24 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: 'Behind the scenes',
-                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    heading: '#SafeStaysatFortuneHotels',
+                    desc: 'From check-in to check-out, we have you covered',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Mcleodganj-1.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/amoha11.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
                         }
                     ]
                 },
