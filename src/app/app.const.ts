@@ -62143,9 +62143,9 @@ export const Vendors = {
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Fortune+Weekend+Escapes.jpg',
+                            heading: 'FORTUNE LEISURE ESCAPE',
+                            subHeading: ''
                         }
                     ]
                 },
@@ -78283,51 +78283,35 @@ export const Vendors = {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa.jpg',
-                            name: 'Fitness Yoga Session',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/panchwatikolkatta/swimming+pool.jpg',
+                            name: 'Swimming Pool',
                             location: '',
                             views: '',
                             routerLink: '/stores/FitnessYogaSession',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Shantiniketan.jpg',
-                            name: 'Shantiniketan Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/panchwatikolkatta/saloon+images.jpg',
+                            name: 'Saloon',
                             location: '',
                             views: '',
                             routerLink: '/stores/ShantiniketanTour',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/iscon.jpg',
-                            name: 'Bishnupur Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/panchwatikolkatta/restaurant.jpg',
+                            name: 'Restaurant',
                             location: '',
                             views: '',
                             routerLink: '/stores/BishnupurTour',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Bhirbhum.jpg',
-                            name: 'Bhirbhum Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/panchwatikolkatta/789654.jpeg',
+                            name: 'Banquet',
                             location: '',
                             views: '',
                             routerLink: '/stores/BhirbhumTour',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/jungle.jpg',
-                            name: 'Garh Jungle Tour',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/GarhJungleTour',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/iscon.jpg',
-                            name: 'Iscon Temple',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/IsconTemple',
                             extLink: ''
                         }
                     ]
@@ -78339,18 +78323,10 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/pooldinner.jpg',
-                            name: 'Pool Side Candle Light Dinner',
+                            name: 'Candle Light Dinner By The Poolside',
                             location: '',
                             views: '',
                             routerLink: '/stores/PoolSideCandleLightDinner',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/riverdinner.jpg',
-                            name: 'Dinner by the Damodar River Side',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/DinnerbytheDamodarRiverSide',
                             extLink: ''
                         }
                     ]
@@ -79769,28 +79745,23 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Fitness Yoga Session',
+                            name: 'Swimming Pool',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'lucknow/yoga.png',
+                            icon: 'panchwatikolkatta/swimming pool.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/yogaa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Shantiniketan Tour',
+                            name: 'Saloon',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortune/tour1.png',
+                            icon: 'panchwatikolkatta/saloon.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour',
@@ -79800,10 +79771,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Bishnupur Tour',
+                            name: 'Restaurant',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortune/tour2.png',
+                            icon: 'panchwatikolkatta/restaurant.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -79813,36 +79784,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Bhirbhum Tour',
+                            name: 'Banquet',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortune/tour3.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Garh Jungle Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortune/jungle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Iscon Temple',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortune/temple.png',
+                            icon: 'panchwatikolkatta/Banquet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -79862,7 +79807,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Pool Side Candle Light Dinner',
+                            name: 'Candle Light Dinner By The Poolside',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'lucknow/pool.png',
@@ -79873,20 +79818,7 @@ export const Vendors = {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Dinner by the Damodar River Side',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortune/picnictable.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        }
                     ]
                 },
                 {
@@ -79898,10 +79830,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Junction Mall',
+                            name: 'Picnic spot',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortune/mall.png',
+                            icon: 'panchwatikolkatta/picnic.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -79911,10 +79843,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Reliance Mall',
+                            name: 'Heritage walk',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortune/shoppingmall.png',
+                            icon: 'panchwatikolkatta/museum.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -79922,46 +79854,7 @@ export const Vendors = {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Durgapur Barrage',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortune/dam.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Anand Amusement Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortune/park.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Deul Park(Bonkati Burdwan)',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortune/park1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        }
                     ]
                 },
                 {
@@ -80283,65 +80176,13 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade Room @INR 1000* plus 12% GST ',
+                            name: 'Upgrade Room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/room.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Upgrade Meal @INR 750* plus 18% GST',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Extra Bed',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Get a cab @ INR 25* per km',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Business center services @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
@@ -80358,52 +80199,13 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Avail a 15% discount* on spa',
+                            name: '15% discount* on food and beverages',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/SpaMenu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Poolside dining @ INR 1999*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Celebrate your special day',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/celebrating.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
