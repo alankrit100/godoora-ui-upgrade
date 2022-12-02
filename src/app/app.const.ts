@@ -76442,7 +76442,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/629'
+                            routerLink: '/by-admin/644'
                         }
                     ]
                 },
@@ -77997,10 +77997,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Refreshing trip to Ocean World water park',
+                            name: 'Lingaraj Temple',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/walk.png',
+                            icon: 'Vijaywadaicons/Lingaraj.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -78011,10 +78011,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Spiritual Tour To Religion Place',
+                            name: 'Dhauli Temple',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/adventurer.png',
+                            icon: 'Vijaywadaicons/Dhauli.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -78025,10 +78025,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Museum and garden Tour of Bhubaneswar',
+                            name: 'Nandankanan Zoo Park',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/road-trip.png',
+                            icon: 'Vijaywadaicons/zoo.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -78037,21 +78037,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Sight Seeing',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/road-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        } 
+                        }
                     ]
                 },
                 {
