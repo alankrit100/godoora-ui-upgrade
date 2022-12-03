@@ -76487,7 +76487,7 @@ export const Vendors = {
                             name: 'Wifi Service',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/WifiService',
                             extLink: ''
                         },
                         {
@@ -76495,7 +76495,7 @@ export const Vendors = {
                             name: 'Well-oriented rooms',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Wellorientedrooms',
                             extLink: ''
                         }
                     ]
@@ -76509,14 +76509,14 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/candle.jpg',
                             name: 'Candle Light Dinner',
                             desc: '',
-                            routerLink: '/stores/Banquethallbooking_4',
+                            routerLink: '/stores/CandleLightDinner_13',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Kitty-Party-Ideas-at-Home.jpg',
                             name: 'Small Kitty Party',
                             desc: '',
-                            routerLink: '/stores/CustomisedHouseParty_1',
+                            routerLink: '/stores/SmallKittyParty',
                             extLink: ''
                         }
                     ]
@@ -77820,7 +77820,7 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -77834,7 +77834,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/3_Room_2A_CC2F_SH_hdi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/4_Room_2B_CCF_SH_hdi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/5_Bathroom_CCF_SH_hdi.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -77959,7 +77961,10 @@ export const Vendors = {
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
+                            gallery: [ 
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/_DSC8360.jpg' }, 
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/_DSC8335.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC_2898.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -78006,7 +78011,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/20180308100-olw945z2p5uk9hwvh9p8h3b9cyyfthyjd22zkuow3u.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Only+Gods.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/images.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -78020,7 +78027,7 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/Category_Lingaraj+Temple+-+Wikimedia+Commons.png' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -78034,7 +78041,8 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/407.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/safari-bg.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -78058,6 +78066,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC00097.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC00143.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC00155.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC_7948.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -78071,7 +78083,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC_8251.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC_8276.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/DSC_8246+Panorama.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -78125,6 +78139,33 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Service Directory',
+                    icon: 'fortunegrace/directory.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/fortune+bhubaneswar+service+directory.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
                             ]
                         }
                     ]
@@ -78345,7 +78386,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Fortune Pushpanjali Experience',
-                    desc: `An iconic city landmark, Fortune Park Pushpanjali is located in Durgapur City Centre with easy access to Durgapur Steel Plant, shopping complex and key corporate establishments. The hotel is 20 mins drive from Kazi Nazrul Islam Airport and 15 mins from Durgapur Railway Station.. This first-class, full service hotel offers stylish guest rooms and suites, dining outlets, modern conferencing/ banqueting space and a rejuvenating wellness centre featuring a swimming pool, gymnasium and spa.`,
+                    desc: `Fortune Park Panchwati is an upscale, contemporary hotel located on Kona Expressway, just 5 kms from Vidyasagar Toll Plaza in Howrah. The hotel offers 67 guest rooms, selection of delightful dining options and banquet facilities for gatherings of up to 700 guests. Only 20 minutes from Esplanade (Kolkata), Fortune Park Panchwati is an urban retreat for both leisure and business travelers. The hotel is in close proximity to city centre and various places of interest for guests to explore.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -78414,7 +78455,7 @@ export const Vendors = {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_32',
                             extLink: ''
                         },
                         {
@@ -78422,7 +78463,7 @@ export const Vendors = {
                             name: 'Saloon',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Saloon_1',
                             extLink: ''
                         },
                         {
@@ -78430,7 +78471,7 @@ export const Vendors = {
                             name: 'Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Restaurant_21',
                             extLink: ''
                         },
                         {
@@ -78438,7 +78479,7 @@ export const Vendors = {
                             name: 'Banquet',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Banquet_9',
                             extLink: ''
                         }
                     ]
@@ -78453,7 +78494,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner By The Poolside',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinnerByThePoolside',
                             extLink: ''
                         }
                     ]
