@@ -59185,8 +59185,12 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/4.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Picnic Hamper',
@@ -59198,8 +59202,11 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/picnic/Champagne+and+the+beach%2C+oh+my%2C+what+a+delight+_3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/picnic/Designer+Clothes%2C+Shoes+%26+Bags+for+Women+_+SSENSE.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Lawn Experience',
@@ -59211,8 +59218,12 @@ export const Vendors = {
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to receive it?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/lawn/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/lawn/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/lawn/4.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -59234,8 +59245,12 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/yoga/Bamboo+Yoga+Retreat+in+South+Goa+_+Yoga+Holidays%2C+Retreats+and+Teacher+Training.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/yoga/Female+Silhouette+In+Yoga+Lotus+Pose_+Stock+Illustration+-+Illustration+of+girl%2C+pose_+58671231.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/yoga/morning+yoga.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Day sigh seeing tours',
@@ -59247,8 +59262,13 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/tour/Baga+Beach+Goa.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/tour/Goa+Beaches+%26+Travel+_+Places+to+visit+in+Goa+_+Beaches+in+Goa+_+Pic+19.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/tour/Candolim+Beach+%2C+Goa+%2C+India_+More.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/tour/Goa+India+village+road+picture+(1).jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Learn towel art',
@@ -59260,8 +59280,13 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/towel/30+Creative+Towel+Origami+DIYs+_+Cuded.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/towel/download+(1)(1).jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/towel/LoveToKnow_+Advice+you+can+trust.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/towel/Picture+of+Towel+bear+-+Carnival+Paradise.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Learn leaf art',
@@ -59273,8 +59298,12 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this experience.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/leaf/24+Gorgeous+Fall+Leaf+Crafts+%26+Easy+DIY+Decor.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/leaf/Best+Autumn+Hairstyles.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/leaf/How+to+Craft+with+Leaves+_+Cool+Leaf+DIY+Crafts.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -59346,7 +59375,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Beach Shuttle',
@@ -59359,7 +59389,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Meal plan upgrade',
@@ -59372,7 +59403,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -59395,7 +59427,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Early Bird Meal Offer',
@@ -59408,7 +59441,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Happy hour in SPA',
@@ -59421,7 +59455,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
