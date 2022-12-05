@@ -64439,7 +64439,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/srinagar.jpg',
                             heading: 'Fortune Resort, Heevan',
-                            subHeading: 'Member of ITC Hotel'
+                            subHeading: 'Member of ITCs Hotel Group'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
@@ -64561,7 +64561,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/heavan+srinagar/in+house+exp/Business+Centre..jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Business+Centre+-+FRH.jpg',
                             name: 'Business Centre',
                             location: '',
                             views: '',
@@ -65585,7 +65585,7 @@ export const Vendors = {
                             name: 'Spa',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/fitness.png',
+                            icon: 'srinagar/menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'placeholder',
@@ -66154,6 +66154,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Business+Centre+-+FRH.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -66178,6 +66179,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Shehjar.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
