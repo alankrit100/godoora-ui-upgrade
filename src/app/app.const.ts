@@ -82541,32 +82541,32 @@ export const Vendors = {
                     desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/dinner.jpg',
-                            name: 'Exclusive Personalised Dinners',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Idli+Sambar.jpg',
+                            name: 'Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ExclusivePersonalisedDinner_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/breakfast-in-nature.jpg',
-                            name: 'Close to nature breakfast',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/candle.jpg',
+                            name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Closetonaturebreakfast_3',
+                            routerLink: '/stores/Closetonature',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/orchid.jpg',
+                            name: 'Orchid',
                             location: '',
                             views: '',
                             routerLink: '/stores/CookingSessionWithChef_1',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/thali.jpg',
-                            name: 'Kangri Dham Lunch Thali',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/4+Deli+CF+SHLR+(1).JPG',
+                            name: 'Fortune Deli',
                             location: '',
                             views: '',
                             routerLink: '/stores/KangriDhamLunchThali_1',
@@ -82581,44 +82581,30 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
-                            name: 'Banquet hall booking',
+                            name: 'Wellness Centre Offering',
                             desc: '',
                             routerLink: '/stores/Banquethallbooking_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
-                            name: 'Gourmet Box',
+                            name: 'Swimming Pool',
                             desc: '',
                             routerLink: '/stores/GourmetBox',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
-                            name: 'Sunday Brunch',
+                            name: 'Business Centre',
                             desc: '',
                             routerLink: '/stores/Sundaybrunch_9',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
-                            name: 'Customised House Party',
+                            name: 'GYM',
                             desc: '',
                             routerLink: '/stores/CustomisedHouseParty',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
-                            name: 'guided Yoga experience',
-                            desc: '',
-                            routerLink: '/stores/guidedYogaexperience',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
-                            name: 'Chauffeur-drive Airport Transfer',
-                            desc: '',
-                            routerLink: '/stores/ChauffeurdriveAirportTransfer',
                             extLink: ''
                         }
                     ]
@@ -84107,7 +84093,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'ISKCON Temple Ghaziabad',
+                            name: 'Swarna Jayanti Park',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/walk.png',
@@ -84123,7 +84109,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Drizzling Land',
+                            name: 'Drizzling Land Water and Amusement Park',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Vijaywadaicons/adventurer.png',
@@ -84139,7 +84125,23 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Swarna Jayanti Park',
+                            name: 'ISKCON Temple Ghaziabad',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/road-trip.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/sj1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/sj2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/sj3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'City Forest',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Vijaywadaicons/road-trip.png',
@@ -84380,146 +84382,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'House Rules',
+                            name: 'Service Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/House+Rules.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/rules.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Important Telephone Extensions',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/Important+Telephone+Extensions.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/landline.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'In Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/In+Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/serving-dish.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Other fortune hotels',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/Other+fortune+hotels.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/hotel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Place Of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/Place+Of+Interest.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/place.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Safety',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/Safety.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/safety.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Sales & Reservations Offices In India',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/Sales+%26+Reservations+Offices+In+India.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/reserve.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Telecommunication',
-                            extLink: '  https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/Telecommunication.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/network.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Welcome',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/service+directory/Welcome.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/welcome.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -84637,19 +84503,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Poolside dining @ INR 1999*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
                             name: 'Custom In-room dining',
                             extLink: '',
                             routerLink: 'test',
@@ -84663,15 +84516,15 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Celebrate your special day',
+                            name: 'Poolside dining',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/celebrating.png',
+                            icon: 'JammuIcons/swimming-pool.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
-                            gallery: [
+                            gallery: [  
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -84710,134 +84563,83 @@ export const Vendors = {
                             gallery: [  
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Extra bed @ INR 99*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Get a cab @ INR 25* per km',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Business center services @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
                         }
                     ]
                 },
                 {
                     name: 'Unique Dinning Experience',
-                    icon: 'dharmshala/dining-table.png',
+                    icon: 'fortunemussoorieicons/unique.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Exclusive Personalised Dinner',
+                            name: 'Breakfast',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/dining-table.png',
+                            icon: 'Vijaywadaicons/Banquet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Banquet5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Banquet6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/Banquet7.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Close to nature breakfast',
+                            name: 'Candle Light Dinner',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Cooking Session With Chef',
+                            name: 'Orchid',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Kangri Dham Lunch Thali',
+                            name: 'Fortune Deli',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/thali.png',
+                            icon: 'Vijaywadaicons/party.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
-                }
+                },
             ],
             comingSoon: {
                 active: true,
