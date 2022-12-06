@@ -29820,10 +29820,10 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' }
                             ]
                         },
                         {
@@ -29843,10 +29843,10 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ]
                         },
                         {
@@ -29867,10 +29867,10 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ]
                         },
                         {
@@ -29902,10 +29902,10 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ]
                         },
                         {
@@ -29937,10 +29937,10 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ]
                         },
                         {
@@ -30195,8 +30195,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment4.jpg' }
                             ],
                             confirmBtnLabel: 'Book tickets'
                         },
@@ -30319,6 +30318,23 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
+                            name: 'Coffee Maker',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/coffee-cup.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee4.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'Hair Dryer',
                             extLink: '',
                             routerLink: 'test',
@@ -30348,8 +30364,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
