@@ -76473,7 +76473,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Fortune Park Sishmo Experience',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dalhousie. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `Fortune Park Sishmo is a centrally located, full service hotel in the smart city of Bhubaneswar, offering premium accommodation with high-speed Wi-Fi connectivity, a choice a dining options, banqueting facilities, a fully-equipped gymnasium and more for a comfortable stay in the city.  The hotel offers a choice of 72 well-appointed rooms, an all-day dining coffee shop, a bar & lounge and banquet halls to host events for up to 150 guests.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
