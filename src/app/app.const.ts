@@ -35481,7 +35481,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/balloon.jpg',
-                            name: 'Baloon Artist',
+                            name: 'Baloon Artist Test',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
                             routerLink: '/stores/DemoHotelService',
@@ -35489,7 +35489,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/clight.jpg',
-                            name: 'Candle Light Occasions',
+                            name: 'Candle Light Occasions Test',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
                             routerLink: '/stores/DemoHotelService',
