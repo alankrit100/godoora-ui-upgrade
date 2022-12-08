@@ -88126,7 +88126,7 @@ export const Vendors = {
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique Dinning Experience',
+                    heading: 'Unique Hotel Experience',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
@@ -89707,7 +89707,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Our Unique Offerings',
+                    name: 'Unique Hotel Experiences',
                     icon: 'fortunemussoorieicons/unique.png',
                     size: '64px',
                     color: '#1a8cd2',
