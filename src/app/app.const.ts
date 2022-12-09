@@ -59483,7 +59483,7 @@ export const Vendors = {
                     icon: 'benaulimIcon/nost.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '',
                     extLink: 'https://fortune-resort.godirekt.in/spark-fortuneresortird/app/#/inrrestaurant?spX=FRIRD&t1=Biy0bn3w8aCryaYRvoo%2BFPQFVyBVz%2B5HLvELX9Vk5tU%3D',
                     services: [ 
                     ]
