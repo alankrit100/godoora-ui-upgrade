@@ -59484,21 +59484,8 @@ export const Vendors = {
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Digital Restaurant Menu',
-                            extLink: 'https://fortune-resort.godirekt.in/spark-fortuneresortird/app/#/inrrestaurant?spX=FRIRD&t1=Biy0bn3w8aCryaYRvoo%2BFPQFVyBVz%2B5HLvELX9Vk5tU%3D',
-                            routerLink: '',
-                            icon: 'benaulimIcon/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        } 
+                    extLink: 'https://fortune-resort.godirekt.in/spark-fortuneresortird/app/#/inrrestaurant?spX=FRIRD&t1=Biy0bn3w8aCryaYRvoo%2BFPQFVyBVz%2B5HLvELX9Vk5tU%3D',
+                    services: [ 
                     ]
                 },
             ],
