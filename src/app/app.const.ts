@@ -81818,7 +81818,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Grazia',
+            title: 'Fortune District Centre,Ghaziabad',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -81870,7 +81870,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Banner+1.jpg',
-                            heading: 'Fortune Inn Grazia',
+                            heading: 'Fortune District Centre,Ghaziabad',
                             subHeading: ''
                         },
                         {
@@ -81892,8 +81892,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Inn Grazia',
-                    desc: `Fortune Inn Grazia, Ghaziabad is a contemporary full service hotel. It captures the spirit of the new-age traveler and offers an array of guest facilities and services complemented with a range of modern amenities and technology. Conveniently located in the heart of the Industrial Area in Ghaziabad, adjacent to the ALT Centre, and in close proximity to all premier establishments in Sanjay Nagar like IMT Ghaziabad, Fortune Inn Grazia is perfectly suited to service the business requirements of the city.`,
+                    heading: 'Fortune District Centre,Ghaziabad',
+                    desc: `Fortune District Centre,Ghaziabad is a contemporary full service hotel. It captures the spirit of the new-age traveler and offers an array of guest facilities and services complemented with a range of modern amenities and technology. Conveniently located in the heart of the Industrial Area in Ghaziabad, adjacent to the ALT Centre, and in close proximity to all premier establishments in Sanjay Nagar like IMT Ghaziabad, Fortune Inn Grazia is perfectly suited to service the business requirements of the city.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
