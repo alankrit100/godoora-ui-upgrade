@@ -88078,7 +88078,7 @@ export const Vendors = {
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/restaurant+1.jpg',
                             name: 'personalized dinner experience With Your choice of food',
                             location: '',
                             views: '',
@@ -88117,7 +88117,7 @@ export const Vendors = {
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Banquethalll.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/banquet1.jpg',
                             name: 'Banquet hall booking',
                             desc: '',
                             routerLink: '/stores/Banquethallbooking_6',
@@ -90168,7 +90168,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room @ INR 999*',
+                            name: 'Upgrade room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/room.png',
@@ -90181,7 +90181,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Upgrade meal @ INR 499*',
+                            name: 'Upgrade meal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/meal.png',
@@ -90194,7 +90194,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Extra bed @ INR 99*',
+                            name: 'Extra bed ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/bed.png',
@@ -90207,7 +90207,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Get a cab @ INR 25* per km',
+                            name: 'Get a cab',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/cab.png',
@@ -90220,7 +90220,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Business center services @ INR 499*',
+                            name: 'Business center services',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/service.png',
@@ -90243,7 +90243,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Avail a 20% discount* on spa',
+                            name: 'Avail a discount* on spa',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/SpaMenu.png',
@@ -90256,7 +90256,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Poolside dining @ INR 1999*',
+                            name: 'Poolside dining ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/swimming-pool.png',
