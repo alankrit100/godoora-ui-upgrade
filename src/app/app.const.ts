@@ -83893,7 +83893,7 @@ export const Vendors = {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/16+Romantic+Candle+Light+Dinner+Ideas+That+Will+Impress+-+FTD_com.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/A+Romantic+Red+and+Gold+Valentine' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/image+4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Pale+romantic+table.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
