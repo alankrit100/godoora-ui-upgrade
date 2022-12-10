@@ -81962,7 +81962,7 @@ export const Vendors = {
                             name: 'Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Breakfast_5',
                             extLink: ''
                         },
                         {
@@ -81970,7 +81970,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_14',
                             extLink: ''
                         },
                         {
@@ -81978,7 +81978,7 @@ export const Vendors = {
                             name: 'Orchid',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Orchid_15',
                             extLink: ''
                         },
                         {
@@ -81986,7 +81986,7 @@ export const Vendors = {
                             name: 'Fortune Deli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FortuneDeli_2',
                             extLink: ''
                         }
                     ]
@@ -82000,28 +82000,28 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Mind+Prossage+Spa+-+Thai+Massage+Therapists+in+Corona+del+Mar+-+Orange+County.jpg',
                             name: 'Wellness Centre Offering',
                             desc: '',
-                            routerLink: '/stores/Banquethallbooking_3',
+                            routerLink: '/stores/WellnessCentreOffering',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/6+Swimming+Pool+CF+SHLR.JPG',
                             name: 'Swimming Pool',
                             desc: '',
-                            routerLink: '/stores/GourmetBox',
+                            routerLink: '/stores/SwimmingPool_33',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/13+Board+Room+CF+SH+LR.JPG',
                             name: 'Business Centre',
                             desc: '',
-                            routerLink: '/stores/Sundaybrunch_9',
+                            routerLink: '/stores/BusinessCentre_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/12+Gym+CF+SH+LR.JPG',
                             name: 'GYM',
                             desc: '',
-                            routerLink: '/stores/CustomisedHouseParty',
+                            routerLink: '/stores/GYM_32',
                             extLink: ''
                         }
                     ]
