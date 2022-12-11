@@ -83328,6 +83328,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         },
                         {
                             name: 'GYM',
@@ -83342,6 +83343,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Swimming Pool',
@@ -83356,6 +83358,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Wellness Centre Offering',
@@ -83370,6 +83373,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -83399,6 +83403,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Bedmaking',
@@ -83413,6 +83418,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Towel Origamy',
@@ -83427,6 +83433,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -83560,7 +83567,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Digital Menu Figg',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/IRD+Digital+Menu+Figg++(1)+(1).pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/IRD+MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -83584,7 +83591,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Neptune',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Neptune.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/NEPTUNE+MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
