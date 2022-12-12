@@ -83463,6 +83463,7 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Bedmaking workshop by housekeeping staff',
@@ -83477,6 +83478,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -83685,6 +83687,33 @@ export const Vendors = {
                         }
                     ]
                 },
+                {
+                    name: 'SPA MENU',
+                    icon: 'fortunegrace/directory.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'SPA MENU',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/The+Leisure+Spa+Menu.pdf',
+                            routerLink: '',
+                            icon: 'mcleodganjicons/bookspa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        }
+                    ]
+                }
                 {
                     name: 'Special Offer',
                     icon: 'Vijaywadaicons/SpecialOffer.png',
