@@ -76545,7 +76545,7 @@ export const Vendors = {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Wellorientedrooms',
+                            routerLink: '/stores/SPA_35',
                             extLink: ''
                         },
                         {
@@ -76553,7 +76553,7 @@ export const Vendors = {
                             name: 'Cocktails/Mocktails at Neptune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Wellorientedrooms',
+                            routerLink: '/stores/CocktailsMocktailsatNeptune',
                             extLink: ''
                         }
                     ]
@@ -76578,17 +76578,17 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/dinning.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/DSC_8246+Panorama.jpg',
                             name: 'Dining at Dhauli Terrace',
                             desc: '',
-                            routerLink: '/stores/SmallKittyParty',
+                            routerLink: '/stores/DiningatDhauliTerrace',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/buffet.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/20220705_164303.jpg',
                             name: 'Dessert Buffet at Deli ',
                             desc: '',
-                            routerLink: '/stores/SmallKittyParty',
+                            routerLink: '/stores/DessertBuffetatDeli',
                             extLink: ''
                         }
                     ]
@@ -77304,7 +77304,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/wifi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/wifi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/wifi3.jpg' }   
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -77334,6 +77336,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/18_SPA_Shot_CCF_SH_hdi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/fortune+40.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/Spa-Open-Now2.jpg' }
                                 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -77348,6 +77353,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/DSC01964.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/DSC01996.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/in+house/DSC03249.jpg' }
                                 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -77513,6 +77521,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/specialbenifit/01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/specialbenifit/02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/specialbenifit/05.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -77539,6 +77550,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/specialbenifit/Valentines-Carousel_03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/specialbenifit/Valentines-Offer.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -77663,6 +77676,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/DSC_8246+Panorama.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/DSC_8258.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/DSC_8276.jpg' },
                                 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -77677,7 +77693,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/20220705_164303.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/20220705_173715.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/20220705_174612.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/unique/20220705_175023.jpg' } 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
