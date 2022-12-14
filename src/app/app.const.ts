@@ -77499,7 +77499,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Pecial discount club ITC member',
+                            name: 'Special discount club ITC member',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/SpaMenu.png',
