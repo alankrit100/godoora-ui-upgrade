@@ -77996,8 +77996,8 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Pushpanjali Experience',
-                    desc: `Fortune Park Panchwati is an upscale, contemporary hotel located on Kona Expressway, just 5 kms from Vidyasagar Toll Plaza in Howrah. The hotel offers 67 guest rooms, selection of delightful dining options and banquet facilities for gatherings of up to 700 guests. Only 20 minutes from Esplanade (Kolkata), Fortune Park Panchwati is an urban retreat for both leisure and business travelers. The hotel is in close proximity to city centre and various places of interest for guests to explore.`,
+                    heading: 'The Fortune Park Panchwati Experience',
+                    desc: `Fortune Park Panchwati is an upscale, contemporary hotel located on Kona Expressway, just 5 kms from Vidyasagar Toll Plaza in Howrah. The hotel offers 79 guest rooms, selection of delightful dining options and banquet facilities for gatherings of up to 800 guests. Only 20 minutes from Esplanade (Kolkata), Fortune Park Panchwati is an urban retreat for both leisure and business travelers. The hotel is in close proximity to city centre and various places of interest for guests to explore.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -78071,7 +78071,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/panchwatikolkatta/saloon+images.jpg',
-                            name: 'Saloon',
+                            name: 'Salon',
                             location: '',
                             views: '',
                             routerLink: '/stores/Saloon_1',
