@@ -78092,6 +78092,14 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/Banquet_9',
                             extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/panchwatikolkatta/local+sight+seeing.jpg',
+                            name: 'Local Sight Seeing',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
                         }
                     ]
                 },
@@ -78106,6 +78114,14 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/CandleLightDinnerByThePoolside',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/panchwatikolkatta/close+to+nature+breakfast.jpg',
+                            name: 'Close to Nature Breakfast',
+                            location: '',
+                            views: '',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
@@ -79574,6 +79590,19 @@ export const Vendors = {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Local Sight Seeing',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'panchwatikolkatta/Banquet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
                         }
                     ]
                 },
@@ -79593,6 +79622,19 @@ export const Vendors = {
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Close to Nature Breakfast',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'panchwatikolkatta/Banquet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
