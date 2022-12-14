@@ -78098,7 +78098,7 @@ export const Vendors = {
                             name: 'Local Sight Seeing',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/LocalSightSeeing',
                             extLink: ''
                         }
                     ]
@@ -78121,7 +78121,7 @@ export const Vendors = {
                             name: 'Close to Nature Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/ClosetoNatureBreakfast_5',
                             extLink: ''
                         }
                     ]
