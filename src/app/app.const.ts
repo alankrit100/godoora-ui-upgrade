@@ -57707,7 +57707,7 @@ export const Vendors = {
                         },
                         {
                             name: 'LAUNDRY Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/LAUNDRY.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Laundry+List.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/laundry-machine.png',
                             showTextarea: true,
