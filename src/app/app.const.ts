@@ -82204,14 +82204,14 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/6+Swimming+Pool+CF+SHLR.JPG',
-                            name: 'EMERLAND BOARD ROOM',
+                            name: 'Swimming Pool',
                             desc: '',
                             routerLink: '/stores/SwimmingPool_33',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/13+Board+Room+CF+SH+LR.JPG',
-                            name: 'Business Centre',
+                            name: 'EMERLAND BOARD ROOM',
                             desc: '',
                             routerLink: '/stores/BusinessCentre_1',
                             extLink: ''
@@ -108235,6 +108235,21 @@ export const Vendors = {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ]
+                        },
+                        {
+                            name: 'IRD FLA',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/IRD+FLA.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/restaurant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
                             menuImgs: [
                             ]
                         }
