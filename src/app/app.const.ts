@@ -82204,7 +82204,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/6+Swimming+Pool+CF+SHLR.JPG',
-                            name: 'Swimming Pool',
+                            name: 'EMERLAND BOARD ROOM',
                             desc: '',
                             routerLink: '/stores/SwimmingPool_33',
                             extLink: ''
