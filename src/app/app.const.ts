@@ -108195,7 +108195,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Earthen Oven Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/EARTHENOVEN+MENU.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/EARTHEN+OVEN+FLA+FINAL+MENU+LAND+MARK+AHMEDABAD+-.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -108210,7 +108210,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Wind and Water',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Wind+%26+Water.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/WIND+%26+WATER+MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -108225,7 +108225,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Zodiac',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/ZODIAC.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/Zodiac+Menu+FLA%2C+AHMEDABAD+correction+done+(1).pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
