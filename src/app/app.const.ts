@@ -83934,7 +83934,7 @@ export const Vendors = {
                         },
                         {
                             name: 'ORCHID Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/orchid+menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/ghaziabad+menu.pdf',
                             routerLink: '',
                             icon: 'kolkatta/orchid.png',
                             showTextarea: true,
