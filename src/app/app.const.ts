@@ -66382,7 +66382,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'CAFE CHINAR MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/heavan+srinagar/CAFE+CHINAR+MENU.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Cafe+Chinar+New.pdf',
                             routerLink: '',
                             icon: 'dharmshala/nost.png',
                             showTextarea: true,
@@ -66409,7 +66409,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Earthen Oven',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/heavan+srinagar/Earthen+Oven.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/FRH+-+Earthen+Oven.pdf',
                             routerLink: '',
                             icon: 'dharmshala/restaurant1.png',
                             showTextarea: true,
