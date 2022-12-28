@@ -118785,7 +118785,7 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'In-House Experiences',
-                    desc: 'Dive into a whole new world of activities!',
+                    desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Businesss.jpg',
@@ -118864,7 +118864,7 @@ export const Vendors = {
                 activities: {
                     active: true,
                     heading: 'Our Unique Offerings',
-                    desc: 'Enjoy the best of vantage dining!',
+                    desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/Restaurant.jpg',
