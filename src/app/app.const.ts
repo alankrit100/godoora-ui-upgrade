@@ -118792,7 +118792,7 @@ export const Vendors = {
                             name: 'Fully equipped business center (24 hours)',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Fullyequippedbusinesscenter(24hours)',
                             extLink: '',
                         },    
                         {
@@ -118800,7 +118800,7 @@ export const Vendors = {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SPA_36',
                             extLink: ''
                         },
                         {
@@ -118808,7 +118808,7 @@ export const Vendors = {
                             name: 'Outdoor seating that offers a scenic view of Kumaon Foothills',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OutdoorseatingthatoffersascenicviewofKumaonFoothills',
                             extLink: '',
                         },
                         {
@@ -118816,7 +118816,7 @@ export const Vendors = {
                             name: 'Groove to live music',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Groovetolivemusic',
                             extLink: ''
                         },
                         {
@@ -118824,7 +118824,7 @@ export const Vendors = {
                             name: 'Bar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bar_8',
                             extLink: ''
                         },
                         {
@@ -118832,7 +118832,7 @@ export const Vendors = {
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FitnessCenter',
                             extLink: ''
                         },
                         {
@@ -118840,7 +118840,7 @@ export const Vendors = {
                             name: 'Airport transfer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Airporttransfer_5',
                             extLink: ''
                         },
                         {
@@ -118848,7 +118848,7 @@ export const Vendors = {
                             name: 'Travel assistance',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Travelassistance_1',
                             extLink: ''
                         },
                         {
@@ -118856,7 +118856,7 @@ export const Vendors = {
                             name: 'Valet Parking',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ValetParking_1',
                             extLink: ''
                         }
                     ]
@@ -118870,42 +118870,42 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/Restaurant.jpg',
                             name: 'Multi cuisine restaurant',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Multicuisinerestaurant_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/carte.jpg',
-                            name: 'extensive a-la-carte',
+                            name: 'Extensive a-la-carte',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/extensivealacarte',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/dinning.jpg',
                             name: 'Close to Kumaon foothills Dining',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ClosetoKumaonfoothillsDining',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/candle.jpg',
                             name: 'Candlelight dinner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Candlelightdinner_15',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/Lunch.jpg',
-                            name: 'business lunch and family dinner',
+                            name: 'Business lunch and family dinner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/businesslunchandfamilydinner',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/Pizza.jpg',
                             name: 'Indulge in live wood fire pizza and beverage',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Indulgeinlivewoodfirepizzaandbeverage',
                             extLink: ''
                         },
                         {
@@ -118913,7 +118913,7 @@ export const Vendors = {
                             name: 'Groove to live music',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Groovetolivemusic_1',
                             extLink: ''
                         }
                     ]
@@ -120228,7 +120228,7 @@ export const Vendors = {
                 },
                 {
                     name: 'Quick Upgrades',
-                    icon: 'JammuIcons/upgrader.png',
+                    icon: 'JammuIcons/upgrade.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
