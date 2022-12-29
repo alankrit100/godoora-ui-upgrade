@@ -58348,7 +58348,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/day+sight+seeing.jpg',
-                            name: 'Day sigh seeing tours',
+                            name: 'Day Sight Seeing Tours',
                             location: '',
                             views: '',
                             routerLink: '/stores/Daysighseeingtours',
@@ -118788,7 +118788,7 @@ export const Vendors = {
                     desc: 'Explore and experience the infinite possibilities with us!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Businesss.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Businessss.jpg',
                             name: 'Fully equipped business center (24 hours)',
                             location: '',
                             views: '',
@@ -118804,7 +118804,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Outdoor.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/foothills/foothills.jpg',
                             name: 'Outdoor seating that offers a scenic view of Kumaon Foothills',
                             location: '',
                             views: '',
@@ -118820,7 +118820,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/BAR.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Bar/Bar1.jpg',
                             name: 'Bar',
                             location: '',
                             views: '',
@@ -118828,7 +118828,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Fitness.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Gym.jpg',
                             name: 'Fitness Center',
                             location: '',
                             views: '',
@@ -118867,14 +118867,14 @@ export const Vendors = {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/Restaurant.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine1.jpg',
                             name: 'Multi cuisine restaurant',
                             desc: '',
                             routerLink: '/stores/Multicuisinerestaurant_1',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/unique/carte.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Extensive.jpg',
                             name: 'Extensive a-la-carte',
                             desc: '',
                             routerLink: '/stores/extensivealacarte',
@@ -119629,7 +119629,7 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Businessss.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -119657,7 +119657,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/foothills/foothills.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/foothills/foothills1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/foothills/foothills2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/foothills/foothills3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -119685,7 +119688,9 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Bar/Bar1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Bar/Bar2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Bar/Bar3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -119699,6 +119704,7 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Gym.jpg' }
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -119856,6 +119862,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -119869,6 +119879,7 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Extensive.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
