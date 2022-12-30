@@ -89794,21 +89794,17 @@ export const Vendors = {
                         },
                         {
                             name: 'In Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
-                            routerLink: '',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'fortunegrace/serving-dish.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
+                            headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
                             ],
-                            confirmBtnLabel: 'Book the table',
-                            storePageAsBlog: true,
-                            menuImgs: [
-                                
-                            ]
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Dining Facilities',
