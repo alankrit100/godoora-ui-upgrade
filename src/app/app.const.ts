@@ -51673,7 +51673,7 @@ export const Vendors = {
     ],
     'www.fortunehotels-experiences.goyaana.com': [
         {
-            branch: 'Gurgaon',
+            branch: 'Orange-Gurgaon',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/branchImg.jpeg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -108330,7 +108330,7 @@ export const Vendors = {
             }
         },
         {
-            branch: 'Gurgaon',
+            branch: 'Select-Gurgaon',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/branchImg.jpeg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -108388,7 +108388,7 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/FSG+Facade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Select-Gurgaon/banner1.jpg',
                             heading: 'Fortune Select Global, Gurgaon',
                             subHeading: ''
                         },
@@ -108399,12 +108399,12 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/bANNER+4.jpg',
-                            heading: 'FORTUNE BUSINESS ESCAPE',
+                            heading: 'FORTUNE LEISURE ESCAPE',
                             subHeading: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/bANNER+3.jpg',
-                            heading: 'FORTUNE LEISURE ESCAPE',
+                            heading: 'FORTUNE BUSINESS ESCAPE',
                             subHeading: ''
                         }
                     ]
@@ -108424,19 +108424,19 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/774'
+                            routerLink: '/by-admin/935'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Special Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/775'
+                            routerLink: '/by-admin/936'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/916'
+                            routerLink: '/by-admin/937'
                         }
                     ]
                 },
@@ -109252,430 +109252,6 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Front Desk',
-                    icon: 'fortunemussoorieicons/Front.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Reception',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Reception.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to know if there is a cloak room',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Web Checkin',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'tourism.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkIn',
-                            headerText: 'Select a date & time you would like to checkIn.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            checkinForm: true
-                        },
-                        {
-                            name: 'Web Checkout',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'receptionist.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkout',
-                            headerText: 'Select a date & time you would like to checkOut',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Housekeeping',
-                    icon: 'fortunemussoorieicons/Housekeeping.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Extra Crockery & Cutlery',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Extra.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Additional Bedding',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            placeholder: 'Example: Please send me an extra pillow',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Laundry Service',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Laundry.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please arrange laundry pickup for me',
-                            headerText: 'Select a time when our person can knock your door',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Room Cleaning',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please sanitize my room and replace bedding',
-                            headerText: 'Select an ideal time for us to work in your room',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Wellness and Fitness',
-                    icon: 'fortunemussoorieicons/fitness.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Spa',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Spa.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Gym',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Gym.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to use the treadmill',
-                            headerText: 'When would you like to hit the Gym?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        },
-                        {
-                            name: 'Swimming Pool',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Swimming.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
-                            headerText: 'When would you like to get into the pool?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        }
-                    ]
-                },
-                {
-                    name: 'Recreation & Sports',
-                    icon: 'fortunemussoorieicons/Sports.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Table Tennis',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/tennis.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the racket in the court',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        },
-                        {
-                            name: 'Pool Table',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Travel and Activities',
-                    icon: 'tour-bus.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the cab'
-                        },
-                        {
-                            name: 'Local Taxi',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a Cab'
-                        },
-                        {
-                            name: 'Local Restaurant',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'restaurant-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
-                            headerText: 'At what time would you be going to the restaurant?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book a slow'
-                        },
-                        {
-                            name: 'Amusement Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'ferris-wheel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
-                            headerText: 'When are you planning to visit?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book tickets'
-                        },
-                        {
-                            name: 'Cinemas / Plays',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'movie-theater.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
-                            headerText: 'When are you planning to go for the movie?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book Tickets'
-                        },
-                        {
-                            name: 'Forex',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'neutral-trading.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
-                            headerText: 'When would you like to collect it?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Local Shopping',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'shopping-bag.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
-                            headerText: 'When would you like to go for shopping?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Fix appointment'
-                        },
-                        {
-                            name: 'Arrange a Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'tour-bus.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Repairs',
-                    icon: 'fortunemussoorieicons/Repairs.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'TV',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/TV.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: None of the Kannada channels are not working',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'AC',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/AC.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need help in adjusting room temprature',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Coffee Maker',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'coffee-maker.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Need help in operating the coffee maker',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Hair Dryer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Hair.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Please replace the hair dryer',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Electrical',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Electrical.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Others',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Others.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
                     name: 'Food and Beverage',
                     icon: 'fortunemussoorieicons/beverage.png',
                     size: '64px',
@@ -109897,7 +109473,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Local Experience',
+                    name: 'Plan Your Trip',
                     icon: 'fortunemussoorieicons/local.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -109905,50 +109481,67 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Heritage and culture tour of Vijayawada',
+                            name: 'Kingdom of Dreams',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/walk.png',
+                            icon: 'Select-Gurgon/palace.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage/Heritage1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage/Heritage2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage/Heritage3.jpg' }
+                            gallery: [ 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Adventures trip to Bhavani Island',
+                            name: 'Heritage Transport Museum',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/adventurer.png',
+                            icon: 'Select-Gurgon/museum.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventure/Adventure1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventure/Adventure2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventure/Adventure4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Trip to nearby Valleys',
+                            name: 'Fun and Food Village',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vijaywadaicons/road-trip.png',
+                            icon: 'Select-Gurgon/village.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Trip/Trip1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Trip/Trip2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Trip/Trip3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Aapno Ghar Amusement Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Select-Gurgon/park.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Vintage Camera Museum',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Select-Gurgon/museum-1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
