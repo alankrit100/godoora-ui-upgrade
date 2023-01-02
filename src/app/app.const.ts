@@ -108489,7 +108489,7 @@ export const Vendors = {
                             name: 'Yoga experience',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Yogaexperience_5',
+                            routerLink: '/stores/Yogaexperience_7',
                             extLink: ''
                         },
                         {
@@ -108497,7 +108497,7 @@ export const Vendors = {
                             name: 'GARDENING – Lets Go Green',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Gardening_2',
+                            routerLink: '/stores/Gardening_4',
                             extLink: ''
                         },
                         {
@@ -108505,7 +108505,7 @@ export const Vendors = {
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NatureWalk_3',
+                            routerLink: '/stores/NatureWalk_5',
                             extLink: ''
                         },
                         {
@@ -108513,7 +108513,7 @@ export const Vendors = {
                             name: 'Close to Nature Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_3',
+                            routerLink: '/stores/Naturebreakfast_7',
                             extLink: ''
 
                         }
@@ -108537,7 +108537,7 @@ export const Vendors = {
                             name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Closetonaturebreakfast_3',
+                            routerLink: '/stores/Closetonaturebreakfast_6',
                             extLink: ''
                         },
                         {
@@ -108545,7 +108545,7 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_1',
+                            routerLink: '/stores/CookingSessionWithChef_3',
                             extLink: ''
                         },
                         {
@@ -108553,7 +108553,7 @@ export const Vendors = {
                             name: 'Kangri Dham Lunch Thali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/KangriDhamLunchThali_1',
+                            routerLink: '/stores/KangriDhamLunchThali_3',
                             extLink: ''
                         }
                     ]
