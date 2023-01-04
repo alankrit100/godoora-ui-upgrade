@@ -51680,7 +51680,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Resort Grace',
+            title: 'Fortune Park Orange,Gurgaon',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -71734,7 +71734,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Resort',
+            title: 'Fortune Park Lake City',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -93817,7 +93817,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park Haridwar',
+            title: 'Fortune Park,Haridwar',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -100884,7 +100884,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Riviera',
+            title: 'Fortune Park JP Celestial, Bengaluru',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -103455,7 +103455,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Riviera',
+            title: 'Fortune Inn Grazia, Noida',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -110432,7 +110432,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'FORTUNE PARK DAHEJ',
+            title: 'Fortune Park Dahej',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -113003,7 +113003,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Riviera',
+            title: 'Fortune Pandiyan Hotel',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -119819,7 +119819,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park BBD',
+            title: 'Fortune Park JPS Grand',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
