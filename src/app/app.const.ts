@@ -82017,7 +82017,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune District Centre,Ghaziabad',
+            title: 'Fortune District Centre, Ghaziabad',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -85737,7 +85737,7 @@ export const Vendors = {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park',
+            title: 'Fortune Park, Hubballi',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
