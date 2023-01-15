@@ -64382,7 +64382,7 @@ export const Vendors = {
                             name: 'Steam',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/steam.png',
+                            icon: 'JammuIcons/hot-water.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -123372,7 +123372,7 @@ export const Vendors = {
                             name: 'Painting by the Banyan Tree',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PaintingbytheBanyanTree_7',
                             extLink: ''
                         },
                         {
@@ -123380,7 +123380,7 @@ export const Vendors = {
                             name: 'Yoga experience',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Yogaexperience_8',
                             extLink: ''
                         },
                         {
@@ -123388,7 +123388,7 @@ export const Vendors = {
                             name: 'GARDENING – Lets Go Green',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gardening_5',
                             extLink: ''
                         },
                         {
@@ -123396,7 +123396,7 @@ export const Vendors = {
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NatureWalk_6',
                             extLink: ''
                         },
                         {
@@ -123404,7 +123404,7 @@ export const Vendors = {
                             name: 'Close to Nature Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Naturebreakfast_8',
                             extLink: ''
 
                         }
@@ -123420,7 +123420,7 @@ export const Vendors = {
                             name: 'Exclusive Personalised Dinners',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExclusivePersonalisedDinner_4',
                             extLink: ''
                         },
                         {
@@ -123428,7 +123428,7 @@ export const Vendors = {
                             name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Closetonaturebreakfast_7',
                             extLink: ''
                         },
                         {
@@ -123436,7 +123436,7 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingSessionWithChef_4',
                             extLink: ''
                         },
                         {
@@ -123444,7 +123444,7 @@ export const Vendors = {
                             name: 'Kangri Dham Lunch Thali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KangriDhamLunchThali_4',
                             extLink: ''
                         }
                     ]
