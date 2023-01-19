@@ -1,4 +1,4 @@
-export const Vendors = {
+ export const Vendors = {
     'localhost:4200': [
         {
             branch: 'default',
@@ -48587,105 +48587,98 @@ export const Vendors = {
                     ]
                 },
                 masonry: {
-                    active: false,
+                    active: true,
                     cols: 3,
                     rowHeight: 1,
                     title: 'masonry title',
                     desc: 'masonry Description',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Screenshot+(23).png',
+                            label: 'Connect With Us',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie',
+                            routerLink: '/by-admin/953',
+                            btn: {
+                                extLink: '',
+                                routerLink: '/by-admin/953',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Banquet.jpg',
+                            label: '',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Premium+Valley+View+room.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/433x649/?Uruguay',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Deluxe+Pine+View+room+Base+Category.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/530x572/?Jamaica',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Board+room.jpg',
+                            label: '',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/GYM.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/531x430/?Kuwait',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Image+2022-08-27+at+6.11.00+PM.jpeg',
+                            label: '',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/IMG_20201228_093506.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Terrace+Lawn.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/500x571/?Ecuador',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A3031.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A3026.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/503x548/?Angola',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2965.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/511x630/?Mauritania',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2952.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/443x704/?St. Helena',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/441x1145/?Namibia',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/491x1097/?Samoa',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/570x851/?Eritrea',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/560x1072/?Iraq',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/551x598/?Togo',
-                            label: 'Plan your trip the way you like it',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2910.jpg',
+                            label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         }
@@ -50047,6 +50040,55 @@ export const Vendors = {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Connect With Us',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Email',
+                            extLink: 'reservations.fpdh@fortunehotels.in ',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/gmail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Facebook',
+                            extLink: 'https://www.facebook.com/FortuneParkDalhousie',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/facebook.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Instagram',
+                            extLink: 'https://www.instagram.com/fortuneparkdalhousie/?hl=en'                            ',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/instagram.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
