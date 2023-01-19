@@ -48609,6 +48609,7 @@
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
+                        },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Premium+Valley+View+room.jpg',
                             label: '',
@@ -50060,7 +50061,7 @@
                     services: [
                         {
                             name: 'Email',
-                            extLink: 'reservations.fpdh@fortunehotels.in ',
+                            extLink: 'reservations.fpdh@fortunehotels.in',
                             routerLink: 'test',
                             icon: 'JammuIcons/gmail.png',
                             showTextarea: true,
