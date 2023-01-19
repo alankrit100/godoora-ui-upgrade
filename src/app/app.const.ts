@@ -50086,7 +50086,7 @@
                         },
                         {
                             name: 'Instagram',
-                            extLink: 'https://www.instagram.com/fortuneparkdalhousie/?hl=en'                            ',
+                            extLink: 'https://www.instagram.com/fortuneparkdalhousie/?hl=en',
                             routerLink: 'test',
                             icon: 'JammuIcons/instagram.png',
                             showTextarea: true,
