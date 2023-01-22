@@ -48596,12 +48596,25 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Screenshot+(23).png',
                             label: 'Connect With Us',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie',
+                            extLink: '',
                             routerLink: '/by-admin/953',
                             btn: {
                                 extLink: '',
                                 routerLink: '/by-admin/953',
                                 label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/images.jpg',
+                            name: 'Orchid Menu',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ORCHID+MENU+JUNE+2019++New.pdf',
+                            btn: {
+                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ORCHID+MENU+JUNE+2019++New.pdf',
+                                routerLink: '',
+                                label: 'DETAILS'
                             }
                         },
                         {
