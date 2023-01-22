@@ -48598,24 +48598,6 @@
                             label: 'Connect With Us',
                             extLink: '',
                             routerLink: '/by-admin/953',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/by-admin/953',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/images.jpg',
-                            name: 'Orchid Menu',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ORCHID+MENU+JUNE+2019++New.pdf',
-                            btn: {
-                                extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/pdf/ORCHID+MENU+JUNE+2019++New.pdf',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Banquet.jpg',
@@ -50075,7 +50057,7 @@
                         {
                             name: 'Email',
                             extLink: 'reservations.fpdh@fortunehotels.in',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'JammuIcons/gmail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -50088,7 +50070,7 @@
                         {
                             name: 'Facebook',
                             extLink: 'https://www.facebook.com/FortuneParkDalhousie',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'JammuIcons/facebook.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -50101,7 +50083,7 @@
                         {
                             name: 'Instagram',
                             extLink: 'https://www.instagram.com/fortuneparkdalhousie/?hl=en',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'JammuIcons/instagram.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -62347,7 +62329,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/Candle2.jpg',
-                            name: 'Candle Light Dinner',
+                            name: 'Candle Light Dinner @Khyber',
                             location: '',
                             views: '',
                             routerLink: '/stores/CandleLightDinner_10',
@@ -63875,7 +63857,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Candle Light Dinner',
+                            name: 'Candle Light Dinner @Khyber',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/Candle.png',
