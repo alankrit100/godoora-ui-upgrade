@@ -50055,8 +50055,8 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Email',
-                            extLink: 'reservations.fpdh@fortunehotels.in',
+                            name: 'Contact Us',
+                            extLink: 'https://reservations@itchotels.in',
                             routerLink: '',
                             icon: 'JammuIcons/gmail.png',
                             showTextarea: true,
