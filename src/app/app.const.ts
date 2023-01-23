@@ -48600,80 +48600,80 @@
                             routerLink: '/by-admin/953',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Banquet.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Banquet-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Premium+Valley+View+room.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Premium+Valley+View+room-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Deluxe+Pine+View+room+Base+Category.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Deluxe+Pine+View+room+Base+Category-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Board+room.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Board+room-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
 
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/GYM.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/GYM-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Image+2022-08-27+at+6.11.00+PM.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Image+2022-08-27+at+6.11.00+PM-min.jpeg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/IMG_20201228_093506.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/IMG_20201228_093506-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Terrace+Lawn.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Terrace+Lawn-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A3031.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A3031-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A3026.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A3026-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2965.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2965-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2952.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2952-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2910.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/6F8A2910-min.jpg',
                             label: '',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
                             routerLink: ''
