@@ -50056,7 +50056,7 @@
                     services: [
                         {
                             name: 'Contact Us',
-                            extLink: 'https://reservations@itchotels.in',
+                            extLink: '',
                             routerLink: '',
                             icon: 'JammuIcons/gmail.png',
                             showTextarea: true,
