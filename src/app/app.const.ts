@@ -62329,7 +62329,7 @@
                             name: 'Candle Light Dinner @the Pavilion',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ ',
+                            routerLink: '/stores/ThePavilion',
                             extLink: ''
                         },
                         {
