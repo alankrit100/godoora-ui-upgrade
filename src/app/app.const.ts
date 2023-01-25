@@ -61950,20 +61950,19 @@
                             confirmBtnLabel: 'Book the table',
                         },
                         {
-                            name: 'Email ID',
+                            name: 'Email ID', 
                             extLink: '',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'dalhousie/Mail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the spa?',
                             gallery: [
+
                             ],
+                            confirmBtnLabel: 'Book the table',
                             storePageAsBlog: true,
-                            menuImgs: [
-                                
-                            ]
                         },
                         {
                             name: 'Facebook',
