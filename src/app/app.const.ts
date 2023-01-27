@@ -61941,7 +61941,7 @@
                         {
                             name: 'Email ID', 
                             extLink: '',
-                            routerLink: '',
+                            routerLink: 'test',
                             icon: 'dalhousie/Mail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -62329,7 +62329,7 @@
                             name: 'Candle Light Dinner @the Pavilion',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ThePavilion',
+                            routerLink: '/stores/CandleLightDinner@thePavilion',
                             extLink: ''
                         },
                         {
