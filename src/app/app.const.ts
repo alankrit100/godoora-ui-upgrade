@@ -60334,11 +60334,11 @@
                     cols: 3,
                     rowHeight: 1,
                     title: 'Explore Our Experiences',
-                    desc: 'masonry Description',
+                    desc: '',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo_Mussorrie/Screenshot+(23).png',
-                            label: 'Contact Us',
+                            label: '',
                             extLink: '',
                             routerLink: '/by-admin/953',
                         },
@@ -61939,7 +61939,7 @@
                             confirmBtnLabel: 'Book the table',
                         },
                         {
-                            name: 'Email ID', 
+                            name: 'Contact us', 
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dalhousie/Mail.png',
