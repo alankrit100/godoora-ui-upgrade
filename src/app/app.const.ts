@@ -89710,7 +89710,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'IRD FAJ',
+                            name: 'In Room Dinning',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/rest+menu/IRD++FAJ-+JALANDHAR+CALORIC+MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
@@ -89738,7 +89738,7 @@
                             ]
                         },
                         {
-                            name: 'ORCHID FAJ',
+                            name: 'ORCHID',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/rest+menu/ORCHID+FAJ-+JALANDHAR+MENU+.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
@@ -89763,6 +89763,23 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/7.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/8.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'Dining Facilities',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/ORCHID++.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
                             ]
                         }
                     ]
