@@ -89856,23 +89856,6 @@
                             ]
                         },
                         {
-                            name: 'Dining Facilities',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/ORCHID++.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/serving-dish.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
                             name: 'Other Fortune Hotels',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Other+Fortune+Hotels.pdf',
                             routerLink: '',
