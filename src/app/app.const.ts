@@ -59599,7 +59599,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Fortune+Park+Dalhousie+Banner+1.jpg',
-                            heading: 'The Fortune Park Dalhousie',
+                            heading: 'Fortune Park Dalhousie',
                             subHeading: '',
                         },
                         {
@@ -59611,7 +59611,7 @@
                 },
                 experience: {
                     active: true,
-                    heading: 'The Fortune Park Dalhousie',
+                    heading: 'Fortune Park Dalhousie',
                     desc: `Inspired by the best that the Himalayas have to offer, Fortune Park Dalhousie overlooks the picturesque Pir-Panjal range adorned by a dense cover of slender pine trees, verdant greens and enchanting views of the sun-kissed valley. The hotel offers 60 plush rooms and suites, mostly overlooking the pristine valley, bringing comfort and bliss to the leisure travellers looking to reflect in its beauty.`,
                     items: [
                         {
