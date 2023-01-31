@@ -119969,7 +119969,7 @@
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Walkway Mall Haldwani',
+            title: 'Fortune Select Exotica, Navi Mumbai',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
