@@ -107764,7 +107764,7 @@
                     services: [
                         {
                             name: 'Earthen Oven Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Earthen+oven.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/EARTHEN+OVEN+FLA+FINAL+MENU+LAND+MARK+AHMEDABAD+-.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -107779,7 +107779,7 @@
                         },
                         {
                             name: 'Wind and Water',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Wind+%26+Water.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/WIND+%26+WATER+MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -107794,7 +107794,7 @@
                         },
                         {
                             name: 'Zodiac',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Zodiac+Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/Zodiac+Menu+FLA%2C+AHMEDABAD+correction+done+(1).pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -107809,7 +107809,7 @@
                         },
                         {
                             name: 'IRD FLA',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/IRD+Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/IRD+FLA.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -119171,7 +119171,8 @@
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Businessss.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'SPA',
@@ -119183,9 +119184,11 @@
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                            
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Outdoor seating that offers a scenic view of Kumaon Foothills',
@@ -119202,7 +119205,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/foothills/foothills2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/foothills/foothills3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Groove to live music',
@@ -119216,7 +119220,8 @@
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Bar',
@@ -119232,7 +119237,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Bar/Bar2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Bar/Bar3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Fitness Center',
@@ -119247,7 +119253,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Gym.jpg' }
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Airport transfer',
@@ -119261,7 +119268,8 @@
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Travel assistance',
@@ -119275,7 +119283,8 @@
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Valet Parking',
@@ -119289,7 +119298,8 @@
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -119315,7 +119325,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/picnic1.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/picnic2.jpeg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Sightseeing for Nainital',
@@ -119332,7 +119343,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/Nainital3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/Nainital4.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: ' Sightseeing for Bhimtal',
@@ -119348,7 +119360,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/Bhimtal2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/Bhimtal3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Sightseeing for Muktheshwar',
@@ -119364,7 +119377,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/Muktheshwar2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/Muktheshwar3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Visit to nearby Temples',
@@ -119380,7 +119394,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/temples2.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/local/temples3.jpeg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -119407,7 +119422,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine4.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'extensive a-la-carte',
@@ -119421,7 +119437,8 @@
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Extensive.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Close to Kumaon foothills Dining',
@@ -119434,7 +119451,8 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Candlelight dinner',
@@ -119447,7 +119465,8 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'business lunch and family dinner',
@@ -119460,7 +119479,8 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Indulge in live wood fire pizza and beverage',
@@ -119473,7 +119493,8 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Groove to live music',
@@ -119487,7 +119508,8 @@
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -119856,7 +119878,8 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Meal upgrade',
@@ -119869,7 +119892,8 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -119892,7 +119916,8 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Complimentry cake',
@@ -119905,7 +119930,8 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Discount on Spa and Saloon',
@@ -119918,7 +119944,8 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 }
