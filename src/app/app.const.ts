@@ -79768,7 +79768,7 @@
                             name: 'Room Service Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+kolkatta/Room+Service+Menu.pdf',
                             routerLink: '',
-                            icon: 'lucknow/terms.png',
+                            icon: 'lucknow/menuu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -125104,7 +125104,7 @@
             }
         },
         {
-            branch: 'Select Trinity',
+            branch: 'Select-Trinity-Bengaluru',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Visakhapatnam/Visakhapatnam.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
