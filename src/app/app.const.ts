@@ -127052,14 +127052,6 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal1/rangoli.jpg',
-                            name: 'Rangoli',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/Inhouse/GYM.jpg',
                             name: 'GYM',
                             location: '',
@@ -127093,6 +127085,14 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal1/sub-sq-cosmos-2.jpg',
                             name: 'The Cosmo Cafe',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal1/Rangoli+(1).jpg',
+                            name: 'Rangoli',
                             location: '',
                             views: '',
                             routerLink: '/stores/',
