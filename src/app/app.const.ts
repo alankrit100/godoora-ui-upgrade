@@ -62332,14 +62332,6 @@
                             routerLink: '/stores/CandleLightDinner@thePavilion',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close1.jpg',
-                            name: 'Close to nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Closetonaturebreakfast_1',
-                            extLink: ''
-                        }
                     ]
                 },
                 offers: {
@@ -63883,22 +63875,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/acandel5+(2).jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Close to nature breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Unique+Dinning/close3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
                         }
                     ]
                 },
@@ -64393,10 +64369,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Business center services @ INR 499*',
+                            name: 'Extra Bed @ INR 1111*',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
+                            icon: 'JammuIcons/bed.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
