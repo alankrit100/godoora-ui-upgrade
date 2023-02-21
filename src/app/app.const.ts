@@ -125098,7 +125098,7 @@
         },
         {
             branch: 'Select Trinity',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Visakhapatnam/Visakhapatnam.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Trinity/trinity.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
