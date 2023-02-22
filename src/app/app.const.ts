@@ -29266,7 +29266,7 @@
                             routerLink: '/by-admin/783'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/nico-8IK1OrkMzMQ-unsplash.jpg',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/exc_offer.png',
                             label: 'Special Benefits',
                             extLink: '',
                             routerLink: '/by-admin/251'
@@ -29293,19 +29293,19 @@
                             extLink: 'http://13.83.84.18:5201/#/search?category=The%20Local%20Store'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/mumbai-food.jpg',
-                            name: 'Mumbai Food Walks',
-                            location: 'Rs. 4000 | 4 hours',
-                            views: 'Taste the mumbai special Vadapav (Indian Burger), Pav Bhaji, Bhelpuri',
-                            routerLink: '/stores/FoodTour_2',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/slum.jpg',
                             name: 'Dharavi Slum Tour',
                             location: 'Rs. 3000 | 2 hours',
                             views: 'Place where Slumdog Millionaire was shot, Pottery, Making of soap',
                             routerLink: '/stores/DharawiTour_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/mumbai-food.jpg',
+                            name: 'Mumbai Food Walks',
+                            location: 'Rs. 4000 | 4 hours',
+                            views: 'Taste the mumbai special Vadapav (Indian Burger), Pav Bhaji, Bhelpuri',
+                            routerLink: '/stores/FoodTour_2',
                             extLink: ''
                         },
                         {
@@ -29327,7 +29327,7 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/local_culture.jpg',
                             name: 'Learn Local Culture',
                             desc: '',
-                            routerLink: '/by-admin/254',
+                            routerLink: '/stores/Learnlocalculture',
                             extLink: ''
                         }
                     ]
@@ -30809,6 +30809,24 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Walk with a local to learn the story of the city',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'food_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a service?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/walk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/walk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/walk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/walk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/walk5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
