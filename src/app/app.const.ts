@@ -95683,7 +95683,7 @@
                             ]
                         },
                         {
-                            name: 'Food Promotion',
+                            name: 'Food Promotion - Indian Millet Journey',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Food+Promotion.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/food-promotion.png',
