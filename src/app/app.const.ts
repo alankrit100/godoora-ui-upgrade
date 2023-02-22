@@ -29285,14 +29285,6 @@
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/for_store.jpg',
-                            name: 'Shop Local',
-                            location: '',
-                            views: 'Buy Authentic Local Products from Trusted Vendors',
-                            routerLink: '',
-                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Local%20Store'
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/slum.jpg',
                             name: 'Dharavi Slum Tour',
                             location: 'Rs. 3000 | 2 hours',
@@ -29329,7 +29321,15 @@
                             desc: '',
                             routerLink: '/stores/Learnlocalculture',
                             extLink: ''
-                        }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/for_store.jpg',
+                            name: 'Shop Local',
+                            location: '',
+                            views: 'Buy Authentic Local Products from Trusted Vendors',
+                            routerLink: '/coming-soon',
+                            extLink: ''
+                        },
                     ]
                 },
                 experiences: {
