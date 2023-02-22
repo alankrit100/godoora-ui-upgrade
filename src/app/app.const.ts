@@ -125248,7 +125248,7 @@
                             name: 'GYM',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PaintingbytheBanyanTree_7',
+                            routerLink: '/stores/GYM_34',
                             extLink: ''
                         },
                         {
@@ -125271,7 +125271,7 @@
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ExclusivePersonalisedDinner_4',
+                            routerLink: '/stores/Zodiac_3',
                             extLink: ''
                         },
                         {
@@ -128248,7 +128248,7 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tirupati/tirupati.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tirupati/hotel.jpg',
                             heading: 'Fortune Select Grand Ridge, Tirupati',
                             subHeading: ''
                         },
@@ -128343,7 +128343,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_34',
                             extLink: ''
                         },
                         {
@@ -128351,7 +128351,7 @@
                             name: 'GYM',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Yogaexperience_8',
+                            routerLink: '/stores/GYM_33',
                             extLink: ''
                         },
                     ]
@@ -128366,7 +128366,7 @@
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Zodiac_4',
                             extLink: ''
                         },
                         {
@@ -128374,7 +128374,7 @@
                             name: 'Rangoli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Rangoli',
                             extLink: ''
                         },
                         {
@@ -128382,7 +128382,7 @@
                             name: 'Neptune bar and Lounge ',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Closetonaturebreakfast_7',
+                            routerLink: '/stores/NeptunebarandLounge',
                             extLink: ''
                         },
                     ]
