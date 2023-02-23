@@ -29911,7 +29911,7 @@
                         {
                             name: 'In Room Dining',
                             extLink: '',
-                            routerLink: 'test',
+                            routerLink: 'InRoomDining_26',
                             icon: 'fortunemussoorieicons/NOSTRADAMUS.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
