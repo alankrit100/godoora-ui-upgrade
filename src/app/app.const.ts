@@ -29805,7 +29805,7 @@
                         {
                             name: 'Book a Table - Surbhi Malvani',
                             extLink: '',
-                            routerLink: 'test',
+                            routerLink: 'BookaTableSurbhiMalvani_4',
                             icon: 'fortunemussoorieicons/Dining.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -29852,7 +29852,7 @@
                         {
                             name: 'Book Whole Restaurant - Surbhi Malvani',
                             extLink: '',
-                            routerLink: 'test',
+                            routerLink: 'BookWholeRestaurantSurbhiMalvani',
                             icon: 'fortunemussoorieicons/restaurant.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
