@@ -29799,7 +29799,7 @@
                     icon: 'fortunemussoorieicons/beverage.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/783',
                     extLink: '',
                     services: [
                         {
