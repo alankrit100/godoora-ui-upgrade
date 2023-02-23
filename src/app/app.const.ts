@@ -29911,18 +29911,18 @@
                         {
                             name: 'In Room Dining',
                             extLink: '',
-                            routerLink: 'InRoomDining_26',
+                            routerLink: '/stores/InRoomDining_26',
                             icon: 'fortunemussoorieicons/NOSTRADAMUS.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
                             headerText: 'When would you like the food to arrive at your room?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/inroom1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/inroom2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/inroom3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/inroom4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/inroom5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining5.jpg' }
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
