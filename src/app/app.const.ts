@@ -1158,7 +1158,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/restaurant.jpg',
                             label: 'FOR RESTAURANTS',
-                            extLink: 'https://varunnew.wixsite.com/website-6',
+                            extLink: 'https://www.gokhaana.com/',
                             routerLink: ''
                         },
                         {
