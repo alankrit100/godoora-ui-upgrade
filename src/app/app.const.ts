@@ -132414,7 +132414,7 @@
                             name: 'Sunset drive-in cinema',
                             location: '',
                             views: 'Buy Authentic Local Products from Trusted Vendors',
-                            routerLink: '',
+                            routerLink: '/stores/Sunsetdriveincinema',
                             extLink: ''
                         },
                         {
@@ -132422,7 +132422,7 @@
                             name: 'Adalaj Stepwell',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AdalajStepwell',
                             extLink: ''
                         },
                         {
@@ -132430,7 +132430,7 @@
                             name: 'Jhulta Minara',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JhultaMinara',
                             extLink: ''
                         },
                         {
@@ -132438,21 +132438,21 @@
                             name: 'Sabarmati Ashram',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SabarmatiAshram',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/Museum-img.jpg',
                             name: 'Auto World Vintage Car Museum',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AutoWorldVintageCarMuseum',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/kankaria-img.jpg',
                             name: 'Kankaria Lake',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KankariaLake',
                             extLink: ''
                         }
                     ]
@@ -132498,7 +132498,7 @@
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Zodiac_5',
                             extLink: ''
                         },
                         {
@@ -132506,7 +132506,7 @@
                             name: 'Dravida',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Dravida',
                             extLink: ''
                         },
                         {
@@ -132514,7 +132514,7 @@
                             name: 'Fortune Deli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FortuneDeli_4',
                             extLink: ''
                         },
                     ]
@@ -133880,7 +133880,7 @@
                     icon: 'fortunemoksha/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/989',
                     extLink: '',
                     services: [
                         {
@@ -134017,7 +134017,7 @@
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/987',
                     extLink: '',
                     services: [
                         {
