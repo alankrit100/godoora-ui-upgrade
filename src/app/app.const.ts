@@ -64354,7 +64354,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Extra bed @ INR 99*',
+                            name: 'Extra bed @ INR 1111*',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/bed.png',
