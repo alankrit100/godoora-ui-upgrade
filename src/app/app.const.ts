@@ -132351,7 +132351,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/branch1.jpg',
-                            heading: 'Fortune Select Trinity Bengaluru',
+                            heading: 'Fortune Select SG Highway, Ahmedabad',
                             subHeading: ''
                         },
                         {
