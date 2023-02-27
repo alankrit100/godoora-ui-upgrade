@@ -59206,19 +59206,6 @@
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'New year Eve Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/INTERNATIONAL+FLAVOURS+NEW+YEAR+EVE+MENU.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
                     ]
                 },
                 {
@@ -59307,7 +59294,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Day sigh seeing tours',
+                            name: 'Day sighseeing tours',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'benaulimIcon/tour-bus.png',
