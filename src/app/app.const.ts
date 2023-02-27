@@ -127050,7 +127050,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool',
                             extLink: ''
                         },
                         {
@@ -127089,7 +127089,7 @@
                             name: 'The Cosmo Cafe',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheCosomoCafe',
                             extLink: ''
                         },
                         {
@@ -127097,7 +127097,7 @@
                             name: 'Rangoli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Rangoli_1',
                             extLink: ''
                         },
                     ]
