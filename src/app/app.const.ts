@@ -31210,7 +31210,7 @@
                             name: 'Bonfire setup for open area dinner party',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bonfiresetup_1',
                             extLink: ''
                         },
                         {
@@ -31218,7 +31218,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightOccasion_1',
                             extLink: ''
                         },
                         {
@@ -31226,7 +31226,7 @@
                             name: 'Picnic Baskets',
                             location: 'Hampi sight visit with picnic baskets',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PicnicBaskets_1',
                             extLink: ''
                         },
                         {
@@ -31234,7 +31234,7 @@
                             name: 'Raja Rani poolside dinner',
                             location: 'Be the Royal guests',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RajaRanipoolsidedinner_2',
                             extLink: ''
                         },
                         {
@@ -31242,7 +31242,7 @@
                             name: 'Barbeque evening with movie screening',
                             location: 'Enjoy your personal butler service',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Barbequeeveningwithmoviescreening_3',
                             extLink: ''
                         },
                         {
@@ -31250,7 +31250,7 @@
                             name: 'High tea at garden cafe',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Highteaatgardencafe_1',
                             extLink: ''
                         },
                         {
@@ -31258,7 +31258,7 @@
                             name: 'Romantic candle light dinner',
                             location: 'Facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Romanticcandlelightdinner_5',
                             extLink: ''
                         },
                         {
@@ -31266,7 +31266,7 @@
                             name: 'Relax at Elephant bar',
                             location: 'Whiskey | Cocktails | Beer',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RelaxatElephantbar_1',
                             extLink: ''
                         }
                     ]
@@ -31281,7 +31281,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BaloonArtist_1',
                             extLink: ''
                         },
                         {
@@ -31289,7 +31289,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightOccasions_1',
                             extLink: ''
                         },
                         {
@@ -31297,7 +31297,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GuestRoomDecoration_1',
                             extLink: ''
                         },
                         {
@@ -31305,7 +31305,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TattooArtist_1',
                             extLink: ''
                         },
                         {
@@ -31313,7 +31313,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookeryClasses_1',
                             extLink: ''
                         },
                         {
@@ -31321,7 +31321,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingClass_1',
                             extLink: ''
                         },
                         {
@@ -31351,63 +31351,63 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/cycle.jpg',
                             name: 'Mysore by Cycle',
                             desc: 'OLD CITY | CULTURE | COMMUNITIES',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MysorebyCycle_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bestmys.jpg',
                             name: 'Best of Mysore',
                             desc: 'Walking Tour | Food Tour | Market',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BestofMysore_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/jeep.jpg',
                             name: 'Jeep Tour',
                             desc: 'CITY BY NIGHT | CHAMUNDI HILL VIEW POINT',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JeepTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/col.jpg',
                             name: 'Culinary Tour',
                             desc: 'COOKING | DINE WITH THE FAMILY',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CulinaryTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/palacemys.jpg',
                             name: 'Palace Tour',
                             desc: 'ROYALTY | STORY OF MYSORE | ARCHITECTURE',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PalaceTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/malgudi.jpg',
                             name: 'Malgudi Tour',
                             desc: 'STORY OF MALGUDI | MALGUDI CAFE',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MalgudiTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/corpo.jpg',
                             name: 'Corporate Tours',
                             desc: 'Delegate Visit | Team Outing | An evening in Mysore',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CorporateTours_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/student.jpg',
                             name: 'Student Tours',
                             desc: 'Story of Mysore | Team Activities | Village Visit',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/StudentTours_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bespok.jpg',
                             name: 'Bespoke Tours',
                             desc: 'History | Culture | Art',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BespokeToursMysore_1',
                             extLink: ''
                         }
                     ]
@@ -134055,7 +134055,7 @@
         },
         {
             branch: 'Vadodara',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/branch.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/home.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
@@ -134112,7 +134112,7 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/branch1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/branch.jpg',
                             heading: 'Fortune Inn Promenade, Vadodara',
                             subHeading: ''
                         },
