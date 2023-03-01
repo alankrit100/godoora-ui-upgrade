@@ -35437,7 +35437,7 @@
                             name: 'Bonfire setup for open area dinner party',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35445,7 +35445,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35453,7 +35453,7 @@
                             name: 'Picnic Baskets',
                             location: 'Hampi sight visit with picnic baskets',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35461,7 +35461,7 @@
                             name: 'Cocktail Nights',
                             location: 'Mix Lounge Bar',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35469,7 +35469,7 @@
                             name: 'Raja Rani poolside dinner',
                             location: 'Be the Royal guests',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -35484,7 +35484,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35492,7 +35492,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35500,7 +35500,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35508,7 +35508,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35516,7 +35516,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35524,7 +35524,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35532,7 +35532,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -35540,7 +35540,7 @@
                             name: 'Online workshops',
                             location: 'Learn Cooking | Learn Cocktail Making',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -35554,35 +35554,35 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/sight.jpg',
                             name: 'Hampi Sight Visit Package',
                             desc: 'Travel Guide | Transportation | Packed Lunch | Photographer',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/heritage.jpg',
                             name: 'Heritage Hampi Tour',
                             desc: 'History | Monuments | Architecture',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/ram.jpg',
                             name: 'Ramayana Tour',
                             desc: 'Kishkinda stories narrated by a local',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/myth.jpg',
                             name: 'Mythical Landscape Tour',
                             desc: 'Sunrise Hike, Moped Ride, Coracle Boat, Local Food',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/badami.jpg',
                             name: 'Evolution of Temple Architecture Tour',
                             desc: 'Badami, Aihole & Pattadakal',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
 
@@ -35590,21 +35590,21 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bike.jpg',
                             name: 'Hampi on a bike',
                             desc: 'Virupapur Gaddi & Anegundi | Durga & Monkey Temple| Sanapur',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/auto.jpg',
                             name: 'Hampi by TukTuk',
                             desc: 'Vittala Temple & Stone Chariot | Laxmi Narasimha | Elephant Stables & Lotus Mahal | Queens Bath & Stepped Baths | Hazara Rama Temple',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/foot.jpg',
                             name: 'Hampi on Foot',
                             desc: 'Relish your taste buds with the locals Mysuru food.',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -42229,7 +42229,7 @@
                             name: 'Mantralayam-Srisailam spiritual tour',
                             location: 'Temples | Dam | Wildlife | Ropeway',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -42237,7 +42237,7 @@
                             name: 'Hampi via Kurnool',
                             location: 'Stay at ClarksInn | ClarksInn Hampi | ClarksInn Kurnool',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -42245,7 +42245,7 @@
                             name: 'Ahobalim-Yaganti-Mahanandi',
                             location: 'Temples | Day Tour',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -42253,7 +42253,7 @@
                             name: 'Srisailam day tour',
                             location: 'Temples |  Dam | Wildlife | Ropeway',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -42261,7 +42261,7 @@
                             name: 'Mantralayam day tour',
                             location: 'Temples |  Day Tour',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -42276,7 +42276,7 @@
                             name: 'Celebrate special days with us',
                             location: 'Kids Party | Weddings | Anniversaries',
                             views: 'Enjoy our great service',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -42284,7 +42284,7 @@
                             name: 'Sunday Buffet',
                             location: 'Buffet',
                             views: 'Enjoy our great service',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -42292,7 +42292,7 @@
                             name: 'Online workshops',
                             location: 'One of a kind activities hosted online',
                             views: 'Learn Cooking | Learn Cocktail Making',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -42300,7 +42300,7 @@
                             name: 'Access hotel without sleeping there',
                             location: 'Spa | Book a table | Banquet hall',
                             views: 'Enjoy our great service',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -42314,28 +42314,28 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/day_tour.jpg',
                             name: 'Kurnool Day Tour',
                             desc: 'Konda Reddy Fort | Belum Caves | Kethavaram Rock Gardens',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/konda_fort.jpg',
                             name: 'Konda Reddy Fort',
                             desc: 'Day Tour',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/cave.jpg',
                             name: 'Belum Caves',
                             desc: 'Day Tour',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/rock_garden.jpg',
                             name: 'Kethavaram Rock Gardens',
                             desc: 'Day Tour',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -42349,35 +42349,35 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/tungabhadra.jpg',
                             name: 'By The Tungabhadra',
                             desc: 'Hyderabad to Kurnool RoadTrip | Night stay at Kurnool ClarksInn',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/rejuvenate.jpg',
                             name: 'Spa - Rejuvenate & Drive',
                             desc: 'Take a short break at our spa',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/short_stay.jpg',
                             name: 'Day stay',
                             desc: 'Relax and unwind on highway',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/bike.jpg',
                             name: 'For the Bikers',
                             desc: 'Group stay | Beds',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/caravan.jpg',
                             name: 'Car Pit Stop',
                             desc: 'Safe Parking | Nap a car | Toilets',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -43362,7 +43362,11 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43376,7 +43380,11 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/fort1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/fort2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/fort3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/fort4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/fort5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43390,7 +43398,11 @@
                             placeholder: 'Ex: I would like to go for Belum caves',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cave1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cave2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cave3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cave4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cave5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
@@ -43404,7 +43416,175 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/rock1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/rock2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/rock3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/rock4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/rock5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Unique Hotel Experiences',
+                    icon: 'clarksinn/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Celebrate special day with us',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: '',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cele1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cele2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cele3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cele4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/cele5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Buffet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/fort.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for Sunday Buffet',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sunday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sunday2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sunday3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sunday4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sunday5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Online Workshop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/cave.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: '',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/online1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/online2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/online3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/online4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/online5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Access Hotel with sleeping there',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/garden.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: '',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/night1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/night2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/night3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/night4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/night5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Spritiual Experiences',
+                    icon: 'clarksinn/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Mantralyam srisailam spritiual tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Ahobalim Yaganti Mahanandi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/fort.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Srisailam day tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/cave.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for Belum caves',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Mantralaym day tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarksinn/garden.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to go for Rock Gardens?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         }
@@ -43428,7 +43608,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/tour1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/tour2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/tour3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/tour4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/tour5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43442,7 +43626,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/spa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/spa4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/spa5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43456,7 +43644,11 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/day1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/day2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/day3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/day4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/day5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43470,7 +43662,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/bike1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/bike2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/bike3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/bike4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/bike5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43498,7 +43694,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/car1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/car2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/car3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/car4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/car5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
