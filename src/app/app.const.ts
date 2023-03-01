@@ -134180,7 +134180,7 @@
                             name: 'Full-equipped Business centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FullequippedBusinesscentre',
                             extLink: ''
                         },
                         {
@@ -134188,7 +134188,7 @@
                             name: 'Travel assistance',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Travelassistance_3',
                             extLink: ''
                         },
                         {
@@ -134196,7 +134196,7 @@
                             name: 'Currency Exchange',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CurrencyExchange_2',
                             extLink: ''
                         },
                         {
@@ -134204,7 +134204,7 @@
                             name: 'Gymnasium',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gymnasium_2',
                             extLink: ''
                         },
                     ]
@@ -134219,7 +134219,7 @@
                             name: 'Orchid',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Orchid_19',
                             extLink: ''
                         },
                         {
@@ -134227,7 +134227,7 @@
                             name: 'Fortune Deli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FortuneDeli_5',
                             extLink: ''
                         },
                     ]
