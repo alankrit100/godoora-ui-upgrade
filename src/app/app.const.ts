@@ -136137,7 +136137,7 @@
                             name: 'White-Water Rafting',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -136145,7 +136145,7 @@
                             name: 'Jhajjar Kotli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -136153,7 +136153,7 @@
                             name: 'Nau Devi cave temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -136161,7 +136161,7 @@
                             name: 'Vaishno Devi trek',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                     ]
@@ -136180,11 +136180,11 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/Exchange.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya1.jpg',
                             name: 'Spa',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AadhyaWellnessSpa',
                             extLink: ''
                         },
                         {
@@ -136207,7 +136207,7 @@
                             name: 'Rainbow',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
