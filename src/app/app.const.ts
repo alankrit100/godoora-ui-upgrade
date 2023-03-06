@@ -29285,14 +29285,6 @@
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/for_store.jpg',
-                            name: 'Shop Local',
-                            location: '',
-                            views: 'Buy Authentic Local Products from Trusted Vendors',
-                            routerLink: '',
-                            extLink: 'http://13.83.84.18:5201/#/search?category=The%20Local%20Store'
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/mumbai-food.jpg',
                             name: 'Mumbai Food Walks',
                             location: 'Rs. 4000 | 4 hours',
@@ -29320,16 +29312,24 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/walk_guide.jpg',
                             name: 'Walk with a local to learn the story of the city',
                             desc: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/Walkwithlocal',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/local_culture.jpg',
                             name: 'Learn Local Culture',
                             desc: '',
-                            routerLink: '/by-admin/254',
+                            routerLink: '/stores/Learnlocalculture',
                             extLink: ''
-                        }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/for_store.jpg',
+                            name: 'Shop Local',
+                            location: '',
+                            views: 'Buy Authentic Local Products from Trusted Vendors',
+                            routerLink: '/coming-soon',
+                            extLink: ''
+                        },
                     ]
                 },
                 experiences: {
@@ -29812,11 +29812,11 @@
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -29859,11 +29859,11 @@
                             placeholder: 'Example: I need to host a private party',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole5.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
@@ -29883,22 +29883,6 @@
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' },
-                                { path: 'https://source.unsplash.com/500x571/?Ecuador' },
-                                { path: 'https://source.unsplash.com/579x518/?Virgin Islands (British)' },
-                                { path: 'https://source.unsplash.com/503x548/?Angola' },
-                                { path: 'https://source.unsplash.com/511x630/?Mauritania' },
-                                { path: 'https://source.unsplash.com/414x767/?Sri Lanka' },
-                                { path: 'https://source.unsplash.com/443x704/?St. Helena' },
-                                { path: 'https://source.unsplash.com/441x1145/?Namibia' },
-                                { path: 'https://source.unsplash.com/491x1097/?Samoa' },
-                                { path: 'https://source.unsplash.com/570x851/?Eritrea' },
-                                { path: 'https://source.unsplash.com/560x1072/?Iraq' },
-                                { path: 'https://source.unsplash.com/551x598/?Togo' },
-                                { path: 'https://source.unsplash.com/518x813/?Romania' }
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -29918,23 +29902,12 @@
                             placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
                             headerText: 'When would you like the food to arrive at your room?',
                             gallery: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' },
-                                { path: 'https://source.unsplash.com/500x571/?Ecuador' },
-                                { path: 'https://source.unsplash.com/579x518/?Virgin Islands (British)' },
-                                { path: 'https://source.unsplash.com/503x548/?Angola' },
-                                { path: 'https://source.unsplash.com/511x630/?Mauritania' },
-                                { path: 'https://source.unsplash.com/414x767/?Sri Lanka' },
-                                { path: 'https://source.unsplash.com/443x704/?St. Helena' },
-                                { path: 'https://source.unsplash.com/441x1145/?Namibia' },
-                                { path: 'https://source.unsplash.com/491x1097/?Samoa' },
-                                { path: 'https://source.unsplash.com/570x851/?Eritrea' },
-                                { path: 'https://source.unsplash.com/560x1072/?Iraq' },
-                                { path: 'https://source.unsplash.com/551x598/?Togo' },
-                                { path: 'https://source.unsplash.com/518x813/?Romania' }
-                            ],
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining5.jpg' },
+                              ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
@@ -30110,9 +30083,9 @@
                             placeholder: 'Ex: Please keep the rackets and the ball on the table',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool3.jpg.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
                             ],
@@ -30174,11 +30147,11 @@
                             placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
                             headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Book a slow'
                         },
@@ -30309,11 +30282,10 @@
                             placeholder: 'Ex: I need help in adjusting room temprature',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv2.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -30406,22 +30378,12 @@
                             placeholder: 'I lost my wallet near the swimming pool',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' },
-                                { path: 'https://source.unsplash.com/500x571/?Ecuador' },
-                                { path: 'https://source.unsplash.com/579x518/?Virgin Islands (British)' },
-                                { path: 'https://source.unsplash.com/503x548/?Angola' },
-                                { path: 'https://source.unsplash.com/511x630/?Mauritania' },
-                                { path: 'https://source.unsplash.com/414x767/?Sri Lanka' },
-                                { path: 'https://source.unsplash.com/443x704/?St. Helena' },
-                                { path: 'https://source.unsplash.com/441x1145/?Namibia' },
-                                { path: 'https://source.unsplash.com/491x1097/?Samoa' },
-                                { path: 'https://source.unsplash.com/570x851/?Eritrea' },
-                                { path: 'https://source.unsplash.com/560x1072/?Iraq' },
-                                { path: 'https://source.unsplash.com/551x598/?Togo' },
-                                { path: 'https://source.unsplash.com/518x813/?Romania' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost5.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -30435,22 +30397,11 @@
                             placeholder: 'I found a wallet near the entrance',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' },
-                                { path: 'https://source.unsplash.com/500x571/?Ecuador' },
-                                { path: 'https://source.unsplash.com/579x518/?Virgin Islands (British)' },
-                                { path: 'https://source.unsplash.com/503x548/?Angola' },
-                                { path: 'https://source.unsplash.com/511x630/?Mauritania' },
-                                { path: 'https://source.unsplash.com/414x767/?Sri Lanka' },
-                                { path: 'https://source.unsplash.com/443x704/?St. Helena' },
-                                { path: 'https://source.unsplash.com/441x1145/?Namibia' },
-                                { path: 'https://source.unsplash.com/491x1097/?Samoa' },
-                                { path: 'https://source.unsplash.com/570x851/?Eritrea' },
-                                { path: 'https://source.unsplash.com/560x1072/?Iraq' },
-                                { path: 'https://source.unsplash.com/551x598/?Togo' },
-                                { path: 'https://source.unsplash.com/518x813/?Romania' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -30474,22 +30425,6 @@
                             placeholder: 'I saw an unattended bag in the garden. Please check',
                             headerText: 'If needed, when can we contact you for more details?',
                             gallery: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' },
-                                { path: 'https://source.unsplash.com/500x571/?Ecuador' },
-                                { path: 'https://source.unsplash.com/579x518/?Virgin Islands (British)' },
-                                { path: 'https://source.unsplash.com/503x548/?Angola' },
-                                { path: 'https://source.unsplash.com/511x630/?Mauritania' },
-                                { path: 'https://source.unsplash.com/414x767/?Sri Lanka' },
-                                { path: 'https://source.unsplash.com/443x704/?St. Helena' },
-                                { path: 'https://source.unsplash.com/441x1145/?Namibia' },
-                                { path: 'https://source.unsplash.com/491x1097/?Samoa' },
-                                { path: 'https://source.unsplash.com/570x851/?Eritrea' },
-                                { path: 'https://source.unsplash.com/560x1072/?Iraq' },
-                                { path: 'https://source.unsplash.com/551x598/?Togo' },
-                                { path: 'https://source.unsplash.com/518x813/?Romania' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -30804,11 +30739,11 @@
                             placeholder: 'Ex: When would you like to book a food tour?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/table5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
@@ -30822,10 +30757,11 @@
                             placeholder: 'Ex: When would you like to book a food tour?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/culture3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/culture2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/culture4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/culture1.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         }
@@ -31153,7 +31089,7 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/land.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysore-branch.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
@@ -130846,1956 +130782,6 @@
             }
         },
         {
-            branch: 'Pride Hotel',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/branch-img.jpg',
-            id: 'www.fortunehotels-experiences.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
-            theme: 'fortune-theme',
-            idCategory: 10,
-            favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Select Global',
-            storeImg: 'social2.jpg',
-            label: 'Hotel Admin', // Login label
-            serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
-            gAnalyticscode: 'UA-144064030-1',
-            editShopLabel: 'Edit Service',
-            c: {
-                loginType: {
-                    normalLogin: true,
-                    fbLogin: false,
-                    googleLogin: false,
-                },
-            },
-            S: {
-                loginType: {
-                    normalLogin: true,
-                    fbLogin: false,
-                    googleLogin: false,
-                },
-            },
-            adminLogin: true,
-            updateShopLocation: false,
-            mainLocation: false,
-            searchBar: false,
-            conceirge: true,
-            addressLabel: 'Details',
-            bookSlotLabel: 'Raise Request',
-            footer: {
-                terms: {
-                    isAnchor: false,
-                    route: 'terms',
-                    url: 'www.fortunehotels.in'
-                },
-                privacy: {
-                    isAnchor: false,
-                    route: 'privacy',
-                    url: 'www.fortunehotels.in'
-                },
-                about: {
-                    isAnchor: true,
-                    route: 'about',
-                    url: 'www.fortunehotels.in'
-                },
-                feedBackEmail: 'rmo.north@fortunehotels.in'
-            },
-            landingPage: {
-                slider: {
-                    active: true,
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/branch-img1.jpg',
-                            heading: 'Pride Hotel - A Luxury Hotel Near MG Road, Bangalore',
-                            subHeading: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
-                            heading: 'Book Direct With Us',
-                            subHeading: 'Avail unique offers and benefits curated especially for you'
-                        },
-                    ]
-                },
-                experience: {
-                    active: true,
-                    heading: 'Pride Hotel - A Luxury Hotel Near MG Road, Bangalore',
-                    desc: `Pride Hotel is an upmarket luxury hotel, located near MG Road Bangalore, with well-designed decor portraying grandeur. We offer a surreal experience with our hospitality and authentic local experiences. Our lavish rooms in Bangalore provides world-class comfort and a unique blend of traditional hospitality with modern amenities. We have 100 elegant and ornate rooms to lodge a good number of guests conveniently. Discover our wide selection of luxury amenities, delicious cuisine, and special offers exclusively for our guests.`,
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'Digital Menus',
-                            extLink: '',
-                            routerLink: '/home'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
-                            extLink: '',
-                            routerLink: '/by-admin/974'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
-                            extLink: '',
-                            routerLink: '/by-admin/975'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Events',
-                            extLink: '',
-                            routerLink: '/by-admin/976'
-                        }
-                    ]
-                },
-                destinations: {
-                    active: true,
-                    heading: 'Special Offers ',
-                    desc: 'Explore and experience the infinite possibilities with us!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
-                            name: 'Fortune Weekend Escapes',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
-                        },    
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
-                            name: 'Fortune Leisure Escape',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
-                            name: 'Fortune Business Stays',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
-                        }
-                    ]
-                },
-                experiences: {
-                    active: true,
-                    heading: 'Hotel Experience',
-                    desc: 'Dive into a whole new world of activities!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya-home.png',
-                            name: 'Aadhya Wellness Spa',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/AadhyaWellnessSpa',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness-png.png',
-                            name: 'Fitness Center',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/FitnessCenter_1',
-                            extLink: ''
-                        },
-                    ]
-                },
-                activities: {
-                    active: true,
-                    heading: 'Unique Dinning Experience',
-                    desc: 'Enjoy the best of vantage dining!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/cafe1.jpg',
-                            name: 'Cafe Treat',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CafeTreat',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/dhaba1.jpg',
-                            name: 'Puran Da Dhaba',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PuranDaDhaba',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/bar2.jpg',
-                            name: 'Fuel Bar',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/FuelBar',
-                            extLink: ''
-                        },
-                    ]
-                },
-                offers: {
-                    active: true,
-                    heading: 'Explore Our Hotels',
-                    desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+SG+Highway+Ahmedabad.jpg',
-                            name: 'Fortune Select SG Highway Ahmedabad',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Ahmedabad.jpg',
-                            name: 'Fortune Park Ahmedabad',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Landmark+Ahmedabad.jpg',
-                            name: 'Fortune Landmark Ahmedabad',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%20202',
-                            btn: {
-                                extLink: '',
-                                routerLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Trinity+Bangalore.jpg',
-                            name: 'Fortune Select Trinity Bangalore',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+JP+Celestial+Bangalore.jpg',
-                            name: 'Fortune Park JP Celestial Bangalore',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+JP+Cosmos+Bangalore.jpg',
-                            name: 'Fortune Select JP Cosmos Bangalore',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Sishmo+Bhubaneswar.jpg',
-                            name: 'Fortune Park Sishmo Bhubaneswar',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dahej.jpg',
-                            name: 'Fortune Park Dahej',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dalhousie.jpg',
-                            name: 'Fortune Park Dalhousie',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Pushpanjali%2C+Durgapur.jpg',
-                            name: 'Fortune Park Pushpanjali, Durgapur',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Haveli+Gandhinagar.jpg',
-                            name: 'Fortune Inn Haveli Gandhinagar',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia+Ghaziabad.jpg',
-                            name: 'Fortune Inn Grazia Ghaziabad',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Benaulim+Goa.jpg',
-                            name: 'Fortune Resort Benaulim Goa',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Miramar%2C+Goa.jpg',
-                            name: 'Fortune Miramar Goa',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Global+Gurgaon.JPG',
-                            name: 'Fortune Select Global, Gurgaon',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Orange+Sidhrawali.jpg',
-                            name: 'Fortune Park Orange',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Haridwar.jpg',
-                            name: 'Fortune Park Haridwar',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Hubballi.jpg',
-                            name: 'Fortune Park Airport Road Hubballi',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%2022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Avenue+Jalandhar.jpg',
-                            name: 'Fortune Avenue Jalandhar',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Riviera+Jammu.jpg',
-                            name: 'Fortune Inn Riviera Jammu',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Forest+Hill+Solan.jpg',
-                            name: 'Fortune Select Forest Hill, Mahiya, Kasauli',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Panchwati+Kolkata.jpg',
-                            name: 'Fortune Park Panchwati Kolkata',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+BBD%2C+Lucknow.jpg',
-                            name: 'Fortune Park BBD Lucknow',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/facade.png',
-                            name: 'Fortune Pandiyan Madurai',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Valley+View+Manipal.jpg',
-                            name: 'Fortune Inn Valley View, Manipal',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Moksha+McleodGanj.jpg',
-                            name: 'Fortune Park Moksha Mcleod Ganj',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Exotica+Navi+Mumbai.jpg',
-                            name: 'Fortune Select Exotica, Navi Mumbai',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Lake+City+Thane.jpg',
-                            name: 'Fortune Park Lake City, Thane',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Grace%2C+Mussoorie.jpg',
-                            name: 'Fortune Resort Grace Mussoorie',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JP+Palace%2C+Mysore.jpg',
-                            name: 'Fortune JP Palace Mysore',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia%2C+Noida.jpg',
-                            name: 'Fortune Inn Grazia, Noida',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Sullivan+Court%2C+Ooty.jpg',
-                            name: 'Fortune Resort Sullivan Court Ooty',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JPS+Grand+Rajkot.jpg',
-                            name: 'Fortune Park JPS Grand Rajkot',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Heevan+Srinagar.jpg',
-                            name: 'Fortune Resort Heevan Srinagar',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Grand+Ridge%2C+Tirupati.jpg',
-                            name: 'Fortune Select Grand Ridge Tirupati',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Promenade%2C+Vadodara.jpg',
-                            name: 'Fortune Inn Promenade, Vadodara',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Galaxy+Vapi.jpg',
-                            name: 'Fortune Park Galaxy Vapi',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Vellore.jpg',
-                            name: 'Fortune Park Vellore',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Murali+Park+Vijaywada.jpg',
-                            name: 'Fortune Murali Park Vijayawada',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Sree+Kanya%2C+Visakhapatnam.JPG',
-                            name: 'Fortune Inn Sree Kanya Vishakhapatnam',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Kufri+Shimla.tif',
-                            name: 'Fortune Park Kufri Shimla',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
-                            btn: {
-                                extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        }
-                    ]
-                },
-                stories: {
-                    active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
-                        }
-                    ]
-                },
-                masonry: {
-                    active: false,
-                    cols: 3,
-                    rowHeight: 1,
-                    title: 'masonry title',
-                    desc: 'masonry Description',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/433x649/?Uruguay',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/530x572/?Jamaica',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/531x430/?Kuwait',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/500x571/?Ecuador',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/503x548/?Angola',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/511x630/?Mauritania',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/443x704/?St. Helena',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/441x1145/?Namibia',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/491x1097/?Samoa',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/570x851/?Eritrea',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/560x1072/?Iraq',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        },
-                        {
-                            img: 'https://source.unsplash.com/551x598/?Togo',
-                            label: 'Plan your trip the way you like it',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
-                        }
-                    ]
-                },
-                heroIntro: {
-                    active: false,
-                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
-                    preTitle: 'Our world, exclusively yours',
-                    title: 'Secluded Sanctuaries',
-                    linkLabel: 'Plan Your Trip',
-                    extLink: 'https://www.demohotel-planner.goyaana.com',
-                    routerLink: ''
-                }
-            },
-            leftSideMenu: [
-                {
-                    label: 'Booked List',
-                    extLink: '',
-                    routerLink: '/booked-slots',
-                    icon: 'calendar-outline'
-                },
-                {
-                    label: 'My Services',
-                    extLink: '',
-                    routerLink: '/user-shops',
-                    icon: 'list-outline'
-                }
-            ],
-            departments: [
-                {
-                    name: 'Food and Beverage',
-                    icon: 'fortunemussoorieicons/beverage.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Pre-Order Garhwali Thali / Punjabi Thali',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/garhwali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Order Online',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/online.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Candle light dinner at the Terrace with valley view',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Candle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to host a private party',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Book a table - ORCHID',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/ORCHID.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Book a table - TERRACE',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/TERRACE.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Book a table - NOSTRADAMUS',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/NOSTRADAMUS.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'In Room Dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Comments if any',
-                            placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
-                            headerText: 'When would you like the food to arrive at your room?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Workshop',
-                    icon: 'fortunemussoorieicons/Workshop.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Cook with chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bedmaking',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Towel Origamy',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Our Unique Offerings',
-                    icon: 'fortunemussoorieicons/unique.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Banquet hall booking',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/Banquet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Gourmet Box',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/GourmetBox.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Sunday Brunch',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/GourmetBox.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Customised House Party',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/party.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'guided Yoga experience',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Chauffeur-drive Airport Transfer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/driver.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Restaurant Menu',
-                    icon: 'fortunemussoorieicons/menu.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Deli Menu PDF',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Deli+Menu+PDF.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/7.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/8.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'IN ROOM DINING Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/IN+ROOM+DINING+Menu.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/7.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/8.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'Neptune Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Neptune+Menu.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/tray.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'ORCHID MENU PDF',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/ORCHID++MENU+PDF.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/tray.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Exclusive Offers',
-                    icon: 'dharmshala/offer.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Yoga Hut Dining Offer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/dinning.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv6.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv7.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Buy 02 beer get 01 beer free',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/beer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Service Directory',
-                    icon: 'fortunegrace/directory.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Welcome',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Welcome.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Emergency',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Emergency.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/reserve.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Menu.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/serving-dish.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'House Rules',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/House+Rules.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/rules.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Important Telephone Extensions',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Important+Telephone+Extensions.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/network.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Telecommunications',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Telecommunications.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/telephone.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'Place of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Place+of+Interest.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/PlaceOfInterest.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Special Offer',
-                    icon: 'Vijaywadaicons/SpecialOffer.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'personalized dinner experience With Your choice of food',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/dinning.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Landing3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Buy 02 beer get 01 beer free',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/beer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer3.jpg' }  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Cook with Chef Experience Offer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Combo Offer Spa + Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/Combo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Digital Menus',
-                    icon: 'JammuIcons/DigitalMenu.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Restaurant Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
-                            routerLink: '',
-                            icon: 'JammuIcons/RestaurantMenu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'In-Room Dining Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Spa Laundry and Minibar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/SPA+MENU.pdf',
-                            routerLink: '',
-                            icon: 'JammuIcons/SpaMenu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Quick Upgrades',
-                    icon: 'JammuIcons/upgrader.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Deluxe Room',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/room.png',
-                            showTextarea: true,
-                            Text: 'Our Deluxe Rooms are spread across 275 sq ft accommodating a maximum of 3 adults. Dive back on the king-sized bed relaxing or binge-watching your favorite show in our 32" flat TV screen. Complimentary breakfast and tea/coffee maker will also help you kick start a fresh new day in Bangalore. This room is perfect for business travelers looking for luxury accommodation at the finest 5-star hotel in Bangalore.',
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Deluxe1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Deluxe2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Deluxe3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Deluxe4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Deluxe5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Superior Rooms',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/living-room.png',
-                            showTextarea: true,
-                            Text: 'Our king size Superior Rooms in Bangalore are decorated with warm wooden furniture and natural color schemes, which perfectly blend style and comfort. It has both king and twin-sized beds to accommodate 3 adults in 275 sq ft space conveniently. Book this room to enjoy special facilities like laundry services, tea and other beverages. Hurry Now!',
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/superior1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/superior2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/superior3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/superior4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Suites',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/bedroom.png',
-                            showTextarea: true,
-                            Text: 'Book your stay at our Suites and avail luxury amenities in a comfortable space of 640 sq ft accommodating 2 adults. We also provide a separate living room and indoor Jacuzzi facilities. Experience comfort and style like never before.',
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Suite1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Suite2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Suite3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Suite4.jpg' },
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                    ]
-                },
-                {
-                    name: 'Special Benefits',
-                    icon: 'JammuIcons/Benifits.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Avail a 20% discount* on spa',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/SpaMenu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Poolside dining @ INR 1999*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Celebrate your special day',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/celebrating.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Plan Your Events',
-                    icon: 'JammuIcons/trip.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Crystal Hall - Best Banquet In Bangalore',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/hall.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [ 
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Crystal.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Opal Hall',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/hall2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/opal.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Imperial Hall',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/conference.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Imperial.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Royal Hall',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/conference2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/royal.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Senate Hall',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/seminar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/senate.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Unique Dinning Experience',
-                    icon: 'dharmshala/dining-table.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Cafe Treat',
-                            extLink: '',
-                            routerLink: '/stores/CafeTreat',
-                            icon: 'dharmshala/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/cafe1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/cafe2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/cafe3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Puran Da Dhaba',
-                            extLink: '',
-                            routerLink: '/stores/PuranDaDhaba',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/dhaba1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/dhaba2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/dhaba3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Fuel Bar',
-                            extLink: '',
-                            routerLink: '/stores/FuelBar',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/bar1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/bar2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/bar3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                    ]
-                },
-                {
-                    name: 'Hotel Experience',
-                    icon: 'dharmshala/home.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '/by-admin/977',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Aadhya Wellness Spa',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paint.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Fitness Center',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                    ]
-                },
-            ],
-            comingSoon: {
-                active: true,
-                heading: 'Something Awesome is in the works',
-                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
-            },
-            offSeason: {
-                active: true,
-                heading: 'The season is almost here',
-                subHeading: 'We are not yet open for bookings. Please visit us later.'
-            }
-        },
-        {
             branch: 'Select SG Highway, Ahmedabad',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/branch.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
@@ -136310,6 +134296,3470 @@
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         },
+        {
+            branch: 'KATRA',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/img.jpg',
+            id: 'www.fortunehotels-experiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
+            theme: 'fortune-theme',
+            idCategory: 10,
+            favIconLink: 'assets/icon/favicon.png',
+            title: 'FORTUNE PARK, KATRA',
+            storeImg: 'social2.jpg',
+            label: 'Hotel Admin', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'www.fortunehotels.in'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'www.fortunehotels.in'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'www.fortunehotels.in'
+                },
+                feedBackEmail: 'dm.fard@fortunehotels.in'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/branch.png',
+                            heading: 'FORTUNE PARK, KATRA',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
+                            heading: 'FORTUNE LEISURE ESCAPE',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/Banner+4.jpg',
+                            heading: 'FORTUNE BUSINESS ESCAPE',
+                            subHeading: ''
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'FORTUNE PARK, KATRA',
+                    desc: `A calming retreat for people on holy pilgrimages to Mata Vaishno Devi Temple, Fortune Park Katra lets you bask in the tranquility of its open spaces and aesthetic design. Whether you’re on a journey to worship the divine or want a relaxed stay to re-connect with the self, you’ll surely feel your energy and spirit uplifted by our warm service and excellent hospitality.'.
+
+                    `,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            label: 'Digital Menus',
+                            extLink: '',
+                            routerLink: '/home'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            label: 'Quick Upgrades',
+                            extLink: '',
+                            routerLink: '/by-admin/995'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
+                            label: 'Special Benefits',
+                            extLink: '',
+                            routerLink: '/by-admin/996'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
+                            label: 'Plan Your Trip',
+                            extLink: '',
+                            routerLink: '/by-admin/998'
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Local Experience',
+                    desc: 'Dive into a whole new world of activities!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/White-Water1.jpg',
+                            name: 'White-Water Rafting',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Jhajjar-Kotli1.jpg',
+                            name: 'Jhajjar Kotli',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Nau-Devi1.jpg',
+                            name: 'Nau Devi cave temple',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Vaishno-trek1.jpg',
+                            name: 'Vaishno Devi trek',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-House Experience',
+                    desc: 'Dive into a whole new world of activities!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/Travel-assistant.png',
+                            name: 'Travel assistance',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Travelassistance_3',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya1.jpg',
+                            name: 'Spa',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/AadhyaWellnessSpa',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/gym.jpg',
+                            name: 'Gymnasium',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Gymnasium_2',
+                            extLink: ''
+                        },
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Unique Dinning Experience',
+                    desc: 'Enjoy the best of vantage dining!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/ORCHID.png',
+                            name: 'Rainbow',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/Deli.jpg',
+                            name: 'Deli',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/FortuneDeli_5',
+                            extLink: ''
+                        },
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Explore Our Hotels',
+                    desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+SG+Highway+Ahmedabad.jpg',
+                            name: 'Fortune Inn Promenade, Vadodara',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Ahmedabad.jpg',
+                            name: 'Fortune Park Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Landmark+Ahmedabad.jpg',
+                            name: 'Fortune Landmark Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%20202',
+                            btn: {
+                                extLink: '',
+                                routerLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Trinity+Bangalore.jpg',
+                            name: 'Fortune Select Trinity Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+JP+Celestial+Bangalore.jpg',
+                            name: 'Fortune Park JP Celestial Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+JP+Cosmos+Bangalore.jpg',
+                            name: 'Fortune Select JP Cosmos Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Sishmo+Bhubaneswar.jpg',
+                            name: 'Fortune Park Sishmo Bhubaneswar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dahej.jpg',
+                            name: 'Fortune Park Dahej',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dalhousie.jpg',
+                            name: 'Fortune Park Dalhousie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Pushpanjali%2C+Durgapur.jpg',
+                            name: 'Fortune Park Pushpanjali, Durgapur',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Haveli+Gandhinagar.jpg',
+                            name: 'Fortune Inn Haveli Gandhinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia+Ghaziabad.jpg',
+                            name: 'Fortune Inn Grazia Ghaziabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Benaulim+Goa.jpg',
+                            name: 'Fortune Resort Benaulim Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Miramar%2C+Goa.jpg',
+                            name: 'Fortune Miramar Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Global+Gurgaon.JPG',
+                            name: 'Fortune Select Global, Gurgaon',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Orange+Sidhrawali.jpg',
+                            name: 'Fortune Park Orange',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Haridwar.jpg',
+                            name: 'Fortune Park Haridwar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Hubballi.jpg',
+                            name: 'Fortune Park Airport Road Hubballi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Avenue+Jalandhar.jpg',
+                            name: 'Fortune Avenue Jalandhar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Riviera+Jammu.jpg',
+                            name: 'Fortune Inn Riviera Jammu',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Forest+Hill+Solan.jpg',
+                            name: 'Fortune Select Forest Hill, Mahiya, Kasauli',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Panchwati+Kolkata.jpg',
+                            name: 'Fortune Park Panchwati Kolkata',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+BBD%2C+Lucknow.jpg',
+                            name: 'Fortune Park BBD Lucknow',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/facade.png',
+                            name: 'Fortune Pandiyan Madurai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Valley+View+Manipal.jpg',
+                            name: 'Fortune Inn Valley View, Manipal',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Moksha+McleodGanj.jpg',
+                            name: 'Fortune Park Moksha Mcleod Ganj',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Exotica+Navi+Mumbai.jpg',
+                            name: 'Fortune Select Exotica, Navi Mumbai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Lake+City+Thane.jpg',
+                            name: 'Fortune Park Lake City, Thane',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Grace%2C+Mussoorie.jpg',
+                            name: 'Fortune Resort Grace Mussoorie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JP+Palace%2C+Mysore.jpg',
+                            name: 'Fortune JP Palace Mysore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia%2C+Noida.jpg',
+                            name: 'Fortune Inn Grazia, Noida',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Sullivan+Court%2C+Ooty.jpg',
+                            name: 'Fortune Resort Sullivan Court Ooty',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JPS+Grand+Rajkot.jpg',
+                            name: 'Fortune Park JPS Grand Rajkot',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Heevan+Srinagar.jpg',
+                            name: 'Fortune Resort Heevan Srinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Grand+Ridge%2C+Tirupati.jpg',
+                            name: 'Fortune Select Grand Ridge Tirupati',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Promenade%2C+Vadodara.jpg',
+                            name: 'Fortune Inn Promenade, Vadodara',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Galaxy+Vapi.jpg',
+                            name: 'Fortune Park Galaxy Vapi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Vellore.jpg',
+                            name: 'Fortune Park Vellore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Murali+Park+Vijaywada.jpg',
+                            name: 'Fortune Murali Park Vijayawada',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Sree+Kanya%2C+Visakhapatnam.JPG',
+                            name: 'Fortune Inn Sree Kanya Vishakhapatnam',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Kufri+Shimla.tif',
+                            name: 'Fortune Park Kufri Shimla',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: '#SafeStaysatFortuneHotels',
+                    desc: 'From check-in to check-out, we have you covered',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
+                        }
+                    ]
+                },
+                masonry: {
+                    active: false,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'masonry title',
+                    desc: 'masonry Description',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/433x649/?Uruguay',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/530x572/?Jamaica',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/531x430/?Kuwait',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/500x571/?Ecuador',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/503x548/?Angola',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/511x630/?Mauritania',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/443x704/?St. Helena',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/441x1145/?Namibia',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/491x1097/?Samoa',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/570x851/?Eritrea',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/560x1072/?Iraq',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/551x598/?Togo',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'fortunemussoorieicons/local.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Yarada Beach',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/vacations.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Katiki Waterfalls',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/waterfall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Araku Valley',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/mountain.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Our Unique Offerings',
+                    icon: 'fortunemussoorieicons/unique.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Banquet hall booking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/Banquet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gourmet Box',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Customised House Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'guided Yoga experience',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Chauffeur-drive Airport Transfer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/driver.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Restaurant Menu',
+                    icon: 'fortunemussoorieicons/menu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Deli Menu PDF',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Deli+Menu+PDF.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/8.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'IN ROOM DINING Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/IN+ROOM+DINING+Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/restaurant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/8.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'Neptune Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Neptune+Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'ORCHID MENU PDF',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/ORCHID++MENU+PDF.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Exclusive Offers',
+                    icon: 'dharmshala/offer.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Yoga Hut Dining Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/dinning.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv4.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv5.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv6.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv7.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Buy 02 beer get 01 beer free',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Service Directory',
+                    icon: 'fortunegrace/directory.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Welcome',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Welcome.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Emergency',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Emergency.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/reserve.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'House Rules',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/House+Rules.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/rules.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Important Telephone Extensions',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Important+Telephone+Extensions.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/network.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Telecommunications',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Telecommunications.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/telephone.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Place of Interest',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Place+of+Interest.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/PlaceOfInterest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Offer',
+                    icon: 'Vijaywadaicons/SpecialOffer.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'personalized dinner experience With Your choice of food',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/dinning.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Landing3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant2.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Buy 02 beer get 01 beer free',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer3.jpg' }  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cook with Chef Experience Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Combo Offer Spa + Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/Combo.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade room @ INR 999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Upgrade meal @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Extra bed @ INR 99*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Get a cab @ INR 25* per km',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Business center services @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/service.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Avail a 20% discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Poolside dining @ INR 1999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Custom In-room dining',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate your special day',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/celebrating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Local Experiences',
+                    icon: 'fortunemoksha/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '/by-admin/997',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'White-Water Rafting',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for White-Water Rafting',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/White-Water1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/White-Water2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/White-Water3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Jhajjar Kotli',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'bollywood.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Jhajjar-Kotli1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Jhajjar-Kotli2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Jhajjar-Kotli3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Nau Devi cave temple',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'food_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Nau-Devi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Nau-Devi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Nau-Devi3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Vaishno Devi trek',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemoksha/cultural.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a food tour?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Vaishno-trek.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Vaishno-trek1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/Vaishno-trek2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                    ]
+                },
+                {
+                    name: 'Unique Dinning Experience',
+                    icon: 'dharmshala/dining-table.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '/by-admin/999',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Rainbow',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/dining-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Deli',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'In-House Experience',
+                    icon: 'dharmshala/home.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '/by-admin/998',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Travel assistance',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/gardening.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gymnasium',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/gardening.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        },
+        {
+            branch: 'Fortune Park, Ahmedabad',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/fortunrparck+ahmadabad.jpg',
+            id: 'www.fortunehotels-experiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
+            theme: 'fortune-theme',
+            idCategory: 10,
+            favIconLink: 'assets/icon/favicon.png',
+            title: 'Fortune Park, Ahmedabad',
+            storeImg: 'social2.jpg',
+            label: 'Hotel Admin', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'www.fortunehotels.in'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'www.fortunehotels.in'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'www.fortunehotels.in'
+                },
+                feedBackEmail: 'dm.fard@fortunehotels.in'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/fortunrparck+ahmadabad.jpg',
+                            heading: 'Fortune Park, Ahmedabad',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
+                            heading: 'FORTUNE LEISURE ESCAPE',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/Banner+4.jpg',
+                            heading: 'FORTUNE BUSINESS ESCAPE',
+                            subHeading: ''
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'Fortune Park, Ahmedabad',
+                    desc: `Fortune Park, Ahmedabad is a contemporary business hotel located centrally in one of the greenest areas of the city, near Ellis Bridge within short driving distance to the Sarkhej-Gandhinagar Highway which houses some of the leading corporates and institutions.The hotel is well placed in this dynamic city and offers comfortable accommodation, a round the clock dining outlet, a choice of banqueting venues along with warm and efficient service to all its guests.'.
+
+                    `,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            label: 'Digital Menus',
+                            extLink: '',
+                            routerLink: '/home'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            label: 'Quick Upgrades',
+                            extLink: '',
+                            routerLink: '/by-admin/1010'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
+                            label: 'Special Benefits',
+                            extLink: '',
+                            routerLink: '/by-admin/1011'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
+                            label: 'Plan Your Trip',
+                            extLink: '',
+                            routerLink: '/by-admin/1012'
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'offers',
+                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Fortune-Weekend-Escapes.jpg',
+                            name: 'Fortune Weekend Escapes Offer',
+                            location: '',
+                            views: 'Buy Authentic Local Products from Trusted Vendors',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/packages-Offer-20225161341.jpg',
+                            name: 'Fortune Business Stays Offer',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'In-House Experience',
+                    desc: 'Dive into a whole new world of activities!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/baby+sitting.jpg',
+                            name: 'Baby-sitting Service',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/travel.jpg',
+                            name: 'Airport Transfer',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/safe.jpg',
+                            name: 'Safe Deposit Vault in the Room',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Exchange.jpg',
+                            name: 'Currency Exchange',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Unique Dinning Experience',
+                    desc: 'Enjoy the best of vantage dining!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/gardenia.jpg',
+                            name: 'Gardenia',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Zodiac_5',
+                            extLink: ''
+                        },
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Explore Our Hotels',
+                    desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+SG+Highway+Ahmedabad.jpg',
+                            name: 'Fortune Select SG Highway Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectsghighway-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Ahmedabad.jpg',
+                            name: 'Fortune Park Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Landmark+Ahmedabad.jpg',
+                            name: 'Fortune Landmark Ahmedabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%20202',
+                            btn: {
+                                extLink: '',
+                                routerLink: 'https://www.itchotels.com/in/en/fortunelandmark-ahmedabad?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Trinity+Bangalore.jpg',
+                            name: 'Fortune Select Trinity Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-trinity-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+JP+Celestial+Bangalore.jpg',
+                            name: 'Fortune Park JP Celestial Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-jp-celestial-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+JP+Cosmos+Bangalore.jpg',
+                            name: 'Fortune Select JP Cosmos Bangalore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-jp-cosmos-bengaluru?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Sishmo+Bhubaneswar.jpg',
+                            name: 'Fortune Park Sishmo Bhubaneswar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dahej.jpg',
+                            name: 'Fortune Park Dahej',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/dahej-sez-fortune-park-dahej.dh.20?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dalhousie.jpg',
+                            name: 'Fortune Park Dalhousie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkdalhousie?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Pushpanjali%2C+Durgapur.jpg',
+                            name: 'Fortune Park Pushpanjali, Durgapur',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-pushpanjali-durgapur?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Haveli+Gandhinagar.jpg',
+                            name: 'Fortune Inn Haveli Gandhinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia+Ghaziabad.jpg',
+                            name: 'Fortune Inn Grazia Ghaziabad',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ghaziabad-fortune-inn-grazia.dh.3?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Benaulim+Goa.jpg',
+                            name: 'Fortune Resort Benaulim Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Miramar%2C+Goa.jpg',
+                            name: 'Fortune Miramar Goa',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemiramar-goa?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Global+Gurgaon.JPG',
+                            name: 'Fortune Select Global, Gurgaon',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectglobal-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Orange+Sidhrawali.jpg',
+                            name: 'Fortune Park Orange',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkorange-gurugram?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Haridwar.jpg',
+                            name: 'Fortune Park Haridwar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-haridwar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Hubballi.jpg',
+                            name: 'Fortune Park Airport Road Hubballi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkairportroad-hubballi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Avenue+Jalandhar.jpg',
+                            name: 'Fortune Avenue Jalandhar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneavenue-jalandhar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Riviera+Jammu.jpg',
+                            name: 'Fortune Inn Riviera Jammu',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/jammu-fortune-inn-riviera.dh.8?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Forest+Hill+Solan.jpg',
+                            name: 'Fortune Select Forest Hill, Mahiya, Kasauli',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselect-forest-hill-kasauli?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Panchwati+Kolkata.jpg',
+                            name: 'Fortune Park Panchwati Kolkata',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-Kolkata?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+BBD%2C+Lucknow.jpg',
+                            name: 'Fortune Park BBD Lucknow',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepark-bbd-lucknow?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/facade.png',
+                            name: 'Fortune Pandiyan Madurai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunepandiyan-madurai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Valley+View+Manipal.jpg',
+                            name: 'Fortune Inn Valley View, Manipal',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnvalleyview-manipal?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Moksha+McleodGanj.jpg',
+                            name: 'Fortune Park Moksha Mcleod Ganj',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022 ',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mcleod-ganj-fortune-park-moksha.dh.27?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Exotica+Navi+Mumbai.jpg',
+                            name: 'Fortune Select Exotica, Navi Mumbai',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneselectexotica-navi-mumbai?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Lake+City+Thane.jpg',
+                            name: 'Fortune Park Lake City, Thane',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparklakecity-thane?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Grace%2C+Mussoorie.jpg',
+                            name: 'Fortune Resort Grace Mussoorie',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mussoorie-fortune-resort-grace.dh.32?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JP+Palace%2C+Mysore.jpg',
+                            name: 'Fortune JP Palace Mysore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/mysore-fortune-jp-palace.dh.11?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Grazia%2C+Noida.jpg',
+                            name: 'Fortune Inn Grazia, Noida',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/noida-fortune-inn-grazia.dh.5?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Sullivan+Court%2C+Ooty.jpg',
+                            name: 'Fortune Resort Sullivan Court Ooty',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/ooty-fortune-resort-sullivan-court.dh.33?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+JPS+Grand+Rajkot.jpg',
+                            name: 'Fortune Park JPS Grand Rajkot',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/rajkot-fortune-park-jps-grand.dh.24?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Resort+Heevan+Srinagar.jpg',
+                            name: 'Fortune Resort Heevan Srinagar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneresortheevan-srinagar?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+Grand+Ridge%2C+Tirupati.jpg',
+                            name: 'Fortune Select Grand Ridge Tirupati',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/tirupati-fortune-select-grand-ridge.dh.39?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Promenade%2C+Vadodara.jpg',
+                            name: 'Fortune Inn Promenade, Vadodara',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnpromenade-vadodara?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Galaxy+Vapi.jpg',
+                            name: 'Fortune Park Galaxy Vapi',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkgalaxy-vapi?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Vellore.jpg',
+                            name: 'Fortune Park Vellore',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.fortunehotels.in/vellore-fortune-park.dh.56?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Murali+Park+Vijaywada.jpg',
+                            name: 'Fortune Murali Park Vijayawada',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortunemuralipark-vijayawada?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Inn+Sree+Kanya%2C+Visakhapatnam.JPG',
+                            name: 'Fortune Inn Sree Kanya Vishakhapatnam',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneinnsreekanya-visakhapatnam?utm_source=QR%20Code&utm_medium=Drive%20Direct&utm_campaign=HQ%20%7C%20Fortune%20Hotels%20%7C%20Drive%20Direct%20%7C%20August%202022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Kufri+Shimla.tif',
+                            name: 'Fortune Park Kufri Shimla',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                            btn: {
+                                extLink: 'https://www.itchotels.com/in/en/fortuneparkkufri-shimla?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Drive+Direct+%7C+August+2022',
+                                routerLink: '',
+                                label: 'EXPLORE'
+                            }
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: '#SafeStaysatFortuneHotels',
+                    desc: 'From check-in to check-out, we have you covered',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
+                        }
+                    ]
+                },
+                masonry: {
+                    active: false,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'masonry title',
+                    desc: 'masonry Description',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/433x649/?Uruguay',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/530x572/?Jamaica',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/531x430/?Kuwait',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/500x571/?Ecuador',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/503x548/?Angola',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/511x630/?Mauritania',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/443x704/?St. Helena',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/441x1145/?Namibia',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/491x1097/?Samoa',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/570x851/?Eritrea',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/560x1072/?Iraq',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/551x598/?Togo',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'fortunemussoorieicons/local.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Yarada Beach',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/vacations.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Katiki Waterfalls',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/waterfall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Araku Valley',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/mountain.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Our Unique Offerings',
+                    icon: 'fortunemussoorieicons/unique.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Banquet hall booking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/Banquet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Banquet3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gourmet Box',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/GourmetBox.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/box/GourmetBox3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Customised House Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/sundayfile/Sunday3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'guided Yoga experience',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Yogafile/Yoga3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Chauffeur-drive Airport Transfer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/driver.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Airport/Airport3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Restaurant Menu',
+                    icon: 'fortunemussoorieicons/menu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Deli Menu PDF',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Deli+Menu+PDF.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/8.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'IN ROOM DINING Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/IN+ROOM+DINING+Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/restaurant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/8.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'Neptune Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Neptune+Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'ORCHID MENU PDF',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/ORCHID++MENU+PDF.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Exclusive Offers',
+                    icon: 'dharmshala/offer.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Yoga Hut Dining Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/dinning.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv4.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv5.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv6.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv7.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Buy 02 beer get 01 beer free',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Service Directory',
+                    icon: 'fortunegrace/directory.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Welcome',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Welcome.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Emergency',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Emergency.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/reserve.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/serving-dish.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'House Rules',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/House+Rules.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/rules.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Important Telephone Extensions',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Important+Telephone+Extensions.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/network.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Telecommunications',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Telecommunications.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/telephone.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Place of Interest',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Place+of+Interest.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/PlaceOfInterest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Offer',
+                    icon: 'Vijaywadaicons/SpecialOffer.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'personalized dinner experience With Your choice of food',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/dinning.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Landing3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant2.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Buy 02 beer get 01 beer free',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer3.jpg' }  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cook with Chef Experience Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Combo Offer Spa + Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/Combo.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade room @ INR 999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Upgrade meal @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Extra bed @ INR 99*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Get a cab @ INR 25* per km',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Business center services @ INR 499*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/service.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Avail a 20% discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Poolside dining @ INR 1999*',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Custom In-room dining',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate your special day',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/celebrating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Local Experiences',
+                    icon: 'fortunemoksha/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '/by-admin/989',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Sunset drive-in cinema',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for dharawi tour',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Adalaj Stepwell',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'bollywood.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for bollywood tour',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Jhulta Minara',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'food_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a food tour?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Sabarmati Ashram',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemoksha/cultural.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a food tour?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Auto World Vintage Car Museum',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemoksha/cultural.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a food tour?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Kankaria Lake',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemoksha/cultural.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a food tour?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Unique Dinning Experience',
+                    icon: 'dharmshala/dining-table.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Gardenia',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/dining-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'In-House Experience',
+                    icon: 'dharmshala/home.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '/by-admin/1013',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Baby-sitting services',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/paint.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Airport transfers',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Safe Deposit Vault in the Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/gardening.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Currency Exchange',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/gardening.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        }
     ],
     'www.clarksinn-experiences.goyaana.com': [
         {
