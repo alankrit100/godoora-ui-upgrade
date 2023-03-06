@@ -39707,7 +39707,7 @@
                             name: 'Cook with our Master Chef',
                             location: 'Learn from the best',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39715,7 +39715,7 @@
                             name: 'Celebrate special day with your loved one',
                             location: 'Birthdays | Anniversaries',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39723,7 +39723,7 @@
                             name: 'Candle light dinner',
                             location: 'Flowers, candles and white wine... Perfect night in!',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39731,7 +39731,7 @@
                             name: 'Kids picnic',
                             location: 'Time to pack up your picnic basket with our kid-friendly items and soak up some sun',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39739,7 +39739,7 @@
                             name: 'Movie screening with popcorn',
                             location: 'Feast your taste buds on the crisp kernels while your eyes feast on the big screen',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39747,7 +39747,7 @@
                             name: 'Tedex Screenings',
                             location: 'Love TED Talks? Then why not consider hosting your very own TEDx event?',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39755,7 +39755,7 @@
                             name: 'Chai Pe Charcha',
                             location: 'Social Clubs | Same Interest Groups',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39763,7 +39763,7 @@
                             name: 'Learn baking with our TBC specialists',
                             location: 'Incredible baking learning experience through our experts',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39771,7 +39771,7 @@
                             name: 'Photo shoots in club premise',
                             location: 'Wedding Photoshoot | Baby shoot | Family Photoshoot',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39779,7 +39779,7 @@
                             name: 'Film making workshop',
                             location: 'Fun | Learning',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39787,7 +39787,7 @@
                             name: 'Private screening',
                             location: 'Sports | Movie | Standup',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39795,7 +39795,7 @@
                             name: 'Event screening from MLR',
                             location: 'TedEx | Standup Comedy | Music Nights',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
@@ -39810,7 +39810,7 @@
                             name: 'Day outing for your guests',
                             location: 'Experience Bengaluru | Brigade Hospitality Care',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39818,7 +39818,7 @@
                             name: 'Vineyard tour at Devanahalli',
                             location: 'Family Fun | Day Tour',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39826,7 +39826,7 @@
                             name: 'Pick fresh farm vegetables & cook with a chef',
                             location: 'Family Fun | | Signature Club',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39834,7 +39834,7 @@
                             name: 'Colonial Bangalore walk',
                             location: 'Colonial Connections | British Raj',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39842,7 +39842,7 @@
                             name: 'Heritage Bangalore Walk',
                             location: 'Stories of century old structures',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39850,7 +39850,7 @@
                             name: 'Old Bangalore walk',
                             location: 'PETE | Markets | Culture',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39858,7 +39858,7 @@
                             name: 'Bespoke tours',
                             location: 'Reunion | Sports groups',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39866,7 +39866,7 @@
                             name: 'Hilltop picnic at Nandi Hills',
                             location: 'Pick Brigade Picnic baskets',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39874,7 +39874,7 @@
                             name: 'Morning Cycle Rides to Nandi Hills',
                             location: 'Refresh and Relax | Signature Club',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39882,7 +39882,7 @@
                             name: 'Dinner Time',
                             location: 'Movie Screening | Signature Club',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39890,7 +39890,7 @@
                             name: 'Celebrate special days at stud farms',
                             location: 'Kid Friendly | Birthdays',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39898,7 +39898,7 @@
                             name: 'Online workshops',
                             location: 'Learn Cooking | Learn Cocktail Making',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
@@ -39912,7 +39912,7 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/conven.jpg',
                             name: 'Convention Centre',
                             desc: 'Weddings | Conferences and Conventions',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -39920,42 +39920,42 @@
                             name: 'Banquet Hall',
                             location: 'Meetings | Parties',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/catering.jpg',
                             name: 'Catering',
                             desc: 'Surprise birthday gift for family',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/eventm.jpg',
                             name: 'Event Management',
                             desc: ' Wedding | Corporate Events',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/beauty.jpg',
                             name: 'Beauty care',
                             desc: 'Special wedding packages',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/decor.jpg',
                             name: 'Decor',
                             desc: 'One-of-a-kind decorations',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/corpevent.jpg',
                             name: 'Corporate event management',
                             desc: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
@@ -39969,28 +39969,28 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/lawn.jpg',
                             name: 'The Lawn Experience',
                             desc: ' Cocktail Dinner | Product launches',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/college.jpg',
                             name: 'School & College Events',
                             desc: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/corporate.jpg',
                             name: 'Corporate & Healthcare Events',
                             desc: 'Conferences | Team Workshops',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/performance.jpg',
                             name: 'Sponsored Performances',
                             desc: 'Theatre | Music | Standup Comedy',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
@@ -41512,7 +41512,7 @@
                     icon: 'brigade/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1007',
                     extLink: '',
                     services: [
                         {
@@ -41710,11 +41710,11 @@
                     ]
                 },
                 {
-                    name: 'Unique HotelExperience',
+                    name: 'Unique Hotel Experiences',
                     icon: 'brigade/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1006',
                     extLink: '',
                     services: [
                         {
@@ -41928,11 +41928,11 @@
                     ]
                 },
                 {
-                    name: 'Hotel Offsprings',
+                    name: 'Hotel Offerings',
                     icon: 'brigade/workshop.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1009',
                     extLink: '',
                     services: [
                         {
@@ -42006,7 +42006,7 @@
                     icon: 'brigade/hospitality.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1008',
                     extLink: '',
                     services: [
                         {
@@ -42731,7 +42731,7 @@
                             name: 'Mantralayam-Srisailam spiritual tour',
                             location: 'Temples | Dam | Wildlife | Ropeway',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -42739,7 +42739,7 @@
                             name: 'Hampi via Kurnool',
                             location: 'Stay at ClarksInn | ClarksInn Hampi | ClarksInn Kurnool',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -42747,7 +42747,7 @@
                             name: 'Ahobalim-Yaganti-Mahanandi',
                             location: 'Temples | Day Tour',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -42755,7 +42755,7 @@
                             name: 'Srisailam day tour',
                             location: 'Temples |  Dam | Wildlife | Ropeway',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         },
                         {
@@ -42763,7 +42763,7 @@
                             name: 'Mantralayam day tour',
                             location: 'Temples |  Day Tour',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: ''
                         }
                     ]
@@ -43601,7 +43601,7 @@
                     icon: 'clarksinn/spiritual.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1001',
                     extLink: '',
                     services: [
                         {
@@ -43691,58 +43691,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Unique Hotel experience',
-                    icon: 'clarksinn/unique_exp.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Celebrate special days with us',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarksinn/happiness.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                               
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Private buffet & magician',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarksinn/magician.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'placeholder',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                        },
-                        {
-                            name: 'Hire our staff',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarksinn/hired.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -43871,7 +43819,7 @@
                     icon: 'clarksinn/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1003',
                     extLink: '',
                     services: [
                         {
@@ -43953,7 +43901,7 @@
                     icon: 'clarksinn/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1002',
                     extLink: '',
                     services: [
                         {
@@ -44031,93 +43979,11 @@
                     ]
                 },
                 {
-                    name: 'Spritiual Experiences',
-                    icon: 'clarksinn/experience.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Mantralyam srisailam spritiual tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarksinn/tour.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Ahobalim Yaganti Mahanandi',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarksinn/fort.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Srisailam day tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarksinn/cave.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for Belum caves',
-                            headerText: 'When would you like to book?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        },
-                        {
-                            name: 'Mantralaym day tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarksinn/garden.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: When would you like to go for Rock Gardens?',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        }
-                    ]
-                },
-                {
                     name: 'Road Trip Experience',
                     icon: 'clarksinn/road.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/by-admin/1004',
                     extLink: '',
                     services: [
                         {
@@ -169257,9 +169123,9 @@
             },
             offSeason: {
                 active: true,
-                heading: 'The season is almost here'
+                heading: 'The season is almost here',
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
-            }
+            },
         },
         {
             branch: 'default',
