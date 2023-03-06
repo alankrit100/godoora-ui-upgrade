@@ -135848,55 +135848,25 @@
                 },
                 destinations: {
                     active: true,
-                    heading: 'Local Experiences',
+                    heading: 'offers',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/theater-img.jpg',
-                            name: 'Sunset drive-in cinema',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Fortune-Weekend-Escapes.jpg',
+                            name: 'Fortune Weekend Escapes Offer',
                             location: '',
                             views: 'Buy Authentic Local Products from Trusted Vendors',
-                            routerLink: '/stores/Sunsetdriveincinema',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/adalaj-img.jpg',
-                            name: 'Adalaj Stepwell',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/packages-Offer-20225161341.jpg',
+                            name: 'Fortune Business Stays Offer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/AdalajStepwell',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/Jhulta-img.jpg',
-                            name: 'Jhulta Minara',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/JhultaMinara',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/sabarmati-img.jpeg',
-                            name: 'Sabarmati Ashram',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/SabarmatiAshram',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/Museum-img.jpg',
-                            name: 'Auto World Vintage Car Museum',
-                            desc: '',
-                            routerLink: '/stores/AutoWorldVintageCarMuseum',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/kankaria-img.jpg',
-                            name: 'Kankaria Lake',
-                            desc: '',
-                            routerLink: '/stores/KankariaLake',
-                            extLink: ''
-                        }
                     ]
                 },
                 experiences: {
