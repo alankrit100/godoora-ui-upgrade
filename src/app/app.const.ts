@@ -39675,25 +39675,25 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/woodrose/sig_stay.jpg',
                             label: 'Book Your Stay',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: '/stores/'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/open_everyone.jpg',
                             label: 'Exceptional Dining Experiences',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: '/stores/'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/bake.jpg',
                             label: 'The Baking Company',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: '/stores/'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/indian_music.jpg',
                             label: 'Indian Music Experience',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: '/stores/'
                         }
                     ]
                 },
@@ -39874,7 +39874,7 @@
                             name: 'Morning Cycle Rides to Nandi Hills',
                             location: 'Refresh and Relax | Signature Club',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -39882,7 +39882,7 @@
                             name: 'Dinner Time',
                             location: 'Movie Screening | Signature Club',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -39890,7 +39890,7 @@
                             name: 'Celebrate special days at stud farms',
                             location: 'Kid Friendly | Birthdays',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -39898,7 +39898,7 @@
                             name: 'Online workshops',
                             location: 'Learn Cooking | Learn Cocktail Making',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -41516,7 +41516,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'See Namma Bengaluru',
+                            name: 'Day Outing for your Guest',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'brigade/corp_tour.png',
@@ -41525,12 +41525,14 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/outing1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/outing2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/outing3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Brigade luxury',
+                            name: 'Online Workshop',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'brigade/guest.png',
@@ -41539,7 +41541,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/work1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/work2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/work3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41553,7 +41557,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/vine.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/vine2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/vine3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41567,7 +41573,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/family1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/family2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/family3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41581,12 +41589,14 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/colo1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/colo2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/colo3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Heritage South Bangalore Walk',
+                            name: 'Heritage Bangalore Walk',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'brigade/gathering.png',
@@ -41595,7 +41605,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/heritage1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/heritage2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/heritage3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41609,7 +41621,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/old1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/old2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/old3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41623,7 +41637,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/bespoke1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/bespoke2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/bespoke3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41637,7 +41653,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/nandi1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/nandi2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/nandi3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41651,7 +41669,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cycle1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cycle2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cycle3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41665,7 +41685,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/dinner1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/dinner2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/dinner3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41679,14 +41701,234 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/stud1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/stud2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/stud3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
                 },
                 {
-                    name: 'Online workshop',
+                    name: 'Unique HotelExperience',
+                    icon: 'brigade/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Cook with your Masterchef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/corp_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cook1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cook2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cook3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate special day with your loved ones',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/guest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/celebration1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/celebration2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/celebration3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Candle Light dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/corp_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/candle1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/candle2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/candle3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Kids Picnic',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/relaxing.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/kids1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/kids2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/kids3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Movie Screening with popcorn',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/movie1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/movie2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/movie3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Tedex Screening',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/gathering.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/tedex.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/tedex2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/tedex3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Chai pe charcha',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/chai1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/chai2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/chai3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Bespoke tours',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/bespoke1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/bespoke2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/bespoke3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learning Bkaing with our TBC specialist',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/hill.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/baking.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/baking2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/baking3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Photoshoot in club premise',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/motorbike.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/shoot1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/shoot2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/shoot3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Film Making workshop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/film1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/film2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/film3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Private Screening',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/private1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/private2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/private3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Event Screening from MLR',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/stand1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/stand2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/stand3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Hotel Offsprings',
                     icon: 'brigade/workshop.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -41694,7 +41936,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Learn DJ',
+                            name: 'The lawn Experience',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'brigade/dj.png',
@@ -41703,12 +41945,14 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cocktail1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cocktail2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/cocktail3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Learn cooking from Chef',
+                            name: 'School and college Event',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'brigade/cooking.png',
@@ -41717,12 +41961,14 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/school1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/school2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/school3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Learn bed making',
+                            name: 'Coporate and Healthcare Event',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'brigade/bed_making.png',
@@ -41731,14 +41977,32 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/healthcare1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/healthcare2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/healthcare3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        }
+                        },
+                        {
+                            name: 'Sponsored Event',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/bed_making.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/performance1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/performance2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/performance3.jfif' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },    
                     ]
                 },
                 {
-                    name: 'Hospitality Services',
+                    name: 'Hotel Services',
                     icon: 'brigade/hospitality.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -41755,7 +42019,9 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/center1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/center2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/center3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41769,7 +42035,9 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/catering1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/catering2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/catering3.jfif' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -41783,7 +42051,9 @@
                             placeholder: 'Ex: I would like to go for Belum caves',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/event1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/event2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/event3.jfif' }
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
@@ -41797,7 +42067,9 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/beauty1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/beauty2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/beauty3.jfif' }
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
@@ -41811,7 +42083,9 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/decor1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/decor2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/decor3.jfif' }
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
@@ -41825,7 +42099,9 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/corporate1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/corporate2.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/new+banglore/corporate3.jfif' }
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         }
@@ -43338,7 +43614,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/mantra5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43352,7 +43632,11 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/hampi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/hampi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/hampi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/hampi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/hampi5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43366,7 +43650,11 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/sri5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43380,7 +43668,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/layam5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -43394,14 +43686,18 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/New+fortune/aho5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
                 },
                 {
-                    name: 'Unique Clarks Inn experience',
+                    name: 'Unique Hotel experience',
                     icon: 'clarksinn/unique_exp.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -43418,7 +43714,7 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                               
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -168961,7 +169257,7 @@
             },
             offSeason: {
                 active: true,
-                heading: 'The season is almost here',
+                heading: 'The season is almost here'
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         },
