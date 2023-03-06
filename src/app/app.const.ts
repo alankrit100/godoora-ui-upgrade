@@ -29341,7 +29341,7 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/strems_canopy_dining.jpg',
                             name: 'Stars canopy dining experience',
                             desc: 'Dine under the stars with a personal chef & butler who look after your meal for the evening along with bonfire with live bar-be-que',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -29349,7 +29349,7 @@
                             name: 'Pasta on the way',
                             location: 'Pick up the fresh herbs and vegetable from our garden on your way to Jungle trek let your Chef and Butler carry the rest of ingredients and enjoy pasta during Lunch',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -29357,7 +29357,7 @@
                             name: 'Photo shoots in resort premise',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -29365,7 +29365,7 @@
                             name: 'Yoga and Meditation',
                             location: 'Yoga and meditation with some detox juices spread',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -29397,7 +29397,7 @@
                             name: 'Celebrate special day with your loved one',
                             location: 'Birthdays | Anniversaries',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/CandleLightOccasions_1',
                             extLink: ''
                         },
                         {
@@ -29413,7 +29413,7 @@
                             name: 'Family Pool Party',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/SwimmingClass_1',
                             extLink: ''
                         }
                     ]
@@ -29467,7 +29467,7 @@
                             name: 'Bamboo Craft Classes',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/DemoHotelService',
+                            routerLink: '/stores/CookeryClasses_1',
                             extLink: '',
                             btn: {
                                 extLink: '',
@@ -30762,6 +30762,79 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture5.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Learning Experiences',
+                    icon: 'fortunemoksha/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Cook With Chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for dharawi tour',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/cook1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/cook2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Guest Room Decoration with towel art & flowers',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'bollywood.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for bollywood tour',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/guestroomd1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/guestroomd2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/guestroomd3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Puppet making workshop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'food_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a food tour?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/puppet1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/puppet2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/puppet3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Bamboo Craft Classes',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemoksha/cultural.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to book a food tour?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/Bamboo1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/Bamboo2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/Bamboo3.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         }
