@@ -39707,7 +39707,7 @@
                             name: 'Cook with our Master Chef',
                             location: 'Learn from the best',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookwithyourMasterchef',
                             extLink: ''
                         },
                         {
@@ -39715,7 +39715,7 @@
                             name: 'Celebrate special day with your loved one',
                             location: 'Birthdays | Anniversaries',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Celebratespecialdaywithyourlovedones',
                             extLink: ''
                         },
                         {
@@ -39723,7 +39723,7 @@
                             name: 'Candle light dinner',
                             location: 'Flowers, candles and white wine... Perfect night in!',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightdinner_16',
                             extLink: ''
                         },
                         {
@@ -39731,7 +39731,7 @@
                             name: 'Kids picnic',
                             location: 'Time to pack up your picnic basket with our kid-friendly items and soak up some sun',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KidsPicnic_1',
                             extLink: ''
                         },
                         {
@@ -39747,7 +39747,7 @@
                             name: 'Tedex Screenings',
                             location: 'Love TED Talks? Then why not consider hosting your very own TEDx event?',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TedexScreening_2',
                             extLink: ''
                         },
                         {
@@ -39755,7 +39755,7 @@
                             name: 'Chai Pe Charcha',
                             location: 'Social Clubs | Same Interest Groups',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Chaipecharcha_1',
                             extLink: ''
                         },
                         {
@@ -39763,7 +39763,7 @@
                             name: 'Learn baking with our TBC specialists',
                             location: 'Incredible baking learning experience through our experts',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LearningBkaingwithourTBCspecialist',
                             extLink: ''
                         },
                         {
@@ -39771,7 +39771,7 @@
                             name: 'Photo shoots in club premise',
                             location: 'Wedding Photoshoot | Baby shoot | Family Photoshoot',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Photoshootinclubpremise',
                             extLink: ''
                         },
                         {
@@ -39779,7 +39779,7 @@
                             name: 'Film making workshop',
                             location: 'Fun | Learning',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FilmMakingworkshop_2',
                             extLink: ''
                         },
                         {
@@ -39787,7 +39787,7 @@
                             name: 'Private screening',
                             location: 'Sports | Movie | Standup',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivateScreening_2',
                             extLink: ''
                         },
                         {
@@ -39795,7 +39795,7 @@
                             name: 'Event screening from MLR',
                             location: 'TedEx | Standup Comedy | Music Nights',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EventScreeningfromMLR_2',
                             extLink: ''
                         }
                     ]
@@ -39810,7 +39810,7 @@
                             name: 'Day outing for your guests',
                             location: 'Experience Bengaluru | Brigade Hospitality Care',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DayOutingforyourGuest',
                             extLink: ''
                         },
                         {
@@ -39818,7 +39818,7 @@
                             name: 'Vineyard tour at Devanahalli',
                             location: 'Family Fun | Day Tour',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/VineyardtouratDevanahalli_3',
                             extLink: ''
                         },
                         {
@@ -39826,7 +39826,7 @@
                             name: 'Pick fresh farm vegetables & cook with a chef',
                             location: 'Family Fun | | Signature Club',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Pickfreshfarmvegetables_1',
                             extLink: ''
                         },
                         {
@@ -39834,7 +39834,7 @@
                             name: 'Colonial Bangalore walk',
                             location: 'Colonial Connections | British Raj',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ColonialBangalorewalk_1',
                             extLink: ''
                         },
                         {
@@ -39842,7 +39842,7 @@
                             name: 'Heritage Bangalore Walk',
                             location: 'Stories of century old structures',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HeritageBangaloreWalk',
                             extLink: ''
                         },
                         {
@@ -39850,7 +39850,7 @@
                             name: 'Old Bangalore walk',
                             location: 'PETE | Markets | Culture',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OldBangalorewalk_1',
                             extLink: ''
                         },
                         {
@@ -39858,7 +39858,7 @@
                             name: 'Bespoke tours',
                             location: 'Reunion | Sports groups',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bespoketours_3',
                             extLink: ''
                         },
                         {
@@ -39866,7 +39866,7 @@
                             name: 'Hilltop picnic at Nandi Hills',
                             location: 'Pick Brigade Picnic baskets',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HilltoppicnicatNandiHills_3',
                             extLink: ''
                         },
                         {
@@ -39874,7 +39874,7 @@
                             name: 'Morning Cycle Rides to Nandi Hills',
                             location: 'Refresh and Relax | Signature Club',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MorningCycleRidestoNandiHills_1',
                             extLink: ''
                         },
                         {
@@ -39882,7 +39882,7 @@
                             name: 'Dinner Time',
                             location: 'Movie Screening | Signature Club',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DinnerTime_1',
                             extLink: ''
                         },
                         {
@@ -39890,7 +39890,7 @@
                             name: 'Celebrate special days at stud farms',
                             location: 'Kid Friendly | Birthdays',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Celebratebirthdaysatstudfarms_1',
                             extLink: ''
                         },
                         {
@@ -39912,7 +39912,7 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/conven.jpg',
                             name: 'Convention Centre',
                             desc: 'Weddings | Conferences and Conventions',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Celebratebirthdaysatstudfarms_1',
                             extLink: ''
                         },
                         {
@@ -39920,42 +39920,42 @@
                             name: 'Banquet Hall',
                             location: 'Meetings | Parties',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ConventionCentre_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/catering.jpg',
                             name: 'Catering',
                             desc: 'Surprise birthday gift for family',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Catering_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/eventm.jpg',
                             name: 'Event Management',
                             desc: ' Wedding | Corporate Events',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EventManagement_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/beauty.jpg',
                             name: 'Beauty care',
                             desc: 'Special wedding packages',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Beautycare_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/decor.jpg',
                             name: 'Decor',
                             desc: 'One-of-a-kind decorations',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Decor_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/corpevent.jpg',
                             name: 'Corporate event management',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Corporateeventmanagement_3',
                             extLink: ''
                         }
                     ]
@@ -42711,13 +42711,13 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/dining_e.jpg',
                             label: 'Dining Experience',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: '/stores/'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/triguna.jpg',
                             label: 'Invest Properties',
                             extLink: '',
-                            routerLink: '/stores/DemoHotelService'
+                            routerLink: '/stores/'
                         }
                     ]
                 },
@@ -42731,7 +42731,7 @@
                             name: 'Mantralayam-Srisailam spiritual tour',
                             location: 'Temples | Dam | Wildlife | Ropeway',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MantralayamSrisailamspiritualtour_1',
                             extLink: ''
                         },
                         {
@@ -42739,7 +42739,7 @@
                             name: 'Hampi via Kurnool',
                             location: 'Stay at ClarksInn | ClarksInn Hampi | ClarksInn Kurnool',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HampiviaKurnool_1',
                             extLink: ''
                         },
                         {
@@ -42747,7 +42747,7 @@
                             name: 'Ahobalim-Yaganti-Mahanandi',
                             location: 'Temples | Day Tour',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AhobalimYagantiMahanandi_1',
                             extLink: ''
                         },
                         {
@@ -42755,7 +42755,7 @@
                             name: 'Srisailam day tour',
                             location: 'Temples |  Dam | Wildlife | Ropeway',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Srisailamdaytour_1',
                             extLink: ''
                         },
                         {
@@ -42763,7 +42763,7 @@
                             name: 'Mantralayam day tour',
                             location: 'Temples |  Day Tour',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Mantralayamdaytour_1',
                             extLink: ''
                         }
                     ]
@@ -42778,7 +42778,7 @@
                             name: 'Celebrate special days with us',
                             location: 'Kids Party | Weddings | Anniversaries',
                             views: 'Enjoy our great service',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Celebratespecialdaywithus',
                             extLink: ''
                         },
                         {
@@ -42786,7 +42786,7 @@
                             name: 'Sunday Buffet',
                             location: 'Buffet',
                             views: 'Enjoy our great service',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SundayBuffet_2',
                             extLink: ''
                         },
                         {
@@ -42794,7 +42794,7 @@
                             name: 'Online workshops',
                             location: 'One of a kind activities hosted online',
                             views: 'Learn Cooking | Learn Cocktail Making',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OnlineWorkshop',
                             extLink: ''
                         },
                         {
@@ -42802,7 +42802,7 @@
                             name: 'Access hotel without sleeping there',
                             location: 'Spa | Book a table | Banquet hall',
                             views: 'Enjoy our great service',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AccessHotelwithsleepingthere',
                             extLink: ''
                         }
                     ]
@@ -42816,28 +42816,28 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/day_tour.jpg',
                             name: 'Kurnool Day Tour',
                             desc: 'Konda Reddy Fort | Belum Caves | Kethavaram Rock Gardens',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KurnoolDayTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/konda_fort.jpg',
                             name: 'Konda Reddy Fort',
                             desc: 'Day Tour',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KondaReddyFort_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/cave.jpg',
                             name: 'Belum Caves',
                             desc: 'Day Tour',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BelumCaves_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/rock_garden.jpg',
                             name: 'Kethavaram Rock Gardens',
                             desc: 'Day Tour',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KethavaramRockGardens_1',
                             extLink: ''
                         }
                     ]
@@ -42851,35 +42851,35 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/tungabhadra.jpg',
                             name: 'By The Tungabhadra',
                             desc: 'Hyderabad to Kurnool RoadTrip | Night stay at Kurnool ClarksInn',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ByTheTungabhadra_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/rejuvenate.jpg',
                             name: 'Spa - Rejuvenate & Drive',
                             desc: 'Take a short break at our spa',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Rejuvenate&Drive_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/short_stay.jpg',
                             name: 'Day stay',
                             desc: 'Relax and unwind on highway',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Daystayrelax_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/bike.jpg',
                             name: 'For the Bikers',
                             desc: 'Group stay | Beds',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Forthebikers_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/caravan.jpg',
                             name: 'Car Pit Stop',
                             desc: 'Safe Parking | Nap a car | Toilets',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CarPitStop_1',
                             extLink: ''
                         }
                     ]
