@@ -136324,7 +136324,7 @@
                             name: 'Baby-sitting Service',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Babysittingservices',
                             extLink: ''
                         },
                         {
@@ -136332,7 +136332,7 @@
                             name: 'Airport Transfer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Airporttransfers',
                             extLink: ''
                         },
                         {
@@ -136340,7 +136340,7 @@
                             name: 'Safe Deposit Vault in the Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SafeDepositVaultintheRoom',
                             extLink: ''
                         },
                         {
@@ -136348,7 +136348,7 @@
                             name: 'Currency Exchange',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CurrencyExchange_3',
                             extLink: ''
                         },
                     ]
@@ -136363,7 +136363,7 @@
                             name: 'Gardenia',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Zodiac_5',
+                            routerLink: '/stores/Gardenia',
                             extLink: ''
                         },
                     ]
