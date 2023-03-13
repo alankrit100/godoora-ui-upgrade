@@ -55745,6 +55745,16 @@
                     ]
                 },
                 {
+                    name: 'Services',
+                    icon: 'fortunemoksha/service.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/New+Set+Service+Directory.pdf',
+                    services: [    
+                    ]
+                },
+                {
                     name: 'In-house Experience',
                     icon: 'fortunemoksha/house.png',
                     size: '64px',
