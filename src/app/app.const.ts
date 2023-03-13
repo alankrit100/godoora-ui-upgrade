@@ -140896,7 +140896,7 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/land.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/trip.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
@@ -140906,9 +140906,14 @@
                             subHeading: 'Experience | Hospitality | Memories'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/land2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/celebrate.jpg',
                             heading: 'Celebrate your dream day with us',
                             subHeading: 'Birthdays | Wedding | Anniversary'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/HomePage.jpg',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail uniquee offers and benefits curated especially for you'
                         }
                     ]
                 },
@@ -141880,7 +141885,7 @@
                 },
                 {
                     name: 'Open For Everyone',
-                    icon: 'orchid/restaurant.png',
+                    icon: 'royal/open.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -142002,7 +142007,7 @@
                 },
                 {
                     name: 'Unique Dining Experiences',
-                    icon: 'orchid/dining.png',
+                    icon: 'royal/bar-counter1.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -142124,7 +142129,7 @@
                 },
                 {
                     name: 'Unique Royal Orchid Experiences',
-                    icon: 'orchid/unique_exp.png',
+                    icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -142420,7 +142425,7 @@
                 },
                 {
                     name: 'Royal Orchid Group Offers',
-                    icon: 'royal/price-tag',
+                    icon: 'royal/price-tag.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
