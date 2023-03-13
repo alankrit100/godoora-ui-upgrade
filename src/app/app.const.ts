@@ -90445,7 +90445,7 @@
                         },
                         {
                             name: 'ORCHID',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/rest+menu/ORCHID+FAJ-+JALANDHAR+MENU+.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/rest+menu/ORCHID+FAJ-+JALANDHAR+MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
