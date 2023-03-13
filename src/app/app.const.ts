@@ -54480,7 +54480,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/victoire.jpg',
-                            heading: 'A trip that will fulfil your dream list’',
+                            heading: 'A trip that will fulfil your dream list',
                             subHeading: 'Art & Culture | Mountains | Serene Beauty'
                         },
                         {
@@ -55745,14 +55745,12 @@
                     ]
                 },
                 {
-                    name: 'Services',
+                    name: 'Services Directory',
                     icon: 'fortunemoksha/service.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/New+Set+Service+Directory.pdf',
-                    services: [    
-                    ]
                 },
                 {
                     name: 'In-house Experience',
