@@ -143602,6 +143602,33 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
+                            name: 'Diy Meal kits',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/meals.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },{
+                            name: 'Banquet Hall Booking',
+                            extLink: '',
+                            routerLink: '/stores/BanquetHallBooking',
+                            icon: 'royal/wedding.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'Food Delivery - 9th Mile Dhaba',
                             extLink: 'https://www.royalorchid-9thmiledhaba.goyaana.com/',
                             routerLink: '',
@@ -145166,7 +145193,34 @@
                             ],
                             confirmBtnLabel: 'Book the table'
                         },
-                        
+                        {
+                            name: 'Banquet Hall Booking',
+                            extLink: '',
+                            routerLink: '/stores/BanquetHallBooking',
+                            icon: 'royal/wedding.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Diy Meal kits',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/meals.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                         {
                             name: 'Sunday Brunch & Magician',
                             extLink: '',
