@@ -140948,8 +140948,8 @@
                             routerLink: '/by-admin/262'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.jpg',
-                            label: 'Offers & Upgrads',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            label: 'Offers & Upgrades',
                             extLink: '',
                             routerLink: '/coming-soon'
                         },
@@ -141853,7 +141853,7 @@
                             name: 'Kids meals',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/Kids meals.png',
+                            icon: 'royal/meals.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'placeholder',
@@ -141947,38 +141947,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Swimming Pool',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
                             name: 'Yoga and Meditation',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/lotus.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Gym',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/fitnes.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -142015,7 +141987,36 @@
 
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        }
+                        },
+                        {
+                            name: 'Food Delivery - 9th Mile Dhaba',
+                            extLink: 'https://www.royalorchid-9thmiledhaba.goyaana.com/',
+                            routerLink: '',
+                            icon: 'royal/meals.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch & Magician',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/magician.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'placeholder',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImg: 'bed.png'
+                        },
                     ]
                 },
                 {
@@ -142612,8 +142613,8 @@
                             routerLink: '/by-admin/262'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/for_store.jpg',
-                            label: 'Offer & Upgrads',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            label: 'Offer & Upgrades',
                             extLink: '',
                             routerLink: '/coming-soon'
                         },
@@ -143587,20 +143588,6 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Swimming Pool',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
                             name: 'Yoga and Meditation',
                             extLink: '',
                             routerLink: 'test',
@@ -143615,10 +143602,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Gym',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/fitnes.png',
+                            name: 'Food Delivery - 9th Mile Dhaba',
+                            extLink: 'https://www.royalorchid-9thmiledhaba.goyaana.com/',
+                            routerLink: '',
+                            icon: 'royal/meals.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -143627,7 +143614,22 @@
 
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        }
+                        },
+                        {
+                            name: 'Sunday Brunch & Magician',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/magician.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'placeholder',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImg: 'bed.png'
+                        },
                     ]
                 },
                 {
@@ -144196,8 +144198,8 @@
                             routerLink: '/by-admin/339'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/for_store.jpg',
-                            label: 'Offer & Upgrads',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            label: 'Offer & Upgrades',
                             extLink: '',
                             routerLink: '/coming-soon'
                         },
@@ -145163,7 +145165,37 @@
 
                             ],
                             confirmBtnLabel: 'Book the table'
-                        }
+                        },
+                        
+                        {
+                            name: 'Sunday Brunch & Magician',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/magician.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'placeholder',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImg: 'bed.png'
+                        },
+                        {
+                            name: 'Food Delivery - 9th Mile Dhaba',
+                            extLink: 'https://www.royalorchid-9thmiledhaba.goyaana.com/',
+                            routerLink: '',
+                            icon: 'royal/meals.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                     ]
                 },
                 {
