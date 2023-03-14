@@ -55533,7 +55533,7 @@
                         {
                             name: 'Service Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/Directory.pdf',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'royal/workshop1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
