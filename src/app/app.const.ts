@@ -142607,7 +142607,7 @@
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/open_everyone.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
                             label: 'Open For Locals',
                             extLink: '',
                             routerLink: '/by-admin/262'
@@ -144219,7 +144219,7 @@
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/open_everyone.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
                             label: 'Open For Locals',
                             extLink: '',
                             routerLink: '/by-admin/339'
