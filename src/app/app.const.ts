@@ -55523,6 +55523,29 @@
                     ]
                 },
                 {
+                    name: 'Service',
+                    icon: 'royal/workshop1.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/Directory.pdf',
+                            routerLink: 'test',
+                            icon: 'royal/workshop1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
                     name: 'Experience',
                     icon: 'fortunemoksha/experience.png',
                     size: '64px',
@@ -55743,14 +55766,6 @@
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
-                },
-                {
-                    name: 'Services Directory',
-                    icon: 'fortunemoksha/service.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+mcleodganj/New+Set+Service+Directory.pdf',
                 },
                 {
                     name: 'In-house Experience',
