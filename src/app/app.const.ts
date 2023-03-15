@@ -144061,9 +144061,11 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/joecons1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/joecons2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/joecons3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Early Bird Meal Offer',
@@ -144075,9 +144077,11 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/early2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/early1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/early3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Happy hour in SPA',
@@ -144089,9 +144093,11 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/spa3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }, {
                             name: 'Get Mocktail Offer',
                             extLink: '',
@@ -144107,7 +144113,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/personlised3.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Dessert for 2 Offer',
@@ -144124,7 +144129,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/chef3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Pool Table Offer',
@@ -144136,9 +144140,11 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/pool3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Air Hockey Offer',
@@ -144153,11 +144159,9 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage3.jpg' }
-
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
+                         }
                     ]
                 },
                 {
