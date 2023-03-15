@@ -138070,7 +138070,7 @@
                             name: 'Neptune bar and Lounge',
                             location: '',
                             views: 'Buy Authentic Local Products from Trusted Vendors',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NeptunebarandLounge_2',
                             extLink: ''
                         },
                         {
@@ -138078,7 +138078,7 @@
                             name: 'Rangoli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Rangoli_2',
                             extLink: ''
                         },
                         {
@@ -138086,7 +138086,7 @@
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Zodiac_6',
                             extLink: ''
                         },
                     ]
@@ -139998,7 +139998,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: 'Buy Authentic Local Products from Trusted Vendors',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_36',
                             extLink: ''
                         },
                         {
@@ -140006,7 +140006,7 @@
                             name: 'Gymnasium',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gymnasium_4',
                             extLink: ''
                         },
                         {
@@ -140014,7 +140014,7 @@
                             name: 'Buffet Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BuffetBreakfast',
                             extLink: ''
                         },
                         {
@@ -140022,7 +140022,7 @@
                             name: 'In house laundry',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Inhouselaundry_2',
                             extLink: ''
                         },
                         {
@@ -140030,7 +140030,7 @@
                             name: 'Electronic safe',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Electronicsafe_1',
                             extLink: ''
                         },
                         {
@@ -140038,7 +140038,7 @@
                             name: 'In room- Mini bar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/InroomMinibar',
                             extLink: ''
                         },
                         {
@@ -140046,7 +140046,7 @@
                             name: 'Conference hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Conferencehall',
                             extLink: ''
                         },
                     ]
@@ -140061,7 +140061,7 @@
                             name: 'Sky Dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SkyDining',
                             extLink: ''
                         },
                         {
@@ -140069,7 +140069,7 @@
                             name: 'Neptune Bar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NeptuneBar_3',
                             extLink: ''
                         },
                         {
@@ -140077,7 +140077,7 @@
                             name: 'Fortune Deli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FortuneDeli_6',
                             extLink: ''
                         },
                         {
@@ -140085,7 +140085,7 @@
                             name: 'Orchid- The Multi cuisine restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OrchidTheMulticuisinerestaurant',
                             extLink: ''
                         },
                     ]
@@ -140100,7 +140100,7 @@
                             name: 'Famous Temples',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FamousTemples',
                             extLink: ''
                         },
                         {
@@ -140108,7 +140108,7 @@
                             name: 'Picnic spot (Mordhana dam)',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Picnicspot(Mordhanadam)',
                             extLink: ''
                         },
                         {
@@ -140116,14 +140116,14 @@
                             name: 'Vellore Fort',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/VelloreFort',
                             extLink: ''
                         }, {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Raja.jpg',
                             name: 'Raja Spiritual Pvt Ltd',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RajaSpiritualPvtLtd',
                             extLink: ''
                         },
                         {
@@ -140131,7 +140131,7 @@
                             name: 'Zoological Park',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ZoologicalPark',
                             extLink: ''
                         },
                         {
@@ -140139,7 +140139,7 @@
                             name: 'Lakes',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Lakes',
                             extLink: ''
                         },
                     ]
@@ -141468,7 +141468,7 @@
                             name: 'Baby sitting facility',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vallore/sitting.png',
+                            icon: 'Vellore/sitting.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -141481,7 +141481,7 @@
                             name: 'Valet service',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vallore/valet.png',
+                            icon: 'Vellore/valet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -141494,7 +141494,7 @@
                             name: 'Travel assistance',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vallore/travel-agency.png',
+                            icon: 'Vellore/travel-agency.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -141507,7 +141507,7 @@
                             name: '24 hour currency exchange',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vallore/exchanging.png',
+                            icon: 'Vellore/exchanging.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -141520,7 +141520,7 @@
                             name: 'Luggage racks',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vallore/suitcase.png',
+                            icon: 'Vellore/suitcase.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -141865,7 +141865,7 @@
                             name: 'Aqua Grill',
                             location: '',
                             views: 'Buy Authentic Local Products from Trusted Vendors',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AquaGrill',
                             extLink: ''
                         },
                         {
@@ -141873,7 +141873,7 @@
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Zodiac_7',
                             extLink: ''
                         },
                     ]
@@ -141888,7 +141888,7 @@
                             name: 'Fully equipped business center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Fullyequippedbusinesscenter_1',
                             extLink: ''
                         },
                         {
@@ -141896,7 +141896,7 @@
                             name: 'Health club offerings- spa, massage, gym',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Healthclubofferingsspamassagegym',
                             extLink: ''
                         },
                         {
@@ -141904,7 +141904,7 @@
                             name: 'Roof-top swimming pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Rooftopswimmingpool',
                             extLink: ''
                         },
                         {
@@ -141912,7 +141912,7 @@
                             name: 'Buffet breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Buffetbreakfast_1',
                             extLink: ''
                         },
                     ]
@@ -141923,42 +141923,42 @@
                     desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Temples.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Cosmos+Bangalore/Nandi-Winery.jpg',
                             name: 'Nandi Valley Winery',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NandiValleyWinery',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Picnic.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Cosmos+Bangalore/nandi-hills.jpg',
                             name: 'Nandi Hills',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NandiHills_4',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Vellore-Fort.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Cosmos+Bangalore/Cubbon-Park.jpg',
                             name: 'Cubbon Park',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CubbonPark',
                             extLink: ''
                         }, {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Raja.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Cosmos+Bangalore/isha.jpg',
                             name: 'Chikbellapur- Isha Fondation',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ChikbellapurIshaFondation',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/ZoologicalPark.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Cosmos+Bangalore/wonderla.jpg',
                             name: 'Amusement Park- Wonderla',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AmusementParkWonderla',
                             extLink: ''
                         },
                     ]
