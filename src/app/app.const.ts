@@ -143296,7 +143296,7 @@
             }
         },
         {
-            branch: 'SHIMLA',
+            branch: 'Shimla',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FORTUNE+PARK+KUFRI%2C+SHIMLA/FORTUNE+PARK+KUFRI%2C+SHIMLA.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -144846,7 +144846,7 @@
                     icon: 'fortunemoksha/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '/by-admin/1032',
+                    routerLink: 'test',
                     extLink: '',
                     services: [
                         {
@@ -144908,7 +144908,7 @@
                     icon: 'dharmshala/dining-table.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '/by-admin/1033',
+                    routerLink: 'test',
                     extLink: '',
                     services: [
                         {
@@ -144944,7 +144944,7 @@
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '/by-admin/998',
+                    routerLink: 'test',
                     extLink: '',
                     services: [
                         {
