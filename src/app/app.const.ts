@@ -88674,11 +88674,11 @@
                             extLink: '',
                         },    
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Beer.jpeg',
-                            name: 'Buy 2 beer and get 1 free',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Mid-Night1.jpg',
+                            name: 'Mid Night Meal',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Buy02beerget01beerfree_10',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -88690,11 +88690,11 @@
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/ComboOffer.jpg',
-                            name: 'Combo Offer Spa + Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal1.jpeg',
+                            name: 'Mast Mangal',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ComboOfferSpaDinner_3',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -88719,24 +88719,10 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Sunday_Brunch_logo.jpg',
-                            name: 'Sunday Brunch',
-                            desc: '',
-                            routerLink: '/stores/SundayBrunch_12',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
                             name: 'Customised House Party',
                             desc: '',
                             routerLink: '/stores/CustomisedHouseParty_3',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/guidedYoga.jpg',
-                            name: 'guided Yoga experience',
-                            desc: '',
-                            routerLink: '/stores/guidedYogaexperience_3',
                             extLink: ''
                         },
                         {
@@ -90494,23 +90480,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
                             ]
                         },
-                        {
-                            name: 'Dining Facilities',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/ORCHID++.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/serving-dish.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        }
                     ]
                 },
                 {
@@ -90665,18 +90634,18 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Buy 02 beer get 01 beer free',
+                            name: 'Mid Night Meal',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'dharmshala/beer.png',
+                            icon: 'Vijaywadaicons/dinning.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
+                            placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer3.jpg' }  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Mid-Night1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Mid-Night2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Mid-Night3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -90702,7 +90671,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Combo Offer Spa + Dinner',
+                            name: 'Mast Mangal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Vijaywadaicons/Combo.png',
@@ -90711,9 +90680,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
