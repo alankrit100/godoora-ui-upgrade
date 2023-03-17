@@ -88678,7 +88678,7 @@
                             name: 'Mid Night Meal',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MidNightMeal',
                             extLink: ''
                         },
                         {
@@ -88694,7 +88694,7 @@
                             name: 'Mast Mangal',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MastMangal',
                             extLink: ''
                         }
                     ]
