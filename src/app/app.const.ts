@@ -52372,6 +52372,2722 @@
                 heading: 'The season is almost here',
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
+        },
+        {
+            branch: 'Brigade Hospitality',
+            branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
+            id: 'demohotel-experiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/brigade_logo.png',
+            theme: 'grey-theme',
+            idCategory: 9,
+            displayProperty: false,
+            favIconLink: 'assets/icon/favicon.png',
+            title: 'Brigade Hospitality Experiences',
+            storeImg: 'social2.jpg',
+            label: 'Hotel Admin', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: ''
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: ''
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'https://brigadehospitality.com'
+                },
+                feedBackEmail: 'info@brigadehospitality.com'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/brigadec.jpg',
+                            heading: 'An experience that you will cherish forever',
+                            subHeading: 'Experience | Hospitality | Memories'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/brigadew.jpg',
+                            heading: 'Celebrate your dream day with us',
+                            subHeading: 'Birthdays | Wedding | Anniversary'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/brigade.jpg',
+                            heading: 'Finest services & facilities crafted for your comfort',
+                            subHeading: ''
+                        }
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'The Brigade Hospitality Experience',
+                    desc: `At Brigade Hospitality you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Bangalore. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/woodrose/sig_stay.jpg',
+                            label: 'Book Your Stay',
+                            extLink: '',
+                            routerLink: '/by-admin/351'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/open_everyone.jpg',
+                            label: 'Exceptional Dining Experiences',
+                            extLink: '',
+                            routerLink: '/by-admin/352'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/bake.jpg',
+                            label: 'The Baking Company',
+                            extLink: '',
+                            routerLink: '/by-admin/353'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/indian_music.jpg',
+                            label: 'Indian Music Experience',
+                            extLink: '',
+                            routerLink: '/by-admin/354'
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Unique Brigade Hospitality Experiences',
+                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/cook_chef.jpg',
+                            name: 'Cook with our Master Chef',
+                            location: 'Learn from the best',
+                            views: '',
+                            routerLink: '/stores/CookwithourMasterChef_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/birthday.jpg',
+                            name: 'Celebrate special day with your loved one',
+                            location: 'Birthdays | Anniversaries',
+                            views: '',
+                            routerLink: '/stores/Celebratespecialdaywithyourlovedone_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/raja_rani.jpg',
+                            name: 'Candle light dinner',
+                            location: 'Flowers, candles and white wine... Perfect night in!',
+                            views: '',
+                            routerLink: '/stores/Romanticcandlelightdinner_3',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/kidspicnic.jpg',
+                            name: 'Kids picnic',
+                            location: 'Time to pack up your picnic basket with our kid-friendly items and soak up some sun',
+                            views: '',
+                            routerLink: '/stores/Kidspicnic',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/woodrose/movie_screen.jpg',
+                            name: 'Movie screening with popcorn',
+                            location: 'Feast your taste buds on the crisp kernels while your eyes feast on the big screen',
+                            views: '',
+                            routerLink: '/stores/Moviescreeningwithpopcorn_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/woodrose/tedex.jpg',
+                            name: 'Tedex Screenings',
+                            location: 'Love TED Talks? Then why not consider hosting your very own TEDx event?',
+                            views: '',
+                            routerLink: '/stores/TedexScreening_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/chai.jpg',
+                            name: 'Chai Pe Charcha',
+                            location: 'Social Clubs | Same Interest Groups',
+                            views: '',
+                            routerLink: '/stores/ChaiPeCharcha',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/bake.jpg',
+                            name: 'Learn baking with our TBC specialists',
+                            location: 'Incredible baking learning experience through our experts',
+                            views: '',
+                            routerLink: '/stores/LearnBaking',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/photoshoot.jpg',
+                            name: 'Photo shoots in club premise',
+                            location: 'Wedding Photoshoot | Baby shoot | Family Photoshoot',
+                            views: '',
+                            routerLink: '/stores/Photoshootsinclubpremise_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Regent/film_making.jpg',
+                            name: 'Film making workshop',
+                            location: 'Fun | Learning',
+                            views: '',
+                            routerLink: '/stores/Filmmakingworkshop_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Regent/pri_screen.jpg',
+                            name: 'Private screening',
+                            location: 'Sports | Movie | Standup',
+                            views: '',
+                            routerLink: '/stores/PrivateScreening_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/woodrose/event_screen.jpg',
+                            name: 'Event screening from MLR',
+                            location: 'TedEx | Standup Comedy | Music Nights',
+                            views: '',
+                            routerLink: '/stores/EventScreeningfromMLR_1',
+                            extLink: ''
+                        }
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Bengaluru Experiences',
+                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. We want to give you every possible experience that you will cherish for a long time!.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/luxury.jpg',
+                            name: 'Day outing for your guests',
+                            location: 'Experience Bengaluru | Brigade Hospitality Care',
+                            views: '',
+                            routerLink: '/stores/Brigadeluxury',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/devnahalli.jpg',
+                            name: 'Vineyard tour at Devanahalli',
+                            location: 'Family Fun | Day Tour',
+                            views: '',
+                            routerLink: '/stores/VineyardtouratDevanahalli_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/pick_farm.jpg',
+                            name: 'Pick fresh farm vegetables & cook with a chef',
+                            location: 'Family Fun | | Signature Club',
+                            views: '',
+                            routerLink: '/stores/Pickfreshfarmvegetables',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/colonial_walk.jpg',
+                            name: 'Colonial Bangalore walk',
+                            location: 'Colonial Connections | British Raj',
+                            views: '',
+                            routerLink: '/stores/ColonialBangalorewalk',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/heritage_walk.jpg',
+                            name: 'Heritage Bangalore Walk',
+                            location: 'Stories of century old structures',
+                            views: '',
+                            routerLink: '/stores/HeritageSouthBangaloreWalk',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/old_bang.jpg',
+                            name: 'Old Bangalore walk',
+                            location: 'PETE | Markets | Culture',
+                            views: '',
+                            routerLink: '/stores/OldBangalorewalk',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/bytour.jpg',
+                            name: 'Bespoke tours',
+                            location: 'Reunion | Sports groups',
+                            views: '',
+                            routerLink: '/stores/Bespoketours',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/nandi.jpg',
+                            name: 'Hilltop picnic at Nandi Hills',
+                            location: 'Pick Brigade Picnic baskets',
+                            views: '',
+                            routerLink: '/stores/HilltoppicnicatNandiHills_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/cycle.jpg',
+                            name: 'Morning Cycle Rides to Nandi Hills',
+                            location: 'Refresh and Relax | Signature Club',
+                            views: '',
+                            routerLink: '/stores/MorningCycleRidestoNandiHills',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/barbeque.jpg',
+                            name: 'Dinner Time',
+                            location: 'Movie Screening | Signature Club',
+                            views: '',
+                            routerLink: '/stores/DinnerTime',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/stud.jpg',
+                            name: 'Celebrate special days at stud farms',
+                            location: 'Kid Friendly | Birthdays',
+                            views: '',
+                            routerLink: '/stores/Celebratebirthdaysatstudfarms',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/online.jpg',
+                            name: 'Online workshops',
+                            location: 'Learn Cooking | Learn Cocktail Making',
+                            views: '',
+                            routerLink: '/by-admin/357',
+                            extLink: ''
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Brigade Hospitality Services',
+                    desc: 'We offer a wide range of services including catering, wedding planning, banquets, corporate event management and much more. All you have to do is sit back, rejoice and leave the rest to us.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/conven.jpg',
+                            name: 'Convention Centre',
+                            desc: 'Weddings | Conferences and Conventions',
+                            routerLink: '/stores/ConventionCentre_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Regent/banquet_hall.jpg',
+                            name: 'Banquet Hall',
+                            location: 'Meetings | Parties',
+                            views: '',
+                            routerLink: '/stores/BanquetHall_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/catering.jpg',
+                            name: 'Catering',
+                            desc: 'Surprise birthday gift for family',
+                            routerLink: '/stores/Catering_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/eventm.jpg',
+                            name: 'Event Management',
+                            desc: ' Wedding | Corporate Events',
+                            routerLink: '/stores/EventManagement_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/beauty.jpg',
+                            name: 'Beauty care',
+                            desc: 'Special wedding packages',
+                            routerLink: '/stores/Beautycare_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/decor.jpg',
+                            name: 'Decor',
+                            desc: 'One-of-a-kind decorations',
+                            routerLink: '/stores/Decor_2',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/corpevent.jpg',
+                            name: 'Corporate event management',
+                            desc: '',
+                            routerLink: '/stores/Corporateeventmanagement_2',
+                            extLink: ''
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Brigade Group Offerings',
+                    desc: 'There is no party or event too big or too small for us to handle. You come to us with an idea, no matter how out there and we’ll make it happen',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/lawn.jpg',
+                            name: 'The Lawn Experience',
+                            desc: ' Cocktail Dinner | Product launches',
+                            routerLink: '/by-admin/359',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/college.jpg',
+                            name: 'School & College Events',
+                            desc: '',
+                            routerLink: '/by-admin/360',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/corporate.jpg',
+                            name: 'Corporate & Healthcare Events',
+                            desc: 'Conferences | Team Workshops',
+                            routerLink: '/by-admin/361',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/performance.jpg',
+                            name: 'Sponsored Performances',
+                            desc: 'Theatre | Music | Standup Comedy',
+                            routerLink: '/stores/SponsoredPerformances_3',
+                            extLink: ''
+                        }
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: 'Behind the scenes',
+                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/sanitiz.jpg',
+                            videoId: 'P8rcjaXKUV8'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/cooking.jpg',
+                            videoId: 'VwUkoVEgT50'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/bday.jpg',
+                            videoId: 'br_wXnoJm8U'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/entertain.jpg',
+                            videoId: 'FlFoi3NbLhc'
+                        }
+                    ]
+                },
+                masonry: {
+                    active: true,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'Pick an experience that you love!',
+                    desc: 'These wide range of experiences cover every traveller persona so that you and your loved ones can learn, laugh and grow together!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/cook_chef.jpg',
+                            label: 'Cook with our Master Chef',
+                            extLink: '',
+                            routerLink: '/stores/CookwithourMasterChef_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/birthday.jpg',
+                            label: 'Celebrate special day',
+                            extLink: '',
+                            routerLink: '/stores/Celebratespecialdaywithyourlovedone_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/raja_rani.jpg',
+                            label: 'Candle light dinner',
+                            extLink: '',
+                            routerLink: '/stores/Romanticcandlelightdinner_3'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/kidspicnic.jpg',
+                            label: 'Kids Picnic',
+                            extLink: '',
+                            routerLink: '/stores/Kidspicnic'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/movie_screen.jpg',
+                            label: 'Movie screening with popcorn',
+                            extLink: '',
+                            routerLink: '/stores/Moviescreeningwithpopcorn_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/tedex.jpg',
+                            label: 'Tedex Screening',
+                            extLink: '',
+                            routerLink: '/stores/TedexScreening_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/chai.jpg',
+                            label: 'Chai Pe Charcha',
+                            extLink: '',
+                            routerLink: '/stores/ChaiPeCharcha'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/bake_183x276.jpg',
+                            label: 'Learn Baking',
+                            extLink: '',
+                            routerLink: '/stores/LearnBaking'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/photoshoot_183x276.jpg',
+                            label: 'Photo shoots in club premise',
+                            extLink: '',
+                            routerLink: '/stores/Photoshootsinclubpremise_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/banquet_hall_183x145.jpg',
+                            label: 'Banquet Hall',
+                            extLink: '',
+                            routerLink: '/stores/BanquetHall_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/film_making_183x145.jpg',
+                            label: 'Film making workshop',
+                            extLink: '',
+                            routerLink: '/stores/Filmmakingworkshop_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/pri_screen_183x276.jpg',
+                            label: 'PrivateScreening',
+                            extLink: '',
+                            routerLink: '/stores/PrivateScreening_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/event_screen_183x145.jpg',
+                            label: 'Event Screening from MLR',
+                            extLink: '',
+                            routerLink: '/stores/EventScreeningfromMLR_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/luxury_183x145.jpg',
+                            label: 'Brigade luxury',
+                            extLink: '',
+                            routerLink: '/stores/Brigadeluxury'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/devnahalli_183x145.jpg',
+                            label: 'Vineyard tour at Devanahalli',
+                            extLink: '',
+                            routerLink: '/stores/VineyardtouratDevanahalli_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/pick_farm_183x276.jpg',
+                            label: 'Pick fresh farm vegetables',
+                            extLink: '',
+                            routerLink: '/stores/Pickfreshfarmvegetables'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/colonial_walk_183x276.jpg',
+                            label: 'Colonial Bangalore walk',
+                            extLink: '',
+                            routerLink: '/stores/ColonialBangalorewalk'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/heritage_183x145.jpg',
+                            label: 'Heritage South Bangalore Walk',
+                            extLink: '',
+                            routerLink: '/stores/HeritageSouthBangaloreWalk'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/old_bang_183x145.jpg',
+                            label: 'Old Bangalore walk',
+                            extLink: '',
+                            routerLink: '/stores/OldBangalorewalk'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/bytour_183x276.jpg',
+                            label: 'Bespoke tours',
+                            extLink: '',
+                            routerLink: '/stores/Bespoketours'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/nandi_183x145.jpg',
+                            label: 'Hilltop picnic at NandiHills',
+                            extLink: '',
+                            routerLink: '/stores/HilltoppicnicatNandiHills_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/cycle_183x276.jpg',
+                            label: 'Morning Cycle Rides to NandiHills',
+                            extLink: '',
+                            routerLink: '/stores/MorningCycleRidestoNandiHills'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/barbeque_183x145.jpg',
+                            label: 'Dinner time',
+                            extLink: '',
+                            routerLink: '/stores/DinnerTime'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/stud_183x145.jpg',
+                            label: 'Celebrate birthdays at stud farms',
+                            extLink: '',
+                            routerLink: '/stores/Celebratebirthdaysatstudfarms'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/online_183x276.jpg',
+                            label: 'Online workshops',
+                            extLink: '',
+                            routerLink: '/by-admin/357'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/conven_183x276.jpg',
+                            label: 'Convention Centre',
+                            extLink: '',
+                            routerLink: '/stores/ConventionCentre_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/catering_183x145.jpg',
+                            label: 'Catering',
+                            extLink: '',
+                            routerLink: '/stores/Catering_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/eventm_183x145.jpg',
+                            label: 'Event Management',
+                            extLink: '',
+                            routerLink: '/stores/EventManagement_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/beauty_183x276.jpg',
+                            label: 'Beautycare',
+                            extLink: '',
+                            routerLink: '/stores/Beautycare_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/decor_1_183x145.jpg',
+                            label: 'Decor',
+                            extLink: '',
+                            routerLink: '/stores/Decor_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/corporate_183x276.jpg',
+                            label: 'Corporate event management',
+                            extLink: '',
+                            routerLink: '/stores/Corporateeventmanagement_2'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/lawn_183x145.jpg',
+                            label: 'The lawn experience',
+                            extLink: '',
+                            routerLink: '/by-admin/359'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/college_183x145.jpg',
+                            label: 'School and college events',
+                            extLink: '',
+                            routerLink: '/by-admin/360'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/corpevent_183x276.jpg',
+                            label: 'Corporate and healthcare events',
+                            extLink: '',
+                            routerLink: '/by-admin/361'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/Masonry/performance_183x276.jpg',
+                            label: 'Sponsored Performances',
+                            extLink: '',
+                            routerLink: '/stores/SponsoredPerformances_3'
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: '../../../assets/videos/video.mp4',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Plan Your Trip',
+                    extLink: '/coming-soon',
+                    routerLink: '',
+                    icon: 'paper-plane-outline'
+                },
+                {
+                    label: 'Order Food',
+                    extLink: '',
+                    routerLink: '',
+                    icon: 'fast-food-outline'
+                },
+                {
+                    label: 'Online Shopping',
+                    extLink: '',
+                    routerLink: '/coming-soon',
+                    icon: 'card-outline'
+                }
+            ],
+            departments: [
+                {
+                    name: 'Front Desk',
+                    icon: 'reception.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Reception',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'reception.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Web Checkin',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'tourism.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Web Checkout',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'receptionist.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'Housekeeping',
+                    icon: 'housekeeping.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Extra Crockery & Cutlery',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'restaurant.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Additional Bedding',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'bed.png',
+                            showTextarea: true,
+                            placeholder: 'Example: Please send me an extra pillow',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Laundry Service',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'washing-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please arrange laundry pickup for me',
+                            headerText: 'Select a time when our person can knock your door',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Room Cleaning',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'service.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please sanitize my room and replace bedding',
+                            headerText: 'Select an ideal time for us to work in your room',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Wellness and Fitness',
+                    icon: 'fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa',
+                            extLink: '',
+                            routerLink: '/coming-soon',
+                            icon: 'fitness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gym',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'deadlift.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to use the treadmill',
+                            headerText: 'When would you like to hit the Gym?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Swimming Pool',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                            headerText: 'When would you like to get into the pool?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Recreation & Sports',
+                    icon: 'cricket.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Spa',
+                            extLink: '',
+                            routerLink: '/coming-soon',
+                            icon: 'fitness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Gym',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'deadlift.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to use the treadmill',
+                            headerText: 'When would you like to hit the Gym?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Swimming Pool',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                            headerText: 'When would you like to get into the pool?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Swimming Pool – Six lane indoor heated pool',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'swimming-pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Two Badminton Courts with Oak Wood Flooring',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/badminton.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Squash Court with Maple Wood Flooring',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tennis-court.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Tennis Court',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tennis-court.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'State of the art Gymnasium',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'deadlift.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: ' Yoga Terrace',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Billiards and Pool Table',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/pool.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Indoor Table Tennis',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tenniss.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Aerobics Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/relaxing.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Travel and Activities',
+                    icon: 'tour-bus.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the cab'
+                        },
+                        {
+                            name: 'Local Taxi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Cab'
+                        },
+                        {
+                            name: 'Local Restaurant',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'restaurant-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a slow'
+                        },
+                        {
+                            name: 'Amusement Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'ferris-wheel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
+                            headerText: 'When are you planning to visit?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book tickets'
+                        },
+                        {
+                            name: 'Cinemas / Plays',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'movie-theater.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
+                            headerText: 'When are you planning to go for the movie?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book Tickets'
+                        },
+                        {
+                            name: 'Forex',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'neutral-trading.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
+                            headerText: 'When would you like to collect it?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Local Shopping',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'shopping-bag.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
+                            headerText: 'When would you like to go for shopping?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Fix appointment'
+                        },
+                        {
+                            name: 'Arrange a Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'tour-bus.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Repairs',
+                    icon: 'staple-gun.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'TV',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'retro-tv.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: None of the Kannada channels are not working',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'AC',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'conditioner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I need help in adjusting room temprature',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Coffee Maker',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'coffee-maker.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Need help in operating the coffee maker',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Hair Dryer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'hair-dryer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Please replace the hair dryer',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Electrical',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'reflector-bulb.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Others',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'reflector-bulb.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Food and Beverage',
+                    icon: 'food.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a table - at Restaurant',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining_table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImg: 'bed.png'
+                        },
+                        {
+                            name: 'Private Buffet & Magician',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'placeholder',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImg: 'bed.png'
+                        }
+                    ]
+                },
+                {
+                    name: 'Book Your Woodrose Stay',
+                    icon: 'brigade/restaurant.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Guest Rooms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/guest_rooml.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Digital guest experience',
+                            extLink: '',
+                            routerLink: '/home',
+                            icon: 'brigade/guest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Exceptional Dining Experience',
+                    icon: 'brigade/dining.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a table - The Melting Pot',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - Tonic Bar',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tonic_bar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Home delivery - The Melting Pot',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/take_away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - Southside Cafe',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Home delivery - Southside Cafe',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/take_away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - The Tea Lounge',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining11.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Home delivery - The Tea Lounge',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/take_away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - Augusta Café',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Home delivery - Augusta Café',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/take_away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - Nebula-The Restaurant',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - Pavilion Bar',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining11.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Home delivery - Nebula-The Restaurant',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/take_away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Home delivery - Courtyard Café',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/take_away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'The Baking Company',
+                    icon: 'brigade/baking.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Bake with Chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/chef.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Personalised cake for your loved one',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/cake.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Order online - DIY kits and others',
+                            extLink: 'http://65.0.165.245:5201/#/',
+                            routerLink: '',
+                            icon: 'brigade/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Online Baking Workshop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/baking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Baking Birthday Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/celebrate.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Indian Music Experience',
+                    icon: 'brigade/indian_music.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a visit',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/book_visit.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Group tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/gruop_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'placeholder',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                        },
+                        {
+                            name: 'Corporate tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/corp_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Host an event',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/event.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learning Experience',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/learning_exp.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sound Garden',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/sound_garden.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'The IME Café - Book a table',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/cafe.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'IME Gift Store',
+                            extLink: 'https://imestore.in/',
+                            routerLink: '',
+                            icon: 'brigade/gift_shop.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Brigade Hospitality Experiences',
+                    icon: 'brigade/unique.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Cook with our Master Chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/chef.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate special day with your loved one',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/celebrate.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Romantic candle light dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/candle_diner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Kids picnic',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/brunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Movie screening with popcorn',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/movie.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Tedex Screening',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/movie.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Chai Pe Charcha',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tea.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn Baking',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/baking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Photo shoots in club premise',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/photoshoot.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, {
+                            name: 'Banquet Hall',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/candle.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Film making workshop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/film_making.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Private Screening',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/devices.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Event Screening from MLR',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/meeting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Bengaluru Experiences',
+                    icon: 'brigade/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'See Namma Bengaluru',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/corp_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Brigade luxury',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/guest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Vineyard tour at Devanahalli',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/corp_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Pick fresh farm vegetables',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/relaxing.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Colonial Bangalore walk',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Heritage South Bangalore Walk',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/gathering.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Old Bangalore walk',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Bespoke tours',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Hilltop picnic at Nandi Hills',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/hill.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Morning Cycle Rides to Nandi Hills',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/motorbike.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Dinner Time',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dining.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Celebrate birthdays at stud farms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Online workshop',
+                    icon: 'brigade/workshop.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Learn DJ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dj.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn cooking from Chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Learn bed making',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/bed_making.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Hospitality Services',
+                    icon: 'brigade/hospitality.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Convention Centre',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/convention.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Catering',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/catering.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Event Management',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/event.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for Belum caves',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Beauty care',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/beautycare.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to go for Rock Gardens?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Decor',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/decor.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to go for Rock Gardens?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Corporate event management',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/corporate_event.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: When would you like to go for Rock Gardens?',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'The Lawn Experience',
+                    icon: 'brigade/lawn.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Annual Day Celebrations',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/celebrate.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Award Ceremonies',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/award.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cocktail dinners',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sponsored Performances',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/perfomance.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Board & Senior Executive Meetings',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/meeting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Video Conferences',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/conference.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'High Powered presentations',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/presentation.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Product launches',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/launch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Poster displays',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/poster.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Training programs',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/training.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Induction series',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/eating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'School & College Events',
+                    icon: 'brigade/school.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'School & College Fests',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/school.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Inter-school competition',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/competition.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cultural Performances',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/cultural.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'PTA Meetings',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/pta_meeting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Exhibition & Shows',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/exhibition.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Art Competitions',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/competition.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Award Ceremonies',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/award.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Student Council Events',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/council.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                },
+                {
+                    name: 'Corporate & Healthcare Events',
+                    icon: 'brigade/healthcare.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Medical Conventions & Conferences',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/medical_conf.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Doctors Meet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/doctor.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Specialist Trainings/Lectures',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/calories.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Team Workshops',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/team.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Project Signings',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/project.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Product Launches',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/launch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Award Ceremonies',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/award.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Exhibitions',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/exhibition.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Seminars & Workshops',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/workshop.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Video Conferences',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/conference.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Annual General Meetings',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/meeting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Cocktail Evenings & More',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'brigade/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        }
+                    ]
+                }
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
         }
     ],
     'www.fortunehotels-experiences.goyaana.com': [
