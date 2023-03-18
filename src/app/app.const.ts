@@ -52375,7 +52375,7 @@
         },
         {
             branch: 'Brigade Hospitality',
-            branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
+            branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/brigadec.jpg',
             id: 'demohotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Brigade/brigade_logo.png',
             theme: 'grey-theme',
