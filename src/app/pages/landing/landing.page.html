@@ -17,7 +17,7 @@
     <div class="scroll-arrow-container">
       <p>GoYaana For Business </p>
       <p>
-        <span (click)="scrollToExperience()"></span>
+        <span (click)="scrollToMasonry()"></span>
       </p>
     </div>
   </section>
@@ -277,20 +277,20 @@
       </div>
     </section>
   
-    <section id="experience" class="mt-2" [ngClass]="{'small-screen' : smallScreen}"
-      *ngIf="vendorDeatil.landingPage?.experience?.active">
+    <section id="masonry" class="mt-2" [ngClass]="{'small-screen' : smallScreen}"
+      *ngIf="vendorDeatil.landingPage?.masonry?.active">
       <div class="container">
         <div class="row m-0">
           <div class="col-12 p-0">
             <div class="headng_btn_wrap d-flex justify-content-between align-items-center">
-              <h2 class="heading">{{ vendorDeatil.landingPage?.experience?.title }}</h2>
+              <h2 class="heading">{{ vendorDeatil.landingPage?.masonry?.title }}</h2>
             </div>
-            <p class="margn-t-b">{{ vendorDeatil.landingPage?.experience?.desc }}</p>
+            <p class="margn-t-b">{{ vendorDeatil.landingPage?.masonry?.desc }}</p>
           </div>
         </div>
-        <app-grid-gallery [images]="vendorDeatil.landingPage?.experience?.items"
-          [cols]="smallScreen ? 2 : vendorDeatil.landingPage?.experience.cols"
-          [rowHeight]="vendorDeatil.landingPage?.experience.rowHeight"></app-grid-gallery>
+        <app-grid-gallery [images]="vendorDeatil.landingPage?.masonry?.items"
+          [cols]="smallScreen ? 2 : vendorDeatil.landingPage?.masonry.cols"
+          [rowHeight]="vendorDeatil.landingPage?.masonry.rowHeight"></app-grid-gallery>
       </div>
     </section>
   
