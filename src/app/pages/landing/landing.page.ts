@@ -209,8 +209,8 @@ export class LandingPage implements OnInit {
   }
 
   scrollToMasonry() {
-    if (this.vendorDeatil.landingPage.experience.active && document.getElementById("experience")) {
-      document.getElementById("experience").scrollIntoView({ behavior: "smooth" });
+    if (this.vendorDeatil.landingPage.experience.active && document.getElementsByClassName("goyanna_exp")) {
+      document.getElementsByClassName("goyanna_exp").scrollIntoView({ behavior: "smooth" });
     }
   }
 
