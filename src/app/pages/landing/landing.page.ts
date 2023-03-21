@@ -210,7 +210,7 @@ export class LandingPage implements OnInit {
 
   scrollToMasonry() {
     if (this.vendorDeatil.landingPage.masonry.active && document.getElementById("masonry")) {
-      document.getElementById("masonry").scrollIntoView({ behavior: "smooth" });
+      document.getElementById("goyaana_exp").scrollIntoView({ behavior: "smooth" });
     }
   }
 
