@@ -146193,7 +146193,7 @@
                             name: 'Kufri Zoo',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Kufri Zoo',
                             extLink: ''
                         },
                         {
@@ -146201,7 +146201,7 @@
                             name: 'Jakhu Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Jakhu Temple',
                             extLink: ''
                         },
                         {
@@ -146209,7 +146209,7 @@
                             name: 'Fagu',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Fagu',
                             extLink: ''
                         },
                         {
@@ -146217,7 +146217,7 @@
                             name: 'Mahasu Peak',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Mahasu Peak',
                             extLink: ''
                         },
                     ]
@@ -146247,7 +146247,7 @@
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Zodiac',
                             extLink: ''
                         },
                         {
@@ -146255,7 +146255,7 @@
                             name: 'Neptune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Neptune',
                             extLink: ''
                         },
                     ]
