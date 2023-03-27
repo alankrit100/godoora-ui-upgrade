@@ -104639,6 +104639,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104651,7 +104654,10 @@
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
+                            gallery: [ 
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/meal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/meal3.jpeg' }, 
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104665,6 +104671,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/bed1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/bed2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/bed3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104678,6 +104687,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/cab1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/cab2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/cab3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104691,6 +104703,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/office1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/office2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/office3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -104714,6 +104729,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/spa3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104727,6 +104745,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/poolside1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/poolside2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/poolside3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104740,6 +104761,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/inroom1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/inroom2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/inroom3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104753,6 +104777,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/celebrate1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/celebrate2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/celebrate3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -104776,6 +104803,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/noida-city1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/noida-city2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/noida-city3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104789,6 +104819,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/city-guide1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/city-guide2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/city-guide3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104802,6 +104835,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/food-trail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/food-trail2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/food-trail3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104815,6 +104851,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/heritage1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/heritage2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/heritage3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -104838,12 +104877,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/dinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/dinner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/dinner3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104857,12 +104893,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/breakfast2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/breakfast3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104876,12 +104909,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/chef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/chef3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104895,12 +104925,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/lunch1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/lunch2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/lunch3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -104924,12 +104951,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/banyan1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/banyan2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/banyan3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104961,12 +104985,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/gradening1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/gradening2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/gradening3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104980,12 +105001,9 @@
                             placeholder: 'Example: I want to book a slot for this tour',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/nature-walk1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/nature-walk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/nature-walk3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -104999,12 +105017,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/breakfast2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Noida/breakfast3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -106704,6 +106719,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/candle3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -106718,6 +106736,9 @@
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/zodiac1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/zodiac2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/zodiac3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107082,6 +107103,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107106,6 +107130,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/inroom1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/inroom2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/inroom3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107192,6 +107219,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/gym1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/gym2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/gym3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107206,6 +107236,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/currency1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/currency2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/currency3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107220,6 +107253,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/Traveler1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/Traveler2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/Traveler3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107234,6 +107270,9 @@
                             placeholder: 'Example: I want to book a slot for this tour',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/laundry1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/laundry2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/laundry3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107248,6 +107287,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/doctor1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/doctor2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/doctor3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -107262,6 +107304,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/valet1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/valet2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/valet3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -108441,6 +108486,9 @@
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [ 
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/kingdom1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/kingdom2.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/kingdom3.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -108454,6 +108502,9 @@
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/heritage1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/heritage2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/heritage3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -108467,6 +108518,9 @@
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/fun1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/fun2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/fun3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -108480,6 +108534,9 @@
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/aapno1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/aapno2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/aapno3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -108493,6 +108550,9 @@
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/vintage1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/vintage2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/vintage3.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -109042,6 +109102,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/room1.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109055,6 +109118,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/meal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/meal3.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109068,6 +109134,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/bed1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/bed2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/bed3.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109081,6 +109150,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/cab1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/cab2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/cab3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109094,6 +109166,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/office1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/office2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/office3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -109117,6 +109192,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/spa3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109130,6 +109208,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/poolside1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/poolside2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/poolside3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109143,6 +109224,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/inroom1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/inroom2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/inroom3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109156,81 +109240,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Plan Your Trip',
-                    icon: 'JammuIcons/trip.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Visit the Kingdom of Dreams',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/city.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Visit the Heritage Transport Museum',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/museum.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Visit the Fun and Food Village',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/fast-food.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Visit the Aapno Ghar Amusement Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/amusement-park.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Visit the Vintage Camera Museum',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/museum.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/celebrate1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/celebrate2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/celebrate3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -109254,12 +109266,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/dinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/dinner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/dinner3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109273,12 +109282,9 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-breakfast2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-breakfast3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109292,12 +109298,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/chef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/chef3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109311,12 +109314,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/lunch1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/lunch2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/lunch3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -109340,12 +109340,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/banyan1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/banyan2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/banyan3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109377,12 +109374,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/gardening1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/gardening2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/gardening3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109396,12 +109390,9 @@
                             placeholder: 'Example: I want to book a slot for this tour',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-walk.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-walk.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-walk.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -109415,12 +109406,9 @@
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/6.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-breakfast.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-breakfast.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/nature-breakfast.jpg'},
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
