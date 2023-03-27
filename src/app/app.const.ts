@@ -154910,7 +154910,7 @@
                             name: 'Spa',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Spa_39',
                             extLink: ''
                         },
                         {
@@ -154918,7 +154918,7 @@
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FitnessCenter_2',
                             extLink: ''
                         },
                         {
@@ -154926,7 +154926,7 @@
                             name: 'Shopping and Entertainment',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ShoppingandEntertainment',
                             extLink: ''
                         },
                         {
@@ -154934,7 +154934,7 @@
                             name: 'Beauty & Salon Services',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Beauty&SalonServices',
                             extLink: ''
                         },
                     ]
@@ -154947,33 +154947,33 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/sunflower1.jpg',
                             name: 'Sunflower',
-                            location: 'cafe',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Sunflower',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Hibiscus.jpg',
                             name: 'Hibiscus',
-                            location: 'Puran Da Dhaba',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Hibiscus',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Tonatiuh.jpg',
                             name: 'Tonatiuh',
-                            location: 'Bar',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Tonatiuh',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar.jpg',
                             name: 'Sundowner',
-                            location: 'Bar',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Sundowner',
                             extLink: ''
                         },
                     ]
@@ -154987,56 +154987,56 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
                             name: 'Old Goa Heritage Walk',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OldGoaHeritageWalk',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Shore4.jpg',
                             name: 'Goa Heritage Shore Excursion',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GoaHeritageShoreExcursion',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Food-Crawl4.jpg',
                             name: 'Goa Food Crawl',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GoaFoodCrawl',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Beach4.jpg',
                             name: 'Explore North Goa by Car (Sightseeing)',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExploreNorthGoabyCar(Sightseeing)',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Walk-through4.jpg',
                             name: 'Walk through the Ruins of Old Goa',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/WalkthroughtheRuinsofOldGoa',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Explore-North4.jpg',
                             name: 'Explore North Goa with Divar Island',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExploreNorthGoawithDivarIsland',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Capital-City4.JPG',
                             name: 'Capital City, Chruches and Fort of Goa',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CapitalCityChruchesandFortofGoa',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Museum4.jpg',
                             name: 'Museums of South Goa',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MuseumsofSouthGoa',
                             extLink: ''
                         },
                     ]
