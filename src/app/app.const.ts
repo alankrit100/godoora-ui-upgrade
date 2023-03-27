@@ -109597,7 +109597,7 @@
                             name: 'Painting by the Banyan Tree',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PaintingbytheBanyanTree_8',
                             extLink: ''
                         },
                         {
@@ -109613,7 +109613,7 @@
                             name: 'GARDENING – Lets Go Green',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gardening_6',
                             extLink: ''
                         },
                         {
@@ -109621,7 +109621,7 @@
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NatureWalk_7',
                             extLink: ''
                         },
                         {
@@ -109629,7 +109629,7 @@
                             name: 'Close to Nature Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Naturebreakfast_9',
                             extLink: ''
 
                         }
@@ -109645,7 +109645,7 @@
                             name: 'Exclusive Personalised Dinners',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExclusivePersonalisedDinner_5',
                             extLink: ''
                         },
                         {
@@ -109653,7 +109653,7 @@
                             name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Closetonaturebreakfast_8',
                             extLink: ''
                         },
                         {
@@ -109661,7 +109661,7 @@
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingSessionWithChef_5',
                             extLink: ''
                         },
                         {
@@ -109669,7 +109669,7 @@
                             name: 'Kangri Dham Lunch Thali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KangriDhamLunchThali_5',
                             extLink: ''
                         }
                     ]
@@ -112183,7 +112183,7 @@
                             name: 'Painting by the Banyan Tree',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PaintingbytheBanyanTree_9',
                             extLink: ''
                         },
                         {
@@ -112199,7 +112199,7 @@
                             name: 'GARDENING – Lets Go Green',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gardening_7',
                             extLink: ''
                         },
                         {
@@ -112207,7 +112207,7 @@
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NatureWalk_8',
                             extLink: ''
                         },
                         {
@@ -112215,7 +112215,7 @@
                             name: 'Close to Nature Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Naturebreakfast_10',
                             extLink: ''
 
                         }
@@ -112231,7 +112231,7 @@
                             name: 'Exclusive Personalised Dinners',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExclusivePersonalisedDinner_6',
                             extLink: ''
                         },
                         {
@@ -112239,7 +112239,7 @@
                             name: 'Close to nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Closetonaturebreakfast_9',
                             extLink: ''
                         },
                         {
@@ -112247,7 +112247,7 @@
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingSessionWithChef_6',
                             extLink: ''
                         },
                         {
@@ -112255,7 +112255,7 @@
                             name: 'Kangri Dham Lunch Thali',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KangriDhamLunchThali_6',
                             extLink: ''
                         }
                     ]
