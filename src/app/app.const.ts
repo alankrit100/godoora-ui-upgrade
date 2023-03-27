@@ -153455,7 +153455,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/cafe1.jpg',
                             name: 'Cafe Treat',
-                            location: 'cafe',
+                            location: '',
                             views: '',
                             routerLink: '/stores/CafeTreat_1',
                             extLink: ''
@@ -153463,7 +153463,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/dhaba1.jpg',
                             name: 'Puran Da Dhaba',
-                            location: 'Puran Da Dhaba',
+                            location: '',
                             views: '',
                             routerLink: '/stores/PuranDaDhaba_1',
                             extLink: ''
@@ -153471,7 +153471,7 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/bar1.jpg',
                             name: 'Fuel Bar',
-                            location: 'Bar',
+                            location: '',
                             views: '',
                             routerLink: '/stores/FuelBar_1',
                             extLink: ''
@@ -156695,113 +156695,165 @@
                     desc: 'These wide range of experiences cover every traveller persona so that you and your loved ones can learn, laugh and grow together!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/sight.jpg',
-                            label: 'Hampi Sight Visit Package',
-                            extLink: '',
-                            routerLink: '/stores/HampiSightVisitPackage'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/cafe1.jpg',
+                            name: 'Cafe Treat',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CafeTreat_1',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
-                            label: 'Bonfire setup for open area dinner party',
-                            extLink: '',
-                            routerLink: '/stores/Bonfiresetup'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/dhaba1.jpg',
+                            name: 'Puran Da Dhaba',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/PuranDaDhaba_1',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/myth.jpg',
-                            label: 'Mythical Landscape Tour',
-                            extLink: '',
-                            routerLink: '/stores/MythicalLandscapeTour'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/bar1.jpg',
+                            name: 'Fuel Bar',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/FuelBar_1',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
-                            label: 'Candle Light Occasions',
-                            extLink: '',
-                            routerLink: '/stores/CandleLightOccasion'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness-png.png',
+                            name: 'Fitness Centre',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/FitnessCentre',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/basket.jpg',
-                            label: 'Picnic Baskets',
-                            extLink: '',
-                            routerLink: '/stores/PicnicBaskets'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/aadya-home.png',
+                            name: 'Aadhya Wellness Spa',
+                            location: 'Pride Hotels Bangalore',
+                            views: '',
+                            routerLink: '/stores/AadhyaWellnessSpa_1',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/badami.jpg',
-                            label: 'Badami, Aihole & Pattadkal',
-                            extLink: '',
-                            routerLink: '/stores/BadamiAihole&Pattadkal'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/spa.jpg',
+                            name: 'Spa',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Spa_39',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/coctail.jpg',
-                            label: 'Cocktail Nights',
-                            extLink: '',
-                            routerLink: '/stores/CocktailNights'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/fit1.jpg',
+                            name: 'Fitness Center',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/FitnessCenter_2',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/poolside.jpg',
-                            label: 'RajaRani Poolside Dinner',
-                            extLink: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_1'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/shopping1.jpg',
+                            name: 'Shopping and Entertainment',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/ShoppingandEntertainment',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/balloon.jpg',
-                            label: 'Baloon Artist',
-                            extLink: '',
-                            routerLink: '/stores/BaloonArtist'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/beauty1.jpg',
+                            name: 'Beauty & Salon Services',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Beauty&SalonServices',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/auto.jpg',
-                            label: 'Hampi by TukTuk',
-                            extLink: '',
-                            routerLink: '/stores/Hampibytuktuk'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/sunflower1.jpg',
+                            name: 'Sunflower',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Sunflower',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/tatto.jpg',
-                            label: 'Tattoo Artist',
-                            extLink: '',
-                            routerLink: '/stores/TattooArtist'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Hibiscus.jpg',
+                            name: 'Hibiscus',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Hibiscus',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/ram.jpg',
-                            label: 'Ramayana Tour',
-                            extLink: '',
-                            routerLink: '/stores/RamayanaTour'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Tonatiuh.jpg',
+                            name: 'Tonatiuh',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Tonatiuh',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/swim.jpg',
-                            label: 'Swimming Class',
-                            extLink: '',
-                            routerLink: '/stores/SwimmingClass'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar.jpg',
+                            name: 'Sundowner',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Sundowner',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bakery.jpg',
-                            label: 'Bakery Cake Making Classes',
-                            extLink: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
+                            name: 'Old Goa Heritage Walk',
+                            desc: '',
+                            routerLink: '/stores/OldGoaHeritageWalk',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/heritage.jpg',
-                            label: 'Heritage Hampi Tour',
-                            extLink: '',
-                            routerLink: '/stores/HeritageHampiTour'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Shore4.jpg',
+                            name: 'Goa Heritage Shore Excursion',
+                            desc: '',
+                            routerLink: '/stores/GoaHeritageShoreExcursion',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bike.jpg',
-                            label: 'Hampi on a bike',
-                            extLink: '',
-                            routerLink: '/stores/Hampionabike'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Food-Crawl4.jpg',
+                            name: 'Goa Food Crawl',
+                            desc: '',
+                            routerLink: '/stores/GoaFoodCrawl',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/cookery.jpg',
-                            label: 'Cookery Classes',
-                            extLink: '',
-                            routerLink: '/stores/CookeryClasses'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Beach4.jpg',
+                            name: 'Explore North Goa by Car (Sightseeing)',
+                            desc: '',
+                            routerLink: '/stores/ExploreNorthGoabyCar(Sightseeing)',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/foot.jpg',
-                            label: 'Hampi on Foot',
-                            extLink: '',
-                            routerLink: '/stores/Hampionfoot'
-                        }
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Walk-through4.jpg',
+                            name: 'Walk through the Ruins of Old Goa',
+                            desc: '',
+                            routerLink: '/stores/WalkthroughtheRuinsofOldGoa',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Explore-North4.jpg',
+                            name: 'Explore North Goa with Divar Island',
+                            desc: '',
+                            routerLink: '/stores/ExploreNorthGoawithDivarIsland',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Capital-City4.JPG',
+                            name: 'Capital City, Chruches and Fort of Goa',
+                            desc: '',
+                            routerLink: '/stores/CapitalCityChruchesandFortofGoa',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Museum4.jpg',
+                            name: 'Museums of South Goa',
+                            desc: '',
+                            routerLink: '/stores/MuseumsofSouthGoa',
+                            extLink: ''
+                        },
                     ]
                 },
                 heroIntro: {
