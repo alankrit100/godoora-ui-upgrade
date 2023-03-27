@@ -153434,7 +153434,7 @@
                             name: 'Aadhya Wellness Spa',
                             location: 'Pride Hotels Bangalore',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AadhyaWellnessSpa_1',
                             extLink: ''
                         },
                         {
@@ -153442,7 +153442,7 @@
                             name: 'Fitness Centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FitnessCentre',
                             extLink: ''
                         },
                     ]
@@ -153457,7 +153457,7 @@
                             name: 'Cafe Treat',
                             location: 'cafe',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CafeTreat_1',
                             extLink: ''
                         },
                         {
@@ -153465,7 +153465,7 @@
                             name: 'Puran Da Dhaba',
                             location: 'Puran Da Dhaba',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PuranDaDhaba_1',
                             extLink: ''
                         },
                         {
@@ -153473,25 +153473,12 @@
                             name: 'Fuel Bar',
                             location: 'Bar',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FuelBar_1',
                             extLink: ''
                         },
                     ]
                 },
-                activities: {
-                    active: true,
-                    heading: 'Local Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
-                    items: [
-                    ]
-                },
-                offers: {
-                    active: true,
-                    heading: 'Pride Hotels',
-                    desc: 'Services that make your trip even more exciting and complete.',
-                    items: [
-                    ]
-                },
+
                 stories: {
                     active: true,
                     heading: 'Behind the scenes',
@@ -154451,6 +154438,8 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Crystal.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Crysta2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Crysta3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
@@ -154465,6 +154454,8 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/opal.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/opal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/opal3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
@@ -154478,7 +154469,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [  
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Imperial.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Imperial.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Imperial2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Imperial3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                         }, {
@@ -154492,6 +154485,8 @@
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/royal.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/royal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/royal3.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
                         },
@@ -154506,6 +154501,8 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/senate.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/senate2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/senate3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
