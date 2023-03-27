@@ -153408,19 +153408,19 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
                             label: 'OPEN FOR LOCALS',
                             extLink: '',
-                            routerLink: '/by-admin/'
+                            routerLink: '/by-admin/1055'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/plan-your-events.jpg',
                             label: 'PLAN YOUR EVENTS',
                             extLink: '',
-                            routerLink: '/by-admin/'
+                            routerLink: '/by-admin/1056'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'ROOMS',
                             extLink: '',
-                            routerLink: '/by-admin/'
+                            routerLink: '/by-admin/1057'
                         },
                     ]
                 },
