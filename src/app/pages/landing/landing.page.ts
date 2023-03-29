@@ -209,10 +209,14 @@ export class LandingPage implements OnInit {
   }
 
   scrollToMasonry() {
-    if (this.vendorDeatil.landingPage.masonry.active && document.getElementById("masonry")) {
-      document.getElementById("masonry").scrollIntoView({ behavior: "smooth" });
+    if (this.vendorDeatil.landingPage.experience.active) {
+      const goyannaExp = document.getElementsByClassName("goyanna_exp");
+      if (goyannaExp.length > 0) {
+        goyannaExp.item(0).scrollIntoView({ behavior: "smooth" }); 
+      }
     }
   }
+
 
   navgigate(slide: any) {
     if(slide.btn) {
