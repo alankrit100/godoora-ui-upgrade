@@ -155309,11 +155309,11 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
-                            videoId: 'v=6TkY0PRjCdQ'
+                            videoId: 'moSR_sX-t0o'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
-                            videoId: 'v=jCt82CcjT7U'
+                            videoId: 'v=shkkF-Chbek'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
@@ -155321,7 +155321,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
-                            videoId: 'v=uDTlBf2y-ZQ'
+                            videoId: 'v=rVuZSYerIZI'
                         }
                     ]
                 },
