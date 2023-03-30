@@ -153497,7 +153497,7 @@
         {
             branch: 'Bangalore',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/branch-img.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'pridehotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
@@ -154973,7 +154973,7 @@
         {
             branch: 'Goa',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/branch.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'Pridehotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
@@ -157188,7 +157188,7 @@
         {
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/mysore.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'pridehotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
