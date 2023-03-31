@@ -155474,6 +155474,17 @@
             ],
             departments: [
                 {
+                    name: 'Digital Menu',
+                    icon: 'Pride/menu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        
+                    ]
+                },
+                {
                     name: 'Front Desk',
                     icon: 'fortunemussoorieicons/Front.png',
                     size: '64px',
