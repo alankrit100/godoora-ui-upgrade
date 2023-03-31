@@ -155482,6 +155482,203 @@
                     extLink: '',
                     services: [
                         {
+                            name: 'Services Directory',
+                            icon: 'fortunegrace/directory.png',
+                            size: '64px',
+                            color: '#1a8cd2',
+                            routerLink: 'test',
+                            extLink: '',
+                            services: [
+                                {
+                                    name: 'Services Directory',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/directory.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'Sales & Reservations Offices in India',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Sales+and+Reservations+offices+in+India.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/reserve.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'Dining Facilities',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/4.+Dining+Facilities.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/serving-dish.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'Other Fortune Hotels',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/5.+Other+Fortune+Hotels.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/hotel.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'Safety',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/6.+Safety.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/safety.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'House Rules',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/7.+House+Rules.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/rules.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'Telecommunication',
+                                    extLink: '  https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/8.+Telecommunication.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/network.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'About the Place',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/About+the+Place.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/place.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'Places of Interest',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/10.+Places+of+Interest.pdf',
+                                    routerLink: '',
+                                    icon: 'fortunegrace/PlaceOfInterest.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'Pillow',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Pillow+Menu.pdf',
+                                    routerLink: '',
+                                    icon: 'JammuIcons/pillows.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                },
+                                {
+                                    name: 'In Room Dining',
+                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                                    routerLink: '',
+                                    icon: 'JammuIcons/serving-dish.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                                    headerText: 'When would you like to visit the spa?',
+                                    gallery: [
+        
+                                    ],
+                                    confirmBtnLabel: 'Book the table',
+                                    menuImgs: [
+                                        
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             name: 'Nostradamus Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
                             routerLink: '',
