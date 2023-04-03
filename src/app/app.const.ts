@@ -158144,8 +158144,7 @@
                                     ],
                                     confirmBtnLabel: 'Book the table',
                                     menuImgs: [
-                                        ],
-                                    storePageAsBlog: true
+                                        ]
                                 },
                                 {
                                     name: 'Sales & Reservations Offices in India',
@@ -158163,7 +158162,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'Dining Facilities',
@@ -158181,7 +158179,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'Other Fortune Hotels',
@@ -158199,7 +158196,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'Safety',
@@ -158217,7 +158213,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'House Rules',
@@ -158235,7 +158230,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'Telecommunication',
@@ -158253,7 +158247,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'About the Place',
@@ -158271,7 +158264,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'Places of Interest',
@@ -158289,7 +158281,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'Pillow',
@@ -158307,7 +158298,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 },
                                 {
                                     name: 'In Room Dining',
@@ -158325,7 +158315,6 @@
                                     menuImgs: [
                                         
                                     ],
-                                    storePageAsBlog: true
                                 }
                             ]
                         },
@@ -158488,7 +158477,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Web Checkin',
@@ -158508,7 +158496,6 @@
                             ],
                             confirmBtnLabel: 'Submit Request',
                             checkinForm: true,
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Web Checkout',
@@ -158527,7 +158514,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -158556,7 +158542,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Additional Bedding',
@@ -158574,7 +158559,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Laundry Service',
@@ -158593,7 +158577,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Room Cleaning',
@@ -158612,7 +158595,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -158647,7 +158629,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' }
                             ],
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Order Online - Surbhi Malvani',
@@ -158671,7 +158652,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ],
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Book Whole Restaurant - Surbhi Malvani',
@@ -158696,7 +158676,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ],
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Take Away - SUFIT',
@@ -158716,7 +158695,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ],
-                            storePageAsBlog: true
                         },
                         {
                             name: 'In Room Dining',
@@ -158741,7 +158719,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ],
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Factory tour of clay wind chimes pottery making',
@@ -158771,7 +158748,6 @@
                                 { path: 'https://source.unsplash.com/518x813/?Romania' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Learn bed making',
@@ -158790,7 +158766,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Learn cooking with our Chef',
@@ -158809,7 +158784,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -158838,7 +158812,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Gym',
@@ -158857,7 +158830,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Swimming Pool',
@@ -158876,7 +158848,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -158905,7 +158876,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Pool Table',
@@ -158924,7 +158894,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -158953,7 +158922,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book the cab',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Local Taxi',
@@ -158972,7 +158940,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Cab',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Local Restaurant',
@@ -158991,7 +158958,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Book a slow',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Amusement Park',
@@ -159009,7 +158975,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment4.jpg' }
                             ],
                             confirmBtnLabel: 'Book tickets',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Cinemas / Plays',
@@ -159028,7 +158993,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
                             confirmBtnLabel: 'Book Tickets',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Forex',
@@ -159047,7 +159011,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Local Shopping',
@@ -159066,7 +159029,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping5.jpg' }
                             ],
                             confirmBtnLabel: 'Fix appointment',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Arrange a Tour',
@@ -159085,7 +159047,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -159114,7 +159075,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'AC',
@@ -159132,7 +159092,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Coffee Maker',
@@ -159150,7 +159109,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Hair Dryer',
@@ -159168,7 +159126,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Electrical',
@@ -159186,7 +159143,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Others',
@@ -159205,7 +159161,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -159235,7 +159190,6 @@
                                 
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Found an Item',
@@ -159254,7 +159208,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -159278,7 +159231,6 @@
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -159305,7 +159257,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Hair3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'DJ',
@@ -159324,7 +159275,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Chef',
@@ -159343,7 +159293,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -159372,7 +159321,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Learn cooking with our Chef',
@@ -159391,7 +159339,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Learn bed making',
@@ -159410,7 +159357,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -159437,7 +159383,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/book-table3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Book a table - Garden Cafe',
@@ -159454,7 +159399,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/garden-cafe3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Book a table - The Elephant Bar',
@@ -159471,7 +159415,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Yoga and Meditation',
@@ -159488,7 +159431,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/yoga3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Food Delivery - 9th Mile Dhaba',
@@ -159503,7 +159445,6 @@
 
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Banquet Hall Booking',
@@ -159520,7 +159461,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Banquet3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Diy Meal kits',
@@ -159537,7 +159477,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/meal3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Sunday Brunch & Magician',
@@ -159555,7 +159494,6 @@
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImg: 'bed.png',
-                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -159583,7 +159521,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Pune-city-tour4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Heritage walking tour in Pune',
@@ -159601,7 +159538,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Heritage-walking4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Pune by foot, a walking tour in Pune',
@@ -159619,7 +159555,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Pune-by-foot4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Immersive culture tour of Pune',
@@ -159637,7 +159572,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Immersive-culture4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'India’s freedom tour in Pune',
@@ -159654,7 +159588,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/India%E2%80%99s-freedom3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -159682,7 +159615,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Barbeque evening with movie screening',
@@ -159700,7 +159632,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bbq4.jpg' },,
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'High tea at garden cafe',
@@ -159717,7 +159648,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/hightea3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Romantic candle light dinner',
@@ -159735,7 +159665,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candlelight4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Relax at Elephant bar',
@@ -159753,7 +159682,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Candle Light Occasion',
@@ -159771,7 +159699,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Bonfire setup',
@@ -159789,7 +159716,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Bonfire4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Picnic Baskets',
@@ -159807,7 +159733,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Picnic4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -159831,7 +159756,6 @@
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Premium Pampering',
@@ -159845,7 +159769,6 @@
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Senior Citizens Offer',
@@ -159859,7 +159782,6 @@
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Staycations',
@@ -159873,7 +159795,6 @@
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Empowered Women',
@@ -159887,7 +159808,6 @@
                             gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -159914,7 +159834,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Upgrade meal @ INR 499*',
@@ -159931,7 +159850,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal3.jpeg' },  
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Extra bed @ INR 99*',
@@ -159948,7 +159866,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/bed3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Get a cab @ INR 25* per km',
@@ -159965,7 +159882,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/cab3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Business center services @ INR 499*',
@@ -159982,7 +159898,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/office3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -160010,7 +159925,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Conference Hall 2',
@@ -160028,7 +159942,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference8.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -160056,7 +159969,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Candle Light Occasions',
@@ -160074,7 +159986,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Guest Room Decoration',
@@ -160092,7 +160003,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Tattoo Artist',
@@ -160110,7 +160020,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/tattoo4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Cookery Classes',
@@ -160128,7 +160037,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Cookery4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'SwimmingClass',
@@ -160145,7 +160053,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Swimming4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Bakery Cake Making Classes',
@@ -160163,7 +160070,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/cake4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -160190,7 +160096,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Honeymoon3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Loyalty Program',
@@ -160207,7 +160112,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                     ]
                 },
