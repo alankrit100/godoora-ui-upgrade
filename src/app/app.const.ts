@@ -29232,9 +29232,14 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/hotel-monarch-homepage-2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/laptop.jpg',
                             heading: 'Open to locals and beyond',
-                            subHeading: 'New Guests | Live Experiences | No Room Required'
+                            subHeading: 'Food Delivery | Celebrate Special Days | Special Packages'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/hotel-monarch-homepage-1.jpg',
@@ -29254,28 +29259,28 @@
                     desc: `At our hotel you'll be welcomed among something new each and every time you visit us, Innovativeness is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mumbai , a city that never sleeps ; A place where you never know what happens with you in the next minute, a whole new package of surprise starting from marine drive to gateway of India. Let's not wait and join this never ending thrill with us you won't be disappointed `,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/DigitalGuestExperience.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'DIGITAL GUEST EXPERIENCE',
                             extLink: '',
                             routerLink: '/home'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            label: 'QUICK UPGRADES',
                             extLink: '',
                             routerLink: '/by-admin/783'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/nico-8IK1OrkMzMQ-unsplash.jpg',
-                            label: 'Special Benefits',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            label: 'SPECIAL OFFERS & BENEFITS',
                             extLink: '',
                             routerLink: '/by-admin/251'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
-                            label: 'Plan your trip',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
+                            label: 'OPEN FOR LOCALS',
+                            extLink: '',
+                            routerLink: '/by-admin/1097'
                         },
                     ]
                 },
@@ -31091,6 +31096,129 @@
                         }
                     ]
                 },
+                {
+                    name: 'OPEN FOR LOCALS',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a table - CKS',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/restauran.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - Garden Cafe',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/restauran.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Book a table - The Elephant Bar',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/bar-counter.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Yoga and Meditation',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/lotus.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Banquet Hall Booking',
+                            extLink: '',
+                            routerLink: '/stores/BanquetHallBooking',
+                            icon: 'royal/wedding.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Diy Meal kits',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/meals.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Food Delivery - 9th Mile Dhaba',
+                            extLink: 'https://www.royalorchid-9thmiledhaba.goyaana.com/',
+                            routerLink: '',
+                            icon: 'royal/meals.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch & Magician',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/magician.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'placeholder',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImg: 'bed.png'
+                        },
+                    ]
+                }
             ],
             comingSoon: {
                 active: true,
@@ -46630,9 +46758,9 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/hotel-monarch-homepage-2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/laptop.jpg',
                             heading: 'Open to locals and beyond',
-                            subHeading: 'New Guests | Live Experiences | No Room Required'
+                            subHeading: 'Food Delivery | Celebrate Special Days | Special Packages'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/hotel-monarch-homepage-1.jpg',
