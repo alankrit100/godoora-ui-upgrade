@@ -29237,7 +29237,7 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/laptop.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/food.jpg',
                             heading: 'Open to locals and beyond',
                             subHeading: 'Food Delivery | Celebrate Special Days | Special Packages'
                         },
@@ -46758,7 +46758,7 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/laptop.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/food.jpg',
                             heading: 'Open to locals and beyond',
                             subHeading: 'Food Delivery | Celebrate Special Days | Special Packages'
                         },
