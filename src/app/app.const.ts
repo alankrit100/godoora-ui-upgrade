@@ -162179,35 +162179,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
                             name: 'Old Delhi Walk',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OldDelhiWalk',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Delhi-Night4.jpg',
                             name: 'Delhi Night Walk',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DelhiNightWalk',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Bike4.jpg',
                             name: 'Old Delhi Bike Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OldDelhiBikeTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hidden-Gem4.jpg',
                             name: 'Hidden Gem in Old Delhi',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HiddenGeminOldDelhi',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hour-South4.jpg',
                             name: '3.5 Hour South Delhi Pvt Bike Tour with',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/35HourSouthDelhiPvtBikeTourwith',
                             extLink: ''
                         },
                     ]
@@ -162222,7 +162222,7 @@
                             name: 'Bonfire setup for open area dinner party',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Bonfiresetup_2',
+                            routerLink: '/stores/Bonfiresetup_4',
                             extLink: ''
                         },
                         {
@@ -162230,7 +162230,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasion_3',
+                            routerLink: '/stores/CandleLightOccasion_6',
                             extLink: ''
                         },
                         {
@@ -162238,7 +162238,7 @@
                             name: 'Picnic Baskets',
                             location: 'Hampi sight visit with picnic baskets',
                             views: '',
-                            routerLink: '/stores/PicnicBaskets_3',
+                            routerLink: '/stores/PicnicBaskets_5',
                             extLink: ''
                         },
                         {
@@ -162246,7 +162246,7 @@
                             name: 'Raja Rani poolside dinner',
                             location: 'Be the Royal guests',
                             views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_4',
+                            routerLink: '/stores/RajaRanipoolsidedinner_6',
                             extLink: ''
                         },
                         {
@@ -162254,7 +162254,7 @@
                             name: 'Barbeque evening with movie screening',
                             location: 'Enjoy your personal butler service',
                             views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening_4',
+                            routerLink: '/stores/Barbequeeveningwithmoviescreening_6',
                             extLink: ''
                         },
                         {
@@ -162262,7 +162262,7 @@
                             name: 'High tea at garden cafe',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Highteaatgardencafe_2',
+                            routerLink: '/stores/Highteaatgardencafe_4',
                             extLink: ''
                         },
                         {
@@ -162270,7 +162270,7 @@
                             name: 'Romantic candle light dinner',
                             location: 'Facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_6',
+                            routerLink: '/stores/Romanticcandlelightdinner_8',
                             extLink: ''
                         },
                         {
@@ -162278,7 +162278,7 @@
                             name: 'Relax at Elephant bar',
                             location: 'Whiskey | Cocktails | Beer',
                             views: '',
-                            routerLink: '/stores/RelaxatElephantbar_2',
+                            routerLink: '/stores/RelaxatElephantbar_4',
                             extLink: ''
                         }
                     ]
@@ -162293,7 +162293,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/BaloonArtist_2',
+                            routerLink: '/stores/BaloonArtist_4',
                             extLink: ''
                         },
                         {
@@ -162301,7 +162301,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasions_3',
+                            routerLink: '/stores/CandleLightOccasions_5',
                             extLink: ''
                         },
                         {
@@ -162309,7 +162309,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration_2',
+                            routerLink: '/stores/GuestRoomDecoration_4',
                             extLink: ''
                         },
                         {
@@ -162317,7 +162317,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/TattooArtist_2',
+                            routerLink: '/stores/TattooArtist_4',
                             extLink: ''
                         },
                         {
@@ -162325,7 +162325,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/CookeryClasses_2',
+                            routerLink: '/stores/CookeryClasses_4',
                             extLink: ''
                         },
                         {
@@ -162333,7 +162333,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/SwimmingClass_2',
+                            routerLink: '/stores/SwimmingClass_4',
                             extLink: ''
                         },
                         {
@@ -162341,7 +162341,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses_2',
+                            routerLink: '/stores/BakeryCakeMakingClasses_4',
                             extLink: ''
                         },
                     ]
