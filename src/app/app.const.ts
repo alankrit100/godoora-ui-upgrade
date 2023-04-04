@@ -157790,7 +157790,7 @@
                             name: 'Bonfire setup for open area dinner party',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Bonfiresetup_2',
+                            routerLink: '/stores/Bonfiresetup_3',
                             extLink: ''
                         },
                         {
@@ -157798,7 +157798,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasion_3',
+                            routerLink: '/stores/CandleLightOccasion_4',
                             extLink: ''
                         },
                         {
@@ -157806,7 +157806,7 @@
                             name: 'Picnic Baskets',
                             location: 'Hampi sight visit with picnic baskets',
                             views: '',
-                            routerLink: '/stores/PicnicBaskets_3',
+                            routerLink: '/stores/PicnicBaskets_4',
                             extLink: ''
                         },
                         {
@@ -157814,7 +157814,7 @@
                             name: 'Raja Rani poolside dinner',
                             location: 'Be the Royal guests',
                             views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_4',
+                            routerLink: '/stores/RajaRanipoolsidedinner_5',
                             extLink: ''
                         },
                         {
@@ -157822,7 +157822,7 @@
                             name: 'Barbeque evening with movie screening',
                             location: 'Enjoy your personal butler service',
                             views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening_4',
+                            routerLink: '/stores/Barbequeeveningwithmoviescreening_5',
                             extLink: ''
                         },
                         {
@@ -157830,7 +157830,7 @@
                             name: 'High tea at garden cafe',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Highteaatgardencafe_2',
+                            routerLink: '/stores/Highteaatgardencafe_3',
                             extLink: ''
                         },
                         {
@@ -157838,7 +157838,7 @@
                             name: 'Romantic candle light dinner',
                             location: 'Facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_6',
+                            routerLink: '/stores/Romanticcandlelightdinner_7',
                             extLink: ''
                         },
                         {
@@ -157846,7 +157846,7 @@
                             name: 'Relax at Elephant bar',
                             location: 'Whiskey | Cocktails | Beer',
                             views: '',
-                            routerLink: '/stores/RelaxatElephantbar_2',
+                            routerLink: '/stores/RelaxatElephantbar_3',
                             extLink: ''
                         }
                     ]
@@ -157861,7 +157861,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/BaloonArtist_2',
+                            routerLink: '/stores/BaloonArtist_3',
                             extLink: ''
                         },
                         {
@@ -157869,7 +157869,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasions_3',
+                            routerLink: '/stores/CandleLightOccasions_4',
                             extLink: ''
                         },
                         {
@@ -157877,7 +157877,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration_2',
+                            routerLink: '/stores/GuestRoomDecoration_3',
                             extLink: ''
                         },
                         {
@@ -157885,7 +157885,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/TattooArtist_2',
+                            routerLink: '/stores/TattooArtist_3',
                             extLink: ''
                         },
                         {
@@ -157893,7 +157893,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/CookeryClasses_2',
+                            routerLink: '/stores/CookeryClasses_3',
                             extLink: ''
                         },
                         {
@@ -157901,7 +157901,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/SwimmingClass_2',
+                            routerLink: '/stores/SwimmingClass_3',
                             extLink: ''
                         },
                         {
@@ -157909,7 +157909,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses_2',
+                            routerLink: '/stores/BakeryCakeMakingClasses_3',
                             extLink: ''
                         },
                     ]
@@ -157924,21 +157924,21 @@
                             name: 'Plan Your Events',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/1082',
+                            routerLink: '/by-admin/1103',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/honeymoon.jpg',
                             name: 'Complimentary Honeymoon Package',
                             desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
-                            routerLink: '/stores/HoneymoonPackage_3',
+                            routerLink: '/stores/HoneymoonPackage_4',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
                             name: 'Loyalty Program',
                             desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/LoyaltyProgram_3',
+                            routerLink: '/stores/LoyaltyProgram_4',
                             extLink: ''
                         }    
                     ]
