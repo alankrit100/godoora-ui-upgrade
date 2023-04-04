@@ -164013,7 +164013,7 @@
                             headerText: 'Book a Slot',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Walk1.jpg' },
-                                { path: 'hhttps://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Walk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Walk2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Walk3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
