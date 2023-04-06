@@ -68325,14 +68325,14 @@
             }
         },
         {
-            branch: 'JP Palace',
+            branch: 'JP-Palace-Mysore',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/JP+Palace/JP+Palace.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune JP Palace',
+            title: 'Fortune JP Palace, Mysore',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -70748,14 +70748,14 @@
             }
         },
         {
-            branch: 'Miramar',
+            branch: 'Miramar-Goa',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Miramar+Goa/Fortune+Miramar+Goa.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Miramar',
+            title: 'Fortune Miramar, Goa',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -73281,14 +73281,14 @@
             }
         },
         {
-            branch: 'Thane',
+            branch: 'Park-Lakecity-Thane',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/thane/branch+image/branch.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park Lake City',
+            title: 'Fortune Park Lakecity, Thane',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -75521,14 +75521,14 @@
             }
         },
         {
-            branch: 'Vijayawada',
+            branch: 'MuraliPark-Vijayawada',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Vijaywada.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Murali Park Hotel',
+            title: 'The Fortune Murali Park, Vijayawada',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -81596,14 +81596,14 @@
             }
         },
         {
-            branch: 'Gandhinagar',
+            branch: 'Inn-Haveli-Gandhinagar',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gandhinagar/gandhinagar.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Haveli',
+            title: 'Fortune Inn Haveli, Gandhinagar',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -87360,14 +87360,14 @@
             }
         },
         {
-            branch: 'Hubballi',
+            branch: 'Park-Hubballi',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/HUbli.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park, Hubballi',
+            title: 'Fortune Park Airport Road, Hubballi',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -91763,14 +91763,14 @@
             }
         },
         {
-            branch: 'Kasauli',
+            branch: 'Select-ForestHill-Kasauli',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Kasauli/Kasauli.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Select Forest Hill ',
+            title: 'Fortune Select Forest Hill, Kasauli',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -100137,7 +100137,7 @@
             }
         },
         {
-            branch: 'Bengaluru',
+            branch: 'JP-Celestial-Bengaluru',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Banner1.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -102721,7 +102721,7 @@
             }
         },
         {
-            branch: 'Noida',
+            branch: 'Inn-Grazia-Noida',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -107573,7 +107573,7 @@
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Select Global',
+            title: 'Fortune Select Global, Gurgaon',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -109686,14 +109686,14 @@
             }
         },
         {
-            branch: 'Park Dahej',
+            branch: 'Park-Dahej-SEZ',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Dahej.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park Dahej',
+            title: 'Fortune Park Dahej, Dahej SEZ',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -112272,14 +112272,14 @@
             }
         },
         {
-            branch: 'Madurai',
+            branch: 'Pandiyan-Madurai',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/facade-front.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Pandiyan Hotel',
+            title: 'Fortune Pandiyan Hotel, Madurai',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -114858,14 +114858,14 @@
             }
         },
         {
-            branch: 'Vapi',
+            branch: 'Galaxy-Vapi',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Park+Galaxy+Vapi.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park Galaxy',
+            title: 'Fortune Park Galaxy,Vapi',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -120851,14 +120851,14 @@
             }
         },
         {
-            branch: 'Rajkot',
+            branch: 'JPS-Grand-Rajkot',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+rajkot/banner+1.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park JPS Grand',
+            title: 'Fortune Park JPS Grand, Rajkot',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -122526,14 +122526,14 @@
             }
         },
         {
-            branch: 'Visakhapatnam',
+            branch: 'Inn-SreeKanya-Vizag',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Visakhapatnam/Visakhapatnam.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Sree Kanya Visakhapatnam',
+            title: 'Fortune Inn SreeKanya,Vizag',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -124339,7 +124339,7 @@
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Select Trinity Bengaluru',
+            title: 'Fortune Select Trinity, Bengaluru',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -126123,7 +126123,7 @@
             }
         },
         {
-            branch: 'Manipal',
+            branch: 'Valley-View-Manipal',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal1/manipal.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -127806,14 +127806,14 @@
             }
         },
         {
-            branch: 'Gurgaon',
+            branch: 'Orange-Gurgaon',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGurugaon/gurgaon.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Valley View, Manipal',
+            title: 'Fortune Park Orange, Gurgaon',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -129468,7 +129468,7 @@
             }
         },
         {
-            branch: 'Select SG Highway, Ahmedabad',
+            branch: 'Select-SG-Ahmedabad',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Ahmedabad/branch.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -131250,14 +131250,14 @@
             }
         },
         {
-            branch: 'Vadodara',
+            branch: 'Promenade-Vadodara',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vadodara/home.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Vadodara',
+            title: 'Fortune Inn Promenade,Vadodara',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -132983,14 +132983,14 @@
             }
         },
         {
-            branch: 'KATRA',
+            branch: 'Park-Katra',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune-katra/img.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'FORTUNE PARK, KATRA',
+            title: 'Fortune Park Katra',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -134716,7 +134716,7 @@
             }
         },
         {
-            branch: 'Fortune Park, Ahmedabad',
+            branch: 'Park-Ahmedabad',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/fortunrparck+ahmadabad.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -136447,7 +136447,7 @@
             }
         },
         {
-            branch: 'Tirupati',
+            branch: 'Grand-Ridge-Tirupati',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tirupati/tirupati.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -138375,14 +138375,14 @@
             }
         },
         {
-            branch: 'Vellore',
+            branch: 'Park-Vellore',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/vellore-branch.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park - vellore',
+            title: 'Fortune Park Vellore',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -140242,14 +140242,14 @@
             }
         },
         {
-            branch: 'JP Cosmos - Bengaluru',
+            branch: 'JP-Cosmos-Bengaluru',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Cosmos+Bangalore/jp-cosmos-branch.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Select JP Cosmos - Bengaluru',
+            title: 'Fortune Select JP Cosmos, Bengaluru',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -141795,14 +141795,14 @@
             }
         },
         {
-            branch: 'Shimla',
+            branch: 'Kufri-Shimla',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FORTUNE+PARK+KUFRI%2C+SHIMLA/FORTUNE+PARK+KUFRI%2C+SHIMLA.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'FORTUNE PARK KUFRI, SHIMLA',
+            title: 'Fortune Park Kufri, Shimla',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
