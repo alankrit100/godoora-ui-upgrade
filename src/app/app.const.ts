@@ -89586,28 +89586,28 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/banquet1.jpg',
                             name: 'Banquet hall booking',
                             desc: '',
-                            routerLink: '/stores/Banquethallbooking_6',
+                            routerLink: '/stores/Banquethallbooking_14',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/GourmetBox.jpg',
                             name: 'Gourmet Box',
                             desc: '',
-                            routerLink: '/stores/GourmetBox_3',
+                            routerLink: '/stores/GourmetBox_6',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/HouseParty.jpg',
                             name: 'Customised House Party',
                             desc: '',
-                            routerLink: '/stores/CustomisedHouseParty_3',
+                            routerLink: '/stores/SundayBrunch_14',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Chauffeur-drive.jpg',
                             name: 'Chauffeur-drive Airport Transfer',
                             desc: '',
-                            routerLink: '/stores/ChauffeurdriveAirportTransfer_3',
+                            routerLink: '/stores/ChauffeurdriveAirportTransfer_5',
                             extLink: ''
                         }
                     ]
@@ -91358,31 +91358,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
                             ]
                         },
-                        {
-                            name: 'Banquet Menu',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunegrace/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [,
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ]
-                        },
-                    ]
-                },
-                {
-                    name: 'Banquet Menu',
-                    icon: 'dharmshala/offer.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
                         {
                             name: 'VEG BANQUET MENU',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/VEG+BANQUET+MENU+.pdf',
