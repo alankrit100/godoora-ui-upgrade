@@ -164811,35 +164811,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/Jungle-Safari.jpg',
                             name: 'Jungle Safari',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JungleSafari',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/indoor.jpg',
                             name: 'Indoor Games',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/IndoorGames',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/boating1.jpg',
                             name: 'Boating',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Boating',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/Picnics1.jpg',
                             name: 'Picnics',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Picnics_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/Bonfire1.jpeg',
                             name: 'Bonfire & Live Music',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bonfire&LiveMusic',
                             extLink: ''
                         },
                     ]
@@ -164854,7 +164854,7 @@
                             name: 'Bonfire setup for open area dinner party',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bonfiresetup_5',
                             extLink: ''
                         },
                         {
@@ -164862,7 +164862,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightOccasion_7',
                             extLink: ''
                         },
                         {
@@ -164870,7 +164870,7 @@
                             name: 'Picnic Baskets',
                             location: 'Hampi sight visit with picnic baskets',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PicnicBaskets_6',
                             extLink: ''
                         },
                         {
@@ -164878,7 +164878,7 @@
                             name: 'Raja Rani poolside dinner',
                             location: 'Be the Royal guests',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RajaRanipoolsidedinner_7',
                             extLink: ''
                         },
                         {
@@ -164886,7 +164886,7 @@
                             name: 'Barbeque evening with movie screening',
                             location: 'Enjoy your personal butler service',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Barbequeeveningwithmoviescreening_7',
                             extLink: ''
                         },
                         {
@@ -164894,7 +164894,7 @@
                             name: 'High tea at garden cafe',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Highteaatgardencafe_5',
                             extLink: ''
                         },
                         {
@@ -164902,7 +164902,7 @@
                             name: 'Romantic candle light dinner',
                             location: 'Facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Romanticcandlelightdinner_9',
                             extLink: ''
                         },
                         {
@@ -164910,14 +164910,14 @@
                             name: 'Relax at Elephant bar',
                             location: 'Whiskey | Cocktails | Beer',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RelaxatElephantbar_5',
                             extLink: ''
                         }
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique Pride Experience',
+                    heading: 'Unique Tathastu Experience',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
                         {
@@ -164988,7 +164988,7 @@
                             name: 'Plan Your Events',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/1082',
+                            routerLink: '/by-admin/1160',
                             extLink: ''
                         },
                         {
@@ -166806,19 +166806,6 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'India Dekho with Pride',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/taj-mahal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                        },
-                        {
                             name: 'Premium Pampering',
                             extLink: '',
                             routerLink: 'test',
@@ -166828,6 +166815,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
@@ -166841,6 +166831,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
@@ -166854,6 +166847,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
@@ -166867,6 +166863,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Women-Empowerment1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Women-Empowerment2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Women-Empowerment3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
