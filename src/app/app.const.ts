@@ -169081,7 +169081,7 @@
                             subHeading: 'Experience | Hospitality | Memories'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride-goa.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/goa-home2.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
@@ -171637,7 +171637,7 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/home.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/branch.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
