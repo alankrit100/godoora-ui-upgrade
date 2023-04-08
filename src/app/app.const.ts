@@ -164697,7 +164697,7 @@
     ],
     'www.tathasturesorts-experiences.goyaana.com': [
         {
-            branch: 'Tathastu Pench',
+            branch: 'Tathastu-Pench',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/pench-branch.jpg',
             id: 'tathasturesorts-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/logo.png',
@@ -169013,7 +169013,7 @@
     ],
     'www.summithotels-experiences.goyaana.com': [
         {
-            branch: 'Summit Goa',
+            branch: 'Summit-Goa',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/goa-branch.jpg',
             id: 'summithotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/logo.png',
