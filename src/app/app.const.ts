@@ -169262,7 +169262,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BaloonArtist_2',
                             extLink: ''
                         },
                         {
@@ -169270,7 +169270,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightOccasions_3',
                             extLink: ''
                         },
                         {
@@ -169278,7 +169278,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GuestRoomDecoration_2',
                             extLink: ''
                         },
                         {
@@ -169286,7 +169286,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TattooArtist_2',
                             extLink: ''
                         },
                         {
@@ -169294,7 +169294,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookeryClasses_2',
                             extLink: ''
                         },
                         {
@@ -169302,7 +169302,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingClass_2',
                             extLink: ''
                         },
                         {
@@ -169310,7 +169310,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BakeryCakeMakingClasses_2',
                             extLink: ''
                         },
                     ]
@@ -169332,14 +169332,14 @@
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/honeymoon.jpg',
                             name: 'Complimentary Honeymoon Package',
                             desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HoneymoonPackage_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
                             name: 'Loyalty Program',
                             desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LoyaltyProgram_3',
                             extLink: ''
                         }    
                     ]
