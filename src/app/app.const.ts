@@ -165014,19 +165014,19 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            videoId: 'wB77CIj0n8w'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
-                            videoId: 'v=shkkF-Chbek'
+                            videoId: 'NLYBUUEcYGw'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            videoId: 'EaTJwsslBfo'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
-                            videoId: 'v=rVuZSYerIZI'
+                            videoId: 'fza2F4MKT9k'
                         }
                     ]
                 },
@@ -169351,19 +169351,19 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            videoId: 'veJAKH4_QzY'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
-                            videoId: 'v=shkkF-Chbek'
+                            videoId: 'DSMKJSQ9lHc'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            videoId: 'di1ZJG6Sp1I'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
-                            videoId: 'v=rVuZSYerIZI'
+                            videoId: 'hVMguPdzuEs'
                         }
                     ]
                 },
