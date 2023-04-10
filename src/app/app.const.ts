@@ -143622,7 +143622,7 @@
                             name: 'The top sightseeing',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Thetopsightseeing',
                             extLink: '',
                         },    
                         {
@@ -143630,7 +143630,7 @@
                             name: 'Krishna Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KrishnaTemple',
                             extLink: '',
                         },
                         {
@@ -143638,7 +143638,7 @@
                             name: 'Malpe Beach',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MalpeBeach',
                             extLink: '',
                         },
                         {
@@ -143646,7 +143646,7 @@
                             name: 'Kaup Beach',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KaupBeach',
                             extLink: '',
                         },
                         {
@@ -143654,7 +143654,7 @@
                             name: 'Mookambika Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MookambikaTemple',
                             extLink: '',
                         },
                         {
@@ -143662,7 +143662,7 @@
                             name: 'Kudlu Falls',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KudluFalls',
                             extLink: '',
                         },
                     ]
@@ -143677,7 +143677,7 @@
                             name: 'Marena',
                             location: '',
                             views: '',
-                            routerLink: '/stores',
+                            routerLink: '/stores/Marena',
                             extLink: ''
                         },
                         {
@@ -143685,7 +143685,7 @@
                             name: 'GYM',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Yogaexperience_8',
+                            routerLink: '/stores/GYM_41',
                             extLink: ''
                         },
                     ]
@@ -143700,7 +143700,7 @@
                             name: 'Lawn View Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LawnViewBreakfast',
                             extLink: ''
                         },
                         {
@@ -143708,7 +143708,7 @@
                             name: 'Lunch',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Lunch_7',
                             extLink: ''
                         },
                         {
@@ -143716,7 +143716,7 @@
                             name: 'Dinner / Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DinnerCandleLightDinner',
                             extLink: ''
                         },
                     ]
@@ -144579,7 +144579,7 @@
                     services: [
                         {
                             name: 'IN ROOM DINING Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/IN+ROOM+DINING+Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal/I.R.D.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
