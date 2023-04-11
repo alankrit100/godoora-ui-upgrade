@@ -170773,28 +170773,28 @@
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/m1.jpg',
                             name: 'Soulful Escapades',
                             desc: '',
                             routerLink: '/by-admin/1183',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/foodand.jpg',
                             name: 'Food & Culture Experience',
                             desc: '',
                             routerLink: '/by-admin/1184',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/family.jpg',
                             name: 'Family Vacation',
                             desc: '',
                             routerLink: '/by-admin/1185',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/adventure.jpg',
                             name: 'Adventure',
                             desc: '',
                             routerLink: '/by-admin/1186',
@@ -172636,16 +172636,16 @@
                         {
                             name: 'Mehndi Experience',
                             extLink: '',
-                            routerLink: '/stores/BanquetHallBooking',
+                            routerLink: 'test',
                             icon: 'royal/wedding.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/m1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/m2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/m3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Mehndi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Mehndi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Mehndi3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -172679,7 +172679,7 @@
                             name: 'Bonfire Nights',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/restauran.png',
+                            icon: 'kolkatta/fire.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -172695,7 +172695,7 @@
                             name: 'Tea farm tour',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/restauran.png',
+                            icon: 'kolkatta/tea.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -172711,7 +172711,7 @@
                             name: 'Lunch by the waterfall',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/bar-counter.png',
+                            icon: 'kolkatta/fried-rice.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
