@@ -156770,7 +156770,7 @@
                 destinations: {
                     active: true,
                     heading: 'Dining Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions. With so much to offer, we take pride in delivering exceptional dining experiences! From speciality restaurants and coffee shops to bakeries and more, we have all you need for an ideal culinary journey.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Sunflower1.jpg',
@@ -156883,7 +156883,7 @@
                 offers: {
                     active: true,
                     heading: 'Plan Your Events',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements. Guests get customized packages, suited for every budget coupled with well-appointed rooms, varied dining options, numerous recreational facilities, and seamless service. We ensure that events organized at our banquet halls add a special touch to all your occasions. With so much to offer, we take pride in crafting exquisite experiences and magical moments. Be it a Conference, Meeting, Wedding or any other Social Gathering, we customize our facilities to meet your needs and ensure a memorable event!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
@@ -159199,7 +159199,7 @@
                 destinations: {
                     active: true,
                     heading: 'Dining Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions. With so much to offer, we take pride in delivering exceptional dining experiences! From speciality restaurants and coffee shops to bakeries and more, we have all you need for an ideal culinary journey.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sunflower.jpg',
@@ -163021,7 +163021,7 @@
                 destinations: {
                     active: true,
                     heading: 'Dining Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions. With so much to offer, we take pride in delivering exceptional dining experiences! From speciality restaurants and coffee shops to bakeries and more, we have all you need for an ideal culinary journey.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Cafe+Pride.jpg',
@@ -163141,7 +163141,7 @@
                 offers: {
                     active: true,
                     heading: 'Plan Your Events',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements. Guests get customized packages, suited for every budget coupled with well-appointed rooms, varied dining options, numerous recreational facilities, and seamless service. We ensure that events organized at our banquet halls add a special touch to all your occasions. With so much to offer, we take pride in crafting exquisite experiences and magical moments. Be it a Conference, Meeting, Wedding or any other Social Gathering, we customize our facilities to meet your needs and ensure a memorable event!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
