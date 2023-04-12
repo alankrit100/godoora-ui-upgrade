@@ -159154,12 +159154,12 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/banner.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Home.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride-goa.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/banner.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
@@ -162976,12 +162976,12 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pridehotel+delhi.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Home.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride-goa.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pridehotel+delhi.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
