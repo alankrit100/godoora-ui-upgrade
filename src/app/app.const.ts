@@ -159783,22 +159783,22 @@
                             name: 'CORPORATE EVENTS',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'WEDDING CEREMONIES',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'FAMILY EVENTS',
                             desc: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
