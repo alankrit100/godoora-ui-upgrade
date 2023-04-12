@@ -156760,7 +156760,7 @@
                             routerLink: '/by-admin/1062'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
                             label: 'Convenience Store',
                             extLink: '',
                             routerLink: '/coming-soon'
@@ -163014,7 +163014,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
                             label: 'Convenience Store',
                             extLink: '',
-                            routerLink: '/by-admin/1121'
+                            routerLink: '/coming-soon'
                         },
                     ]
                 },
