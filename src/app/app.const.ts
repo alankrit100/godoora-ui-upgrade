@@ -156739,7 +156739,7 @@
                 experience: {
                     active: true,
                     heading: 'Pride Sun Village Resort and Spa - A Luxury Resort in North Goa',
-                    desc: `Revel in the different colours and adventures of Goa as you dwell in the comfort of Pride Sun Village Resort Spa Goa, for leisure and business trips. Apart from its close proximity to the most distinguished beaches in Goa, our seaside resort offers comfort with an old-world charm. Our signature facilities range from rejuvenating spa services, a splendid swimming pool area, a comprehensive fitness center and undoubtedly restaurants that feature appetizing continental cuisine and Goan delicacies. Unparalleled comfort, commodious rooms blended with amiable hospitality are the prime forte of our prestigious resort in North Goa.`,
+                    desc: `Revel in the different colours and adventures of Goa as you dwell in the comfort of Pride Sun Village Resort Spa Goa, for leisure and business trips.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -156776,28 +156776,28 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Sunflower1.jpg',
                             name: 'Sunflower',
                             desc: '',
-                            routerLink: '/stores/Sunflower_1',
+                            routerLink: '/by-admin/1195',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Hibiscus1.jpg',
                             name: 'Hibiscus',
                             desc: '',
-                            routerLink: '/stores/Hibiscus_1',
+                            routerLink: '/by-admin/1196',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Eggs1.jpg',
                             name: 'Tonatiuh',
                             desc: '',
-                            routerLink: '/stores/Tonatiuh_1',
+                            routerLink: '/by-admin/1197',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/SunDowner.jpg',
                             name: 'Sundowner',
                             desc: '',
-                            routerLink: '/stores/SunDowner_1',
+                            routerLink: '/by-admin/1198',
                             extLink: ''
                         }
                     ]
@@ -156852,7 +156852,7 @@
                 activities: {
                     active: true,
                     heading: 'Pride Hotel Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: 'Pride Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Fitness1.jpg',
@@ -158425,6 +158425,171 @@
                     ]
                 },
                 {
+                    name: 'Sunflower',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Dinning Table',
+                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/sunflower.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Hibiscus',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Dinning Table',
+                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/hibiscus.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Tonatiuh',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Dinning Table',
+                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/tonatiuh.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Sunflower',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Dinning Table',
+                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/sundowner.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner3.jpg' },,
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
                     name: 'Open For Local',
                     icon: 'royal/open.png',
                     size: '64px',
@@ -159168,7 +159333,7 @@
                 experience: {
                     active: true,
                     heading: 'Comfort And Luxury at Pride Hotel Pune',
-                    desc: `Your journey to experience the ultimate luxury with a touch of Indian hospitality begins at our admirably classic hotel near Pune Airport by Pride Group - Pride Hotel, Shivaji Nagar, Pune. Pride Hotel stands out to be the best hotel in Pune for its extraordinary modern amenities, supreme services for its patrons, and its ideal location in the heart of the city. Its close proximity to OSHO Rajneesh Ashram, Shaniwarwada, Dagduseth Ganapati Mandir, Saras Baug, and Katraj Snake Park makes our hotel the most desirable luxury hotel in Pune. Be it, leisure travelers or corporate visitors, our hotel ensures complete well-being of its guests with utmost sincerity. The aesthetically designed rooms at our Pune hotel will let you immerse in the comfort that pleases your body, mind, and soul, and give the pleasure of the most desired luxury. `,
+                    desc: `Your journey to experience the ultimate luxury with a touch of Indian hospitality begins at our admirably classic hotel near Pune Airport by Pride Group - Pride Hotel, Shivaji Nagar, Pune. Pride Hotel stands out to be the best hotel in Pune for its extraordinary modern amenities, supreme services for its patrons, and its ideal location in the heart of the city. `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -159274,7 +159439,7 @@
                 activities: {
                     active: true,
                     heading: 'Pride Hotel Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: 'Pride Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Fitness1.jpg',
@@ -159305,7 +159470,7 @@
                 offers: {
                     active: true,
                     heading: 'Plan Your Events',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements. Guests get customized packages, suited for every budget coupled with well-appointed rooms, varied dining options, numerous recreational facilities, and seamless service. We ensure that events organized at our banquet halls add a special touch to all your occasions. With so much to offer, we take pride in crafting exquisite experiences and magical moments. Be it a Conference, Meeting, Wedding or any other Social Gathering, we customize our facilities to meet your needs and ensure a memorable event!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
@@ -162990,7 +163155,7 @@
                 experience: {
                     active: true,
                     heading: 'Pride Plaza Hotel, Aerocity, New Delhi - 5-Star Hotel Near Delhi Airport',
-                    desc: `Experience a memorable stay at the finest luxury hotel in Delhi by Pride Group - The Pride Plaza Hotel Aerocity, New Delhi. Located in close proximity to Delhi and Gurgaon, this 5-star hotel near Delhi Airport provides the finest accommodation and state-of-the-art amenities and serves as a delightful haven for business and leisure travellers. The palatial rooms are decorated with the magnificent monumental images of India. The most striking aspect of the lovely images highlighting the beauty of the country is that they are absolutely authentic. Being a quintessential traditional hotel, the Pride Plaza offers it’s guests a host of opportunities to feel at home and relish the true Indian treat in the form of home-made jams, pickles, conventional chaats in the buffet, the relaxing welcome drink, tamarind candies, hot water bottles among many others`,
+                    desc: `Experience a memorable stay at the finest luxury hotel in Delhi by Pride Group - The Pride Plaza Hotel Aerocity, New Delhi. Located in close proximity to Delhi and Gurgaon, this 5-star hotel near Delhi Airport provides the finest accommodation and state-of-the-art amenities and serves as a delightful haven for business and leisure travellers.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -163063,7 +163228,7 @@
                 experiences: {
                     active: true,
                     heading: 'Rejuvenating Spa Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'Rejuvenate every element of your body and soul at the Golden Glory Spa that treats you with an amazing plethora of holistic treatments within an exotic and soul-soothing setting.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
@@ -163110,7 +163275,7 @@
                 activities: {
                     active: true,
                     heading: 'Pride Hotel Experience',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: 'Pride Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Fitness1.jpg',
