@@ -159676,21 +159676,21 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sunflower.jpg',
                             name: 'Casablanca',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Casablanca',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Hibiscus.jpg',
                             name: 'Puran Da Dhaba',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PuranDaDhaba_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh.jpg',
                             name: 'Xtasy',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Xtasy',
                             extLink: ''
                         },
                     ]
@@ -159705,7 +159705,7 @@
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DeepTissueMassage_1',
                             extLink: ''
                         },
                         {
@@ -159713,7 +159713,7 @@
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Facial',
                             extLink: ''
                         },
                         {
@@ -159721,7 +159721,7 @@
                             name: 'Head Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HeadMassage_1',
                             extLink: ''
                         },
                         {
@@ -159729,7 +159729,7 @@
                             name: 'Foot Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FootMassage',
                             extLink: ''
                         },
                         {
@@ -159737,7 +159737,7 @@
                             name: 'Japanese Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JapaneseMassage',
                             extLink: ''
                         },
                     ]
@@ -159752,7 +159752,7 @@
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FitnessCenter_3',
                             extLink: ''
                         },
                         {
@@ -159760,7 +159760,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_42',
                             extLink: ''
                         },
                         {
@@ -159768,7 +159768,7 @@
                             name: 'Laundry Services',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LaundryServices',
                             extLink: ''
                         },
                     ]
@@ -159992,7 +159992,7 @@
                             name: 'IRD Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
                             routerLink: '',
-                            icon: 'JammuIcons/serving-dish.png',
+                            icon: 'pune/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -161359,52 +161359,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Plan Your Events',
-                    icon: 'royal/restaurant.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Conference Hall 1',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/hall2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Conference Hall 2',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/hall.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference7.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference8.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
