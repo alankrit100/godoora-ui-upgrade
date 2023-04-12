@@ -156776,28 +156776,28 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Sunflower1.jpg',
                             name: 'Sunflower',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Sunflower_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Hibiscus1.jpg',
                             name: 'Hibiscus',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Hibiscus_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Eggs1.jpg',
                             name: 'Tonatiuh',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Tonatiuh_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/SunDowner.jpg',
                             name: 'Sundowner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SunDowner_1',
                             extLink: ''
                         }
                     ]
@@ -156891,28 +156891,28 @@
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/corporate-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'WEDDING CEREMONIES',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/wedding-ceremonies.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'FAMILY EVENTS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/family-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'BUSINESS MEETINGS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/business-meetings.html'
                         }    
                     ]
                 },
@@ -159313,28 +159313,28 @@
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/corporate-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'WEDDING CEREMONIES',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/wedding-ceremonies.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'FAMILY EVENTS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/family-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'BUSINESS MEETINGS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/business-meetings.html'
                         }    
                     ]
                 },
@@ -163055,7 +163055,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Mr.Confectioner.jpg',
                             name: 'Mr.Confectioner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/mrconfectioner.html'
                         },
                     ]
@@ -163149,28 +163149,28 @@
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/corporate-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'Wedding Ceremonies',
                             desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/wedding-ceremonies.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'Family Events',
                             desc: 'Talk to our expert for the exciting member only offers',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/family-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'Buissness Meetings',
                             desc: 'Talk to our expert for the exciting member only offers',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events/business-meetings.html'
                         }   
                     ]
                 },
@@ -164737,146 +164737,62 @@
                     ]
                 },
                 {
-                    name: 'Open For Local',
-                    icon: 'royal/open.png',
+                    name: 'Quick Upgrade',
+                    icon: 'royal/bar-counter1.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Book a table - CKS',
+                            name: 'Upgrade room',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/restauran.png',
+                            icon: 'JammuIcons/room.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/book-table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/book-table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/book-table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Book a table - Garden Cafe',
+                            name: 'Upgrade meal',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/restauran.png',
+                            icon: 'JammuIcons/meal.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/garden-cafe1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/garden-cafe2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/garden-cafe3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal3.jpeg' },  
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Book a table - The Elephant Bar',
+                            name: 'Extend Your Stay',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/bar-counter.png',
+                            icon: 'JammuIcons/bed.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Yoga and Meditation',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/lotus.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/yoga1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/yoga2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/yoga3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Food Delivery - 9th Mile Dhaba',
-                            extLink: 'https://www.royalorchid-9thmiledhaba.goyaana.com/',
-                            routerLink: '',
-                            icon: 'royal/meals.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Banquet Hall Booking',
-                            extLink: '',
-                            routerLink: '/stores/BanquetHallBooking',
-                            icon: 'royal/wedding.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Banquet1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Banquet2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Banquet3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Diy Meal kits',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/meals.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/meal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/meal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/meal3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Sunday Brunch & Magician',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/magician.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'placeholder',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/sunday1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/sunday2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/sunday3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImg: 'bed.png',
                             storePageAsBlog: true
                         },
                     ]
