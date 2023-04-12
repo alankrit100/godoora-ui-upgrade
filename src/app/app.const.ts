@@ -163718,7 +163718,7 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Home.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pridehotel+delhi.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         },
@@ -163753,8 +163753,8 @@
                             routerLink: '/by-admin/1120'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
-                            label: 'Open For Local',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
+                            label: 'Convenience Store',
                             extLink: '',
                             routerLink: '/by-admin/1121'
                         },
@@ -163762,207 +163762,158 @@
                 },
                 destinations: {
                     active: true,
-                    heading: 'Local Experiences',
+                    heading: 'Dining Experiences',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Walk.png',
-                            name: 'Old Delhi Walk',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Cafe+Pride.jpg',
+                            name: 'Cafe Pride',
                             desc: '',
-                            routerLink: '/stores/OldDelhiWalk',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/cafe-pride.html'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Delhi-Night4.jpg',
-                            name: 'Delhi Night Walk',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Oriental_Spice_2_gyscud.jpg',
+                            name: 'Oriental Spice',
                             desc: '',
-                            routerLink: '/stores/DelhiNightWalk',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/oriental-spice.html'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Bike4.jpg',
-                            name: 'Old Delhi Bike Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Stallion.jpg',
+                            name: 'Stallion',
                             desc: '',
-                            routerLink: '/stores/OldDelhiBikeTour',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/stallion.html'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hidden-Gem4.jpg',
-                            name: 'Hidden Gem in Old Delhi',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Aqua+Grill.jpg',
+                            name: 'Aqua Grill',
                             desc: '',
-                            routerLink: '/stores/HiddenGeminOldDelhi',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/aqua-grill.html'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hour-South4.jpg',
-                            name: '3.5 Hour South Delhi Pvt Bike Tour with',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Mr.Confectioner.jpg',
+                            name: 'Mr.Confectioner',
                             desc: '',
-                            routerLink: '/stores/35HourSouthDelhiPvtBikeTourwith',
-                            extLink: ''
+                            routerLink: '/stores/',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/mrconfectioner.html'
                         },
                     ]
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Dinning Experience',
+                    heading: 'Rejuvenating Spa Experiences',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
-                            name: 'Bonfire setup for open area dinner party',
+                            name: 'Deep Tissue Massage',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Bonfiresetup_4',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
-                            name: 'Candle Light Occasions',
+                            name: 'Facial',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasion_6',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/basket.jpg',
-                            name: 'Picnic Baskets',
+                            name: 'Head Massage',
                             location: 'Hampi sight visit with picnic baskets',
                             views: '',
-                            routerLink: '/stores/PicnicBaskets_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/raja_rani.jpg',
-                            name: 'Raja Rani poolside dinner',
+                            name: 'Foot Massage',
                             location: 'Be the Royal guests',
                             views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_6',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/barbeque.jpg',
-                            name: 'Barbeque evening with movie screening',
+                            name: 'Japanese Massage',
                             location: 'Enjoy your personal butler service',
                             views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening_6',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/high_tea.jpg',
-                            name: 'High tea at garden cafe',
-                            location: 'Tea & Snacks facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Highteaatgardencafe_4',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/rdinner.jpg',
-                            name: 'Romantic candle light dinner',
-                            location: 'Facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bar.jpg',
-                            name: 'Relax at Elephant bar',
-                            location: 'Whiskey | Cocktails | Beer',
-                            views: '',
-                            routerLink: '/stores/RelaxatElephantbar_4',
-                            extLink: ''
-                        }
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique Pride Experience',
+                    heading: 'Pride Hotel Experience',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/balloon.jpg',
-                            name: 'Baloon Artist',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness1.jpg',
+                            name: 'Fitness Center',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/BaloonArtist_4',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/clight.jpg',
-                            name: 'Candle Light Occasions',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg',
+                            name: 'Swimming Pool',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasions_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/art.jpg',
-                            name: 'Guest Room Decoration with towel art & flowers',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Laundry1.jpg',
+                            name: 'Laundry Service',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
                             routerLink: '/stores/GuestRoomDecoration_4',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/tatto.jpg',
-                            name: 'Tattoo Artist',
-                            location: 'One-of-a-kind activities hosted by experts',
-                            views: '',
-                            routerLink: '/stores/TattooArtist_4',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/cookery.jpg',
-                            name: 'Cookery Classes',
-                            location: 'Family Fun | Workshops',
-                            views: '',
-                            routerLink: '/stores/CookeryClasses_4',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/swim.jpg',
-                            name: 'Swimming Class',
-                            location: 'Family Fun | Workshops',
-                            views: '',
-                            routerLink: '/stores/SwimmingClass_4',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bakery.jpg',
-                            name: 'Bakery Cake Making Classes',
-                            location: 'Family Fun | Workshops',
-                            views: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses_4',
                             extLink: ''
                         },
                     ]
                 },
                 offers: {
                     active: true,
-                    heading: 'Pride New Delhi Hotel Offers',
+                    heading: 'Plan Your Events',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/plan-your-events.jpg',
-                            name: 'Plan Your Events',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
+                            name: 'Corporate Event',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/1082',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/honeymoon.jpg',
-                            name: 'Complimentary Honeymoon Package',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
+                            name: 'Wedding Ceremonies',
                             desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
-                            routerLink: '/stores/HoneymoonPackage_3',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
-                            name: 'Loyalty Program',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
+                            name: 'Family Events',
                             desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/LoyaltyProgram_3',
-                            extLink: ''
-                        }    
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
+                            name: 'Buissness Meetings',
+                            desc: 'Talk to our expert for the exciting member only offers',
+                            routerLink: '',
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                        }   
                     ]
                 },
                 stories: {
@@ -165585,7 +165536,7 @@
                     ]
                 },
                 {
-                    name: 'Local Experiences',
+                    name: 'Dinnig Experiences',
                     icon: 'royal/bar-counter1.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -165593,7 +165544,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Old Delhi Walk',
+                            name: 'Cafe Pride',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -165602,15 +165553,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Walk1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Walk2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Walk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/cafe2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/cafe3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/cafe4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Delhi Night Walk',
+                            name: 'Oriental Spice',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/barbeque.png',
@@ -165619,15 +165570,15 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Delhi-Night1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Delhi-Night2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Delhi-Night3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/o1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/o2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/o3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Old Delhi Bike Tour',
+                            name: 'Stallion',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/garden cafe.png',
@@ -165636,14 +165587,14 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Bike1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Bike2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Old-Delhi-Bike3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/s1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/s2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/s3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Hidden Gem in Old Delhi',
+                            name: 'Aqua Grill',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/candle-light1.png',
@@ -165652,15 +165603,14 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hidden-Gem1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hidden-Gem2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hidden-Gem3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/a1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/a2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: '3.5 Hour South Delhi Pvt Bike Tour with',
+                            name: 'Mr.Confectioner',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/bar-counter1.png',
@@ -165669,9 +165619,8 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hour-South1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hour-South2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/Hour-South3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/m1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/m2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -165679,7 +165628,7 @@
                     ]
                 },
                 {
-                    name: 'Unique Dinning Experience',
+                    name: 'Rejuvenating Spa Experiences',
                     icon: 'royal/bar-counter1.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -165687,7 +165636,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Raja Rani poolside dinner',
+                            name: 'Deep Tissue Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -165696,16 +165645,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Barbeque evening with movie screening',
+                            name: 'Facial',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/barbeque.png',
@@ -165714,16 +165662,15 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bbq1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bbq2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bbq3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bbq4.jpg' },,
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'High tea at garden cafe',
+                            name: 'Head Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/garden cafe.png',
@@ -165732,15 +165679,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/hightea1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/hightea2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/hightea3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Head1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Head2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Head3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Romantic candle light dinner',
+                            name: 'Foot Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/candle-light1.png',
@@ -165749,16 +165696,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candlelight1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candlelight2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candlelight3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candlelight4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/foot1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/foot2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/foot3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Relax at Elephant bar',
+                            name: 'Japanese Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/bar-counter1.png',
@@ -165767,10 +165713,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Japanese1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Japanese2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Japanese3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -165935,7 +165880,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room @ INR 999*',
+                            name: 'Upgrade room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/room.png',
@@ -165952,7 +165897,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade meal @ INR 499*',
+                            name: 'Upgrade meal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/meal.png',
@@ -165969,7 +165914,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Extra bed @ INR 99*',
+                            name: 'Extend Your Stay',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/bed.png',
@@ -166068,7 +166013,7 @@
                     ]
                 },
                 {
-                    name: 'Unique Pride Experience',
+                    name: 'Pride Hotel Experience',
                     icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -166076,7 +166021,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Baloon Artist',
+                            name: 'Fitness Center',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/balloon.png',
@@ -166085,16 +166030,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/fitness3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Candle Light Occasions',
+                            name: 'Laundry Services',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/candle.png',
@@ -166103,16 +166047,15 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Laundry1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Laundry2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Laundry3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Guest Room Decoration',
+                            name: 'Swimming Pool',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/guest.png',
@@ -166121,10 +166064,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/room4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
