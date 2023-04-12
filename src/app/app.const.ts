@@ -158433,9 +158433,9 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Dinning Table',
-                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/sunflower.html',
-                            routerLink: '',
+                            name: 'Book a Table',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -158474,9 +158474,9 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Dinning Table',
-                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/hibiscus.html',
-                            routerLink: '',
+                            name: 'Book a Table',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -158516,9 +158516,9 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Dinning Table',
-                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/tonatiuh.html',
-                            routerLink: '',
+                            name: 'Book a Table',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -158557,9 +158557,9 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Dinning Table',
-                            extLink: 'https://www.pridehotel.com/pride-sun-village-resort-and-spa-goa/restaurants/sundowner.html',
-                            routerLink: '',
+                            name: 'Book a Table',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -159370,22 +159370,22 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sunflower.jpg',
                             name: 'Casablanca',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/casablanca.html'
+                            routerLink: '/by-admin/1199',
+                            extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Hibiscus.jpg',
                             name: 'Puran Da Dhaba',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/puran-da-dhaba.html'
+                            routerLink: '/by-admin/1200',
+                            extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh.jpg',
                             name: 'Xtasy',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/xtasy.html'
+                            routerLink: '/by-admin/1201',
+                            extLink: ''
                         },
                     ]
                 },
@@ -160711,6 +160711,154 @@
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         }
+                    ]
+                },
+                {
+                    name: 'Casablanca',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Dinning Table',
+                            extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/casablanca.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Learn bed making',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/bedmaking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                },
+                {
+                    name: 'Puran Da Dhaba',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Dinning Table',
+                            extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/puran-da-dhaba.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Xtasy',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Dinning Table',
+                            extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/xtasy.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -163192,36 +163340,36 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Cafe+Pride.jpg',
                             name: 'Cafe Pride',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/cafe-pride.html'
+                            routerLink: '/by-admin/1202',
+                            extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Oriental_Spice_2_gyscud.jpg',
                             name: 'Oriental Spice',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/oriental-spice.html'
+                            routerLink: '/by-admin/1203',
+                            extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Stallion.jpg',
                             name: 'Stallion',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/stallion.html'
+                            routerLink: '/by-admin/1204',
+                            extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Aqua+Grill.jpg',
                             name: 'Aqua Grill',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/aqua-grill.html'
+                            routerLink: '/by-admin/1205',
+                            extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Mr.Confectioner.jpg',
                             name: 'Mr.Confectioner',
                             desc: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/mrconfectioner.html'
+                            routerLink: '/by-admin/1206',
+                            extLink: ''
                         },
                     ]
                 },
@@ -164899,6 +165047,212 @@
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         }
+                    ]
+                },
+                {
+                    name: 'Cafe Pride',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a Table',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/cafe-pride.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/takeaway2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Oriental Spice',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a Table',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/oriental-spice.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pool-side4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Stallion',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a Table',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/stallion.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Mr.Confectioner',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a Table',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/mrconfectioner.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner3.jpg' },,
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Aqua Grill',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a Table',
+                            extLink: 'https://www.pridehotel.com/pride-plaza-hotel-aerocity-new-delhi-hotel/restaurants/aqua-grill.html',
+                            routerLink: '',
+                            icon: 'pune/dinning-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Takeaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'pune/take-away.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner3.jpg' },,
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
