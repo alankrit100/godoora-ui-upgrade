@@ -163305,7 +163305,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'Digital Guest Experience',
+                            label: 'Digital Menus & Requests',
                             extLink: '',
                             routerLink: '/home'
                         },
