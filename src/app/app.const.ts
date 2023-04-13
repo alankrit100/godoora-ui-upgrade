@@ -160722,7 +160722,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Dinning Table',
+                            name: 'Book a Table',
                             extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/casablanca.html',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
@@ -160787,7 +160787,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Dinning Table',
+                            name: 'Book a Table',
                             extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/puran-da-dhaba.html',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
@@ -160829,7 +160829,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Dinning Table',
+                            name: 'Book a Table',
                             extLink: 'https://www.pridehotel.com/pride-hotel-pune/restaurants/xtasy.html',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
