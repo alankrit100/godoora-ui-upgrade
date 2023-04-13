@@ -159333,7 +159333,7 @@
                 experience: {
                     active: true,
                     heading: 'Comfort And Luxury at Pride Hotel Pune',
-                    desc: `Your journey to experience the ultimate luxury with a touch of Indian hospitality begins at our admirably classic hotel near Pune Airport by Pride Group - Pride Hotel, Shivaji Nagar, Pune. Pride Hotel stands out to be the best hotel in Pune for its extraordinary modern amenities, supreme services for its patrons, and its ideal location in the heart of the city. `,
+                    desc: `Your journey to experience the ultimate luxury with a touch of Indian hospitality begins at our admirably classic hotel near Pune Airport by Pride Group - Pride Hotel, Shivaji Nagar, Pune. `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -159364,7 +159364,7 @@
                 destinations: {
                     active: true,
                     heading: 'Dining Experiences',
-                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions. With so much to offer, we take pride in delivering exceptional dining experiences! From speciality restaurants and coffee shops to bakeries and more, we have all you need for an ideal culinary journey.',
+                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sunflower.jpg',
@@ -159470,7 +159470,7 @@
                 offers: {
                     active: true,
                     heading: 'Plan Your Events',
-                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements. Guests get customized packages, suited for every budget coupled with well-appointed rooms, varied dining options, numerous recreational facilities, and seamless service. We ensure that events organized at our banquet halls add a special touch to all your occasions. With so much to offer, we take pride in crafting exquisite experiences and magical moments. Be it a Conference, Meeting, Wedding or any other Social Gathering, we customize our facilities to meet your needs and ensure a memorable event!',
+                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
@@ -163334,7 +163334,7 @@
                 destinations: {
                     active: true,
                     heading: 'Dining Experiences',
-                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions. With so much to offer, we take pride in delivering exceptional dining experiences! From speciality restaurants and coffee shops to bakeries and more, we have all you need for an ideal culinary journey.',
+                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/Cafe+Pride.jpg',
@@ -163454,7 +163454,7 @@
                 offers: {
                     active: true,
                     heading: 'Plan Your Events',
-                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements. Guests get customized packages, suited for every budget coupled with well-appointed rooms, varied dining options, numerous recreational facilities, and seamless service. We ensure that events organized at our banquet halls add a special touch to all your occasions. With so much to offer, we take pride in crafting exquisite experiences and magical moments. Be it a Conference, Meeting, Wedding or any other Social Gathering, we customize our facilities to meet your needs and ensure a memorable event!',
+                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
