@@ -156891,28 +156891,28 @@
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/corporate-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'WEDDING CEREMONIES',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/wedding-ceremonies.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'FAMILY EVENTS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/family-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'BUSINESS MEETINGS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/business-meetings.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         }    
                     ]
                 },
@@ -159178,7 +159178,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Laundry Services',
@@ -159478,28 +159477,28 @@
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/corporate-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'WEDDING CEREMONIES',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/wedding-ceremonies.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'FAMILY EVENTS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/family-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'BUSINESS MEETINGS',
                             desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/business-meetings.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         }    
                     ]
                 },
@@ -160944,7 +160943,7 @@
                             name: 'stationary',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'pune/stationary-bike.png',
+                            icon: 'pune/stationary.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -161291,7 +161290,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Laundry Services',
@@ -163462,28 +163460,28 @@
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/corporate-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'Wedding Ceremonies',
                             desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/wedding-ceremonies.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'Family Events',
                             desc: 'Talk to our expert for the exciting member only offers',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/family-events.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'Buissness Meetings',
                             desc: 'Talk to our expert for the exciting member only offers',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events/business-meetings.html'
+                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
                         }   
                     ]
                 },
@@ -165850,7 +165848,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
                         },
                         {
                             name: 'Tattoo Artist',
