@@ -170459,11 +170459,11 @@
                 experience: {
                     active: true,
                     heading: 'Summit Calangute Resort & Spa',
-                    desc: `Summit Calangute Resort & Spa is a holiday destination that provides guests with peace and tranquillity. The hotel is located in the heart of Goa, 1.0 km from Calangute Beach. This hotel is in a fantastic location, so you can discover everything this lovely state has to offer. With its natural surroundings and rich cultural heritage, Summit Calangute Resort & Spa provides guests with a holistic experience. The rooms are spacious, allowing guests to unwind after a long day at the beach or one of the many other attractions in Goa.`,
+                    desc: `Summit Calangute Resort & Spa is a holiday destination that provides guests with peace and tranquillity. The hotel is located in the heart of Goa, 1.0 km from Calangute Beach. This hotel is in a fantastic location, so you can discover everything this lovely state has to offer.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'Digital Guest Experience',
+                            label: 'Digital Menus & Requests',
                             extLink: '',
                             routerLink: '/home'
                         },
@@ -170471,19 +170471,19 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
                             label: 'Special Offers & Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/1141'
+                            routerLink: '/by-admin/1162'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrade',
                             extLink: '',
-                            routerLink: '/by-admin/1142'
+                            routerLink: '/by-admin/1163'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
                             label: 'Open For Local',
                             extLink: '',
-                            routerLink: '/by-admin/1143'
+                            routerLink: '/by-admin/1164'
                         },
                     ]
                 },
@@ -170492,34 +170492,6 @@
                     heading: 'Local Experiences',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/m1.jpg',
-                            name: 'Soulful Escapades',
-                            desc: '',
-                            routerLink: '/by-admin/1183',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/foodand.jpg',
-                            name: 'Food & Culture Experience',
-                            desc: '',
-                            routerLink: '/by-admin/1184',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/family.jpg',
-                            name: 'Family Vacation',
-                            desc: '',
-                            routerLink: '/by-admin/1185',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/adventure.jpg',
-                            name: 'Adventure',
-                            desc: '',
-                            routerLink: '/by-admin/1186',
-                            extLink: ''
-                        },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Shore4.jpg',
                             name: 'Goa Heritage Shore Excursion',
@@ -170577,19 +170549,19 @@
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
-                            name: 'Bonfire setup for open area dinner party',
-                            location: 'Tea & Snacks facing the Brindavan garden',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina1.avif',
+                            name: 'Alpina Multi-cuisine Fine Dining',
+                            location: '8:00 AM - 11:00 PM',
                             views: '',
-                            routerLink: '/stores/Bonfiresetup_5',
+                            routerLink: '/by-admin/1207',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
-                            name: 'Candle Light Occasions',
-                            location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Cocktail1.jpg',
+                            name: 'Cocktail Country',
+                            location: 'Bar & Night Club',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasion_7',
+                            routerLink: '/by-admin/1208',
                             extLink: ''
                         },
                         {
@@ -170601,27 +170573,11 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/raja_rani.jpg',
-                            name: 'Raja Rani poolside dinner',
-                            location: 'Be the Royal guests',
-                            views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_7',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/barbeque.jpg',
-                            name: 'Barbeque evening with movie screening',
-                            location: 'Enjoy your personal butler service',
-                            views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening_7',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/high_tea.jpg',
-                            name: 'High tea at garden cafe',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
+                            name: 'Bonfire dinner party',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Highteaatgardencafe_5',
+                            routerLink: '/stores/Bonfiresetup_5',
                             extLink: ''
                         },
                         {
@@ -170632,41 +170588,75 @@
                             routerLink: '/stores/Romanticcandlelightdinner_9',
                             extLink: ''
                         },
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Soulful Escapades at Summit Hotels',
+                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bar.jpg',
-                            name: 'Relax at Elephant bar',
-                            location: 'Whiskey | Cocktails | Beer',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/m1.jpg',
+                            name: 'Deep Tissue Massage',
+                            location: '(60 Minutes)',
                             views: '',
-                            routerLink: '/stores/RelaxatElephantbar_5',
+                            routerLink: '/stores/',
                             extLink: ''
-                        }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/head1.jpg',
+                            name: 'Head Massage',
+                            desc: '(30 Minutes)',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/foot1.jpg',
+                            name: 'Foot Reflexology',
+                            desc: '(40 Minutes)',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/sw1.jpg',
+                            name: 'Swedish Massage',
+                            desc: '(60 Minutes)',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/head1.jpg',
+                            name: 'Head & Shoulder Massage',
+                            desc: '(40 Minutes)',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/bc1.jpg',
+                            name: 'Back Massage',
+                            desc: '(30 Minutes)',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        }    
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique Summit Hotel Experience',
+                    heading: 'Learning Experience',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/balloon.jpg',
-                            name: 'Baloon Artist',
-                            location: 'One-of-a-kind activities hosted by experts',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/cookery.jpg',
+                            name: 'Cook with Chef',
+                            location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/BaloonArtist_2',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/clight.jpg',
-                            name: 'Candle Light Occasions',
-                            location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
-                            views: '',
-                            routerLink: '/stores/CandleLightOccasions_3',
+                            routerLink: '/stores/CookeryClasses_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/art.jpg',
-                            name: 'Guest Room Decoration with towel art & flowers',
-                            location: 'Our experts take your party vibe a notch higher',
+                            name: 'Guest Room Decoration',
+                            location: '',
                             views: '',
                             routerLink: '/stores/GuestRoomDecoration_2',
                             extLink: ''
@@ -170680,58 +170670,13 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/cookery.jpg',
-                            name: 'Cookery Classes',
-                            location: 'Family Fun | Workshops',
-                            views: '',
-                            routerLink: '/stores/CookeryClasses_2',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/swim.jpg',
-                            name: 'Swimming Class',
-                            location: 'Family Fun | Workshops',
-                            views: '',
-                            routerLink: '/stores/SwimmingClass_2',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bakery.jpg',
-                            name: 'Bakery Cake Making Classes',
+                            name: 'Baking Workshop',
                             location: 'Family Fun | Workshops',
                             views: '',
                             routerLink: '/stores/BakeryCakeMakingClasses_2',
                             extLink: ''
                         },
-                    ]
-                },
-                offers: {
-                    active: true,
-                    heading: 'Summit Hotels Offers',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/plan-your-events.jpg',
-                            name: 'Plan Your Events',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/1160',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/honeymoon.jpg',
-                            name: 'Complimentary Honeymoon Package',
-                            desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
-                            routerLink: '/stores/HoneymoonPackage_3',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
-                            name: 'Loyalty Program',
-                            desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/LoyaltyProgram_3',
-                            extLink: ''
-                        }    
                     ]
                 },
                 stories: {
@@ -172153,7 +172098,7 @@
                     ]
                 },
                 {
-                    name: 'Soulful Escapades',
+                    name: 'Soulful Escapades at Summit Hotels',
                     icon: 'fortunemussoorieicons/online-lesson.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -172161,7 +172106,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Deep Tissue Massage(60 Minutes)',
+                            name: 'Deep Tissue Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'summit/Deep-Tissue.png',
@@ -172179,7 +172124,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Head Massage(30 Minutes)',
+                            name: 'Head Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'summit/Head.png',
@@ -172196,7 +172141,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Foot Reflexology(40 Minutes)',
+                            name: 'Foot Reflexology',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'summit/foot-massage.png',
@@ -172213,7 +172158,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Swedish Massage(60 Minutes)',
+                            name: 'Swedish Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'summit/Swedish.png',
@@ -172230,7 +172175,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Head & Shoulder Massage(40 Minutes)',
+                            name: 'Head & Shoulder Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'summit/shoulder.png',
@@ -172247,7 +172192,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Back Massage(30 Minutes)',
+                            name: 'Back Massage',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'summit/massage.png',
@@ -172265,7 +172210,7 @@
                     ]
                 },
                 {
-                    name: 'Food & Culture Experience',
+                    name: 'Cocktail Country',
                     icon: 'royal/open.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -172273,157 +172218,34 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Visit the Tibetan Refugee Centre (Darj)',
+                            name: 'Book A Table',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/restauran.png',
+                            icon: 'pune/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/tt1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/tt2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/tt3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Cocktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Cocktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Cocktail3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Local Dance Jam Session',
+                            name: 'Takeaway',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/restauran.png',
+                            icon: 'pune/take-away.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/ld1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/ld2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/ld3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Temple Tour(Monastery Visit)',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/temple.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/temple1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/temple2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/temple3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Vineyard Tour in Bhutan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/lotus.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/vine1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/vine2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/vine3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Local Cuisines',
-                            extLink: 'https://www.royalorchid-9thmiledhaba.goyaana.com/',
-                            routerLink: '',
-                            icon: 'royal/meals.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/l1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/l2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/l3.jpg' },
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Mehndi Experience',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/wedding.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Mehndi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Mehndi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Mehndi3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Local School Visit',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/meals.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/ls1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/ls2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/ls3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                    ]
-                },
-                {
-                    name: 'Family Vacation',
-                    icon: 'royal/open.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Bonfire Nights',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kolkatta/fire.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/bn1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/bn2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/bn3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Tea farm tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kolkatta/tea.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/tf1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/tf2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/tf3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Cocktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Cocktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Cocktail3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -172445,7 +172267,7 @@
                     ]
                 },
                 {
-                    name: 'Adventure',
+                    name: 'Alpina Multi-cuisine Fine Dining',
                     icon: 'royal/open.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -172453,66 +172275,34 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Nature walk',
+                            name: 'Book a Table',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/nature.png',
+                            icon: 'pune/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/n1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/n2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/n3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina3.avif' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Mountain Biking',
+                            name: 'Take Away',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'royal/mountain-bike.png',
+                            icon: 'pune/take-away.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/mo1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/mo2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/mo3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'River Rafting',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/rafting.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/rr1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/rr2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/rr3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Paragliding',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/paragliding.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/pa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/pa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/pa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina3.avif' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -172947,101 +172737,71 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Premium Pampering',
+                            name: 'Get Mocktail Offer',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Pride/discount2.png',
+                            icon: 'fortunemussoorieicons/Candle.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Example: I need to host a private party',
+                            headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/personlised1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/personlised2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/personlised3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true
                         },
                         {
-                            name: 'Senior Citizens Offer',
-                            extLink: '',
-                            routerLink: 'price-tag',
-                            icon: 'Pride/hall.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                        },
-                        {
-                            name: 'Staycations',
+                            name: 'Dessert for 2 Offer',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Pride/gift.png',
+                            icon: 'fortunemussoorieicons/Cooking.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/chef1.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/chef3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
-                            name: 'Empowered Women',
+                            name: 'Pool Table Offer',
                             extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/discount.png',
+                            routerLink: '/by-admin/225',
+                            icon: 'JammuIcons/dinning-table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Women-Empowerment1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Women-Empowerment2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Women-Empowerment3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
-                            name: 'Pay 100% now & secure your stay',
+                            name: 'Air Hockey Offer',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Pride/discount1.png',
+                            icon: 'fortunemussoorieicons/walk.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/offer2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/offer4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/offer6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/Hertiage3.jpg' }
+
                             ],
                             confirmBtnLabel: 'Submit Request',
-                        },
-                        {
-                            name: 'Get a Flat 15% off on Website Bookings',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/discount3.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/offer1.jfif' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/offer3.jfif' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/offer5.jfif' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                        },
+                            storePageAsBlog: true
+                        }
                     ]
                 },
                 {
@@ -173135,91 +172895,13 @@
                     ]
                 },
                 {
-                    name: 'Plan Your Events',
+                    name: 'Learning Experience',
                     icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Conference Hall 1',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/hall2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                        },
-                        {
-                            name: 'Conference Hall 2',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/hall.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference7.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Conference8.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                        },
-                    ]
-                },
-                {
-                    name: 'Unique Pride Experience',
-                    icon: 'royal/restaurant.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Baloon Artist',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/balloon.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/balloon4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Candle Light Occasions',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/candle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'placeholder',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/candle4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                        },
                         {
                             name: 'Guest Room Decoration',
                             extLink: '',
@@ -173255,7 +172937,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Cookery Classes',
+                            name: 'Cook with Chef',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/cooking.png',
@@ -173272,23 +172954,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'SwimmingClass',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Swimming2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Swimming3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Swimming4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bakery Cake Making Classes',
+                            name: 'Baking Workshop',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/baking.png',
