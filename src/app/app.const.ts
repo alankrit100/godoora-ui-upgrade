@@ -170490,7 +170490,7 @@
                 destinations: {
                     active: true,
                     heading: 'Local Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: 'There are a million things one must do when travelling so say yes to all the new adventures and this is exactly what Summit Hotels & Resorts has planned for you.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Heritage-Shore4.jpg',
@@ -170546,7 +170546,7 @@
                 experiences: {
                     active: true,
                     heading: 'Unique Dinning Experience',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'Travel tells us about a place’s secrets. There are a million things one must do when travelling so say yes to all the new adventures and this is exactly what Summit Hotels & Resorts has planned for you.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/Alpina1.avif',
@@ -170593,7 +170593,7 @@
                 activities: {
                     active: true,
                     heading: 'Soulful Escapades at Summit Hotels',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'Metta Spa by Summit Hotels & Resorts offers a selection of popular and most effective massages and therapies.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/hotel/m1.jpg',
