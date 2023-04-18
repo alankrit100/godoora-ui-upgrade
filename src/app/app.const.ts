@@ -199481,7 +199481,7 @@
     ],
     'www.svenskahotels-experiences.goyaana.com': [
         {
-            branch: 'Svenska Mumbai',
+            branch: 'Svenska-Mumbai',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/dem.jpg',
             id: 'www.svenskahotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/HotelLogos/svenska-logo.png',
