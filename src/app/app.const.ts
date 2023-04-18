@@ -199561,67 +199561,28 @@
                     desc: `At Svenska hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mumbai. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/PlanYourTrip.png',
-                            label: 'Plan your trip',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            label: 'Digital Menus & Requests',
                             extLink: 'https://www.svenskahotels-planner.goyaana.com',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/digital_exp.jpg',
-                            label: 'Digital Guest Experience',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            label: 'Special Offers',
                             extLink: '',
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/in_room.jpg',
-                            label: 'Svenska Gourmet Experiences',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            label: 'Quick Upgrade',
                             extLink: '',
                             routerLink: '/by-admin/439'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/for_store.jpg',
-                            label: 'The Svenska Store',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
+                            label: 'Convenience Store',
                             extLink: 'http://20.98.100.147:5201/search?category=The%20Brand%20Store',
                             routerLink: ''
-                        }
-                    ]
-                },
-                destinations: {
-                    active: true,
-                    heading: 'Special Offers',
-                    desc: 'You can avail these exciting offers only while booking through this app.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/dining.jpg',
-                            name: 'Personalised Dinner Experience',
-                            location: 'Book a Personalised dinner experience through our app and get Mocktail for 2 free.',
-                            views: '',
-                            routerLink: '/stores/PersonalisedDinnerExperience',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/brunchmum.jpg',
-                            name: 'Sunday Buffet',
-                            location: 'Book sunday buufet through our app and get 20% off.',
-                            views: '',
-                            routerLink: '/stores/SundayBuffet',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/special_day.jpg',
-                            name: 'Celebrate special days with us',
-                            location: 'Kids Party | Weddings | Anniversaries',
-                            views: '',
-                            routerLink: '/stores/Celebratespecialdayswithus_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/short_stay.jpg',
-                            name: 'Short stay',
-                            location: 'Relax and unwind',
-                            views: '',
-                            routerLink: '/stores/ShortStay_2',
-                            extLink: ''
                         }
                     ]
                 },
@@ -199701,37 +199662,33 @@
                 },
                 offers: {
                     active: true,
-                    heading: 'Workshop',
-                    desc: 'Services that make your trip even more exciting and complete',
+                    heading: 'Pride Hotel Experience',
+                    desc: 'Pride Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/cooking11.jpg',
-                            name: 'Cooking With Chef',
-                            desc: '',
-                            routerLink: '/stores/CookingWithChef_1',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Fitness1.jpg',
+                            name: 'Fitness Center',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/FitnessCenter_3',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/towel11.jpg',
-                            name: 'Towel Origamy Classes',
-                            desc: '',
-                            routerLink: '/stores/TowelOrigamyClasses_1',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg',
+                            name: 'Swimming Pool',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/SwimmingPool_42',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/mocktail.jpg',
-                            name: 'Cocktail Making with Bartender',
-                            desc: '',
-                            routerLink: '/stores/CocktailMakingwithBartender',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Laundry1.jpg',
+                            name: 'Laundry Services',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/LaundryServices',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/svenska/Bed_making.jpg',
-                            name: 'Bedmaking',
-                            desc: '',
-                            routerLink: '/stores/Bedmaking_9',
-                            extLink: ''
-                        }
                     ]
                 },
                 stories: {
