@@ -55305,7 +55305,7 @@
                     desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mcleodganj. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Restaurant Menu',
                             extLink: '',
                             routerLink: '/by-admin/443'
@@ -197652,7 +197652,7 @@
                     desc: `At Storii Amoha Retreat hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Dharamshala. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Restaurant Menu and Spa Menu',
                             extLink: '',
                             routerLink: '/by-admin/444'
@@ -199570,7 +199570,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
                             label: 'Special Offers',
                             extLink: '',
-                            routerLink: '/by-admin/1209'
+                            routerLink: '/by-admin/424'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
@@ -199586,7 +199586,7 @@
                         }
                     ]
                 },
-                experiences: {
+                destinations: {
                     active: true,
                     heading: 'Local Experiences',
                     desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
@@ -199627,7 +199627,7 @@
                 },
                 activities: {
                     active: true,
-                    heading: 'Dinig experiences',
+                    heading: 'Dinnig experiences',
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
@@ -199660,7 +199660,7 @@
                         }
                     ]
                 },
-                offers: {
+                experiences: {
                     active: true,
                     heading: 'Svenska Hotel Experience',
                     desc: 'Svenska Hotel resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
@@ -199691,7 +199691,7 @@
                         },
                     ]
                 },
-                destinations: {
+                offers: {
                     active: true,
                     heading: 'Plan Your Events',
                     desc: 'Banquet halls at Svenska Hotels - One of the top hotel in India, are elegantly designed spacious venues for all your event requirements.',
@@ -201339,7 +201339,7 @@
                     ]
                 },
                 {
-                    name: 'Dining Experiences',
+                    name: 'Dinnig experiences',
                     icon: 'royal/bar-counter1.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -201478,7 +201478,7 @@
                     ]
                 },
                 {
-                    name: 'Svenska Hotel Experiences',
+                    name: 'Svenska Hotel Experience',
                     icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
