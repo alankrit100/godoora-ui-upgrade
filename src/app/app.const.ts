@@ -95756,11 +95756,11 @@
                             name: 'personalized dinner experience With Your choice of food',
                             location: '',
                             views: '',
-                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_4',
+                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_7',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_4',
+                                routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_7',
                                 label: 'ENQUIRE NOW'
                             }
                         },    
@@ -95769,11 +95769,11 @@
                             name: 'Cook with Chef Experience Offer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookwithChefExperienceOffer_4',
+                            routerLink: '/stores/CookwithChefExperienceOffer_7',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/CookwithChefExperienceOffer_4',
+                                routerLink: '/stores/CookwithChefExperienceOffer_7',
                                 label: 'ENQUIRE NOW'
                             }
                         }
