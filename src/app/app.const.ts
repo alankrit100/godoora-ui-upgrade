@@ -199634,28 +199634,28 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/mesa+deli1.jpg',
                             name: 'MESA BISTRO',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MESABISTRO',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/messa+deli.jpg',
                             name: 'MESA DELI',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MESADELI',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/micro+bunkets.jpg',
                             name: 'MIRO BUNKETS',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MICROBUNKETS',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/glb1.jpg',
                             name: 'GLOBAL BUFFET',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GLOBALBUFFET',
                             extLink: ''
                         }
                     ]
@@ -199670,7 +199670,7 @@
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FitnessCenter_5',
                             extLink: ''
                         },
                         {
@@ -199678,7 +199678,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_44',
                             extLink: ''
                         },
                         {
@@ -199686,7 +199686,7 @@
                             name: 'Laundry Services',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LaundryServices_2',
                             extLink: ''
                         },
                     ]
