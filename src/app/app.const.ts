@@ -199539,9 +199539,9 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/mum.jpg',
-                            heading: 'A trip that will fulfil your dream list’',
-                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/svenska/dave.jpg',
@@ -199558,7 +199558,7 @@
                 experience: {
                     active: true,
                     heading: 'The Svenska Hotel Experience',
-                    desc: `At Svenska hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mumbai. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
+                    desc: `At Svenska hotels you will be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Mumbai. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -199582,7 +199582,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
                             label: 'Convenience Store',
                             extLink: '',
-                            routerLink: '/comming soon'
+                            routerLink: '/coming-soon'
                         }
                     ]
                 },
@@ -199627,11 +199627,11 @@
                 },
                 activities: {
                     active: true,
-                    heading: 'Dinnig experiences',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
+                    heading: 'Dinig experiences',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/mesa+bistro.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/mesa+deli1.jpg',
                             name: 'MESA BISTRO',
                             desc: '',
                             routerLink: '/stores/',
@@ -199646,13 +199646,13 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/micro+bunkets.jpg',
-                            name: 'MICRO BUNKETS',
+                            name: 'MIRO BUNKETS',
                             desc: '',
                             routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/svenskaglobal-buffet.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/glb1.jpg',
                             name: 'GLOBAL BUFFET',
                             desc: '',
                             routerLink: '/stores/',
@@ -199663,7 +199663,7 @@
                 offers: {
                     active: true,
                     heading: 'Svenska Hotel Experience',
-                    desc: 'Pride Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
+                    desc: 'Svenska Hotel resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Fitness1.jpg',
@@ -199694,35 +199694,35 @@
                 destinations: {
                     active: true,
                     heading: 'Plan Your Events',
-                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements.',
+                    desc: 'Banquet halls at Svenska Hotels - One of the top hotel in India, are elegantly designed spacious venues for all your event requirements.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
                             name: 'CORPORATE EVENTS',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CORPORATEEVENTS',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'WEDDING CEREMONIES',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/WEDDINGCEREMONIES',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'FAMILY EVENTS',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FAMILYEVENTS',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'BUSINESS MEETINGS',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BUSINESSMEETINGS',
                             extLink: ''
                         }    
                     ]
@@ -201204,6 +201204,9 @@
                             placeholder: 'Example: I stay here for 60 mins.',
                             headerText: 'Select a time you would like to stay.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/daystay1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/daystay2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/daystay3.jpg' },
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -201218,7 +201221,9 @@
                             placeholder: 'Example: I want to book a hall',
                             headerText: 'Select a time, you would like to celebrate.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/celb1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/celb2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/celb3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -201232,7 +201237,8 @@
                             placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
                             headerText: 'When would you like to book.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/d2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/d3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -201246,7 +201252,9 @@
                             placeholder: 'Example: I want to book a slot for this.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/buf1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/buf2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/buf3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -201270,6 +201278,9 @@
                             placeholder: 'Example: I want to book a slot.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/mumf1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/mumf2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/mumf3.jpg' },
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -201284,6 +201295,9 @@
                             placeholder: 'Example: I want to book a slot for this tour.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/d1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/d2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/d3.jpg' },
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -201298,6 +201312,9 @@
                             placeholder: 'Example: I want to book a slot.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/l1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/l2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/l3.jpg' },
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -201312,6 +201329,9 @@
                             placeholder: 'Example: I want to book a slot.',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/b2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/b4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/b3.jpg' },
 
                             ],
                             confirmBtnLabel: 'Submit Request'
@@ -201336,9 +201356,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sunflower1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sunflower2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sunflower3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/d2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/d3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/cafe2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -201353,9 +201373,9 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Hibiscus1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Hibiscus2.avif' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Hibiscus3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/miro.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/miro1.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/miro2.jfif' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -201370,9 +201390,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/glb2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/glb3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/sevnska+mumbai/glb4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -201387,9 +201407,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Sundowner3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/cafe2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/cafe3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/cafe4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
