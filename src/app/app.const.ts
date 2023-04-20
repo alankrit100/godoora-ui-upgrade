@@ -55674,24 +55674,6 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Brand Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -58162,12 +58144,7 @@
                     routerLink: '/booked-slots',
                     icon: 'calendar-outline'
                 },
-                {
-                    label: 'Services Directory',
-                    extLink: '',
-                    routerLink: '/by-admin/603',
-                    icon: 'calendar-outline'
-                },
+
                 {
                     label: 'My Services',
                     extLink: '',
@@ -58180,18 +58157,7 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
+
             ],
             departments: [
                 {
@@ -60615,24 +60581,8 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Brand Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
+                
+                
             ],
             departments: [
                 {
