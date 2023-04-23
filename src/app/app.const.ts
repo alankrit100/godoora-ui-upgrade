@@ -155325,29 +155325,29 @@
                             name: 'CORPORATE EVENTS',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/CORPORATEEVENTS_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
                             name: 'WEDDING CEREMONIES',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/WEDDINGCEREMONIES_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
                             name: 'FAMILY EVENTS',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/FAMILYEVENTS_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
                             name: 'BUSINESS MEETINGS',
                             desc: '',
-                            routerLink: '',
-                            extLink: '  3'
+                            routerLink: '/stores/BUSINESSMEETINGS_1',
+                            extLink: ''
                         }    
                     ]
                 },
@@ -156686,8 +156686,7 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
+                            confirmBtnLabel: 'Submit Request'
                         },
                         {
                             name: 'WEDDING CEREMONIES',
@@ -156703,7 +156702,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'FAMILY EVENTS',
@@ -156735,21 +156735,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Meetings and Events',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/meeting.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
