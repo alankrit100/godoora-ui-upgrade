@@ -155347,7 +155347,7 @@
                             name: 'BUSINESS MEETINGS',
                             desc: '',
                             routerLink: '',
-                            extLink: ''
+                            extLink: '  3'
                         }    
                     ]
                 },
@@ -156908,111 +156908,6 @@
                             routerLink: '/stores/Beauty&SalonServices',
                             extLink: ''
                         },
-                    ]
-                },
-                experiences: {
-                    active: true,
-                    heading: 'Restaurants',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/sunflower1.jpg',
-                            name: 'Sunflower',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Sunflower',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Hibiscus.jpg',
-                            name: 'Hibiscus',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Hibiscus',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Tonatiuh.jpg',
-                            name: 'Tonatiuh',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Tonatiuh',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/bar.jpg',
-                            name: 'Sundowner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Sundowner',
-                            extLink: ''
-                        },
-                    ]
-                },
-                activities: {
-                    active: true,
-                    heading: 'Local Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
-                    heading1: 'Dining Experiences',
-                    desc1: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Sunflower1.jpg',
-                            name: 'Sunflower',
-                            desc: '',
-                            routerLink: '/by-admin/1195',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Hibiscus1.jpg',
-                            name: 'Hibiscus',
-                            desc: '',
-                            routerLink: '/by-admin/1196',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/Eggs1.jpg',
-                            name: 'Tonatiuh',
-                            desc: '',
-                            routerLink: '/by-admin/1197',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/Goa/SunDowner.jpg',
-                            name: 'Sundowner',
-                            desc: '',
-                            routerLink: '/stores/ExploreNorthGoabyCar(Sightseeing)',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Walk-through4.jpg',
-                            name: 'Walk through the Ruins of Old Goa',
-                            desc: '',
-                            routerLink: '/stores/WalkthroughtheRuinsofOldGoa',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Explore-North4.jpg',
-                            name: 'Explore North Goa with Divar Island',
-                            desc: '',
-                            routerLink: '/stores/ExploreNorthGoawithDivarIsland',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Capital-City4.JPG',
-                            name: 'Capital City, Chruches and Fort of Goa',
-                            desc: '',
-                            routerLink: '/stores/CapitalCityChruchesandFortofGoa',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Museum4.jpg',
-                            name: 'Museums of South Goa',
-                            desc: '',
-                            routerLink: '/stores/MuseumsofSouthGoa',
-                            routerLink1: '/by-admin/1198',
-                            extLink: ''
-                        }
                     ]
                 },
                 experiences: {
