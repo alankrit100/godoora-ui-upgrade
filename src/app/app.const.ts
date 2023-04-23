@@ -155284,7 +155284,73 @@
                         },
                     ]
                 },
-
+                activities: {
+                    active: false,
+                    heading: 'Pride Hotel Experiences',
+                    desc: 'Pride Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Fitness1.jpg',
+                            name: 'Fitness Center',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/FitnessCenter_3',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg',
+                            name: 'Swimming Pool',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/SwimmingPool_42',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Laundry1.jpg',
+                            name: 'Laundry Services',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/LaundryServices',
+                            extLink: ''
+                        },
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Plan Your Events',
+                    desc: 'Banquet halls at Pride Hotels Group - One of the top hotel chains in India, are elegantly designed spacious venues for all your event requirements.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
+                            name: 'CORPORATE EVENTS',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
+                            name: 'WEDDING CEREMONIES',
+                            desc: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
+                            name: 'FAMILY EVENTS',
+                            desc: '',
+                            routerLink: '',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
+                            name: 'BUSINESS MEETINGS',
+                            desc: '',
+                            routerLink: '',
+                            extLink: ''
+                        }    
+                    ]
+                },
                 stories: {
                     active: true,
                     heading: 'Behind the scenes',
@@ -156581,6 +156647,97 @@
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Meetings and Events',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/meeting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Plan Your Events',
+                    icon: 'royal/restaurant.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'CORPORATE EVENTS',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/honeymoon.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'WEDDING CEREMONIES',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/customer-loyalty.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'FAMILY EVENTS',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/customer-loyalty.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'BUSINESS MEETINGS',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/customer-loyalty.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Meetings and Events',
