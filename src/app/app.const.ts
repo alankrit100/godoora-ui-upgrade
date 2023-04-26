@@ -86337,12 +86337,7 @@
                     routerLink: '/user-shops',
                     icon: 'list-outline'
                 },
-                {
-                    label: 'Plan Your Trip',
-                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
-                    routerLink: '',
-                    icon: 'paper-plane-outline'
-                }
+                
             ],
             departments: [
                 {
