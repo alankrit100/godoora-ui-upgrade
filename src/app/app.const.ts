@@ -148441,18 +148441,6 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -150283,18 +150271,6 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -152086,18 +152062,6 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -153820,18 +153784,6 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -155499,22 +155451,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -157157,22 +157097,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -159658,22 +159586,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -161929,22 +161845,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -163655,22 +163559,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -166461,22 +166353,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -169085,22 +168965,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -170849,22 +170717,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -173593,22 +173449,10 @@
                 },
                 {
                     label: 'Plan Your Trip',
-                    extLink: '/coming-soon',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Online Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
@@ -199844,24 +199688,6 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Brand Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments:  [
                 {
@@ -201998,24 +201824,6 @@
                     routerLink: '',
                     icon: 'paper-plane-outline'
                 },
-                {
-                    label: 'Order Food',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'fast-food-outline'
-                },
-                {
-                    label: 'Brand Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                },
-                {
-                    label: 'Local Shopping',
-                    extLink: '',
-                    routerLink: '/coming-soon',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
