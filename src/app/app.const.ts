@@ -157906,7 +157906,7 @@
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/resturantpdf/IRD+Menu.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/pride-pune-IRD.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
