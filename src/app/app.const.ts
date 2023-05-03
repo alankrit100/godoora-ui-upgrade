@@ -29272,10 +29272,10 @@
                             routerLink: '/by-admin/251'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/PlanYourTrip.png',
-                            label: 'Plan your trip',
-                            extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'Guest Review',
+                            extLink: '',
+                            routerLink: '/by-admin/1249'
                         },
                     ]
                 },
@@ -30765,6 +30765,30 @@
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         }
+                    ]
+                },
+                {
+                    name: 'Guest Review',
+                    icon: 'fortunemussoorieicons/fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Write a Review and get a Free Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/drink.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
                     ]
                 },
                 {
