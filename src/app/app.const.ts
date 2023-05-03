@@ -164310,7 +164310,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/fort.jpg',
-                            name: 'Haveli visits with a traditional tour guide',
+                            name: 'Traditional haveli visits',
                             desc: '',
                             routerLink: '/stores/Havelivisitswithatraditionaltourguide',
                             extLink: ''
@@ -164346,7 +164346,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/bone1.jpg',
-                            name: 'Folk dance at night with bonfire',
+                            name: 'Folk dance with bonfire',
                             location: '',
                             views: '',
                             routerLink: '/stores/Folkdanceatnightwithbonfire',
@@ -164354,7 +164354,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/nawalgarh1.jpeg',
-                            name: 'A documentary session of 1 hour about the history and culture of Nawalgarh',
+                            name: 'Documentary session on the history and culture of Nawalghar',
                             location: '',
                             views: '',
                             routerLink: '/stores/Adocumentarysessionof1houraboutthehistoryandcultureofNawalgarh',
@@ -164362,7 +164362,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/indoor1.jpg',
-                            name: 'Indoor games- billiards, board games etc',
+                            name: 'Indoor games',
                             location: '',
                             views: '',
                             routerLink: '/stores/Indoorgamesbilliardsboardgamesetc',
