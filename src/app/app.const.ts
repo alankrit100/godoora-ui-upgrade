@@ -29273,7 +29273,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
-                            label: 'Guest Review',
+                            label: 'Review & Reward',
                             extLink: '',
                             routerLink: '/by-admin/1249'
                         },
@@ -30764,7 +30764,22 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/culture5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot'
-                        }
+                        },
+                        {
+                            name: 'Write a Review and get a Free Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/drink.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -30787,7 +30802,8 @@
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
                             ],
-                            confirmBtnLabel: 'Book a Slot'
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
                         },
                     ]
                 },
