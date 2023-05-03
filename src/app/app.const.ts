@@ -164201,7 +164201,7 @@
             branch: 'Roop Vilas Palace Nawalgarh',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/roop-vilas-palace.jpg',
             id: 'www.asavarihotels-experiences.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/logo.jpg',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/logo.png',
             theme: 'grey-theme',
             idCategory: 35,
             favIconLink: 'assets/icon/favicon.png',
@@ -164312,21 +164312,21 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/fort.jpg',
                             name: 'Haveli visits with a traditional tour guide',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Havelivisitswithatraditionaltourguide',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/vegetable.jpg',
                             name: 'Visit of the vegetable market at fort',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Visitofthevegetablemarketatfort',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/local-shopping.jpg',
                             name: 'Street shopping',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Streetshopping',
                             extLink: ''
                         },
                     ]
@@ -164341,7 +164341,7 @@
                             name: 'Shop Local',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ShopLocal_2',
                             extLink: ''
                         },
                         {
@@ -164349,7 +164349,7 @@
                             name: 'Folk dance at night with bonfire',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Folkdanceatnightwithbonfire',
                             extLink: ''
                         },
                         {
@@ -164357,7 +164357,7 @@
                             name: 'A documentary session of 1 hour about the history and culture of Nawalgarh',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Adocumentarysessionof1houraboutthehistoryandcultureofNawalgarh',
                             extLink: ''
                         },
                         {
@@ -164365,7 +164365,7 @@
                             name: 'Indoor games- billiards, board games etc',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Indoorgamesbilliardsboardgamesetc',
                             extLink: ''
                         },
                     ]
@@ -164380,7 +164380,7 @@
                             name: 'Sufi retreat',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Sufiretreat',
                             extLink: ''
                         },
                         {
@@ -164388,7 +164388,7 @@
                             name: 'Thar Desert Experiential Tour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TharDesertExperientialTour',
                             extLink: ''
                         },
                         {
@@ -164404,7 +164404,7 @@
                             name: 'Thar Desert Senior Citizen Tour ',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TharDesertSeniorCitizenTour',
                             extLink: ''
                         },
                         {
@@ -164412,7 +164412,7 @@
                             name: 'Destination wedding ',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Destinationwedding',
                             extLink: ''
                         },
                     ]
@@ -164423,20 +164423,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch.jpg',
+                            videoId: 'dL2GoaqQIpw'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
-                            videoId: 'v=shkkF-Chbek'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch1.jpg',
+                            videoId: 'zQ5mwGnv2jI&t=4s'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch2.jpg',
+                            videoId: 'DNJi1PkW7pg'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
-                            videoId: 'v=rVuZSYerIZI'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch3.jpg',
+                            videoId: 'lHurMtykuu4'
                         }
                     ]
                 },
@@ -166173,7 +166173,7 @@
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch.jpg',
             id: 'www.asavarihotels-experiences.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/logo.jpg',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/logo.png',
             theme: 'grey-theme',
             idCategory: 12,
             displayProperty: true,
