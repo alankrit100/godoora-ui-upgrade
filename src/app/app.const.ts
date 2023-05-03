@@ -29275,7 +29275,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'Review & Reward',
                             extLink: '',
-                            routerLink: 'WriteaReviewandgeta Free Mocktail_1'
+                            routerLink: '/by-admin/1249'
                         },
                     ]
                 },
