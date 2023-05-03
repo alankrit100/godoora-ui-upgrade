@@ -30783,7 +30783,7 @@
                     ]
                 },
                 {
-                    name: 'Guest Review',
+                    name: 'Review & Reward',
                     icon: 'fortunemussoorieicons/fitness.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -30793,7 +30793,7 @@
                         {
                             name: 'Write a Review and get a Free Mocktail',
                             extLink: '',
-                            routerLink: 'test',
+                            routerLink: '/by-admin/1249',
                             icon: 'Pride/drink.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
