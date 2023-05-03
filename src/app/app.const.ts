@@ -164299,14 +164299,14 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
                             label: 'Convenience Store',
                             extLink: '',
-                            routerLink: '/by-admin/1220'
+                            routerLink: '/coming-soon'
                         },
                     ]
                 },
                 destinations: {
                     active: true,
                     heading: 'LOCAL EXPERIENCES',
-                    desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions.',
+                    desc: 'Asavari’s new edition Roop Vilas Palace Nawalgarh, Palace design in Haveli & Edwardian architecture, has undergone restoration and renovation with sylvan surrounding with many verities of trees landscape  spreads in 10 acres of lush, manicured Gardens with spacious Lawns all arounds',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/fort.jpg',
@@ -164334,7 +164334,7 @@
                 experiences: {
                     active: true,
                     heading: 'IN-HOUSE EXPERIENCES',
-                    desc: 'Rejuvenate every element of your body and soul at the Golden Glory Spa that treats you with an amazing plethora of holistic treatments within an exotic and soul-soothing setting.',
+                    desc: 'NAWALGARH with a population of forty thousand has been the throbbing fulcrum of the life and history of Shekhawati.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/local1.jpg',
@@ -164373,7 +164373,7 @@
                 activities: {
                     active: true,
                     heading: 'UNIQUE ASAVARI EXPERIENCES',
-                    desc: 'Pride Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
+                    desc: 'Central Nawalgarh has plenty of old-fashioned, small-town charm, with dozens of tiny shops and lots of street vendors hawking piles of merchandise by the side of the road.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/sufi1.jpg',
