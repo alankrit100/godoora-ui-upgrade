@@ -29275,7 +29275,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'Review & Reward',
                             extLink: '',
-                            routerLink: '/by-admin/1249'
+                            routerLink: '/by-admin/1250'
                         },
                     ]
                 },
@@ -30793,7 +30793,7 @@
                         {
                             name: 'Write a Review and get a Free Mocktail',
                             extLink: '',
-                            routerLink: '/by-admin/1249',
+                            routerLink: 'test',
                             icon: 'Pride/drink.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
