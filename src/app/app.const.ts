@@ -146244,7 +146244,7 @@
         {
             branch: 'MysuruBrindavan',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/mys.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'www.royalorchid-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_logo.png',
             theme: 'grey-theme',
             idCategory: 12,
@@ -151631,7 +151631,7 @@
         {
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/mysore.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'www.royalorchid-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_logo.png',
             theme: 'grey-theme',
             idCategory: 12,
@@ -153392,7 +153392,7 @@
         {
             branch: 'Bangalore',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/branch-img.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'www.royalorchid-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 12,
@@ -154998,7 +154998,7 @@
         {
             branch: 'Goa',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/branch.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'www.royalorchid-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 12,
@@ -159644,7 +159644,7 @@
         {
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/mysore.jpg',
-            id: 'royalorchid-experiences.goyaana.com',
+            id: 'www.royalorchid-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 12,
@@ -161455,7 +161455,7 @@
         {
             branch: 'New Delhi',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/new+delhi/home.jpg',
-            id: 'Pridehotel-experiences.goyaana.com',
+            id: 'www.Pridehotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
@@ -164200,7 +164200,7 @@
         {
             branch: 'Roop Vilas Palace Nawalgarh',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/roop-vilas-palace.jpg',
-            id: 'asavarihotels-experiences.goyaana.com',
+            id: 'www.asavarihotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/logo.jpg',
             theme: 'grey-theme',
             idCategory: 35,
@@ -166172,7 +166172,7 @@
         {
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch.jpg',
-            id: 'asavarihotels-experiences.goyaana.com',
+            id: 'www.asavarihotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/logo.jpg',
             theme: 'grey-theme',
             idCategory: 12,
