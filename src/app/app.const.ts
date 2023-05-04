@@ -164382,10 +164382,10 @@
                             routerLink: '/by-admin/1221'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
-                            label: 'Convenience Store',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'Review & Reward',
                             extLink: '',
-                            routerLink: '/coming-soon'
+                            routerLink: '/by-admin/1249'
                         },
                     ]
                 },
