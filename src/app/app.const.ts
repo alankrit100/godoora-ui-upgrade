@@ -155158,22 +155158,14 @@
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
-                            label: 'OPEN FOR LOCALS',
-                            extLink: '',
-                            routerLink: '/by-admin/1060'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/plan-your-events.jpg',
-                            label: 'PLAN YOUR EVENTS',
-                            img1: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
-                            label1: 'Special Offers',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            label: 'Special Offers',
                             extLink: '',
                             routerLink: '/by-admin/1061'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'ROOMS',
+                            label: 'Quick Upgrade',
                             extLink: '',
                             routerLink: '/by-admin/1062'
                         },
@@ -172614,8 +172606,8 @@
                             routerLink: '/by-admin/1163'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/open.jpg',
-                            label: 'Open For Local',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'Review & Reward',
                             extLink: '',
                             routerLink: '/by-admin/1164'
                         },
@@ -174475,6 +174467,77 @@
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                    ]
+                },
+                {
+                    name: 'Review & Reward',
+                    icon: 'fortunemussoorieicons/fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '1 Review 1 Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/drink.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Tweet 1 Sweet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/donut.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Share 1 Desserts',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '5 Refer 1 Starter',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/snacks.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+
                     ]
                 },
                 {
