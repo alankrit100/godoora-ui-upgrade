@@ -161957,11 +161957,11 @@
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/resturantpdf/IRD+Menu.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/IRD-Menu-Delhi.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/IRD-Menu-Delhi.pdf',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
