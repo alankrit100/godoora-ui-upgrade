@@ -168302,7 +168302,7 @@
                             name: 'Nathdwara’s cultural heritage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Nathdwara’sculturalheritage',
                             extLink: ''
                         },
                         {
@@ -168310,7 +168310,7 @@
                             name: 'Molela Terracotta',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MolelaTerracotta',
                             extLink: ''
                         },
                         {
@@ -168318,7 +168318,7 @@
                             name: 'Shrinathji Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ShrinathjiTemple',
                             extLink: ''
                         },
                         {
@@ -168326,7 +168326,7 @@
                             name: 'Neelkanth Mahadev Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NeelkanthMahadevTemple',
                             extLink: ''
                         },
                     ]
@@ -168396,14 +168396,14 @@
                             name: 'Celebrate your Special day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CelebrateyourSpecialday_22',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
                             name: 'Loyalty Program',
                             desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LoyaltyProgram_4',
                             extLink: ''
                         }
                     ]
