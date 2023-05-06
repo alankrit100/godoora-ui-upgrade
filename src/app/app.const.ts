@@ -168254,7 +168254,7 @@
                             name: 'Statue of Belief',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/StatueofBelief',
                             extLink: ''
                         },
                         {
@@ -168293,7 +168293,7 @@
                             name: 'AKASHGANGA',
                             location: '7 am-11 pm | Daily',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AKASHGANGA',
                             extLink: ''
                         },
                         {
@@ -168301,7 +168301,7 @@
                             name: 'SURALAYA',
                             location: 'Lounge Bar: Daily 11:00 am - 11:00 pm',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SURALAYA',
                             extLink: ''
                         },
                         {
@@ -168309,7 +168309,7 @@
                             name: 'BRAHMAND',
                             location: 'Restaurant: Daily 1:00 pm - 11:00 pm',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BRAHMAND',
                             extLink: ''
                         },
                         {
@@ -168317,7 +168317,7 @@
                             name: 'Poolside Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_2',
+                            routerLink: '/stores/PoolsideDinner_8',
                             extLink: ''
                         },
                     ]
@@ -168394,7 +168394,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding1.jpeg',
                             name: 'Destination Wedding',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DestinationWedding_1',
                             extLink: ''
                         }
                     ]
@@ -170326,7 +170326,7 @@
             theme: 'grey-theme',
             idCategory: 12,
             displayProperty: true,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/radisson.png',
             title: 'Radisson Hotels Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
