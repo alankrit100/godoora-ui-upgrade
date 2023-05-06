@@ -164506,7 +164506,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch1.jpg',
-                            videoId: 'zQ5mwGnv2jI&t=4s'
+                            videoId: 'zQ5mwGnv2jI&t'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch2.jpg',
@@ -168334,7 +168334,7 @@
                 activities: {
                     active: true,
                     heading: 'Spa Experiences',
-                    desc: 'Central Nawalgarh has plenty of old-fashioned, small-town charm, with dozens of tiny shops and lots of street vendors hawking piles of merchandise by the side of the road.',
+                    desc: 'every element of your body and soul at the Golden Glory Spa that treats you with an amazing plethora of holistic treatments within an exotic and soul-soothing setting.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
@@ -168414,20 +168414,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch.jpg',
-                            videoId: 'dL2GoaqQIpw'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch1.jpg',
-                            videoId: 'zQ5mwGnv2jI&t=4s'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/stories1.jpg',
+                            videoId: 'J5PhlH6GwzA'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch2.jpg',
+                            videoId: 'TVpE94cMRzE'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/stories3.jpeg',
                             videoId: 'DNJi1PkW7pg'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/branch3.jpg',
-                            videoId: 'lHurMtykuu4'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/stories4.jpg',
+                            videoId: '_Zi6NxJfFZA'
                         }
                     ]
                 },
@@ -169797,7 +169797,7 @@
                     ]
                 },
                 {
-                    name: 'Local Experience',
+                    name: 'Local Experiences',
                     icon: 'royal/bar-counter1.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -169998,7 +169998,7 @@
                     ]
                 },
                 {
-                    name: 'In-House Experience',
+                    name: 'In-House Experiences',
                     icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
