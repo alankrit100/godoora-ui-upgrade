@@ -168289,27 +168289,27 @@
                     desc: 'Whether you’re looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA1.jpeg',
-                            name: 'AKASHGANGA',
-                            location: '7 am-11 pm | Daily',
-                            views: '',
-                            routerLink: '/stores/AKASHGANGA',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/SURALAYA1.avif',
-                            name: 'SURALAYA',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/suryalaya.jpg',
+                            name: 'Suralaya Bar',
                             location: 'Lounge Bar: Daily 11:00 am - 11:00 pm',
                             views: '',
                             routerLink: '/stores/SURALAYA',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/BRAHMAND1.jpg',
-                            name: 'BRAHMAND',
-                            location: 'Restaurant: Daily 1:00 pm - 11:00 pm',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA1.jpeg',
+                            name: 'Akashganga',
+                            location: 'Restaurant: Daily| 7am - 11pm',
                             views: '',
-                            routerLink: '/stores/BRAHMAND',
+                            routerLink: '/stores/AKASHGANGA',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside.jpg',
+                            name: 'Poolside coolness',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -169922,18 +169922,16 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Staycations',
+                            name: 'Eat | Drink | Cheer ',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Pride/gift.png',
+                            icon: 'Pride/drink1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/offer.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -170010,7 +170008,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'AKASHGANGA',
+                            name: 'Akashganga',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170027,7 +170025,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'SURALAYA',
+                            name: 'Suralaya Bar',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170044,7 +170042,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'BRAHMAND',
+                            name: 'Poolside coolness',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170053,9 +170051,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/BRAHMAND1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/BRAHMAND2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/BRAHMAND3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
