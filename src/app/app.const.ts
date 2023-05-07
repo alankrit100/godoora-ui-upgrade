@@ -168293,7 +168293,7 @@
                             name: 'Suralaya Bar',
                             location: 'Lounge Bar: Daily 11:00 am - 11:00 pm',
                             views: '',
-                            routerLink: '/stores/SURALAYA',
+                            routerLink: '/stores/SuralayaBar',
                             extLink: ''
                         },
                         {
@@ -168301,7 +168301,7 @@
                             name: 'Akashganga',
                             location: 'Restaurant: Daily| 7am - 11pm',
                             views: '',
-                            routerLink: '/stores/AKASHGANGA',
+                            routerLink: '/stores/Akashganga',
                             extLink: ''
                         },
                         {
@@ -168309,7 +168309,7 @@
                             name: 'Poolside coolness',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Poolsidecoolness',
                             extLink: ''
                         },
                         {
