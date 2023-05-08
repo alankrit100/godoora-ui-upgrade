@@ -168288,36 +168288,44 @@
                     heading: 'In-House Experiences',
                     desc: 'Whether you’re looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
                     items: [
+                        
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/suryalaya.jpg',
-                            name: 'Suralaya Bar',
-                            location: 'Lounge Bar: Daily 11:00 am - 11:00 pm',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple1.jpg',
+                            name: 'Couple Dinner',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/SuralayaBar',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },{
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside4.jpg',
+                            name: 'Pool party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA1.jpeg',
-                            name: 'Akashganga',
-                            location: 'Restaurant: Daily| 7am - 11pm',
+                            name: 'Pravite Dining',
+                            location: '',
                             views: '',
-                            routerLink: '/stores/Akashganga',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside.jpg',
-                            name: 'Poolside coolness',
+                            name: 'Poolside Dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Poolsidecoolness',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/raja_rani.jpg',
-                            name: 'Poolside Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour1.jpg',
+                            name: 'Happy Hour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolsideDinner_8',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -170008,7 +170016,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Akashganga',
+                            name: 'Pravite Dining',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170025,7 +170033,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Suralaya Bar',
+                            name: 'Couple Dinner',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170034,15 +170042,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/SURALAYA1.avif' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/SURALAYA2.avif' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/SURALAYA3.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple2.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Poolside coolness',
+                            name: 'Poolside Dining',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170059,7 +170067,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Poolside Dinner',
+                            name: 'Pool party',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170068,11 +170076,27 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Happy Hour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour1.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
