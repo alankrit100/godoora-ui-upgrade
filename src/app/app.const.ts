@@ -168294,14 +168294,14 @@
                             name: 'Couple Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CoupleDinner',
                             extLink: ''
                         },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside4.jpg',
                             name: 'Pool party',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Poolparty_3',
                             extLink: ''
                         },
                         {
@@ -168309,7 +168309,7 @@
                             name: 'Pravite Dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PraviteDining',
                             extLink: ''
                         },
                         {
@@ -168317,7 +168317,7 @@
                             name: 'Poolside Dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PoolsideDining_16',
                             extLink: ''
                         },
                         {
@@ -168325,7 +168325,7 @@
                             name: 'Happy Hour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HappyHour_3',
                             extLink: ''
                         },
                     ]
