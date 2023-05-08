@@ -168306,7 +168306,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA1.jpeg',
-                            name: 'Pravite Dining',
+                            name: 'Private Dining',
                             location: '',
                             views: '',
                             routerLink: '/stores/PraviteDining',
@@ -170096,7 +170096,7 @@
                             headerText: 'Book a Slot',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
