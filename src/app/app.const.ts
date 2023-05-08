@@ -29232,20 +29232,20 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/hotel-monarch-homepage-2.jpg',
-                            heading: 'Open to locals and beyond',
-                            subHeading: 'New Guests | Live Experiences | No Room Required'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/home2.jpg',
+                            heading: 'Give a Review & get Reward',
+                            subHeading: 'Scroll Down to Review & Reward Section for rewards',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/hotel-monarch-homepage-1.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Food & Drink | City'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/hotel-monarch-homepage-3.jpg',
-                            heading: 'Authentic Experiences Crafted by Experts',
-                            subHeading: 'Unique In-house Experiences | Creative Workshops'
-                        }
+                            heading: 'An experience that you will cherish forever',
+                            subHeading: 'Experience | Hospitality | Memories'
+                        },
                     ]
                 },
                 experience: {
