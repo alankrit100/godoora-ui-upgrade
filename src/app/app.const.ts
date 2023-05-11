@@ -161735,7 +161735,7 @@
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FitnessCenter_6',
                             extLink: ''
                         },
                         {
@@ -161743,7 +161743,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_47',
                             extLink: ''
                         },
                         {
@@ -161751,7 +161751,7 @@
                             name: 'Laundry Services',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LaundryServices_3',
                             extLink: ''
                         },
                     ]
