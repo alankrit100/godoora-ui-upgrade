@@ -161688,7 +161688,7 @@
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_1',
+                            routerLink: '/stores/DeepTissueMassage_4',
                             extLink: ''
                         },
                         {
@@ -161696,7 +161696,7 @@
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial',
+                            routerLink: '/stores/Facial_2',
                             extLink: ''
                         },
                         {
@@ -161704,7 +161704,7 @@
                             name: 'Head Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HeadMassage_1',
+                            routerLink: '/stores/HeadMassage_4',
                             extLink: ''
                         },
                         {
@@ -161712,7 +161712,7 @@
                             name: 'Foot Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FootMassage',
+                            routerLink: '/stores/FootMassage_2',
                             extLink: ''
                         },
                         {
@@ -161720,7 +161720,7 @@
                             name: 'Japanese Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/JapaneseMassage',
+                            routerLink: '/stores/JapaneseMassage_2',
                             extLink: ''
                         },
                     ]
@@ -161735,7 +161735,7 @@
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FitnessCenter_3',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -161743,7 +161743,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_42',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -161751,7 +161751,7 @@
                             name: 'Laundry Services',
                             location: '',
                             views: '',
-                            routerLink: '/stores/LaundryServices',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
