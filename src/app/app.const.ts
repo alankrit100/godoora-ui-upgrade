@@ -155647,18 +155647,28 @@
                 },
                 {
                     name: 'Extension Numbers',
-                    extLink: '',
-                    routerLink: 'test',
                     icon: 'Pride/numbers.png',
-                    showTextarea: true,
-                    textAreaLabel: 'Request Summary',
-                    placeholder: 'Example: I want to know if there is a cloak room',
-                    headerText: 'Select a time you would like to receive it.',
-                    gallery: [
-                        { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Extension-Numbers.jpg' },
-                    ],
-                    confirmBtnLabel: 'Submit Request',
-                    storePageAsBlog: true
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Extension Numbers',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/numbers.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Extension-Numbers.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
                 },
                 {
                     name: 'Housekeeping',
