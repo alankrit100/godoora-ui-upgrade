@@ -143433,7 +143433,7 @@
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/clarksinn-logo1.jpeg',
             theme: 'grey-theme',
             idCategory: 11,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/clarksinn.jpeg',
             title: 'ClarksInn Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -144889,7 +144889,7 @@
             theme: 'grey-theme',
             idCategory: 11,
             displayProperty: true,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/clarksinn.jpeg',
             title: 'ClarksInn Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -146334,7 +146334,7 @@
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_logo.png',
             theme: 'grey-theme',
             idCategory: 12,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/royalorchid.jpg',
             title: 'RoyalOrchid Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -148188,7 +148188,7 @@
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_logo.png',
             theme: 'grey-theme',
             idCategory: 12,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/royalorchid.jpg',
             title: 'RoyalOrchid Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -149985,7 +149985,7 @@
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_logo.png',
             theme: 'grey-theme',
             idCategory: 12,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/royalorchid.jpg',
             title: 'RoyalOrchid Central-Kireeti Hampi',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -151722,7 +151722,7 @@
             theme: 'grey-theme',
             idCategory: 12,
             displayProperty: true,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/royalorchid.jpg',
             title: 'RoyalOrchid Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -153482,7 +153482,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 12,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/pride.png',
             title: 'Pride Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -155088,7 +155088,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 12,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/pride.png',
             title: 'Pride Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -157603,7 +157603,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/pride.png',
             title: 'Pride Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -159752,7 +159752,7 @@
             theme: 'grey-theme',
             idCategory: 12,
             displayProperty: true,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/pride.png',
             title: 'Pride Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -161562,7 +161562,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pride-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/pride.png',
             title: 'Pride Hotel Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -164307,7 +164307,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/asavari-hotels/logo.png',
             theme: 'grey-theme',
             idCategory: 35,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/asavari1.png',
             title: 'Asavari Hotels Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -166350,7 +166350,7 @@
             theme: 'grey-theme',
             idCategory: 12,
             displayProperty: true,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/asavari1.png',
             title: 'Asavari Hotels Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -168268,42 +168268,26 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple1.jpg',
-                            name: 'Shrinathji Temple',
-                            location: '',
+                            name: 'Shrinathji VIP Darshan',
+                            location: 'Rs. 2199/-',
                             views: '',
-                            routerLink: '/stores/ShrinathjiTemple',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/statue1.jpg',
+                            img: 'Couple visit to Shiva Statue',
                             name: 'Statue of Belief',
-                            location: '',
+                            location: 'Rs. 999/-',
                             views: '',
-                            routerLink: '/stores/StatueofBelief',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/nathdwara-history1.jpg',
-                            name: 'Nathdwara’s cultural heritage',
-                            location: '',
+                            name: 'Day out package',
+                            location: 'Rs. 9999/-',
                             views: '',
-                            routerLink: '/stores/Nathdwara’sculturalheritage',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/molela1.jpg',
-                            name: 'Molela Terracotta',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/MolelaTerracotta',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/neelkanth-mahadev1.jpg',
-                            name: 'Neelkanth Mahadev Temple',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/NeelkanthMahadevTemple',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -168315,89 +168299,73 @@
                     items: [
                         
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple1.jpg',
-                            name: 'Couple Dinner',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg',
+                            name: 'Cake cooking session',
+                            location: 'Rs. 999/-',
                             views: '',
-                            routerLink: '/stores/CoupleDinner',
+                            routerLink: '/stores/',
                             extLink: ''
                         },{
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside4.jpg',
-                            name: 'Pool party',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
+                            name: 'Decoration in honeymoon arrival room',
+                            location: 'Rs. 2999/-',
                             views: '',
-                            routerLink: '/stores/Poolparty_3',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA1.jpeg',
-                            name: 'Private Dining',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg',
+                            name: 'Creating Kids Zone in guest room',
+                            location: 'Rs. 2999/-',
                             views: '',
-                            routerLink: '/stores/PraviteDining',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside.jpg',
-                            name: 'Poolside Dining',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PoolsideDining_16',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour1.jpg',
-                            name: 'Happy Hour',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/HappyHour_3',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Rejuvenating Spa Experiences',
-                    desc: 'Every element of your body and soul at the Golden Glory Spa that treats you with an amazing plethora of holistic treatments within an exotic and soul-soothing setting.',
+                    heading: 'Dining Experiences',
+                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Deep Tissue Massage',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Rajasthani1.jpg',
+                            name: 'Rajasthani Thali',
+                            location: 'Rs. 699/-',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Monsson-special1.jpg',
+                            name: 'Monsson special - Chai & Pakora',
+                            location: 'Rs. 799/-',
                             views: '',
-                            routerLink: '/stores/Facial',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Head1.jpg',
-                            name: 'Head Massage',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple-Breakfast1.jpg',
+                            name: 'Couple Breakfast in the Pool',
+                            location: 'Rs. 1999/-',
                             views: '',
-                            routerLink: '/stores/HeadMassage_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/foot1.jpg',
-                            name: 'Foot Massage',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Special-Couple-Dinner1.jpg',
+                            name: 'Special Couple Dinner at Pool Side',
+                            location: 'Rs. 2999/-',
                             views: '',
-                            routerLink: '/stores/FootMassage',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Japanese1.jpg',
-                            name: 'Japanese Massage',
-                            location: '',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Private-Candle1.jpg',
+                            name: 'Private Candle Light Dinner in Deluxe Room Balcony',
+                            location: 'Rs. 3999/-',
                             views: '',
-                            routerLink: '/stores/JapaneseMassage',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -168408,28 +168376,13 @@
                     desc: 'Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
-                            name: 'Candle Light Occasions',
-                            location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke1.jpg',
+                            name: 'Karaoke nights',
+                            location: 'BAR for group 20 guests | 90 Minutes | 03 starter, Liquor on actual',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasion_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/celebrate1.jpg',
-                            name: 'Celebrate your Special day',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CelebrateyourSpecialday_22',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding1.jpeg',
-                            name: 'Destination Wedding',
-                            desc: '',
-                            routerLink: '/stores/DestinationWedding_1',
-                            extLink: ''
-                        }
                     ]
                 },
                 stories: {
@@ -169726,7 +169679,7 @@
                     ]
                 },
                 {
-                    name: 'Rejuvenating Spa Experiences',
+                    name: 'Dining Experiences',
                     icon: 'royal/bar-counter1.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -169734,7 +169687,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Deep Tissue Massage',
+                            name: 'Rajasthani Thali',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -169743,15 +169696,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Rajasthani1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Rajasthani2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Rajasthani3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Facial',
+                            name: 'Monsson special - Chai & Pakora',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/barbeque.png',
@@ -169760,15 +169713,15 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Monsson-special1.jpgg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Monsson-special2.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Monsson-special3.webp' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Head Massage',
+                            name: 'Couple Breakfast in the Pool',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/garden cafe.png',
@@ -169777,15 +169730,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Head1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Head2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Head3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple-Breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple-Breakfast2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple-Breakfast3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Foot Massage',
+                            name: 'Special Couple Dinner at Pool Side',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/candle-light1.png',
@@ -169794,15 +169747,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/foot1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/foot2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/foot3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Special-Couple-Dinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Special-Couple-Dinner2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Special-Couple-Dinner3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Japanese Massage',
+                            name: 'Private Candle Light Dinner in Deluxe Room Balcony',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/bar-counter1.png',
@@ -169811,9 +169764,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Japanese1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Japanese2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Japanese3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Private-Candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Private-Candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Private-Candle3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -169829,7 +169782,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Nathdwara’s cultural heritage',
+                            name: 'Shrinathji VIP Darshan',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -169838,15 +169791,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/nathdwara-history1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/nathdwara-history2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/nathdwara-history3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Statue of Belief',
+                            name: 'Couple visit to Shiva Statue',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -169863,7 +169816,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Molela Terracotta',
+                            name: 'Day out package',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/barbeque.png',
@@ -169872,43 +169825,10 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/molela1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/molela2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/molela3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Shrinathji Temple',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/garden cafe.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Neelkanth Mahadev Temple',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/candle-light1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/neelkanth-mahadev1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/neelkanth-mahadev2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/neelkanth-mahadev3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/day1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/day2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/day3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/day4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -169980,7 +169900,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room',
+                            name: 'Superior Valley View to Superior Statue View Room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/room.png',
@@ -169989,43 +169909,41 @@
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/valley-view1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/valley-view2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/valley-view3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade meal',
+                            name: 'Superior Statue View to Deluxe Room with Terrace',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
+                            icon: 'Pride/living-room.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal3.jpeg' },  
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/statue-view1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/statue-view2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Extend Your Stay',
+                            name: 'Deluxe Room with Terrace to Executive Suite',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
+                            icon: 'Pride/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/extend3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/deluxe1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/deluxe2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -170041,7 +169959,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Pravite Dining',
+                            name: 'Cake cooking session',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170050,15 +169968,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA3.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Couple Dinner',
+                            name: 'Decoration in honeymoon arrival room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170067,15 +169985,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/AKASHGANGA2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Poolside Dining',
+                            name: 'Creating Kids Zone in guest room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -170084,44 +170002,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Pool party',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/dinner.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/poolside3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Happy Hour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/dinner.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/happy-hour2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -170229,7 +170112,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Candle Light Occasion',
+                            name: 'Karaoke nights',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/candle.png',
@@ -170238,47 +170121,12 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Celebrate your Special day',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/customer-loyalty.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/celebrate1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/celebrate2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/celebrate3.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Destination Wedding',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/gruop_tour.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for Belum caves',
-                            headerText: 'When would you like to book?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding3.avif' },
-                            ],
-                            confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
                     ]
@@ -172187,7 +172035,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Tathastu-Resorts/logo.png',
             theme: 'grey-theme',
             idCategory: 35,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/tathastu.jpeg',
             title: 'Tathastu, Pench, The Luxury Resort',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -174752,7 +174600,7 @@
             theme: 'grey-theme',
             idCategory: 35,
             displayProperty: true,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/tathastu.jpeg',
             title: 'Tathastu Resorts',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -176564,7 +176412,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Summit-Hotels/logo.png',
             theme: 'grey-theme',
             idCategory: 35,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/summit.png',
             title: 'Summit Calangute Resort & Spa',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -179307,7 +179155,7 @@
             theme: 'grey-theme',
             idCategory: 35,
             displayProperty: true,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/summit.png',
             title: 'Summit Hotels',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -181120,7 +180968,7 @@
             theme: 'grey-theme',
             idCategory: 13,
             displayProperty: false,
-            favIconLink: 'assets/icon/favicon.png',
+            favIconLink: 'assets/icon/Brigade.png',
             title: 'Brigade Hospitality Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
