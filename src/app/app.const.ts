@@ -168396,11 +168396,11 @@
                             name: 'Customised Cake',
                             location: 'Rs. 899/- | Half KG',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CustomisedCake',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding1.jpeg',
                             name: 'Destination Wedding',
                             location: '',
                             views: '',
