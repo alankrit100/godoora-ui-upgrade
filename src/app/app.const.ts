@@ -164501,7 +164501,7 @@
                     desc: 'Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding1.jpeg.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding1.jpeg',
                             name: 'Wedding Packages',
                             location: '',
                             views: '',
@@ -164509,7 +164509,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/cultural.jpg.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/cultural.jpg',
                             name: 'Cultural Shows And Theme Dinners On Request',
                             location: '',
                             views: '',
