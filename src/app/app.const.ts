@@ -168269,23 +168269,31 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple1.jpg',
                             name: 'Shrinathji VIP Darshan',
-                            location: 'Rs. 2199/-',
+                            location: 'Rs. 2199/- | As per Darshan Timing',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ShrinathjiVIPDarshan',
                             extLink: ''
                         },
                         {
-                            img: 'Couple visit to Shiva Statue',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/statue1.jpg',
                             name: 'Statue of Belief',
-                            location: 'Rs. 999/-',
+                            location: 'Rs. 999/- | 10am to 08pm',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CouplevisittoShivaStatue',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/nathdwara-history1.jpg',
                             name: 'Day out package',
-                            location: 'Rs. 9999/-',
+                            location: 'Rs. 9999/- | 03 Hours',
+                            views: '',
+                            routerLink: '/stores/Dayoutpackage',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/picnic1.jpg',
+                            name: 'Day out packed food for a family',
+                            location: 'Rs. 2999/- ',
                             views: '',
                             routerLink: '/stores/',
                             extLink: ''
@@ -168301,24 +168309,24 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg',
                             name: 'Cake cooking session',
-                            location: 'Rs. 999/-',
+                            location: 'Rs. 999/- | 24 hours',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Cakecookingsession',
                             extLink: ''
                         },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
                             name: 'Decoration in honeymoon arrival room',
-                            location: 'Rs. 2999/-',
+                            location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Decorationinhoneymoonarrivalroom',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg',
                             name: 'Creating Kids Zone in guest room',
-                            location: 'Rs. 2999/-',
+                            location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CreatingKidsZoneinguestroom',
                             extLink: ''
                         },
                     ]
@@ -168333,7 +168341,7 @@
                             name: 'Rajasthani Thali',
                             location: 'Rs. 699/-',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RajasthaniThali',
                             extLink: ''
                         },
                         {
@@ -168341,15 +168349,15 @@
                             name: 'Monsson special - Chai & Pakora',
                             location: 'Rs. 799/-',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MonssonspecialChai&Pakora',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/Couple-Breakfast1.jpg',
                             name: 'Couple Breakfast in the Pool',
-                            location: 'Rs. 1999/-',
+                            location: 'Rs. 1999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CoupleBreakfastinthePool',
                             extLink: ''
                         },
                         {
@@ -168357,7 +168365,7 @@
                             name: 'Special Couple Dinner at Pool Side',
                             location: 'Rs. 2999/-',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpecialCoupleDinneratPoolSide',
                             extLink: ''
                         },
                         {
@@ -168365,7 +168373,7 @@
                             name: 'Private Candle Light Dinner in Deluxe Room Balcony',
                             location: 'Rs. 3999/-',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivateCandleLightDinnerinDeluxeRoomBalcony',
                             extLink: ''
                         },
                     ]
@@ -168378,9 +168386,9 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke1.jpg',
                             name: 'Karaoke nights',
-                            location: 'BAR for group 20 guests | 90 Minutes | 03 starter, Liquor on actual',
+                            location: 'BAR for group 20 guests | 03 starter, Liquor on actual',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Karaokenights',
                             extLink: ''
                         },
                     ]
@@ -169829,6 +169837,23 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/day2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/day3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/day4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Day out packed food for a family',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/barbeque.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/picnic1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/picnic2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/picnic3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
