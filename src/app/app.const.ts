@@ -168295,7 +168295,7 @@
                             name: 'Day out packed food for a family',
                             location: 'Rs. 2999/- ',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Dayoutpackedfoodforafamily',
                             extLink: ''
                         },
                     ]
@@ -168389,6 +168389,22 @@
                             location: 'BAR for group 20 guests | 03 starter, Liquor on actual',
                             views: '',
                             routerLink: '/stores/Karaokenights',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake.jpg',
+                            name: 'Customised Cake',
+                            location: 'Rs. 899/- | Half KG',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke1.jpg',
+                            name: 'Destination Wedding',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/DestinationWedding_1',
                             extLink: ''
                         },
                     ]
@@ -170152,6 +170168,41 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/karaoke4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Customised Cake',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/candle.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Destination Wedding',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/gruop_tour.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for Belum caves',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding3.avif' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
                     ]
