@@ -164415,28 +164415,28 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Handicraft1.jpg',
                             name: 'Handicraft',
                             desc: '',
-                            routerLink: '/stores/Tours2Rajasthan',
+                            routerLink: '/stores/Handicraft',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Wildlife-tour1.jpg',
                             name: 'Wildlife tour',
                             desc: '',
-                            routerLink: '/stores/ExperiencesbyJaipurDiaries',
+                            routerLink: '/stores/Wildlifetour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Bicycle-tour1.jpg',
                             name: 'Bicycle tour',
                             desc: '',
-                            routerLink: '/stores/NeelamHandicraftShop',
+                            routerLink: '/stores/Bicycletour_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal1.jpg.jpg',
                             name: 'Hawa Mahal',
                             desc: '',
-                            routerLink: '/stores/HawaMahalPalaceofWind',
+                            routerLink: '/stores/HawaMahal',
                             extLink: ''
                         },
                     ]
@@ -164494,7 +164494,7 @@
                     desc: 'Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding1.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding1.jpg',
                             name: 'Wedding Packages',
                             location: '',
                             views: '',
@@ -166421,9 +166421,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -166439,8 +166439,8 @@
                             headerText: 'placeholder',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/cultural.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/cultural2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/cultural3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/culture2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/culture3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                         },
