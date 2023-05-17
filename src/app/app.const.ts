@@ -155187,7 +155187,7 @@
                             name: 'Spa',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Spa_39',
+                            routerLink: '/stores/Spa_48',
                             extLink: ''
                         },
                         {
@@ -155195,7 +155195,7 @@
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FitnessCenter_2',
+                            routerLink: '/stores/FitnessCenter_8',
                             extLink: ''
                         },
                         {
