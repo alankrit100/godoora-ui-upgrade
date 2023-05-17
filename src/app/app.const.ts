@@ -164399,7 +164399,7 @@
                             routerLink: '/by-admin/1275'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/store.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'Review & Reward',
                             extLink: '',
                             routerLink: '/by-admin/1276'
@@ -164412,38 +164412,31 @@
                     desc: 'Our varied dining options coupled with well-appointed rooms, elegantly designed banquet spaces, numerous recreational facilities and seamless service tailored to suit your every whim, add a special touch to all your occasions.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/rajastan1.jpg',
-                            name: 'Tours 2 Rajasthan',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Handicraft1.jpg',
+                            name: 'Handicraft',
                             desc: '',
                             routerLink: '/stores/Tours2Rajasthan',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/experience1.jpeg',
-                            name: 'Experiences by Jaipur Diaries',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Wildlife-tour1.jpg',
+                            name: 'Wildlife tour',
                             desc: '',
                             routerLink: '/stores/ExperiencesbyJaipurDiaries',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/neelam1.jpg',
-                            name: 'Neelam Handicraft Shop',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Bicycle-tour1.jpg',
+                            name: 'Bicycle tour',
                             desc: '',
                             routerLink: '/stores/NeelamHandicraftShop',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal1.jpg.jpg',
-                            name: 'Hawa Mahal - Palace of Wind',
+                            name: 'Hawa Mahal',
                             desc: '',
                             routerLink: '/stores/HawaMahalPalaceofWind',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/amberpalace1.jpg',
-                            name: 'Amber Palace',
-                            desc: '',
-                            routerLink: '/stores/AmberPalace',
                             extLink: ''
                         },
                     ]
@@ -165951,7 +165944,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Tours 2 Rajasthan',
+                            name: 'Handicraft',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'pune/dinning-table.png',
@@ -165960,15 +165953,15 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/rajastan1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/rajastan2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/rajastan3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Handicraft1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Handicraft2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Handicraft3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Experiences by Jaipur Diaries',
+                            name: 'Wildlife tour',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'pune/take-away.png',
@@ -165977,15 +165970,15 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/experience1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/experience2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/experience3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Wildlife-tour1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Wildlife-tour2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Wildlife-tour3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                          {
-                            name: 'Neelam Handicraft Shop',
+                            name: 'Bicycle tour',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'pune/dinning-table.png',
@@ -165994,15 +165987,15 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/neelam1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/neelam2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/neelam3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Bicycle-tour1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Bicycle-tour2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/Bicycle-tour3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                          {
-                            name: 'Hawa Mahal - Palace of Wind',
+                            name: 'Hawa Mahal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'pune/dinning-table.png',
@@ -166014,23 +166007,6 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                         {
-                            name: 'Amber Palace',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/amberpalace1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/amberpalace2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/amberpalace3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174044,7 +174020,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/offer.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/SURALAYA1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/SURALAYA2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/SURALAYA3.avif' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174059,7 +174037,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/offer.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/beer1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/beer2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/beer3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174074,7 +174054,9 @@
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/offer.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
