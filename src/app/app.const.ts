@@ -164307,7 +164307,7 @@
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/logo.png',
             theme: 'grey-theme',
             idCategory: 35,
-            favIconLink: 'assets/icon/pride.png',
+            favIconLink: 'assets/icon/arya-logo.png',
             title: 'Aarya Niwas Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
@@ -164433,7 +164433,7 @@
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal1.jpg.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal1.jpg',
                             name: 'Hawa Mahal',
                             desc: '',
                             routerLink: '/stores/HawaMahal',
@@ -166575,7 +166575,7 @@
             theme: 'grey-theme',
             idCategory: 12,
             displayProperty: true,
-            favIconLink: 'assets/icon/pride.png',
+            favIconLink: 'assets/icon/arya-logo.png',
             title: 'Aarya Niwas Experiences',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
