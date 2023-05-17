@@ -164415,35 +164415,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/rajastan1.jpg',
                             name: 'Tours 2 Rajasthan',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/Tours2Rajasthan',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/experience1.jpeg',
                             name: 'Experiences by Jaipur Diaries',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/ExperiencesbyJaipurDiaries',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/neelam1.jpg',
                             name: 'Neelam Handicraft Shop',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/NeelamHandicraftShop',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/hawamahal1.jpg.jpg',
                             name: 'Hawa Mahal - Palace of Wind',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/HawaMahalPalaceofWind',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/amberpalace1.jpg',
                             name: 'Amber Palace',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/AmberPalace',
                             extLink: ''
                         },
                     ]
@@ -164505,7 +164505,7 @@
                             name: 'Wedding Packages',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/WeddingPackages',
                             extLink: ''
                         },
                         {
@@ -164513,7 +164513,7 @@
                             name: 'Cultural Shows And Theme Dinners On Request',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CulturalShowsAndThemeDinnersOnRequest',
                             extLink: ''
                         },
                        {
@@ -164521,7 +164521,7 @@
                             name: 'Destination Wedding',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DestinationWedding_1',
+                            routerLink: '/stores/DestinationWedding_2',
                             extLink: ''
                         },
                     ]
@@ -164532,20 +164532,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/1.jpg',
+                            videoId: '53etsOArHJg'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
-                            videoId: 'v=shkkF-Chbek'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/2.jpg',
+                            videoId: 'MBzjadVyEOY'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/3.jpg',
+                            videoId: 'LFYTNF4M9Ss'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
-                            videoId: 'v=rVuZSYerIZI'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/4.jpeg',
+                            videoId: 'Q0jk97V8DLU'
                         }
                     ]
                 },
@@ -165868,6 +165868,76 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Tonatiuh2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Review & Reward',
+                    icon: 'fortunemussoorieicons/fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '1 Review 1 Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/drink.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Tweet 1 Sweet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/donut.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Share 1 Desserts',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '5 Refer 1 Starter',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/snacks.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
                     ]
