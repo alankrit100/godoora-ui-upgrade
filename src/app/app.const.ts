@@ -155273,7 +155273,7 @@
                             name: 'Fitness Center',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FitnessCenter_3',
+                            routerLink: '/stores/FitnessCenter_7',
                             extLink: ''
                         },
                         {
@@ -155281,7 +155281,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_42',
+                            routerLink: '/stores/SwimmingPool_49',
                             extLink: ''
                         },
                         {
@@ -155289,7 +155289,7 @@
                             name: 'Laundry Services',
                             location: '',
                             views: '',
-                            routerLink: '/stores/LaundryServices',
+                            routerLink: '/stores/LaundryServices_4',
                             extLink: ''
                         },
                     ]
