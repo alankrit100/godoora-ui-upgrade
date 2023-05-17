@@ -155226,7 +155226,7 @@
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_1',
+                            routerLink: '/stores/DeepTissueMassage_6',
                             extLink: ''
                         },
                         {
@@ -155234,7 +155234,7 @@
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial',
+                            routerLink: '/stores/Facial_4',
                             extLink: ''
                         },
                         {
@@ -155242,7 +155242,7 @@
                             name: 'Head Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HeadMassage_1',
+                            routerLink: '/stores/HeadMassage_6',
                             extLink: ''
                         },
                         {
@@ -155250,7 +155250,7 @@
                             name: 'Foot Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FootMassage',
+                            routerLink: '/stores/FootMassage_4',
                             extLink: ''
                         },
                         {
@@ -155258,7 +155258,7 @@
                             name: 'Japanese Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/JapaneseMassage',
+                            routerLink: '/stores/JapaneseMassage_4',
                             extLink: ''
                         },
                     ]
