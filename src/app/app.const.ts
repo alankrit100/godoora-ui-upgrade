@@ -174680,7 +174680,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/radisson-flash.avif',
                             label: 'Radisson Nathdwara',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/RadissonNathdwara'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
