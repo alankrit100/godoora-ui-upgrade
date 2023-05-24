@@ -174677,10 +174677,10 @@
                     desc: `Explore the many places to visit in Nathdwara while staying at the Radisson Hotel Nathdwara. Located on National Highway 8 and approximately 60 kilometers from Udaipur Airport, we're convenient to reach and near must-see heritage sites, including the famous Shrinathji Temple.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'Digital Menus & Requests',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/radisson-flash.avif',
+                            label: 'Radisson Nathdwara',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
@@ -176311,6 +176311,23 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/picnic1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/picnic2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/picnic3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Radisson Nathdwara',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/barbeque.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/radi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/radi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/radi3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
