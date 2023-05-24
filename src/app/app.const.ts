@@ -174683,16 +174683,16 @@
                             routerLink: '/stores/RadissonNathdwara'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/shreenathji-temple1.jpg',
                             label: 'Shrinathji Temple',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/ShrinathjiTemple'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/statue1.jpg',
                             label: 'Statue of Belief',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/StatueofBelief'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
