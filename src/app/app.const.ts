@@ -62835,7 +62835,7 @@
                             ]
                         },
                         {
-                            name: 'ZIODIC MENU',
+                            name: 'ZODIAC MENU',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Zodiac-Menu-new.pdf',
                             routerLink: '',
                             icon: 'dalhousie/restaurant1.png',
