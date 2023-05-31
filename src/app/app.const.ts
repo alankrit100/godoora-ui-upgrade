@@ -155336,20 +155336,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_blr.jpg',
-                            videoId: 'YKXVMB7Sg7M'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
+                            videoId: 'moSR_sX-t0o'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/metropole.jpg',
-                            videoId: 'k2MGzoieKw0'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
+                            videoId: 'uDTlBf2y-ZQ'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/hampicentral.jpg',
-                            videoId: 'gqmbpjHwNtg'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
+                            videoId: '6TkY0PRjCdQ'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_brindavan.jpg',
-                            videoId: 'gjG0f1h5zbU'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
+                            videoId: 'Zq5U9JTt_-c'
                         }
                     ]
                 },
@@ -157927,20 +157927,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-pune1.jpg',
                             videoId: 'moSR_sX-t0o'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
-                            videoId: 'v=shkkF-Chbek'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-pune2.jpg',
+                            videoId: 'rVuZSYerIZI'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-pune3.jpg',
+                            videoId: 'dq865RjTYT4'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
-                            videoId: 'v=rVuZSYerIZI'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-pune4.jpg',
+                            videoId: 'Z7Zg3jhmZIg'
                         }
                     ]
                 },
@@ -161900,20 +161900,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi1.jpg',
                             videoId: 'moSR_sX-t0o'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride2.jpg',
-                            videoId: 'v=shkkF-Chbek'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi2.jpg',
+                            videoId: 'W87Bk1XIL7E'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride3.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi3.jpg',
+                            videoId: 'OfsoHVeRwtY'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/pride4.jpg',
-                            videoId: 'v=rVuZSYerIZI'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi4.jpg',
+                            videoId: 'u_z6EB3d12c'
                         }
                     ]
                 },
