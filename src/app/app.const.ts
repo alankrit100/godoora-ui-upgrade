@@ -63545,7 +63545,7 @@
             }
         },
         {
-            branch: 'Sullivan Court',
+            branch: 'Sullivan-Court',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Sullivan.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
