@@ -55631,7 +55631,7 @@
             departments: [
                 {
                     name: 'Front Desk',
-                    icon: 'reception.png',
+                    icon: 'mecleodganj/computer.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -55686,7 +55686,7 @@
                 },
                 {
                     name: 'Housekeeping',
-                    icon: 'housekeeping.png',
+                    icon: 'mecleodganj/house-cleaning.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -55758,7 +55758,7 @@
                 },
                 {
                     name: 'Food and Beverage',
-                    icon: 'food.png',
+                    icon: 'mecleodganj/fast-food.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -55872,7 +55872,7 @@
                 },
                 {
                     name: 'Wellness and Fitness',
-                    icon: 'fitness.png',
+                    icon: 'mecleodganj/fitness.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -55930,7 +55930,7 @@
                 },
                 {
                     name: 'Recreation & Sports',
-                    icon: 'cricket.png',
+                    icon: 'mecleodganj/sports.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -55974,7 +55974,7 @@
                 },
                 {
                     name: 'Travel and Activities',
-                    icon: 'tour-bus.png',
+                    icon: 'mecleodganj/travelfast-food.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -56096,7 +56096,7 @@
                 },
                 {
                     name: 'Repairs',
-                    icon: 'staple-gun.png',
+                    icon: 'mecleodganj/repair-tools.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -56239,7 +56239,7 @@
                 },
                 {
                     name: 'Experience',
-                    icon: 'fortunemoksha/experience.png',
+                    icon: 'mecleodganj/rate.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -56411,7 +56411,7 @@
                 },
                 {
                     name: 'Workshop',
-                    icon: 'fortunemoksha/worksho.png',
+                    icon: 'mecleodganj/round-table.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -56568,7 +56568,7 @@
                 },
                 {
                     name: 'Gourmet Experience',
-                    icon: 'fortunemoksha/Gourmet.png',
+                    icon: 'mecleodganj/chef.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -56780,7 +56780,7 @@
                 },
                 {
                     name: 'Open to Locals',
-                    icon: 'fortunemoksha/local.png',
+                    icon: 'mecleodganj/place.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -56854,7 +56854,7 @@
                 },
                 {
                     name: 'Event Tickets',
-                    icon: 'fortunemoksha/event_ticket.png',
+                    icon: 'mecleodganj/ticket.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -56924,7 +56924,7 @@
                 },
                 {
                     name: 'Restaurant Menu',
-                    icon: 'fortunegrace/menu.png',
+                    icon: 'mecleodganj/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
@@ -57036,7 +57036,7 @@
                 },
                 {
                     name: 'Exclusive Offers',
-                    icon: 'fortunemoksha/offer.png',
+                    icon: 'mecleodganj/gift.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
