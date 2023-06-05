@@ -143545,7 +143545,7 @@
                             name: 'Lepcha Museum',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Thetopsightseeing',
+                            routerLink: '/stores/LepchaMuseum',
                             extLink: '',
                         },    
                         {
@@ -143553,7 +143553,7 @@
                             name: 'Forest Museum',
                             location: '',
                             views: '',
-                            routerLink: '/stores/KrishnaTemple',
+                            routerLink: '/stores/ForestMuseum',
                             extLink: '',
                         },
                         {
@@ -143561,7 +143561,7 @@
                             name: 'Durpin Monastery',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MalpeBeach',
+                            routerLink: '/stores/DurpinMonastery',
                             extLink: '',
                         },
                         {
@@ -143569,7 +143569,7 @@
                             name: 'Mangaldham Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/KaupBeach',
+                            routerLink: '/stores/MangaldhamTemple',
                             extLink: '',
                         },
                         {
@@ -143577,7 +143577,7 @@
                             name: 'Delo view point',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MookambikaTemple',
+                            routerLink: '/stores/Deloviewpoint',
                             extLink: '',
                         },
                     ]
@@ -143592,7 +143592,7 @@
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Marena',
+                            routerLink: '/stores/SPA_50',
                             extLink: ''
                         },
                         {
@@ -143600,7 +143600,7 @@
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_42',
+                            routerLink: '/stores/Swimming Pool',
                             extLink: ''
                         },
                     ]
@@ -143615,7 +143615,7 @@
                             name: 'Lawn View Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/LawnViewBreakfast',
+                            routerLink: '/stores/LawnViewBreakfast_1',
                             extLink: ''
                         },
                         {
@@ -143623,7 +143623,7 @@
                             name: 'Lunch',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Lunch_7',
+                            routerLink: '/stores/Lunch_8',
                             extLink: ''
                         },
                         {
@@ -143631,7 +143631,7 @@
                             name: 'Dinner / Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DinnerCandleLightDinner',
+                            routerLink: '/stores/DinnerCandleLightDinner_1',
                             extLink: ''
                         },
                     ]
