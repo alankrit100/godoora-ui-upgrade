@@ -57574,35 +57574,35 @@
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Private1.webp',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/cooking1.jpg',
                             name: 'Delhi Cooking class Tour',
                             desc: 'From: 2500/-',
                             routerLink: '/stores/DelhiCookingclassTour',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/boat1.webp',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/food1.jpg',
                             name: 'Delhi Food Tour',
                             desc: 'From: 2500/-',
                             routerLink: '/stores/DelhiFoodTour',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/village2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/old1.jpg',
                             name: 'OLD DELHI WALKING TOUR',
                             desc: 'From: 2500/-',
                             routerLink: '/stores/OldDelhiWalkingTour',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/wild1.webp',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/gandhi1.jpg',
                             name: 'The Life of Gandhi Tour - Delhi tour',
                             desc: 'From: 2400/-',
                             routerLink: '/stores/TheLifeofGandhiTourDelhitour',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/handi1.webp',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/delhi-tour1.jpg',
                             name: 'Delhi Full Day Tour',
                             desc: 'From: 3200/-',
                             routerLink: '/stores/DelhiFullDayTour',
@@ -57610,7 +57610,7 @@
                         },
 
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cooking1.webp',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/Mehrauli1.jpg',
                             name: 'Mehrauli Archaeological Walk',
                             desc: 'From: 1200/-',
                             routerLink: '/stores/MehrauliArchaeologicalWalk',
@@ -57786,20 +57786,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing1.jpg',
-                            videoId: 'rk1_T7bWw7U'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/1.jpg',
+                            videoId: 'JW1jSINTzaw'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing2.jpeg',
-                            videoId: 'LYIK7e9pX_g'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/2.jpg',
+                            videoId: 'KT9e-QSXvWA'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing3.jpg',
-                            videoId: '4SBP4PDl45I'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/3.jpg',
+                            videoId: '5XbbRDdwaGU'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing4.jpg',
-                            videoId: '49HTIoCccDY'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/4.jpg',
+                            videoId: 'rN1uXMVnXgo'
                         }
                     ]
                 },
