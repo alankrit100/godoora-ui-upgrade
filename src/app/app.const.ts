@@ -55361,14 +55361,14 @@
                             name: 'Cake cooking session',
                             location: 'Rs. 999/- | 24 hours',
                             views: '',
-                            routerLink: '/stores/Cakecookingsession',
+                            routerLink: '/stores/Cakecookingsession_1',
                             extLink: ''
                         },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
                             name: 'Decoration in honeymoon arrival room',
                             location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/Decorationinhoneymoonarrivalroom',
+                            routerLink: '/stores/Decorationinhoneymoonarrivalroom_1',
                             extLink: ''
                         },
                         {
@@ -55376,7 +55376,7 @@
                             name: 'Creating Kids Zone in guest room',
                             location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/CreatingKidsZoneinguestroom',
+                            routerLink: '/stores/CreatingKidsZoneinguestroom_1',
                             extLink: ''
                         },
                     ]
@@ -55391,7 +55391,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/BaloonArtist',
+                            routerLink: '/stores/BaloonArtist_5',
                             extLink: ''
                         },
                         {
@@ -55399,7 +55399,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasions',
+                            routerLink: '/stores/CandleLightOccasions_6',
                             extLink: ''
                         },
                         {
@@ -55407,7 +55407,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration',
+                            routerLink: '/stores/GuestRoomDecorationwithtowelart&flowers',
                             extLink: ''
                         },
                         {
@@ -55415,7 +55415,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/TattooArtist',
+                            routerLink: '/stores/TattooArtist_6',
                             extLink: ''
                         },
                         {
@@ -55423,7 +55423,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/CookeryClasses',
+                            routerLink: '/stores/CookeryClasses_5',
                             extLink: ''
                         },
                         {
@@ -55431,7 +55431,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/SwimmingClass',
+                            routerLink: '/stores/SwimmingClass_5',
                             extLink: ''
                         },
                         {
@@ -55439,7 +55439,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses',
+                            routerLink: '/stores/BakeryCakeMakingClasses_5',
                             extLink: ''
                         },
                     ]
@@ -55453,21 +55453,21 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg',
                             name: 'Towel Origami',
                             desc: '',
-                            routerLink: '/stores/MeetingsandEvents_4',
+                            routerLink: '/stores/TowelOrigami_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg',
                             name: 'Mocktail Making',
                             desc: '',
-                            routerLink: '/stores/ComplimentaryHoneymoonPackage_1',
+                            routerLink: '/stores/MocktailMaking_6',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg',
                             name: 'Cook with Chef',
                             desc: '',
-                            routerLink: '/stores/LoyaltyProgram_4',
+                            routerLink: '/stores/CookwithChef_13',
                             extLink: ''
                         }
                     ]
