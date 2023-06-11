@@ -55234,6 +55234,11 @@
                     active: true,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing1.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
@@ -55248,11 +55253,6 @@
                             heading: 'Celebrate your dream day with us',
                             subHeading: 'Birthdays | Wedding | Anniversary'
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing4.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
-                        }
                     ]
                 },
                 experience: {
@@ -55352,7 +55352,38 @@
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Experiences',
+                    heading: 'In-House Experiences',
+                    desc: 'Whether you’re looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
+                    items: [
+                        
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg',
+                            name: 'Cake cooking session',
+                            location: 'Rs. 999/- | 24 hours',
+                            views: '',
+                            routerLink: '/stores/Cakecookingsession_1',
+                            extLink: ''
+                        },{
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
+                            name: 'Decoration in honeymoon arrival room',
+                            location: 'Rs. 2999/- | 03 hours',
+                            views: '',
+                            routerLink: '/stores/Decorationinhoneymoonarrivalroom_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg',
+                            name: 'Creating Kids Zone in guest room',
+                            location: 'Rs. 2999/- | 03 hours',
+                            views: '',
+                            routerLink: '/stores/CreatingKidsZoneinguestroom_1',
+                            extLink: ''
+                        },
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Unique Hotel Experiences',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
@@ -55376,7 +55407,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration_6',
+                            routerLink: '/stores/GuestRoomDecorationwithtowelart&flowers',
                             extLink: ''
                         },
                         {
@@ -55413,101 +55444,30 @@
                         },
                     ]
                 },
-                activities: {
-                    active: true,
-                    heading: 'Unique Hotel Experiences',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
-                            name: 'Bonfire setup for open area dinner party',
-                            location: 'Tea & Snacks facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Bonfiresetup_6',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
-                            name: 'Candle Light Occasions',
-                            location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
-                            views: '',
-                            routerLink: '/stores/CandleLightOccasion_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/basket.jpg',
-                            name: 'Picnic Baskets',
-                            location: 'Hampi sight visit with picnic baskets',
-                            views: '',
-                            routerLink: '/stores/PicnicBaskets_7',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/raja_rani.jpg',
-                            name: 'Raja Rani poolside dinner',
-                            location: 'Be the Royal guests',
-                            views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/barbeque.jpg',
-                            name: 'Barbeque evening with movie screening',
-                            location: 'Enjoy your personal butler service',
-                            views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/high_tea.jpg',
-                            name: 'High tea at garden cafe',
-                            location: 'Tea & Snacks facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Highteaatgardencafe_6',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/rdinner.jpg',
-                            name: 'Romantic candle light dinner',
-                            location: 'Facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_10',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bar.jpg',
-                            name: 'Relax at Elephant bar',
-                            location: 'Whiskey | Cocktails | Beer',
-                            views: '',
-                            routerLink: '/stores/RelaxatElephantbar_6',
-                            extLink: ''
-                        }
-                    ]
-                },
                 offers: {
                     active: true,
-                    heading: 'Hotel Offers',
+                    heading: 'Workshops',
                     desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/event.jpg',
-                            name: 'Meetings and Events',
-                            desc: 'Well equipped event spaces at Royal Orchid & Regenta Hotels across the country',
-                            routerLink: '/stores/MeetingsandEvents_4',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg',
+                            name: 'Towel Origami',
+                            desc: '',
+                            routerLink: '/stores/TowelOrigami_2',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/honeymoon.jpg',
-                            name: 'Complimentary Honeymoon Package',
-                            desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
-                            routerLink: '/stores/ComplimentaryHoneymoonPackage_1',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg',
+                            name: 'Mocktail Making',
+                            desc: '',
+                            routerLink: '/stores/MocktailMaking_6',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
-                            name: 'Loyalty Program',
-                            desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/LoyaltyProgram_4',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg',
+                            name: 'Cook with Chef',
+                            desc: '',
+                            routerLink: '/stores/CookwithChef_13',
                             extLink: ''
                         }
                     ]
@@ -56767,11 +56727,69 @@
                     ]
                 },
                 {
-                    name: 'Unique Experiences',
-                    icon: 'orchid/unique_exp.png',
+                    name: 'In-House Experiences',
+                    icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '/by-admin/970',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Cake cooking session',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Decoration in honeymoon arrival room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Creating Kids Zone in guest room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                    ]
+                },
+                {
+                    name: 'Unique Hotel Experiences',
+                    icon: 'royal/restaurant.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
                     extLink: '',
                     services: [
                         {
@@ -56811,7 +56829,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: 'Guest Room Decoration',
+                            name: 'Guest Room Decoration with towel art & flowers',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/guest.png',
@@ -56863,7 +56881,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'SwimmingClass',
+                            name: 'Swimming Class',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'swimming-pool.png',
@@ -56893,158 +56911,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Unique Hotel Experiences',
-                    icon: 'orchid/dining.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '/by-admin/969',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Raja Rani poolside dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/dinner.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Barbeque evening with movie screening',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/movie.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'High tea at garden cafe',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/cafe.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Romantic candle light dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/candle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Relax at Elephant bar',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/bar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Candle Light Occasion',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/candle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bonfire setup',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/tent.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Picnic Baskets',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/basket.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -57234,7 +57100,7 @@
                     ]
                 },
                 {
-                    name: 'Royal Orchid Group Offers',
+                    name: 'Workshops',
                     icon: 'orchid/gift.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -57242,7 +57108,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Honeymoon Package',
+                            name: 'Towel Origami',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/honeymoon.png',
@@ -57251,12 +57117,14 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Loyalty Program',
+                            name: 'Mocktail Making',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/loyalty.png',
@@ -57265,12 +57133,14 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Meetings and Events',
+                            name: 'Cook with Chef',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/meeting.png',
@@ -57279,7 +57149,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -57516,6 +57388,11 @@
                     active: true,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/delhi1.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
@@ -57530,11 +57407,6 @@
                             heading: 'Celebrate your dream day with us',
                             subHeading: 'Birthdays | Wedding | Anniversary'
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/delhi/delhi4.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
-                        }
                     ]
                 },
                 experience: {
@@ -57620,7 +57492,38 @@
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Experiences',
+                    heading: 'In-House Experiences',
+                    desc: 'Whether you’re looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
+                    items: [
+                        
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg',
+                            name: 'Cake cooking session',
+                            location: 'Rs. 999/- | 24 hours',
+                            views: '',
+                            routerLink: '/stores/Cakecookingsession_1',
+                            extLink: ''
+                        },{
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
+                            name: 'Decoration in honeymoon arrival room',
+                            location: 'Rs. 2999/- | 03 hours',
+                            views: '',
+                            routerLink: '/stores/Decorationinhoneymoonarrivalroom_1',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg',
+                            name: 'Creating Kids Zone in guest room',
+                            location: 'Rs. 2999/- | 03 hours',
+                            views: '',
+                            routerLink: '/stores/CreatingKidsZoneinguestroom_1',
+                            extLink: ''
+                        },
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Unique Hotel Experiences',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
                     items: [
                         {
@@ -57644,7 +57547,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration_6',
+                            routerLink: '/stores/GuestRoomDecorationwithtowelart&flowers',
                             extLink: ''
                         },
                         {
@@ -57681,101 +57584,30 @@
                         },
                     ]
                 },
-                activities: {
-                    active: true,
-                    heading: 'Unique Hotel Experiences',
-                    desc: 'Enjoy experiences you always dream of and fulfil your dream.',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
-                            name: 'Bonfire setup for open area dinner party',
-                            location: 'Tea & Snacks facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Bonfiresetup_6',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
-                            name: 'Candle Light Occasions',
-                            location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
-                            views: '',
-                            routerLink: '/stores/CandleLightOccasion_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/basket.jpg',
-                            name: 'Picnic Baskets',
-                            location: 'Hampi sight visit with picnic baskets',
-                            views: '',
-                            routerLink: '/stores/PicnicBaskets_7',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/raja_rani.jpg',
-                            name: 'Raja Rani poolside dinner',
-                            location: 'Be the Royal guests',
-                            views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/barbeque.jpg',
-                            name: 'Barbeque evening with movie screening',
-                            location: 'Enjoy your personal butler service',
-                            views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/high_tea.jpg',
-                            name: 'High tea at garden cafe',
-                            location: 'Tea & Snacks facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Highteaatgardencafe_6',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/rdinner.jpg',
-                            name: 'Romantic candle light dinner',
-                            location: 'Facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_10',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bar.jpg',
-                            name: 'Relax at Elephant bar',
-                            location: 'Whiskey | Cocktails | Beer',
-                            views: '',
-                            routerLink: '/stores/RelaxatElephantbar_6',
-                            extLink: ''
-                        }
-                    ]
-                },
                 offers: {
                     active: true,
-                    heading: 'Hotel Offers',
+                    heading: 'Workshops',
                     desc: 'Services that make your trip even more exciting and complete.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/event.jpg',
-                            name: 'Meetings and Events',
-                            desc: 'Well equipped event spaces at Royal Orchid & Regenta Hotels across the country',
-                            routerLink: '/stores/MeetingsandEvents_4',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg',
+                            name: 'Towel Origami',
+                            desc: '',
+                            routerLink: '/stores/TowelOrigami_2',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/honeymoon.jpg',
-                            name: 'Complimentary Honeymoon Package',
-                            desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
-                            routerLink: '/stores/ComplimentaryHoneymoonPackage_1',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg',
+                            name: 'Mocktail Making',
+                            desc: '',
+                            routerLink: '/stores/MocktailMaking_6',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
-                            name: 'Loyalty Program',
-                            desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/LoyaltyProgram_4',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg',
+                            name: 'Cook with Chef',
+                            desc: '',
+                            routerLink: '/stores/CookwithChef_13',
                             extLink: ''
                         }
                     ]
@@ -58973,73 +58805,127 @@
                     ]
                 },
                 {
-                    name: 'Hotel Offers',
-                    icon: 'orchid/experience.png',
+                    name: 'Workshops',
+                    icon: 'orchid/gift.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '/by-admin/971',
+                    routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Meetings and Events',
+                            name: 'Towel Origami',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/bicycle.png',
+                            icon: 'orchid/honeymoon.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Complimentary Honeymoon Package',
+                            name: 'Mocktail Making',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/spiritual.png',
+                            icon: 'orchid/loyalty.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Loyalty Program',
+                            name: 'Cook with Chef',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/gruop_tour.png',
+                            icon: 'orchid/meeting.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for Belum caves',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook3.jpg' },
                             ],
-                            confirmBtnLabel: 'Book a Slot'
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'In-House Experiences',
+                    icon: 'royal/restaurant.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Cake cooking session',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Decoration in honeymoon arrival room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Creating Kids Zone in guest room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
                         },
                     ]
                 },
                 {
-                    name: 'Unique Experiences',
-                    icon: 'orchid/unique_exp.png',
+                    name: 'Unique Hotel Experiences',
+                    icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '/by-admin/970',
+                    routerLink: 'test',
                     extLink: '',
                     services: [
                         {
@@ -59079,7 +58965,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: 'Guest Room Decoration',
+                            name: 'Guest Room Decoration with towel art & flowers',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/guest.png',
@@ -59131,7 +59017,7 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'SwimmingClass',
+                            name: 'Swimming Class',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'swimming-pool.png',
@@ -59161,158 +59047,6 @@
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Unique Hotel Experiences',
-                    icon: 'orchid/dining.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '/by-admin/969',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Raja Rani poolside dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/dinner.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Barbeque evening with movie screening',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/movie.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'High tea at garden cafe',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/cafe.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Romantic candle light dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/candle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Relax at Elephant bar',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/bar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Candle Light Occasion',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/candle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bonfire setup',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/tent.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Picnic Baskets',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/basket.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
