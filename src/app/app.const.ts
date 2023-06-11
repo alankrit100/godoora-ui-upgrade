@@ -59442,6 +59442,10 @@
                     active: true,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            heading: 'Book Direct With Us',
+                            subHeading: 'Avail unique offers and benefits curated especially for you'
+                        },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
@@ -59456,11 +59460,6 @@
                             heading: 'Celebrate your dream day with us',
                             subHeading: 'Birthdays | Wedding | Anniversary'
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding4.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
-                        }
                     ]
                 },
                 experience: {
