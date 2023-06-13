@@ -59446,17 +59446,17 @@
                             heading: 'Book Direct With Us',
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },{
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/landing2.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/landing3.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/landing4.jpg',
                             heading: 'Celebrate your dream day with us',
                             subHeading: 'Birthdays | Wedding | Anniversary'
                         },
@@ -59725,19 +59725,19 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'hhttps://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/v1.jpg',
                             videoId: '7cPLbiblb84'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/v2.jpg',
                             videoId: '9fKw2fNo7_8'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/v3.jpg',
                             videoId: 'xVfYwiUeDcg'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaipurlanding4.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/v4.jpg',
                             videoId: 'kRZLUCWswlw'
                         }
                     ]
