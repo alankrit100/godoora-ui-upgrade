@@ -59502,35 +59502,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local1.webp',
                             name: 'Jaipur Art work',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JaipurArtwork',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/Jaipur+Cultural+Walking+Tour.jpg',
                             name: 'Jaipur Walking tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JaipurWalkingtour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local5.webp',
                             name: 'Jaipur monument tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Jaipurmonumenttour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local9.jpg',
                             name: 'JANTAR MANTAR',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JANTARMANTAR',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/albert.jpg',
                             name: 'ALBERT HALL MUSEUM (CENTRAL MUSEUM)',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ALBERTHALLMUSEUM(CENTRALMUSEUM)',
                             extLink: ''
                         },
 
@@ -59538,21 +59538,21 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local8.jpg',
                             name: 'CITY PALACE',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CITYPALACE',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/light.jpg',
                             name: 'LIGHT & SOUND SHOW AT JAINIWAS UDHYAN',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LIGHT&SOUNDSHOWATJAINIWASUDHYAN',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaigrah.jpg',
                             name: 'JAIGARH FORT',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JAIGARHFORT',
                             extLink: ''
                         }
                     ]
@@ -59567,7 +59567,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BaloonArtist_6',
                             extLink: ''
                         },
                         {
@@ -59575,7 +59575,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightOccasions_7',
                             extLink: ''
                         },
                         {
@@ -59583,7 +59583,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GuestRoomDecoration_6',
                             extLink: ''
                         },
                         {
@@ -59591,7 +59591,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TattooArtist_7',
                             extLink: ''
                         },
                         {
@@ -59599,7 +59599,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookeryClasses_6',
                             extLink: ''
                         },
                         {
@@ -59607,7 +59607,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingClass_6',
                             extLink: ''
                         },
                         {
@@ -59615,7 +59615,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BakeryCakeMakingClasses_6',
                             extLink: ''
                         },
                     ]
