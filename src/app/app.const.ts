@@ -67516,7 +67516,7 @@
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PoolSideDinner_9',
                             extLink: ''
                         },
                         {
@@ -67524,7 +67524,7 @@
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/CandleLightDinner_17',
                             extLink: ''
                         },
                         {
@@ -67532,7 +67532,7 @@
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '',
+                            routerLink: '/stores/Naturebreakfast_11',
                             extLink: ''
                         },
                         {
@@ -67540,7 +67540,7 @@
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Facial_5',
                             extLink: ''
                         },
                         {
@@ -67548,14 +67548,14 @@
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DeepTissueMassage_7',
                             extLink: ''
                         },
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique Hotel experiences.',
+                    heading: 'Unique Hotel experiences',
                     desc: 'Enjoy the best of vantage Experience!',
                     items: [
                         {
