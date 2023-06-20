@@ -67563,7 +67563,7 @@
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ExclusivePersonalisedDinner_2',
+                            routerLink: '/stores/CelebrateYourSpecialDay_25',
                             extLink: ''
                         },
                         {
@@ -67571,7 +67571,7 @@
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_2',
+                            routerLink: '/stores/CookingSessionWithChef_7',
                             extLink: ''
                         },
                         {
