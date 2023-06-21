@@ -67592,7 +67592,7 @@
                         }
                     ]
                 },
-                stories: {
+                offers: {
                     active: true,
                     heading: '#SafeStaysatFortuneHotels',
                     desc: 'From check-in to check-out, we have you covered',
@@ -67615,7 +67615,7 @@
                         }
                     ]
                 },
-                offers: {
+                stories: {
                     active: true,
                     heading: 'Explore Our Hotels',
                     desc: '#FindYourFortune by visiting some of India"s most exciting destinations to be awestruck!',
@@ -68156,7 +68156,7 @@
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Explore Our Experiences',
