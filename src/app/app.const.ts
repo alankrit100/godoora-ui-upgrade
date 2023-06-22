@@ -150511,7 +150511,7 @@
                     ]
                 },
                 {
-                    name: 'In-house Experience',
+                    name: 'In-House Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -150738,7 +150738,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/1366'
+                            routerLink: '/by-admin/1368'
                         }
                     ]
                 },
@@ -153216,7 +153216,7 @@
                     ]
                 },
                 {
-                    name: 'In-house Experience',
+                    name: 'In-House Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
