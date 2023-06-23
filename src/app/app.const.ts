@@ -144725,7 +144725,7 @@
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_11',
+                            routerLink: '/stores/PoolSideDinner_12',
                             extLink: ''
                         },
                         {
@@ -144733,7 +144733,7 @@
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_9',
+                            routerLink: '/stores/DeepTissueMassage_10',
                             extLink: ''
                         },
                         {
@@ -144741,7 +144741,7 @@
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_19',
+                            routerLink: '/stores/CandleLightDinner_20',
                             extLink: ''
                         },
                         {
@@ -144749,7 +144749,7 @@
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_13',
+                            routerLink: '/stores/Naturebreakfast_14',
                             extLink: ''
                         },
                         {
@@ -144757,7 +144757,7 @@
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_7',
+                            routerLink: '/stores/Facial_8',
                             extLink: ''
                         },
                         {
@@ -144765,7 +144765,7 @@
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_26',
+                            routerLink: '/stores/CustomInroomdining_27',
                             extLink: ''
                         },
                     ]
@@ -144780,7 +144780,7 @@
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_27',
+                            routerLink: '/stores/CelebrateYourSpecialDay_28',
                             extLink: ''
                         },
                         {
@@ -144788,7 +144788,7 @@
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_9',
+                            routerLink: '/stores/CookingSessionWithChef_10',
                             extLink: ''
                         },
                         {
@@ -144796,7 +144796,7 @@
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_3',
+                            routerLink: '/stores/BonfireatLawn_4',
                             extLink: ''
                         }
                     ]
@@ -147306,7 +147306,7 @@
         },
         {
             branch: 'Kufri-Shimla',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FORTUNE+PARK+KUFRI%2C+SHIMLA/FORTUNE+PARK+KUFRI%2C+SHIMLA.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FORTUNE+PARK+KUFRI%2C+SHIMLA/branch123.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
@@ -147427,7 +147427,7 @@
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_11',
+                            routerLink: '/stores/PoolSideDinner_13',
                             extLink: ''
                         },
                         {
@@ -147435,7 +147435,7 @@
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_9',
+                            routerLink: '/stores/DeepTissueMassage_11',
                             extLink: ''
                         },
                         {
@@ -147443,7 +147443,7 @@
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_19',
+                            routerLink: '/stores/CandleLightDinner_21',
                             extLink: ''
                         },
                         {
@@ -147451,7 +147451,7 @@
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_13',
+                            routerLink: '/stores/Naturebreakfast_15',
                             extLink: ''
                         },
                         {
@@ -147459,7 +147459,7 @@
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_7',
+                            routerLink: '/stores/Facial_9',
                             extLink: ''
                         },
                         {
@@ -147467,7 +147467,7 @@
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_26',
+                            routerLink: '/stores/CustomInroomdining_28',
                             extLink: ''
                         },
                     ]
@@ -147482,7 +147482,7 @@
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_27',
+                            routerLink: '/stores/CelebrateYourSpecialDay_29',
                             extLink: ''
                         },
                         {
@@ -147490,7 +147490,7 @@
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_9',
+                            routerLink: '/stores/CookingSessionWithChef_11',
                             extLink: ''
                         },
                         {
@@ -147498,7 +147498,7 @@
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_3',
+                            routerLink: '/stores/BonfireatLawn_5',
                             extLink: ''
                         }
                     ]
