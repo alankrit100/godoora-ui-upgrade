@@ -64,7 +64,7 @@
                 {
                   "type": "initial",
                   "maximumWarning": "8mb",
-                  "maximumError": "10mb"
+                  "maximumError": "12mb"
                 }
               ],
               "serviceWorker": true,
