@@ -171075,7 +171075,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/BaloonArtist',
+                            routerLink: '/stores/BaloonArtist_7',
                             extLink: ''
                         },
                         {
@@ -171083,7 +171083,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasions',
+                            routerLink: '/stores/CandleLightOccasions_8',
                             extLink: ''
                         },
                         {
@@ -171091,7 +171091,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration',
+                            routerLink: '/stores/GuestRoomDecoration_7',
                             extLink: ''
                         },
                         {
@@ -171099,7 +171099,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/TattooArtist',
+                            routerLink: '/stores/TattooArtist_8',
                             extLink: ''
                         },
                         {
@@ -171107,7 +171107,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/CookeryClasses',
+                            routerLink: '/stores/CookeryClasses_7',
                             extLink: ''
                         },
                         {
@@ -171115,7 +171115,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/SwimmingClass',
+                            routerLink: '/stores/SwimmingClass_7',
                             extLink: ''
                         },
                         {
@@ -171123,7 +171123,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses',
+                            routerLink: '/stores/BakeryCakeMakingClasses_7',
                             extLink: ''
                         },
                         {
@@ -172776,7 +172776,8 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/swimming1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/swimming2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173023,7 +173024,8 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bespoken1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bespoken2.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -173360,7 +173362,7 @@
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/BaloonArtist',
+                            routerLink: '/stores/BaloonArtist_7',
                             extLink: ''
                         },
                         {
@@ -173368,7 +173370,7 @@
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasions',
+                            routerLink: '/stores/CandleLightOccasions_8',
                             extLink: ''
                         },
                         {
@@ -173376,7 +173378,7 @@
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration',
+                            routerLink: '/stores/GuestRoomDecoration_7',
                             extLink: ''
                         },
                         {
@@ -173384,7 +173386,7 @@
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/TattooArtist',
+                            routerLink: '/stores/TattooArtist_8',
                             extLink: ''
                         },
                         {
@@ -173392,7 +173394,7 @@
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/CookeryClasses',
+                            routerLink: '/stores/CookeryClasses_7',
                             extLink: ''
                         },
                         {
@@ -173400,7 +173402,7 @@
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/SwimmingClass',
+                            routerLink: '/stores/SwimmingClass_7',
                             extLink: ''
                         },
                         {
@@ -173408,7 +173410,7 @@
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses',
+                            routerLink: '/stores/BakeryCakeMakingClasses_7',
                             extLink: ''
                         },
                         {
@@ -175020,7 +175022,8 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/swimming1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/swimming2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -175268,7 +175271,8 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bespoken1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bespoken2.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -175328,8 +175332,8 @@
                             headerText: 'Fix an appointment',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal2.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
