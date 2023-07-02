@@ -171411,7 +171411,11 @@
                             placeholder: 'Example: I want to know if there is a cloak room',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171426,7 +171430,11 @@
                             placeholder: 'Example: I need to checkIn',
                             headerText: 'Select a date & time you would like to checkIn.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             checkinForm: true,
@@ -171442,7 +171450,11 @@
                             placeholder: 'Example: I need to checkout',
                             headerText: 'Select a date & time you would like to checkOut',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171467,7 +171479,11 @@
                             placeholder: 'Example: I need 2 dinnner plates along with spoons',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171481,7 +171497,11 @@
                             placeholder: 'Example: Please send me an extra pillow',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171496,7 +171516,11 @@
                             placeholder: 'Example: Please arrange laundry pickup for me',
                             headerText: 'Select a time when our person can knock your door',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171511,7 +171535,11 @@
                             placeholder: 'Example: Please sanitize my room and replace bedding',
                             headerText: 'Select an ideal time for us to work in your room',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171536,7 +171564,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171551,7 +171583,11 @@
                             placeholder: 'Ex: I would like to use the treadmill',
                             headerText: 'When would you like to hit the Gym?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -171566,7 +171602,11 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -171591,7 +171631,11 @@
                             placeholder: 'Ex: Please keep the racket in the court',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -171606,7 +171650,11 @@
                             placeholder: 'Ex: Please keep the rackets and the ball on the table',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool3.jpg.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171631,7 +171679,11 @@
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
@@ -171646,7 +171698,11 @@
                             placeholder: 'Arrange a Sedan for local sightseeing',
                             headerText: 'When are you planning to start from hotel?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
@@ -171661,7 +171717,10 @@
                             placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
                             headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment4.jpg' }
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
@@ -171676,7 +171735,11 @@
                             placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
                             headerText: 'When are you planning to visit?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
                             confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
@@ -171691,7 +171754,11 @@
                             placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
                             headerText: 'When are you planning to go for the movie?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
                             confirmBtnLabel: 'Book Tickets',
                             storePageAsBlog: true
@@ -171706,7 +171773,11 @@
                             placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
                             headerText: 'When would you like to collect it?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171721,7 +171792,11 @@
                             placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
                             headerText: 'When would you like to go for shopping?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping5.jpg' }
                             ],
                             confirmBtnLabel: 'Fix appointment',
                             storePageAsBlog: true
@@ -171736,7 +171811,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171761,7 +171840,11 @@
                             placeholder: 'Ex: None of the Kannada channels are not working',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171776,7 +171859,10 @@
                             placeholder: 'Ex: I need help in adjusting room temprature',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171791,7 +171877,10 @@
                             placeholder: 'Need help in operating the coffee maker',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171806,7 +171895,10 @@
                             placeholder: 'Please replace the hair dryer',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171821,7 +171913,10 @@
                             placeholder: 'placeholder',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171836,7 +171931,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/coffee2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171861,7 +171960,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImg: 'bed.png',
@@ -171877,7 +171980,10 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table4.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImg: 'bed.png',
@@ -171893,7 +171999,10 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table4.jpg' }
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImg: 'bed.png',
@@ -171925,7 +172034,10 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImg: 'bed.png',
@@ -171967,7 +172079,10 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171982,7 +172097,11 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -171997,7 +172116,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172027,7 +172150,10 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172072,7 +172198,11 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining5.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImg: 'bed.png',
@@ -172098,7 +172228,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172113,7 +172247,11 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172128,7 +172266,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tea3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172143,7 +172283,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172158,7 +172302,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bar5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172173,7 +172321,11 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172188,7 +172340,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172203,7 +172359,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172346,7 +172506,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/room3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172361,7 +172523,8 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/meal2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172376,7 +172539,8 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/bed1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/bed2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172391,7 +172555,8 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/cab1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/cab2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172406,7 +172571,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/business1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/business2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/business3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172516,7 +172683,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172531,7 +172702,11 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172546,7 +172721,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172561,7 +172740,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tattoo1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tattoo2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tattoo3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172576,7 +172757,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172606,7 +172791,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172686,7 +172875,11 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172701,7 +172894,11 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172716,7 +172913,9 @@
                             placeholder: 'Ex: I would like to go for Belum caves',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/jeep1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/jeep2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/jeep3.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -172731,7 +172930,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -172746,7 +172949,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -172761,7 +172968,9 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/malgudi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/malgudi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/malgudi3.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -172776,7 +172985,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -172791,7 +173004,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -172846,7 +173063,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172861,7 +173082,9 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -172876,7 +173099,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173469,7 +173696,11 @@
                             placeholder: 'Example: I want to know if there is a cloak room',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173484,7 +173715,11 @@
                             placeholder: 'Example: I need to checkIn',
                             headerText: 'Select a date & time you would like to checkIn.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             checkinForm: true,
@@ -173500,7 +173735,11 @@
                             placeholder: 'Example: I need to checkout',
                             headerText: 'Select a date & time you would like to checkOut',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173525,7 +173764,11 @@
                             placeholder: 'Example: I need 2 dinnner plates along with spoons',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173539,7 +173782,11 @@
                             placeholder: 'Example: Please send me an extra pillow',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173554,7 +173801,11 @@
                             placeholder: 'Example: Please arrange laundry pickup for me',
                             headerText: 'Select a time when our person can knock your door',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173569,7 +173820,11 @@
                             placeholder: 'Example: Please sanitize my room and replace bedding',
                             headerText: 'Select an ideal time for us to work in your room',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173594,7 +173849,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173609,7 +173868,11 @@
                             placeholder: 'Ex: I would like to use the treadmill',
                             headerText: 'When would you like to hit the Gym?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -173624,7 +173887,11 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -173649,7 +173916,11 @@
                             placeholder: 'Ex: Please keep the racket in the court',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -173664,7 +173935,11 @@
                             placeholder: 'Ex: Please keep the rackets and the ball on the table',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173689,7 +173964,11 @@
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
@@ -173704,7 +173983,11 @@
                             placeholder: 'Arrange a Sedan for local sightseeing',
                             headerText: 'When are you planning to start from hotel?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
@@ -173719,7 +174002,11 @@
                             placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
                             headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
@@ -173734,7 +174021,10 @@
                             placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
                             headerText: 'When are you planning to visit?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment4.jpg' }
                             ],
                             confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
@@ -173749,7 +174039,11 @@
                             placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
                             headerText: 'When are you planning to go for the movie?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
                             confirmBtnLabel: 'Book Tickets',
                             storePageAsBlog: true
@@ -173764,7 +174058,11 @@
                             placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
                             headerText: 'When would you like to collect it?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173779,7 +174077,11 @@
                             placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
                             headerText: 'When would you like to go for shopping?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping5.jpg' }
                             ],
                             confirmBtnLabel: 'Fix appointment',
                             storePageAsBlog: true
@@ -173794,7 +174096,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173819,7 +174125,11 @@
                             placeholder: 'Ex: None of the Kannada channels are not working',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173834,7 +174144,10 @@
                             placeholder: 'Ex: I need help in adjusting room temprature',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173849,7 +174162,10 @@
                             placeholder: 'Need help in operating the coffee maker',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173864,7 +174180,10 @@
                             placeholder: 'Please replace the hair dryer',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173879,7 +174198,10 @@
                             placeholder: 'placeholder',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173894,7 +174216,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/coffee2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173919,7 +174245,11 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImg: 'bed.png',
@@ -173935,7 +174265,10 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table4.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImg: 'bed.png',
@@ -173951,7 +174284,11 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining5.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImg: 'bed.png',
@@ -173967,7 +174304,10 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table4.jpg' }
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImg: 'bed.png',
@@ -173984,7 +174324,11 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImg: 'bed.png',
@@ -174026,7 +174370,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174041,7 +174389,10 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174056,7 +174407,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -174100,7 +174455,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174130,7 +174489,11 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining5.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImg: 'bed.png',
@@ -174156,7 +174519,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/pool5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174171,7 +174538,11 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174186,7 +174557,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174201,7 +174576,11 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174216,7 +174595,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/bone5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174231,7 +174614,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/picnic5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174448,7 +174835,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174463,7 +174852,8 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/meal2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174478,7 +174868,8 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/bed1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/bed2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174493,7 +174884,8 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/cab1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/cab2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174508,7 +174900,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/business1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/business2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Royal-orchid/new/business3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174533,7 +174927,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/balloon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174548,7 +174946,11 @@
                             placeholder: 'placeholder',
                             headerText: 'placeholder',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/candle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174563,7 +174965,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174578,7 +174984,9 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tattoo1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tattoo2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/tattoo3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174593,7 +175001,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174624,7 +175036,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174704,7 +175120,11 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/cycle5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174719,7 +175139,11 @@
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174734,7 +175158,9 @@
                             placeholder: 'Ex: I would like to go for Belum caves',
                             headerText: 'When would you like to book?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/jeep1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/jeep2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/jeep3.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -174749,7 +175175,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/mysuru5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -174764,7 +175194,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -174779,7 +175213,9 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/malgudi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/malgudi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/malgudi3.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -174794,7 +175230,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -174809,7 +175249,11 @@
                             placeholder: 'Ex: When would you like to go for Rock Gardens?',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/palace5.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -174864,7 +175308,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174879,7 +175327,9 @@
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/loyal3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -174894,7 +175344,11 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
