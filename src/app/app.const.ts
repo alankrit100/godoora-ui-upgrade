@@ -1140,8 +1140,8 @@
                 },
                 experience: {
                     active: true,
-                    heading: 'Our Products',
-                    desc: `Empowering Travellers and Tourism Businesses with next-gen technology products.`,
+                    heading: 'Our Story',
+                    desc: `Back in 2018, when we (Prasad Patil and Varun Thomas) were working together, they would often discuss about the profound impact of technology on various industries. It was very evident that technology enabled platform businesses were disrupting every sector, from Amazon in to Uber in transportation or Netflix in entertainment and so on.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/TRAVELLER.jpg',
@@ -1494,6 +1494,12 @@
                 {
                     label: 'Hotel-as-a-Platform',
                     extLink: 'https://www.hotelasaplatform.com',
+                    routerLink: '',
+                    icon: 'card-outline'
+                },
+                {
+                    label: 'About Us',
+                    extLink: 'https://hotelasaplatform.com/about-us',
                     routerLink: '',
                     icon: 'card-outline'
                 }
