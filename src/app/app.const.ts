@@ -1486,6 +1486,12 @@
             },
             leftSideMenu: [
                 {
+                    label: 'About Us',
+                    extLink: 'https://hotelasaplatform.com/about-us',
+                    routerLink: '',
+                    icon: 'card-outline'
+                },
+                {
                     label: 'Plan Your Trip',
                     extLink: 'https://www.planner.goyaana.com',
                     routerLink: '',
@@ -1497,12 +1503,6 @@
                     routerLink: '',
                     icon: 'card-outline'
                 },
-                {
-                    label: 'About Us',
-                    extLink: 'https://hotelasaplatform.com/about-us',
-                    routerLink: '',
-                    icon: 'card-outline'
-                }
             ],
             departments: [
                 {
