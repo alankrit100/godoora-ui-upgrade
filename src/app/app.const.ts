@@ -1141,7 +1141,23 @@
                 experience: {
                     active: true,
                     heading: 'Our Story',
-                    desc: `Back in 2018, when we (Prasad Patil and Varun Thomas) were working together, they would often discuss about the profound impact of technology on various industries. It was very evident that technology enabled platform businesses were disrupting every sector, from Amazon in to Uber in transportation or Netflix in entertainment and so on.`,
+                    desc: `Back in 2018, when we (Prasad Patil and Varun Thomas) were working together, they would often discuss about the profound impact of technology on various industries. It was very evident that technology enabled platform businesses were disrupting every sector, from Amazon in to Uber in transportation or Netflix in entertainment and so on.
+
+
+
+                    During one of coffee table talks, our conversation naturally shifted to our favorite topic: Travel. We were intrigued by how travel was becoming increasingly personalised and experiential with the advent of new-age technologies. As passionate startup enthusiasts, we were particularly impressed by the rise of Airbnb. We saw a golden opportunity to be part of this industry transformation and identified several gaps that we believed we could fill.
+                    
+                    
+                    
+                    Fueled by curiosity and passion, we embarked on a journey of extensive research. With a combined experience of over 30 years in technology, specifically in Product Management and Software Architecture, gained from working with renowned companies like Yahoo and Ericsson, we entered the travel industry as outsiders. This unique perspective allowed us to approach the challenges faced by the travel & hospitality industry with fresh eyes, unburdened by preconceived notions of traditional technology solutions. 
+                    
+                    
+                    
+                    Our studies delved deep into the success of the platform business model, the ascent of the experience economy and the buzz around connected trips. Connecting the dots, we envisioned our own version of the future for the travel and hospitality industry!
+                    
+                    
+                    
+                    Fast forward to today, and we remain incredibly optimistic about the future of travel, especially after overcoming the colossal challenges brought by the Covid-19 pandemic. Our determination to build new-age consumer-facing technologies for the travel and hospitality industry has only grown stronger. We believe that technology can revolutionise travel, making it more accessible, seamless, and enriching for everyone. Join us as we embark on this exciting adventure, where innovation meets travel, and together, we shape the future of the industry.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/TRAVELLER.jpg',
