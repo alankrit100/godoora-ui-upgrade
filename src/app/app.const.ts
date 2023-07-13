@@ -74434,6 +74434,23 @@
                             storePageAsBlog: true
                         },
                         {
+                            name:'Pari Mahal',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Manali/temple2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Pari-Mahal.webp' },
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Old City',
                             extLink: '',
                             routerLink: 'test',
