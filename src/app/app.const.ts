@@ -74341,7 +74341,7 @@
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Harwan+Mughal+Garden1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Harwan-Mughal.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74358,7 +74358,7 @@
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Shankar+Acharya+Temple1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Shankaracharya-Temple.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74375,7 +74375,7 @@
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Dachigam+National+park1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Dachigam.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74386,7 +74386,7 @@
                             name: 'Hazratbal Shrine',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/itsukushima-shrine.png',
+                            icon: 'Manali/Hazratbal-Shrine.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -74403,13 +74403,13 @@
                             name:'Lal Chowk',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/newmoon.png',
+                            icon: 'Manali/lal.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Lal+Chowk+1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Lal-chowk.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74454,13 +74454,13 @@
                             name: 'Old City',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/chowk.png',
+                            icon: 'Manali/old-city.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Old+City+1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Old-city.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74477,7 +74477,7 @@
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Jamia+Masjid1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Jamia-Masjid.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74488,7 +74488,7 @@
                             name: 'Budshah Tomb',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/mountain.png',
+                            icon: 'Manali/tomb.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -74511,7 +74511,7 @@
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Gurdwara_Chatti_Patshahi_Srinagar.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Gurudwara-Chatti.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74522,7 +74522,7 @@
                             name: 'Badamwari',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/chowk.png',
+                            icon: 'Manali/badam.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -74562,7 +74562,7 @@
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/S.P.S+Museum1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/SPS-MUSEUM.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
@@ -74573,7 +74573,7 @@
                             name: 'Pahalgam',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/mountain.png',
+                            icon: 'Manali/pahalgam.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -74590,7 +74590,7 @@
                             name: 'Gulmarg',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/mountain.png',
+                            icon: 'Manali/gulmarg.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -74624,13 +74624,13 @@
                             name: 'Doodhpatri',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/mountain.png',
+                            icon: 'Manali/doodhpatri.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Doodhpatri1.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Doodhpatri.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
