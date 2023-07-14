@@ -74570,23 +74570,6 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Pahalgam',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Manali/pahalgam.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/Pahalgam1.jpg' },
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Gulmarg',
                             extLink: '',
                             routerLink: 'test',
@@ -74648,6 +74631,23 @@
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/YousMarg1.jpg' },
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Pahalgam',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Manali/pahalgam.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/new/pahalgam1.jpeg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
