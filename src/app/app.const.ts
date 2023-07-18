@@ -74403,7 +74403,7 @@
                             name:'Lal Chowk',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Manali/lal.png',
+                            icon: 'Manali/clock-tower.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
