@@ -95013,8 +95013,8 @@
                     services: [
                         {
                             name: 'Fortune Park Ahmedabad',
-                            extLink: '',
-                            routerLink: '/by-admin/1010',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/stores/Upgraderoom@INR999*_29',
+                            routerLink: '',
                             icon: 'FortuneHomepage/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
