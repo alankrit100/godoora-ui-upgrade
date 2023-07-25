@@ -95014,7 +95014,7 @@
                         {
                             name: 'Fortune Park Ahmedabad',
                             extLink: '',
-                            routerLink: 'test',
+                            routerLink: 'Getacab@INR25*perkm_26',
                             icon: 'FortuneHomepage/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
