@@ -93577,8 +93577,18 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/ITCHotels/HomePage.jpg',
                             heading: 'Book Direct With Us',
+                            subHeading: 'Avail uniquee offers and benefits curated especially for you'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune-Leisure-Escape+banner.jpg',
+                            heading: 'FORTUNE LEISURE ESCAPE',
                             subHeading: ''
-                        }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/victoire.jpg',
+                            heading: 'A trip that will fulfil your dream list',
+                            subHeading: 'Art & Culture | Mountains | Serene Beauty'
+                        },
                     ]
                 },
                 experience: {
@@ -93587,23 +93597,35 @@
                     desc: `At Fortune hotels you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India. Let's not wait and join this never ending thrill with us you won't be disappointed.`,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/food-delivery.jpeg',
+                            label: 'Food Delivery',
+                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/',
+                            routerLink:''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/Fortune-trip.jpeg',
+                            label: 'Trip Planner',
+                            extLink: 'https://fortunehotels-planner.goyaana.com/',
+                            routerLink:''
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Special Offers',
-                            extLink: 'https://www.fortunehotels.in/special-offers/?utm_source=QR+Code&utm_medium=Drive+Direct&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+Special+Offers+%7C+Website-Visits+%7C+July+2022',
+                            extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/comingsoon.jpg',
-                            label: 'COMING SOON',
-                            extLink: '',
-                            routerLink:'/coming-soon'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/sleeep-boutique.jpg',
+                            label: 'Sleeep Boutique',
+                            extLink: 'http://www.sleeep-boutique.goyaana.com',
+                            routerLink:''
                         }
                     ]
                 },
                 destinations: {
                     active: true,
-                    heading: 'Explore experiences at our hotels',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    heading: 'Book your next Stay Directly with us',
+                    desc: 'Avail uniquee offers and benefits curated especially for you',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Fortune+Select+SG+Highway+Ahmedabad.jpg',
@@ -94142,138 +94164,7 @@
                 },
                 experiences: {
                     active: true,
-                    heading: 'Quick Upgrades',
-                    desc: 'Get the services at your fingertips',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/UpRoom.jpg',
-                            name: 'Upgrade Room',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Biryani.png',
-                            name: 'Upgrade Meal',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/ExtBed.jpg',
-                            name: 'Extra Bed',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/Cab.jpg',
-                            name: 'Get Cab Pick-Up And Drop-Off',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/BusinessCentre.jpg',
-                            name: 'Avail Business Centre Services',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        }
-                    ]
-                },
-                activities: {
-                    active: true,
-                    heading: 'Other Benefits',
-                    desc: 'We offer a truly great experience where our guests needs are anticipated and make every moment memorable',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/spa.jpg',
-                            name: 'Avail A 20% Discount On Spa Services',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/PoolSideDinner.jpg',
-                            name: 'Vantage Poolside Dining For Couple',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/CustomDine.jpg',
-                            name: 'Custom In-Room Dining Menu',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/special_day.jpg',
-                            name: 'Celebrate Your Special Day With Us',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/757',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
-                        }
-                    ]
-                },
-                offers: {
-                    active: true,
-                    heading: 'Plan Your Trip',
+                    heading: 'Experience Local',
                     desc: 'Services that make your trip even more exciting and complete',
                     items: [
                         {
@@ -94281,13 +94172,8 @@
                             name: 'Book A City Tour',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/757',
+                            routerLink: '/by-admin/1560',
                             extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/guide.jpg',
@@ -94296,11 +94182,6 @@
                             views: '',
                             routerLink: '/by-admin/757',
                             extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/food.jpg',
@@ -94309,11 +94190,6 @@
                             views: '',
                             routerLink: '/by-admin/757',
                             extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/heritage.jpg',
@@ -94322,34 +94198,107 @@
                             views: '',
                             routerLink: '/by-admin/757',
                             extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '',
-                                label: 'DETAILS'
-                            }
                         }
                     ]
                 },
-                stories: {
-                    active: false,
-                    heading: 'Behind the scenes',
-                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                activities: {
+                    active: true,
+                    heading: 'Quick Upgrades',
+                    desc: 'Get the services at your fingertips',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/Mcleodganj-1.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/UpRoom.jpg',
+                            name: 'Upgrade Room',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/795',
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-2.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/Biryani.png',
+                            name: 'Upgrade Meal',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/871',
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneMoksha/hotel-bed-making.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/ExtBed.jpg',
+                            name: 'Extra Bed',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/851',
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/safety-4.jpg',
-                            videoId: ''
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/Cab.jpg',
+                            name: 'Get Cab Pick-Up And Drop-Off',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/841',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/BusinessCentre.jpg',
+                            name: 'Avail Business Centre Services',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/841',
+                            extLink: '',
+                        }
+                    ]
+                },
+                offers: {
+                    active: true,
+                    heading: 'Other Benefits',
+                    desc: 'We offer a truly great experience where our guests needs are anticipated and make every moment memorable',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            name: 'Review & Reward',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/1375',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/PoolSideDinner.jpg',
+                            name: 'Engage & Enjoy',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/797',
+                            extLink: '',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneHomePage/CustomDine.jpg',
+                            name: 'Learn from our Experts',
+                            location: '',
+                            views: '',
+                            routerLink: '/by-admin/1559',
+                            extLink: '',
+                        },
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: '#SafeStaysatFortuneHotels',
+                    desc: 'From check-in to check-out, we have you covered',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
+                            videoId: '1mXIwfBhk6Q'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
+                            videoId: '1mXIwfBhk6Q'
                         }
                     ]
                 },
@@ -94998,6 +94947,64 @@
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
 
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Learn from our Experts',
+                    icon: 'staple-gun.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Towel Origami',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/honeymoon.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Mocktail Making',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/loyalty.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cook with Chef',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/meeting.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -116166,7 +116173,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/coming-soon'
+                            routerLink: '/by-admin/1560'
                         }
                     ]
                 },
