@@ -93612,7 +93612,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/exc_offer.png',
                             label: 'Special Offers',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/by-admin/1561'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/sleeep-boutique.jpg',
@@ -94953,6 +94953,76 @@
                     ]
                 },
                 {
+                    name: 'Review & Reward',
+                    icon: 'fortunemussoorieicons/fitness.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '1 Review 1 Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/drink.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Tweet 1 Sweet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/donut.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Share 1 Desserts',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '5 Refer 1 Starter',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/snacks.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
                     name: 'Learn from our Experts',
                     icon: 'staple-gun.png',
                     size: '64px',
@@ -94964,7 +95034,7 @@
                             name: 'Towel Origami',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/honeymoon.png',
+                            icon: 'Default/towels.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -94980,7 +95050,7 @@
                             name: 'Mocktail Making',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/loyalty.png',
+                            icon: 'Default/mocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -94996,7 +95066,7 @@
                             name: 'Cook with Chef',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/meeting.png',
+                            icon: 'Default/cooking.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -95507,6 +95577,228 @@
 
                             ],
                             confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Book A City Tour',
+                    icon: 'JammuIcons/trip.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book a city tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/city.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Hire local guide',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Explore food trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/fast-food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Explore heritage trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/heritage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Offers',
+                    icon: 'fortunemoksha/event_ticket.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'All-In Getaway',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/All-InGetaway1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/All-In-Getaway.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Short Break',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/Short-Break1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Gourmet Tales',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/Gourmet-Tales1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'City Getaways',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/living-room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/city-getaways.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'ROOM IS ON US',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/Suite-Memories.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/ROOM-IS-ON-US.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Suite Memories',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/City-Getaways.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/suite-memories.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Spa Break',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/massage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/spa-break.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Workation',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/workstation.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/workation.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Freedom Sale',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/discount.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/freedom-offer.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Monsoon Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/monsoon.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/Monsoon-escape.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 }
