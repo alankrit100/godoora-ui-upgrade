@@ -95465,7 +95465,7 @@
                         {
                             name: 'Fortune Park Ahmedabad',
                             extLink: '',
-                            routerLink: '/by-admin/1562',
+                            routerLink: '/by-admin/1010',
                             icon: 'FortuneHomepage/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -95473,6 +95473,73 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
 
+                            ],
+                            services: [
+                                {
+                                    name: 'Upgrade room @ INR 999*',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/room.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a table',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request'
+                                },
+                                {
+                                    name: 'Upgrade meal @ INR 499*',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/meal.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a slot for this',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [  
+                                    ],
+                                    confirmBtnLabel: 'Submit Request'
+                                },
+                                {
+                                    name: 'Extra bed @ INR 99*',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/bed.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a slot for this',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request'
+                                },
+                                {
+                                    name: 'Get a cab @ INR 25* per km',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/cab.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a slot for this',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request'
+                                },
+                                {
+                                    name: 'Business center services @ INR 499*',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/service.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a slot for this',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request'
+                                }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -95488,12 +95555,56 @@
                             gallery: [
 
                             ],
+                            services: [
+                                {
+                                    name: 'Room Upgrade',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/room.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a table',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request',
+                                    storePageAsBlog: true
+                                },
+                                {
+                                    name: 'Upgrade Meal',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/meal.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a slot for this',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [  
+                                    ],
+                                    confirmBtnLabel: 'Submit Request',
+                                    storePageAsBlog: true
+                                },
+                                {
+                                    name: 'Extra bed',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'JammuIcons/bed.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a slot for this',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request',
+                                    storePageAsBlog: true
+                                }
+                            ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
                             name: 'Fortune Resort Grace',
-                            extLink: '',
-                            routerLink: 'test',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/795',
+                            routerLink: '',
                             icon: 'FortuneHomepage/hotel1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
