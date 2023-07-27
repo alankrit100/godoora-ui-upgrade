@@ -94212,7 +94212,7 @@
                             name: 'Upgrade Room',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/795',
+                            routerLink: '/by-admin/1562',
                             extLink: '',
                         },
                         {
@@ -95465,7 +95465,7 @@
                         {
                             name: 'Fortune Park Ahmedabad',
                             extLink: '',
-                            routerLink: '/stores/Upgraderoom@INR999*_29',
+                            routerLink: '/by-admin/1562',
                             icon: 'FortuneHomepage/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -95478,8 +95478,8 @@
                         },
                         {
                             name: 'Fortune Park Moksha',
-                            extLink: '',
-                            routerLink: 'test',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/795',
+                            routerLink: '',
                             icon: 'FortuneHomepage/forutne.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
