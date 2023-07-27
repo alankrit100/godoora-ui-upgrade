@@ -94173,7 +94173,7 @@
                             name: 'Book A City Tour',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/1560',
+                            routerLink: '/by-admin/1572',
                             extLink: '',
                         },
                         {
@@ -94181,7 +94181,7 @@
                             name: 'Hire A Local Sherpa/Guide',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/757',
+                            routerLink: '/by-admin/1571',
                             extLink: '',
                         },
                         {
@@ -94189,7 +94189,7 @@
                             name: 'Explore The Citys Food Trail',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/757',
+                            routerLink: '/by-admin/1570',
                             extLink: '',
                         },
                         {
@@ -94197,7 +94197,7 @@
                             name: 'Explore The Citys Heritage Trail',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/757',
+                            routerLink: '/by-admin/1569',
                             extLink: '',
                         }
                     ]
@@ -94488,6 +94488,218 @@
                     ]
                 },
                 {
+                    name: 'Explore The Citys Heritage Trail',
+                    icon: 'reception.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'The Fortune Pushpanjali Experience',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Durgapur/landing',
+                            routerLink: '',
+                            icon: 'Default/1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'The Fortune Park Haridwar',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Haridwar/landing',
+                            routerLink: '',
+                            icon: 'Default/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Fortune Park BBD',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Lucknow/landing',
+                            routerLink: '',
+                            icon: 'Default/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Explore The Citys Food Trail',
+                    icon: 'reception.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Fortune Select Global, Gurgaon',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Select-Gurgaon/landing',
+                            routerLink: '',
+                            icon: 'Default/1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Fortune Landmark, Ahmedabad',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Ahmedabad/landing',
+                            routerLink: '',
+                            icon: 'Default/2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Fortune Park JP Celestial, Bengaluru',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/JP-Celestial-Bengaluru/landing',
+                            routerLink: '',
+                            icon: 'Default/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Hire A Local Sherpa/Guide',
+                    icon: 'reception.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Fortune Park Galaxy-Vapi',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Galaxy-Vapi/landing',
+                            routerLink: '',
+                            icon: 'Default/1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'FORTUNE PARK DAHEJ',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Park-Dahej-SEZ/landing',
+                            routerLink: '',
+                            icon: 'Default/2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Fortune Pandiyan Hotel, Madurai',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Pandiyan-Madurai/landing',
+                            routerLink: '',
+                            icon: 'Default/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
+                    name: 'Book A City Tour',
+                    icon: 'reception.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Fortune Park, Ahmedabad',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Park-Ahmedabad/landing',
+                            routerLink: '',
+                            icon: 'Default/1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to know if there is a cloak room',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Fortune Park Orange, Gurgaon',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Orange-Gurgaon/landing',
+                            routerLink: '',
+                            icon: 'Default/2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkIn',
+                            headerText: 'Select a date & time you would like to checkIn.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            checkinForm: true
+                        },
+                        {
+                            name: 'Fortune Inn Sree Kanya Visakhapatnam',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Inn-SreeKanya-Vizag/landing',
+                            routerLink: '',
+                            icon: 'Default/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
+                {
                     name: 'Engage & Enjoy',
                     icon: 'JammuIcons/Benifits.png',
                     size: '64px',
@@ -94497,7 +94709,7 @@
                     services: [
                         {
                             name: 'The Fortune Resort Grace Experience',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/797',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/mussoorie/landing',
                             routerLink: 'test',
                             icon: 'Default/1.png',
                             showTextarea: true,
@@ -94573,7 +94785,7 @@
                     services: [
                         {
                             name: 'Fortune Select Global, Gurgaon',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/935',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Select-Gurgaon/landing',
                             routerLink: '',
                             icon: 'Default/1.png',
                             showTextarea: true,
@@ -94586,7 +94798,7 @@
                         },
                         {
                             name: 'Fortune Inn Grazia, Noida',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/774',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Inn-Grazia-Noida/landing',
                             routerLink: '',
                             icon: 'Default/2.png',
                             showTextarea: true,
@@ -94599,7 +94811,7 @@
                         },
                         {
                             name: 'Fortune Park JP Celestial, Bengaluru',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/774',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/JP-Celestial-Bengaluru/landing',
                             routerLink: '',
                             icon: 'Default/3.png',
                             showTextarea: true,
@@ -94622,7 +94834,7 @@
                     services: [
                         {
                             name: 'Fortune Park JPS Grand, Rajkot',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/812',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/JPS-Grand-Rajkot/landing',
                             routerLink: 'test',
                             icon: 'Default/1.png',
                             showTextarea: true,
@@ -94635,7 +94847,7 @@
                         },
                         {
                             name: 'Fortune Pandiyan Hotel, Madurai',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/1074',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Pandiyan-Madurai/landing',
                             routerLink: '',
                             icon: 'Default/2.png',
                             showTextarea: true,
@@ -94648,7 +94860,7 @@
                         },
                         {
                             name: 'Fortune Select Global, Gurgaon',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/935',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Select-Gurgaon/landing',
                             routerLink: '',
                             icon: 'Default/3.png',
                             showTextarea: true,
@@ -94671,7 +94883,7 @@
                     services: [
                         {
                             name: 'Fortune Avenue-jalandhar',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/844',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Jalandhar/landing',
                             routerLink: '',
                             icon: 'Default/2.png',
                             showTextarea: true,
@@ -94688,7 +94900,7 @@
                         },
                         {
                             name: 'Fortune Walkway Mall Haldwani',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/917',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Haldwani/landing',
                             routerLink: '',
                             icon: 'Default/1.png',
                             showTextarea: true,
@@ -94705,7 +94917,7 @@
                         },
                         {
                             name: 'Fortune Park JPS Grand, Rajkot',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/812',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/JPS-Grand-Rajkot/landing',
                             routerLink: '',
                             icon: 'Default/3.png',
                             showTextarea: true,
@@ -94732,7 +94944,7 @@
                     services: [
                         {
                             name: 'Fortune Resort Benaulim, Goa',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/871',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Benaulim/landing',
                             routerLink: '',
                             icon: 'Default/1.png',
                             showTextarea: true,
@@ -94746,7 +94958,7 @@
                         },
                         {
                             name: 'Fortune Park Dalhousie',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/851',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Dalhousie/landing',
                             routerLink: '',
                             icon: 'Default/2.png',
                             showTextarea: true,
@@ -94760,7 +94972,7 @@
                         },
                         {
                             name: 'The Fortune Resort Heevan, Srinagar',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/867',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Heevan-Srinagar/landing',
                             routerLink: '',
                             icon: 'Default/3.png',
                             showTextarea: true,
@@ -95249,8 +95461,8 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Demo Agra',
-                            extLink: 'https://www.demohotel-experiences.goyaana.com/by-admin/1375',
+                            name: 'Demo Hotel Agra',
+                            extLink: 'https://www.demohotel-experiences.goyaana.com/Agra/landing',
                             routerLink: '',
                             icon: 'Default/2.png',
                             showTextarea: true,
@@ -95378,8 +95590,8 @@
                     services: [
                         {
                             name: 'Fortune Park Ahmedabad',
-                            extLink: '',
-                            routerLink: '/by-admin/1010',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/Park-Ahmedabad/landing',
+                            routerLink: '',
                             icon: 'FortuneHomepage/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -95388,78 +95600,12 @@
                             gallery: [
 
                             ],
-                            services: [
-                                {
-                                    name: 'Upgrade room @ INR 999*',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/room.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a table',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [
-                                    ],
-                                    confirmBtnLabel: 'Submit Request'
-                                },
-                                {
-                                    name: 'Upgrade meal @ INR 499*',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/meal.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a slot for this',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [  
-                                    ],
-                                    confirmBtnLabel: 'Submit Request'
-                                },
-                                {
-                                    name: 'Extra bed @ INR 99*',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/bed.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a slot for this',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [
-                                    ],
-                                    confirmBtnLabel: 'Submit Request'
-                                },
-                                {
-                                    name: 'Get a cab @ INR 25* per km',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/cab.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a slot for this',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [
-                                    ],
-                                    confirmBtnLabel: 'Submit Request'
-                                },
-                                {
-                                    name: 'Business center services @ INR 499*',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/service.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a slot for this',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [
-                                    ],
-                                    confirmBtnLabel: 'Submit Request'
-                                }
-                            ],
+                            
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
                             name: 'Fortune Park Moksha',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/795',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/mcleodganj/landing',
                             routerLink: '',
                             icon: 'FortuneHomepage/forutne.png',
                             showTextarea: true,
@@ -95469,55 +95615,12 @@
                             gallery: [
 
                             ],
-                            services: [
-                                {
-                                    name: 'Room Upgrade',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/room.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a table',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [
-                                    ],
-                                    confirmBtnLabel: 'Submit Request',
-                                    storePageAsBlog: true
-                                },
-                                {
-                                    name: 'Upgrade Meal',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/meal.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a slot for this',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [  
-                                    ],
-                                    confirmBtnLabel: 'Submit Request',
-                                    storePageAsBlog: true
-                                },
-                                {
-                                    name: 'Extra bed',
-                                    extLink: '',
-                                    routerLink: 'test',
-                                    icon: 'JammuIcons/bed.png',
-                                    showTextarea: true,
-                                    textAreaLabel: 'Request Summary',
-                                    placeholder: 'Example: I want to book a slot for this',
-                                    headerText: 'Select a time you would like to receive it.',
-                                    gallery: [
-                                    ],
-                                    confirmBtnLabel: 'Submit Request',
-                                    storePageAsBlog: true
-                                }
-                            ],
+                            
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
                             name: 'Fortune Resort Grace',
-                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/795',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/mussoorie/landing',
                             routerLink: '',
                             icon: 'FortuneHomepage/hotel1.png',
                             showTextarea: true,
@@ -95526,81 +95629,6 @@
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
 
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Fortune Park Ahmedabad',
-                    icon: 'FortuneHomepage/room.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Upgrade room @ INR 999*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Upgrade meal @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [  
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Extra bed @ INR 99*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Get a cab @ INR 25* per km',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Business center services @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request'
                         }
@@ -106162,7 +106190,33 @@
                             storePageAsBlog: true
                         },
                     ]
-                }],
+                },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Explore The Citys Heritage Trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/heritage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                }
+            ],
             comingSoon: {
                 active: true,
                 heading: 'Something Awesome is in the works',
@@ -108411,6 +108465,87 @@
                         }
                     ]
                 },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'fortunemussoorieicons/Housekeeping.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Explore The Citys Heritage Trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/heritage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Additional Bedding',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/bedmaking.png',
+                            showTextarea: true,
+                            placeholder: 'Example: Please send me an extra pillow',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Laundry Service',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Laundry.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please arrange laundry pickup for me',
+                            headerText: 'Select a time when our person can knock your door',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry1.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Room Cleaning',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please sanitize my room and replace bedding',
+                            headerText: 'Select an ideal time for us to work in your room',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
@@ -109583,6 +109718,32 @@
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         }
+                    ]
+                },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'fortunemussoorieicons/Housekeeping.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Explore The Citys Heritage Trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/heritage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        
                     ]
                 },
                 {
@@ -111228,7 +111389,8 @@
                             storePageAsBlog: true
                         },
                     ]
-                },],
+                },
+            ],
             comingSoon: {
                 active: true,
                 heading: 'Something Awesome is in the works',
@@ -113905,7 +114067,23 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/room3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Explore The Citys Food Trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/food-store.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Upgrade meal @ INR 499*',
@@ -118875,6 +119053,21 @@
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Explore The Citys Food Trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/food-store.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -121681,7 +121874,37 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/room3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/room1.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Explore The Citys Food Trail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/food-store.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Book A City Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Upgrade meal @ INR 499*',
@@ -121697,7 +121920,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/meal2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/meal3.jpeg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Extra bed @ INR 99*',
@@ -121713,7 +121937,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/bed2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/bed3.jpeg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Get a cab @ INR 25* per km',
@@ -121729,7 +121954,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/cab2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/cab3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Business center services @ INR 499*',
@@ -121745,7 +121971,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/office2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Select+Gurgaon/office3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -124436,7 +124663,23 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/room2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/room3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Hire A Local Sherpa/Guide',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Upgrade meal @ INR 499*',
@@ -124452,7 +124695,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal3.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Extra bed @ INR 99*',
@@ -124468,7 +124712,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/bed2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/bed3.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Get a cab @ INR 25* per km',
@@ -124484,7 +124729,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/cab2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/cab3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Business center services @ INR 499*',
@@ -124500,7 +124746,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/office2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/office3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -124526,7 +124773,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/spa2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/spa3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Poolside dining @ INR 1999*',
@@ -124542,7 +124790,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/poolside2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/poolside3.jpg' }, 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Custom In-room dining',
@@ -124558,7 +124807,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/inroom2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/inroom3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: '1 Review 1 Mocktail',
@@ -127095,7 +127345,23 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/room2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/room3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Hire A Local Sherpa/Guide',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Upgrade meal @ INR 499*',
@@ -127111,7 +127377,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal3.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Extra bed @ INR 99*',
@@ -127127,7 +127394,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/bed2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/bed3.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Get a cab @ INR 25* per km',
@@ -127143,7 +127411,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/cab2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/cab3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Business center services @ INR 499*',
@@ -127159,7 +127428,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/office2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/office3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -127185,7 +127455,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/spa2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/spa3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Poolside dining @ INR 1999*',
@@ -127201,7 +127472,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/poolside2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/poolside3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Custom In-room dining',
@@ -127217,7 +127489,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/inroom2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/inroom3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Celebrate your special day',
@@ -127233,7 +127506,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/celebrate2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/celebrate3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -127259,7 +127533,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-tour2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-tour3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Hire local guide',
@@ -127275,7 +127550,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-guide2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-guide3.jpg' }, 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Explore food trail',
@@ -127291,7 +127567,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal3.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Explore heritage trail',
@@ -127307,7 +127584,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/heritage2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/heritage3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -127333,7 +127611,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/dinner2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/dinner3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Close to nature breakfast',
@@ -127349,7 +127628,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/nature-breakfast2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/nature-breakfast3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Cooking Session With Chef',
@@ -127365,7 +127645,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/chef2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/chef3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Kangri Dham Lunch Thali',
@@ -127381,7 +127662,8 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/lunch2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/lunch3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -130121,6 +130403,20 @@
                                 { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room1.jpg' },
                                 { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room2.jpg' },
                                 { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Hire A Local Sherpa/Guide',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -138537,7 +138833,8 @@
                     icon: 'list-outline'
                 }
             ],
-            departments: [{
+            departments: [
+                {
                     name: 'IRD Menu',
                     icon: 'Pride/menu.png',
                     size: '64px',
@@ -139600,7 +139897,74 @@
                             storePageAsBlog: true
                         }
                     ]
-                },],
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'fortunemussoorieicons/online-lesson.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Book A City Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/tour-guide.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Room Upgrade',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Upgrade Meal',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [  
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Extra bed',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                },
+            ],
             comingSoon: {
                 active: true,
                 heading: 'Something Awesome is in the works',
