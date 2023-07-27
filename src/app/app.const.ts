@@ -94220,7 +94220,7 @@
                             name: 'Upgrade Meal',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/871',
+                            routerLink: '/by-admin/1563',
                             extLink: '',
                         },
                         {
@@ -94228,7 +94228,7 @@
                             name: 'Extra Bed',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/851',
+                            routerLink: '/by-admin/1564',
                             extLink: '',
                         },
                         {
@@ -94236,7 +94236,7 @@
                             name: 'Get Cab Pick-Up And Drop-Off',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/841',
+                            routerLink: '/by-admin/1565',
                             extLink: '',
                         },
                         {
@@ -94244,7 +94244,7 @@
                             name: 'Avail Business Centre Services',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/841',
+                            routerLink: '/by-admin/1566',
                             extLink: '',
                         }
                     ]
@@ -94259,7 +94259,7 @@
                             name: 'Review & Reward',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/1375',
+                            routerLink: '/by-admin/1567',
                             extLink: '',
                         },
                         {
@@ -94267,7 +94267,7 @@
                             name: 'Engage & Enjoy',
                             location: '',
                             views: '',
-                            routerLink: '/by-admin/797',
+                            routerLink: '/by-admin/1568',
                             extLink: '',
                         },
                         {
@@ -94496,10 +94496,10 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Get Mocktail Offer',
-                            extLink: '',
+                            name: 'The Fortune Resort Grace Experience',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/797',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Candle.png',
+                            icon: 'Default/1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I need to host a private party',
@@ -94572,10 +94572,10 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room @ INR 999*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
+                            name: 'Fortune Select Global, Gurgaon',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/935',
+                            routerLink: '',
+                            icon: 'Default/1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -94585,10 +94585,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Upgrade meal @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
+                            name: 'Fortune Inn Grazia, Noida',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/774',
+                            routerLink: '',
+                            icon: 'Default/2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -94598,10 +94598,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Extra bed @ INR 99*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
+                            name: 'Fortune Park JP Celestial, Bengaluru',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/774',
+                            routerLink: '',
+                            icon: 'Default/3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -94610,32 +94610,6 @@
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Get a cab @ INR 25* per km',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Business center services @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
                     ]
                 },
                 {
@@ -94647,10 +94621,10 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room @ INR 999*',
-                            extLink: '',
+                            name: 'Fortune Park JPS Grand, Rajkot',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/812',
                             routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
+                            icon: 'Default/1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -94660,10 +94634,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Upgrade meal @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
+                            name: 'Fortune Pandiyan Hotel, Madurai',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/1074',
+                            routerLink: '',
+                            icon: 'Default/2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -94673,10 +94647,10 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Extra bed @ INR 99*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
+                            name: 'Fortune Select Global, Gurgaon',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/935',
+                            routerLink: '',
+                            icon: 'Default/3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -94685,32 +94659,6 @@
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Get a cab @ INR 25* per km',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Business center services @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
                     ]
                 },
                 {
@@ -94722,10 +94670,10 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
+                            name: 'Fortune Avenue-jalandhar',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/844',
+                            routerLink: '',
+                            icon: 'Default/2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -94739,10 +94687,10 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade meal',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
+                            name: 'Fortune Walkway Mall Haldwani',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/917',
+                            routerLink: '',
+                            icon: 'Default/1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -94756,10 +94704,10 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Extra bed ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
+                            name: 'Fortune Park JPS Grand, Rajkot',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/812',
+                            routerLink: '',
+                            icon: 'Default/3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -94772,40 +94720,6 @@
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Get a cab ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/cab1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/cab2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/cab3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Business center services ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/office1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/office2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/office3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
                     ]
                 },
                 {
@@ -94817,10 +94731,10 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Room Upgrade',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
+                            name: 'Fortune Resort Benaulim, Goa',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/871',
+                            routerLink: '',
+                            icon: 'Default/1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -94831,10 +94745,10 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Beach Shuttle',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/shuttle.png',
+                            name: 'Fortune Park Dalhousie',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/851',
+                            routerLink: '',
+                            icon: 'Default/2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -94845,10 +94759,10 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Meal plan upgrade',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/thali.png',
+                            name: 'The Fortune Resort Heevan, Srinagar',
+                            extLink: 'https://www.fortunehotels-experiences.goyaana.com/by-admin/867',
+                            routerLink: '',
+                            icon: 'Default/3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -95335,10 +95249,10 @@
                     extLink: '',
                     services: [
                         {
-                            name: '1 Review 1 Mocktail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Pride/drink.png',
+                            name: 'Demo Agra',
+                            extLink: 'https://www.demohotel-experiences.goyaana.com/by-admin/1375',
+                            routerLink: '',
+                            icon: 'Default/2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Please keep the racket in the court',
