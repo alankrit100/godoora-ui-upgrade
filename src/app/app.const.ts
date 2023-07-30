@@ -93617,8 +93617,8 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/sleeep-boutique.jpg',
-                            label: 'Sleeep Boutique',
-                            extLink: 'http://www.sleeep-boutique.goyaana.com',
+                            label: 'Sleep Boutique',
+                            extLink: 'https://www.fortunehotels-sleep-boutique.goyaana.com/#/',
                             routerLink:''
                         }
                     ]
