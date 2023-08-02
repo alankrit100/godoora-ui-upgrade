@@ -61988,7 +61988,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/bh2.jpg',
-                            videoId: 'L9mxPkKpf5CY'
+                            videoId: 'r2eEShFu9Ag'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/bh3.jpg',
