@@ -61806,35 +61806,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/photo2.jpg',
                             name: 'Magic Hour Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MagicHourTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/private1.jpg',
                             name: 'Private Full Day Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivateFullDayTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/food1.jpg',
                             name: 'Small Group Food Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SmallGroupFoodTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/alleyway1.jpg',
                             name: 'Alleyway Food Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AlleywayFoodTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/british1.jpg',
                             name: 'British Raj Heritage walk',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BritishRajHeritagewalk',
                             extLink: ''
                         },
 
@@ -61842,14 +61842,14 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/culture2.jpg',
                             name: 'Culture Kaleidoscope Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CultureKaleidoscopeTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/sound1.jpg',
                             name: 'Sounds and Sights Full Day City Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SoundsandSightsFullDayCityTour',
                             extLink: ''
                         },
                        
