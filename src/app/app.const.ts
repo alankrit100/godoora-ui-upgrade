@@ -61694,7 +61694,7 @@
             theme: 'grey-theme',
             idCategory: 9,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Hotel Experiences',
+            title: 'Kolkata',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -61761,8 +61761,8 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/branch3.jpg',
-                            heading: 'Celebrate your dream day with us',
-                            subHeading: 'Birthdays | Wedding | Anniversary'
+                            heading: '',
+                            subHeading: ''
                         },
                     ]
                 },
@@ -61806,35 +61806,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/photo2.jpg',
                             name: 'Magic Hour Tour',
                             desc: '',
-                            routerLink: '/stores/PrivateTajMahaltourwithaguide',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/private1.jpg',
                             name: 'Private Full Day Tour',
                             desc: '',
-                            routerLink: '/stores/BoatTour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/food1.jpg',
                             name: 'Small Group Food Tour',
                             desc: '',
-                            routerLink: '/stores/Villagetour_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/alleyway1.jpg',
                             name: 'Alleyway Food Tour',
                             desc: '',
-                            routerLink: '/stores/WildlifeSOS',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/british1.jpg',
                             name: 'British Raj Heritage walk',
                             desc: '',
-                            routerLink: '/stores/Handicraftwalkingtour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
 
@@ -61842,14 +61842,14 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/culture2.jpg',
                             name: 'Culture Kaleidoscope Tour',
                             desc: '',
-                            routerLink: '/stores/CookingclasswithanIndianMotherinAgra',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/sound1.jpg',
                             name: 'Sounds and Sights Full Day City Tour',
                             desc: '',
-                            routerLink: '/stores/Foodwalk_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                        
