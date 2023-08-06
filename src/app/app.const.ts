@@ -199217,7 +199217,7 @@
       },
         {
         branch: 'Kolad',
-        branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/Khopoli.avif',
+        branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/+Kolad/kolad-branch.avif',
         id: 'www.naturetrails-experiences.goyaana.com',
         logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/logo.png',
         theme: 'grey-theme',
@@ -199370,21 +199370,21 @@
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/Kundalika1.jpg',
                         name: 'Kundalika Rafting',
                         desc: '',
-                        routerLink: '/stores/KundalikaRafting',
+                        routerLink: '/stores/KundalikaRafting_1',
                         extLink: ''
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/rain-dance1.jpg',
                         name: 'Rain Dance',
                         desc: '',
-                        routerLink: '/stores/RainDance',
+                        routerLink: '/stores/RainDance_1',
                         extLink: ''
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/+Kolad/Nature_Break.avif',
                         name: 'Day Trip',
                         desc: '',
-                        routerLink: '/stores/VisittoAdlabsImagica',
+                        routerLink: '/stores/DayTrip_1',
                         extLink: ''
                     },
                 ]
@@ -199399,7 +199399,7 @@
                         name: 'Ziplining',
                         location: '',
                         views: '',
-                        routerLink: '/stores/Ziplining',
+                        routerLink: '/stores/Ziplining_1',
                         extLink: ''
                     },
                     {
@@ -199407,7 +199407,7 @@
                         name: 'Burma Bridge',
                         location: '',
                         views: '',
-                        routerLink: '/stores/BurmaBridge_8',
+                        routerLink: '/stores/BurmaBridge_9',
                         extLink: ''
                     },
                     {
@@ -199415,7 +199415,7 @@
                         name: 'Archery',
                         location: '',
                         views: '',
-                        routerLink: '/stores/Archery_1',
+                        routerLink: '/stores/Archery_2',
                         extLink: ''
                     },
                     {
@@ -199423,7 +199423,7 @@
                         name: 'Laddering',
                         location: '',
                         views: '',
-                        routerLink: '/stores/LadderClimbing_2',
+                        routerLink: '/stores/Laddering',
                         extLink: ''
                     },
                     {
@@ -199431,7 +199431,7 @@
                         name: 'Net Climbing',
                         location: '',
                         views: '',
-                        routerLink: '/stores/NetClimbing',
+                        routerLink: '/stores/NetClimbing_1',
                         extLink: ''
                     },
                     {
@@ -199439,7 +199439,7 @@
                         name: 'Tarzan Swing',
                         location: '',
                         views: '',
-                        routerLink: '/stores/TyresBridge',
+                        routerLink: '/stores/TarzanSwing',
                         extLink: ''
                     },
                 ]
@@ -199453,42 +199453,42 @@
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg',
                         name: 'Towel Origami',
                         desc: '',
-                        routerLink: '/stores/TowelOrigami_4',
+                        routerLink: '/stores/TowelOrigami_5',
                         extLink: ''
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg',
                         name: 'Mocktail Making',
                         desc: '',
-                        routerLink: '/stores/MocktailMaking_8',
+                        routerLink: '/stores/MocktailMaking_9',
                         extLink: ''
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg',
                         name: 'Cook with Chef',
                         desc: '',
-                        routerLink: '/stores/CookwithChef_15',
+                        routerLink: '/stores/CookwithChef_16',
                         extLink: ''
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
                         name: 'Bedmaking',
                         desc: 'Duration: 1 hours',
-                        routerLink: '/stores/Bedmaking_30',
+                        routerLink: '/stores/Bedmaking_34',
                         extLink: '',
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dance.jpg',
                         name: 'Dance Classes',
                         desc: 'Duration: 2 hours',
-                        routerLink: '/stores/DanceClasses_1',
+                        routerLink: '/stores/DanceClasses_2',
                         extLink: '',
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Art%26Craft.jpeg',
                         name: 'Art & Craft classes',
                         desc: 'Duration: 2 hours',
-                        routerLink: '/stores/ArtandCraftClasses_1',
+                        routerLink: '/stores/ArtandCraftClasses_2',
                         extLink: '',
                     },
                 ]
@@ -199503,21 +199503,21 @@
                         name: 'Sterling Membership',
                         location: '',
                         views: '',
-                        routerLink: '/stores/SterlingMembership',
+                        routerLink: '/stores/SterlingMembership_1',
                         extLink: ''
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/corporate.avif',
                         name: 'Corporate Outings',
                         desc: '',
-                        routerLink: '/stores/CorporateOutings',
+                        routerLink: '/stores/CorporateOutings_1',
                         extLink: ''
                     },
                     {
                         img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/gift-card.png',
                         name: 'Gift Card',
                         desc: '',
-                        routerLink: '/stores/GiftCard',
+                        routerLink: '/stores/GiftCard_1',
                         extLink: ''
                     },
                 ]
