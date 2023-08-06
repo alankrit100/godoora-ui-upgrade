@@ -195236,7 +195236,7 @@
                   ]
               },
               experience: {
-                  active: false,
+                  active: true,
                   heading: 'Nature Trails',
                   desc: `Explore Nature Trails Resort, a renowned eco-tourist haven brimming with heart-pounding adventure activities. Immerse yourself in nature's embrace as thrilling escapades unfold amidst breathtaking landscapes, all while cherishing sustainable practices for an unforgettable experience.`,
                   items: [
@@ -195501,80 +195501,96 @@
                           name: 'Sterling Lake Palace Alleppey',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/lake-palace-alleppey'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/house-boat-alleppey.jpeg',
                           name: 'Sterling House Boat Alleppey',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/house-boat-alleppey'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/sterling-anaikatti.jpeg',
                           name: 'Sterling Anaikatti',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/anaikatti'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Sterling-chail-gridview.jpeg',
                           name: 'Sterling Shivalik Chail',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/shivalik-chail'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/corbet-newthumbnail.jpeg',
                           name: 'Sterling Corbett',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/corbett'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/thumbnail-grid.jpeg',
                           name: 'Sterling Darjeeling',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/darjeeling'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/gangtok-orange.jpeg',
                           name: 'Sterling Gangtok - Orange Village',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/gangtok-orange-village'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/22.jpeg',
                           name: 'Sterling Gir',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/gir'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/23.jpeg',
                           name: 'Sterling Goa Varca',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/goa-varca'
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/24.jpeg',
                           name: 'Sterling Guruvayur',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
-                          extLink: ''
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/guruvayur'
+                      },
+                      {
+                          img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/haridwar-hero.jpeg',
+                          name: 'Sterling Mantra Haridwar',
+                          location: '',
+                          views: '',
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/mantra-haridwar'
+                      },
+                      {
+                          img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Park-Kalimpong.jpeg',
+                          name: 'Sterling Park Kalimpong',
+                          location: '',
+                          views: '',
+                          routerLink: '',
+                          extLink: 'https://www.sterlingholidays.com/resorts-hotels/park-kalimpong'
                       },
                   ]
               },
@@ -197322,21 +197338,21 @@
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/visit1.jpg',
                           name: 'Visit to Adlabs Imagica',
                           desc: '',
-                          routerLink: '',
+                          routerLink: '/stores/VisittoAdlabsImagica',
                           extLink: ''
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/Kundalika1.jpg',
                           name: 'Kundalika Rafting',
                           desc: '',
-                          routerLink: '',
+                          routerLink: '/stores/KundalikaRafting',
                           extLink: ''
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/rain-dance1.jpg',
                           name: 'Rain Dance',
                           desc: '',
-                          routerLink: '',
+                          routerLink: '/stores/RainDance',
                           extLink: ''
                       },
                   ]
@@ -197351,7 +197367,7 @@
                           name: 'Ziplining',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
+                          routerLink: '/stores/Ziplining',
                           extLink: ''
                       },
                       {
@@ -197359,7 +197375,7 @@
                           name: 'Burma Bridge',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
+                          routerLink: '/stores/BurmaBridge_8',
                           extLink: ''
                       },
                       {
@@ -197367,7 +197383,7 @@
                           name: 'Archery',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
+                          routerLink: '/stores/Archery_1',
                           extLink: ''
                       },
                       {
@@ -197375,7 +197391,7 @@
                           name: 'Ladder Climbing',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
+                          routerLink: '/stores/LadderClimbing_2',
                           extLink: ''
                       },
                       {
@@ -197383,7 +197399,7 @@
                           name: 'Net Climbing',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
+                          routerLink: '/stores/NetClimbing',
                           extLink: ''
                       },
                       {
@@ -197391,7 +197407,7 @@
                           name: 'Tyres Bridge',
                           location: '',
                           views: '',
-                          routerLink: '/stores/',
+                          routerLink: '/stores/TyresBridge',
                           extLink: ''
                       },
                   ]
@@ -197405,42 +197421,42 @@
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg',
                           name: 'Towel Origami',
                           desc: '',
-                          routerLink: '/stores/TowelOrigami_2',
+                          routerLink: '/stores/TowelOrigami_4',
                           extLink: ''
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg',
                           name: 'Mocktail Making',
                           desc: '',
-                          routerLink: '/stores/MocktailMaking_6',
+                          routerLink: '/stores/MocktailMaking_8',
                           extLink: ''
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg',
                           name: 'Cook with Chef',
                           desc: '',
-                          routerLink: '/stores/CookwithChef_13',
+                          routerLink: '/stores/CookwithChef_15',
                           extLink: ''
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Bed_making.jpg',
                           name: 'Bedmaking',
                           desc: 'Duration: 1 hours',
-                          routerLink: '/stores/Bedmakingworkshopbyhousekeepingstaff',
+                          routerLink: '/stores/Bedmaking_30',
                           extLink: '',
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dance.jpg',
                           name: 'Dance Classes',
                           desc: 'Duration: 2 hours',
-                          routerLink: '/stores/DanceClasses',
+                          routerLink: '/stores/DanceClasses_1',
                           extLink: '',
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Art%26Craft.jpeg',
                           name: 'Art & Craft classes',
                           desc: 'Duration: 2 hours',
-                          routerLink: '/stores/ArtandCraftClasses',
+                          routerLink: '/stores/ArtandCraftClasses_1',
                           extLink: '',
                       },
                   ]
@@ -197455,21 +197471,21 @@
                           name: 'Sterling Membership',
                           location: '',
                           views: '',
-                          routerLink: '',
+                          routerLink: '/stores/SterlingMembership',
                           extLink: ''
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/corporate.avif',
                           name: 'Corporate Outings',
                           desc: '',
-                          routerLink: '',
+                          routerLink: '/stores/CorporateOutings',
                           extLink: ''
                       },
                       {
                           img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/gift-card.png',
                           name: 'Gift Card',
                           desc: '',
-                          routerLink: '',
+                          routerLink: '/stores/GiftCard',
                           extLink: ''
                       },
                   ]
@@ -198942,7 +198958,7 @@
                   extLink: '',
                   services: [
                       {
-                          name: 'Premium Pampering',
+                          name: 'FLAT 25 PERCENTAGE DISCOUNT OFFER AT NATURE TRAILS',
                           extLink: '',
                           routerLink: 'test',
                           icon: 'Pride/discount2.png',
@@ -198951,14 +198967,12 @@
                           placeholder: 'Example: I want to book a slot for this',
                           headerText: 'Select a time you would like to receive it.',
                           gallery: [
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium1.jpg' },
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium2.jpg' },
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Premium3.jpg' },
+                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/republic.jpeg' },
                           ],
                           confirmBtnLabel: 'Submit Request',
                       },
                       {
-                          name: 'Senior Citizens Offer',
+                          name: 'SUPER SALE OFFER',
                           extLink: '',
                           routerLink: 'price-tag',
                           icon: 'Pride/hall.png',
@@ -198967,14 +198981,12 @@
                           placeholder: 'Example: I want to book a slot for this',
                           headerText: 'Select a time you would like to receive it.',
                           gallery: [
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens1.jpg' },
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens2.jpg' },
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Senior-Citizens3.jpg' },
+                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/super-sale.jpeg' },
                           ],
                           confirmBtnLabel: 'Submit Request',
                       },
                       {
-                          name: 'Staycations',
+                          name: 'LAST MINUTE DEAL AT SELECTED RESORTS',
                           extLink: '',
                           routerLink: 'test',
                           icon: 'Pride/gift.png',
@@ -198983,9 +198995,35 @@
                           placeholder: 'Example: I want to book a slot for this',
                           headerText: 'Select a time you would like to receive it.',
                           gallery: [
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation1.jpg' },
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation2.jpg' },
-                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/staycation3.jpg' },
+                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/last_minute_offer.jpeg' },
+                          ],
+                          confirmBtnLabel: 'Submit Request',
+                      },
+                      {
+                          name: 'FREE NIGHT OFFER',
+                          extLink: '',
+                          routerLink: 'test',
+                          icon: 'Pride/gift.png',
+                          showTextarea: true,
+                          textAreaLabel: 'Request Summary',
+                          placeholder: 'Example: I want to book a slot for this',
+                          headerText: 'Select a time you would like to receive it.',
+                          gallery: [
+                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/free.jpeg' },
+                          ],
+                          confirmBtnLabel: 'Submit Request',
+                      },
+                      {
+                          name: 'Weekend Offer',
+                          extLink: '',
+                          routerLink: 'test',
+                          icon: 'Pride/gift.png',
+                          showTextarea: true,
+                          textAreaLabel: 'Request Summary',
+                          placeholder: 'Example: I want to book a slot for this',
+                          headerText: 'Select a time you would like to receive it.',
+                          gallery: [
+                              { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/nature-trails/Khopoli/weekend.avif' },
                           ],
                           confirmBtnLabel: 'Submit Request',
                       },
