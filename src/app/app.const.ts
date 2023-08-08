@@ -176255,19 +176255,19 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
                             label: 'Special Offers',
                             extLink: '',
-                            routerLink: '/by-admin/'
+                            routerLink: '/by-admin/1651'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/'
+                            routerLink: '/by-admin/1652'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'Review & Reward',
                             extLink: '',
-                            routerLink: '/by-admin/'
+                            routerLink: '/by-admin/1653'
                         }
                     ]
                 },
