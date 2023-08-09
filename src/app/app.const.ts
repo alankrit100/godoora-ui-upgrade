@@ -172618,35 +172618,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Explore+Hampi+on+a+Bicycle+or+a+Moped.jpg',
                             name: 'Explore Hampi on a Bicycle or a Moped',
                             desc: '',
-                            routerLink: '/stores/PrivateTajMahaltourwithaguide',
+                            routerLink: '/stores/ExploreHampionaBicycleoraMoped',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Visit+the+Temples+and+Ruins+of+Hampi.jpg',
                             name: 'Visit the Temples and Ruins of Hampi',
                             desc: '',
-                            routerLink: '/stores/BoatTour',
+                            routerLink: '/stores/VisittheTemplesandRuinsofHampi',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Visit+Anjaneya+Hill.jpg',
                             name: 'Visit Anjaneya Hill',
                             desc: '',
-                            routerLink: '/stores/Villagetour_1',
+                            routerLink: '/stores/VisitAnjaneyaHill',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Rock+Climbing.jpg',
                             name: 'Rock Climbing',
                             desc: '',
-                            routerLink: '/stores/WildlifeSOS',
+                            routerLink: '/stores/RockClimbing',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Coracle+Ride.jpg',
                             name: 'Coracle Ride',
                             desc: '',
-                            routerLink: '/stores/Handicraftwalkingtour',
+                            routerLink: '/stores/CoracleRide',
                             extLink: ''
                         },
 
@@ -172654,42 +172654,42 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Fishing+in+the+Lake.jpg',
                             name: 'Fishing in the Lake',
                             desc: '',
-                            routerLink: '/stores/CookingclasswithanIndianMotherinAgra',
+                            routerLink: '/stores/FishingintheLake',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Boat+Ride.jpg',
                             name: 'Boat Ride',
                             desc: '',
-                            routerLink: '/stores/Foodwalk_1',
+                            routerLink: '/stores/BoatRide',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Cliff+Jumping.jpg',
                             name: 'Cliff Jumping',
                             desc: '',
-                            routerLink: '/stores/BeyondtheTajMahalTour',
+                            routerLink: '/stores/CliffJumping',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Climb+Matanga+Hill.jpg',
                             name: 'Climb Matanga Hill',
                             desc: '',
-                            routerLink: '/stores/BeyondtheTajMahalTour',
+                            routerLink: '/stores/ClimbMatangaHill',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Hut+Stay+in+Hippie+Island.jpg',
                             name: 'Hut Stay in Hippie Island',
                             desc: '',
-                            routerLink: '/stores/BeyondtheTajMahalTour',
+                            routerLink: '/stores/HutStayinHippieIsland',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Visit+the+Local+Market+for+Shopping.jpg',
                             name: 'Visit the Local Market for Shopping',
                             desc: '',
-                            routerLink: '/stores/BeyondtheTajMahalTour',
+                            routerLink: '/stores/VisittheLocalMarketforShopping',
                             extLink: ''
                         }
                     ]
@@ -174450,7 +174450,7 @@
                 heading: 'The season is almost here',
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
-        }
+        },
     ],
     'www.royalorchid-experiences.goyaana.com': [
         {
