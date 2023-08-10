@@ -83500,7 +83500,199 @@
                             storePageAsBlog: true
                         }
                     ]
-                },],
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/bedroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Upgrade Meal',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/lunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Extend Your Stay',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/stay-at-home.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                },
+                {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '1 Review 1 Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/drink.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Tweet 1 Sweet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/donut.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                              
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Share 1 Desserts',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '5 Refer 1 Starter',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/snacks.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Avail  discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                        
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Bhandup Pumping Station',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/gas-pump.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Upvan Lake',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/lake.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Viviana Mall',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/supermarket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                }
+            ],
             comingSoon: {
                 active: true,
                 heading: 'Something Awesome is in the works',
@@ -105813,7 +106005,114 @@
                             storePageAsBlog: true
                         },
                     ]
-                },],
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/bedroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Upgrade Meal',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/lunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Extend Your Stay',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/stay-at-home.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Chandigarh to Shimla Hill Station',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/hills.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Kasauli Hill station a Timber forest ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/forest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Walk Tour in Shimla',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'clarks/church.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                    ]
+                }
+            ],
             comingSoon: {
                 active: true,
                 heading: 'Something Awesome is in the works',
@@ -116500,6 +116799,144 @@
                             confirmBtnLabel: 'Submit Request'
                         },
                     ]
+        },
+        {
+            name: 'Special Benefits',
+            icon: 'JammuIcons/Benifits.png',
+            size: '64px',
+            color: '#1a8cd2',
+            routerLink: 'test',
+            extLink: '',
+            services: [
+                {
+                    name: '1 Review 1 Mocktail',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'Pride/drink.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Ex: Please keep the racket in the court',
+                    headerText: 'When would you like to avail this service?',
+                    gallery: [
+                        
+                    ],
+                    confirmBtnLabel: 'Book a Slot',
+                    storePageAsBlog: true
+                },
+                {
+                    name: '1 Tweet 1 Sweet',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'Pride/donut.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Ex: Please keep the racket in the court',
+                    headerText: 'When would you like to avail this service?',
+                    gallery: [
+                      
+                    ],
+                    confirmBtnLabel: 'Book a Slot',
+                    storePageAsBlog: true
+                },
+                {
+                    name: '1 Share 1 Desserts',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'Pride/ice-cream.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Ex: Please keep the racket in the court',
+                    headerText: 'When would you like to avail this service?',
+                    gallery: [
+                       
+                    ],
+                    confirmBtnLabel: 'Book a Slot',
+                    storePageAsBlog: true
+                },
+                {
+                    name: '5 Refer 1 Starter',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'Pride/snacks.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Ex: Please keep the racket in the court',
+                    headerText: 'When would you like to avail this service?',
+                    gallery: [
+                       
+                    ],
+                    confirmBtnLabel: 'Book a Slot',
+                    storePageAsBlog: true
+                },
+                {
+                    name: 'Avail  discount* on spa',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'JammuIcons/SpaMenu.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Example: I want to book a table',
+                    headerText: 'Select a time you would like to receive it.',
+                    gallery: [
+                
+                    ],
+                    confirmBtnLabel: 'Submit Request',
+                    storePageAsBlog: true
+                },
+            ]
+        },
+        {
+            name: 'Plan Your Trip',
+            icon: 'JammuIcons/upgrader.png',
+            size: '64px',
+            color: '#1a8cd2',
+            routerLink: 'test',
+            extLink: '',
+            services: [
+                {
+                    name: 'Sri Prasanna Krishna Swamy Temple',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'clarks/temple.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Example: I want to book a table',
+                    headerText: 'Select a time you would like to receive it.',
+                    gallery: [
+
+                    ],
+                    confirmBtnLabel: 'Submit Request',
+                    storePageAsBlog: true
+                },
+                {
+                    name: 'Kino Cinema',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'clarks/cinema.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Example: I want to book a slot for this',
+                    headerText: 'Select a time you would like to receive it.',
+                    gallery: [
+                    ],
+                    confirmBtnLabel: 'Submit Request',
+                    storePageAsBlog: true
+                },
+                {
+                    name: 'Sri Annamma Devi Temple',
+                    extLink: '',
+                    routerLink: 'test',
+                    icon: 'clarks/temple.png',
+                    showTextarea: true,
+                    textAreaLabel: 'Request Summary',
+                    placeholder: 'Example: I want to book a slot for this',
+                    headerText: 'Select a time you would like to receive it.',
+                    gallery: [
+                    ],
+                    confirmBtnLabel: 'Submit Request',
+                    storePageAsBlog: true
+                }
+            ]
         },
          
         {
