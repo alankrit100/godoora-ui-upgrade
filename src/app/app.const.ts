@@ -192875,17 +192875,17 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/1.jpg',
-                            heading: '',
+                            heading: 'WELCOME TO THE ASIA LARGEST THEME PARK',
                             subHeading: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/2.jpg',
-                            heading: '',
-                            subHeading: ''
+                            heading: 'Aatapi Wonderland Theme Park',
+                            subHeading: 'Every Experience at your single tip, Offer, Upgrade & more'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/3.jpg',
-                            heading: '',
+                            heading: 'Our dream is to create the most memorable fun moments of your life!',
                             subHeading: ''
                         },
                         {
