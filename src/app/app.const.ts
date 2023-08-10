@@ -193453,6 +193453,76 @@
                     extLink: '',
                     services: [
                         {
+                            name: 'Chilli Tadka',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/bibimbap.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/chilli.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Vadilal Ice Cream',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/ice.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'King Of PavBhaji',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/fast-food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/pav.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'GUJJU kathyawadi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/diet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
+                        {
+                            name: 'SODABAR',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/can.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/soda-bar.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
+                        {
                             name: 'Lockers & Changing Rooms',
                             extLink: '',
                             routerLink: 'test',
