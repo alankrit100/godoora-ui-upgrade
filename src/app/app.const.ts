@@ -192941,7 +192941,7 @@
                             name: 'Resort & Park Day Package',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Resort&ParkDayPackage',
                             extLink: ''
                         },
                         {
@@ -192949,7 +192949,7 @@
                             name: '3 Nights 4 Days Package',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/3Nights4DaysPackage',
                             extLink: ''
                         },
                         {
@@ -192957,7 +192957,7 @@
                             name: 'Sunday Brunch at Aatapi Wonderland',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SundayBrunchatAatapiWonderland',
                             extLink: ''
                         },
                         {
@@ -192965,7 +192965,7 @@
                             name: 'Aatapi Wonderland Resort Day Package',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AatapiWonderlandResortDayPackage',
                             extLink: ''
                         },
                         {
@@ -192973,7 +192973,7 @@
                             name: 'Birthdays at Aatapi Wonderland',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdaysatAatapiWonderland',
                             extLink: ''
                         },
                     ]
@@ -192988,7 +192988,7 @@
                             name: 'Independence Day Thali at Aatapi Wonderland',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/IndependenceDayThaliatAatapiWonderland',
                             extLink: ''
                         },
                         {
@@ -192996,7 +192996,7 @@
                             name: 'Save 25% on Thursday at Aatapi',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Save25%onThursdayatAatapi',
                             extLink: ''
                         },
                         {
@@ -193004,7 +193004,7 @@
                             name: 'Special Offer for Indian Armed Forces at Aatapi Wonderland',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpecialOfferforIndianArmedForcesatAatapiWonderland',
                             extLink: ''
                         },
                         {
@@ -193012,7 +193012,7 @@
                             name: 'Early Bird Offer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EarlyBirdOffer',
                             extLink: ''
                         },
                         {
@@ -193020,7 +193020,7 @@
                             name: '20% Off for College Students',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/20%OffforCollegeStudents',
                             extLink: ''
                         }
                     ]
