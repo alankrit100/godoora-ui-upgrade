@@ -78849,6 +78849,91 @@
                     ]
                 },
                 {
+                    name: 'Special Benefits',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '1 Review 1 Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/drink.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Tweet 1 Sweet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/donut.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                              
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 Share 1 Desserts',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '5 Refer 1 Starter',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/snacks.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Avail  discount* on spa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/SpaMenu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                        
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
                     name: 'Plan Your Trip',
                     icon: 'JammuIcons/upgrader.png',
                     size: '64px',
