@@ -174588,20 +174588,20 @@
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/behind1.jpg',
-                            videoId: 'SOrQmeuthzI'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali1.jpg',
+                            videoId: 'FYqd567qgno'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/behind2.jpg',
-                            videoId: 'OKCkLFVl80U'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali2.jpg',
+                            videoId: 'NKk41YVWyA'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/behind3.jpg',
-                            videoId: 's4sncTRwkXo'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali3.jpg',
+                            videoId: 'Qipxi1Qn8iE'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/behind4.jpg',
-                            videoId: 'HH4Ne8FngD4'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali4.jpg',
+                            videoId: 'PAxJUMr1RyI'
                         }
                     ]
                 },
