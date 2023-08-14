@@ -174294,7 +174294,7 @@
         },
         {
             branch: 'Manali',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/clarks/branch.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali-branch.jpg',
             id: 'clarksinn-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/clarksinn-logo1.jpeg',
             theme: 'grey-theme',
@@ -174356,12 +174356,12 @@
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/clarks/hampi1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali1.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/clarks/hampi2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali2.jpg',
                             heading: 'An experience that you will cherish forever',
                             subHeading: 'Experience | Hospitality | Memories'
                         },
