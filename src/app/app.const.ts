@@ -174412,35 +174412,35 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/tre1.jpg',
                             name: 'Hiking Tours in Manali',
                             desc: '',
-                            routerLink: '/stores/ExploreHampionaBicycleoraMoped',
+                            routerLink: '/stores/HikingToursinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/temple1.jpg',
                             name: 'Religious Sites in Manali',
                             desc: '',
-                            routerLink: '/stores/VisittheTemplesandRuinsofHampi',
+                            routerLink: '/stores/ReligiousSitesinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/nature1.jpg',
                             name: 'Nature & Wildlife Tours in Manali',
                             desc: '',
-                            routerLink: '/stores/VisitAnjaneyaHill',
+                            routerLink: '/stores/Nature&WildlifeToursinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/Private1.jpg',
                             name: 'Private Tours in Manali',
                             desc: '',
-                            routerLink: '/stores/RockClimbing',
+                            routerLink: '/stores/PrivateToursinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/waterfall1.jpg',
                             name: 'Waterfalls in Manali',
                             desc: '',
-                            routerLink: '/stores/CoracleRide',
+                            routerLink: '/stores/WaterfallsinManali',
                             extLink: ''
                         },
 
@@ -174448,42 +174448,42 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/raft1.jpg',
                             name: 'River Rafting & Tubing in Manali',
                             desc: '',
-                            routerLink: '/stores/FishingintheLake',
+                            routerLink: '/stores/RiverRafting&TubinginManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/food1.jpg',
                             name: 'Food, Wine & Nightlife in Manali',
                             desc: '',
-                            routerLink: '/stores/BoatRide',
+                            routerLink: '/stores/FoodWine&NightlifeinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/tour1.jpg',
                             name: 'Water Tours in Manali',
                             desc: '',
-                            routerLink: '/stores/CliffJumping',
+                            routerLink: '/stores/WaterToursinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/sport1.jpg',
                             name: 'Sporting Events in Manali',
                             desc: '',
-                            routerLink: '/stores/ClimbMatangaHill',
+                            routerLink: '/stores/SportingEventsinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/lux1.jpg',
                             name: 'Luxury & Special Occasions in Manali',
                             desc: '',
-                            routerLink: '/stores/HutStayinHippieIsland',
+                            routerLink: '/stores/Luxury&SpecialOccasionsinManali',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/4d.jpg',
                             name: '4WD Tours in Manali',
                             desc: '',
-                            routerLink: '/stores/VisittheLocalMarketforShopping',
+                            routerLink: '/stores/4WDToursinManali',
                             extLink: ''
                         }
                     ]
@@ -174596,11 +174596,11 @@
                             videoId: 'NKk41YVWyA'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali6.jpg',
                             videoId: 'Qipxi1Qn8iE'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali4.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali7.jpeg',
                             videoId: 'PAxJUMr1RyI'
                         }
                     ]
@@ -175951,7 +175951,7 @@
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/Towel%2Bart%2Belephant%2BClub%2BMed%2BKani%2BMaldives.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
