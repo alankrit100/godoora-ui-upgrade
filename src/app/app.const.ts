@@ -196655,8 +196655,8 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Flying-Carousel.jpg',
                             label: 'Flying Carousel',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=6',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/FlyingCarousel'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/BoB-And-Splash.jpg',
@@ -196679,92 +196679,92 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/DholuBholu-Bubble.jpg',
                             label: 'DholuBholu Bubble',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=11',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/DholuBholuBubble'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Tik-Tok.jpg',
                             label: 'Tik-Tok',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=12',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/TikTok'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Bheem-the-Boomerang.jpg',
                             label: 'Bheem the Boomerang',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=13',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/BheemtheBoomerang'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Alibaba-Rotating.jpg',
                             label: 'Alibaba Rotating',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=14',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/AlibabaRotating'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/SOFTPLAY.jpg',
                             label: 'SOFTPLAY',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=15',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/SOFTPLAY'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Flying-Horses.jpg',
                             label: 'Flying Horses',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=16',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/FlyingHorses'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Racer-Edge.jpg',
                             label: 'Racers Edge',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=17',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/RacersEdge'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Kids-Lazy-River.jpeg',
                             label: 'Kids Lazy River',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=18',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/KidsLazyRiver'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/NET-CRICKET.jpg',
                             label: 'NET CRICKET',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=19',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/NETCRICKET'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/TWIST-TOWER.jpg',
                             label: 'TWIST TOWER',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=20',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/TWISTTOWER'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Goofy-Golf.jpg',
                             label: 'Goofy Golf',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=21',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/GoofyGolf'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Rock-Bounce.jpg',
                             label: 'Rock & Bounce',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=22',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/Rock&Bounce'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/The-Dynamic-Bheem.jpg',
                             label: 'The Dynamic Bheem',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=23',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/TheDynamicBheem'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Feeling-Flight.jpg',
                             label: 'Feeling Flight',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=24',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/FeelingFlight'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/TUBBY-JUMP.jpg',
                             label: 'TUBBY JUMP',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=25',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/TUBBYJUMP'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Water.jpg',
