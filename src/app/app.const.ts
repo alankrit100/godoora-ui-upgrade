@@ -63833,6 +63833,1182 @@
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         },
+        {
+            branch: 'Aatapi Wonderland',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-branch.jpg',
+            id: 'www.aatapi-wonderland-experiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-logo.png',
+            theme: 'grey-theme',
+            idCategory: 42,
+            displayProperty: true,
+            favIconLink: 'assets/icon/Aatapi-logo.png',
+            title: 'Aatapi Wonderland Theme Park',
+            storeImg: 'social2.jpg',
+            label: 'Hotel Admin', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'www.aatapiwonderland.com/'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'www.aatapiwonderland.com/'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'www.aatapiwonderland.com/'
+                },
+                feedBackEmail: 'enquiry@aatapiwonderland.com'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/1.jpg',
+                            heading: 'WELCOME TO THE ASIA LARGEST THEME PARK',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/2.jpg',
+                            heading: 'Aatapi Wonderland Theme Park',
+                            subHeading: 'Every Experience at your single tip, Offer, Upgrade & more'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/3.jpg',
+                            heading: 'Our dream is to create the most memorable fun moments of your life!',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/4.jpg',
+                            heading: '',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/5.jpg',
+                            heading: '',
+                            subHeading: ''
+                        },
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'AATAPI WONDERLAND',
+                    desc: `AATAPI WONDERLAND is award winning theme park in the outskirts of Vadodara at Ajwa. A government project spread over 70 acres of land. We have some of the best Rides & Attractions from all around the world, A place where you can spend the whole day and explore with your family.`,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            label: 'Menus and Requests',
+                            extLink: '',
+                            routerLink: '/by-admin/1683'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            label: 'Quick Upgrades',
+                            extLink: '',
+                            routerLink: '/by-admin/1678'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/aatapi-guide.jpg',
+                            label: 'Aatapi Guide',
+                            extLink: '',
+                            routerLink: '/by-admin/1679'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/sleeep-boutique.jpg',
+                            label: 'Shopping @ Aatapi',
+                            extLink: 'https://www.fortunehotels-sleep-boutique.goyaana.com/#/',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Personalised Packages',
+                    desc: 'We would like to present our New Packages. Choose from a wide range of packages that best suits to make your visit at AATAPI WONDERLAND most memorable.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Resort.avif',
+                            name: 'Resort & Park Day Package',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Resort&ParkDayPackage',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/3n-4d.avif',
+                            name: '3 Nights 4 Days Package',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/3Nights4DaysPackage',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sunday-Brunch.jpg',
+                            name: 'Sunday Brunch at Aatapi Wonderland',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/SundayBrunchatAatapiWonderland',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Resort-Day-Package.jpeg',
+                            name: 'Aatapi Wonderland Resort Day Package',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/AatapiWonderlandResortDayPackage',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-branch.jpg',
+                            name: 'Birthdays at Aatapi Wonderland',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/BirthdaysatAatapiWonderland',
+                            extLink: ''
+                        },
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Special Offers',
+                    desc: '',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Independence.jpeg',
+                            name: 'Independence Day Thali at Aatapi Wonderland',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/IndependenceDayThaliatAatapiWonderland',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/25.jpg',
+                            name: 'Save 25% on Thursday at Aatapi',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Save25%onThursdayatAatapi',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/army.jpeg',
+                            name: 'Special Offer for Indian Armed Forces at Aatapi Wonderland',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/SpecialOfferforIndianArmedForcesatAatapiWonderland',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/early.jpeg',
+                            name: 'Early Bird Offer',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/EarlyBirdOffer',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/college.avif',
+                            name: '20% Off for College Students',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/20%OffforCollegeStudents',
+                            extLink: ''
+                        }
+                    ]
+                },
+                activities: {
+                    active: false,
+                    heading: 'Local Experiences',
+                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/helicopter.jpg',
+                            name: 'Helicopter Ride In Mysore | INR 6000 per adult',
+                            desc: 'Surprise birthday gift for family',
+                            routerLink: '/stores/HelicopterRideInMysore',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/water_sport.jpg',
+                            name: 'Water sports in Varuna lake',
+                            desc: 'River Rafting | Kayaking | Jet Skiing',
+                            routerLink: '/stores/WatersportsinVarunalake',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/walking.jpg',
+                            name: 'Mysore walking tour',
+                            desc: 'Walk with locals to know about the city and history',
+                            routerLink: '/stores/Mysorewalkingtour',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/food.jpg',
+                            name: 'Mysore Food Tours',
+                            desc: 'Relish your taste buds with the locals Mysuru food.',
+                            routerLink: '/stores/MysoreFoodTours',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/ebike.jpg',
+                            name: 'E-bike tour of majestic Mysore',
+                            desc: 'Hire and E-bike and explore city with our guide',
+                            routerLink: '/stores/EbiketourMysore',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/skydiving.jpg',
+                            name: 'Skydiving in Mysore',
+                            desc: 'Breath holding experience near Mysore Airport',
+                            routerLink: '/stores/SkydivinginMysore',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/camping.jpg',
+                            name: 'Camping in Chamundi hills',
+                            desc: 'Spend your evening at the Chamundi hills',
+                            routerLink: '/stores/CampinginChamundihills',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bird_watching.jpg',
+                            name: 'Bird watching Shuka Vana',
+                            desc: 'Guided tour and explore the migratory birds',
+                            routerLink: '/stores/BirdwatchingShukaVana',
+                            extLink: ''
+                        },
+                    ]
+                },
+                offers: {
+                    active: false,
+                    heading: 'Royal Orchid Group Offers',
+                    desc: 'Services that make your trip even more exciting and complete.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/wilderness.jpg',
+                            name: 'Hide Out in Wilderness',
+                            desc: 'Up to 40% discount for JLR selected properties',
+                            routerLink: '/stores/HideOutinWilderness',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/honeymoon.jpg',
+                            name: 'Complimentary Honeymoon Package',
+                            desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
+                            routerLink: '/stores/HoneymoonPackage',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
+                            name: 'Loyalty Program',
+                            desc: 'Talk to our expert for the exciting member only offers',
+                            routerLink: '/stores/LoyaltyProgram',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/event.jpg',
+                            name: 'Meetings and Events',
+                            desc: 'Well equipped event spaces at Royal Orchid & Regenta Hotels across the country',
+                            routerLink: '/stores/MeetingsandEvents',
+                            extLink: ''
+                        }
+                    ]
+                },
+                stories: {
+                    active: false,
+                    heading: 'Behind the scenes',
+                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_blr.jpg',
+                            videoId: 'YKXVMB7Sg7M'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/metropole.jpg',
+                            videoId: 'k2MGzoieKw0'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/hampicentral.jpg',
+                            videoId: 'gqmbpjHwNtg'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/orchid_brindavan.jpg',
+                            videoId: 'gjG0f1h5zbU'
+                        }
+                    ]
+                },
+                masonry: {
+                    active: true,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'RIDES',
+                    desc: 'OUR EXCITING RIDES & ATTRACTIONS',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sky-drop.jpg',
+                            label: 'Sky Drop',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=7',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Flying-Carousel.jpg',
+                            label: 'Flying Carousel',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=6',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/BoB-And-Splash.jpg',
+                            label: 'BoB And Splash',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=8',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Batwing-Coaster.jpg',
+                            label: 'Batwing Coaster',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=9',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Thrilling-Engine.jpg',
+                            label: 'Thrilling Engine',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=10',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/DholuBholu-Bubble.jpg',
+                            label: 'DholuBholu Bubble',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=11',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Tik-Tok.jpg',
+                            label: 'Tik-Tok',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=12',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Bheem-the-Boomerang.jpg',
+                            label: 'Bheem the Boomerang',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=13',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Alibaba-Rotating.jpg',
+                            label: 'Alibaba Rotating',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=14',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/SOFTPLAY.jpg',
+                            label: 'SOFTPLAY',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=15',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Flying-Horses.jpg',
+                            label: 'Flying Horses',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=16',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Racer-Edge.jpg',
+                            label: 'Racers Edge',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=17',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Kids-Lazy-River.jpeg',
+                            label: 'Kids Lazy River',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=18',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/NET-CRICKET.jpg',
+                            label: 'NET CRICKET',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=19',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/TWIST-TOWER.jpg',
+                            label: 'TWIST TOWER',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=20',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Goofy-Golf.jpg',
+                            label: 'Goofy Golf',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=21',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Rock-Bounce.jpg',
+                            label: 'Rock & Bounce',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=22',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/The-Dynamic-Bheem.jpg',
+                            label: 'The Dynamic Bheem',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=23',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Feeling-Flight.jpg',
+                            label: 'Feeling Flight',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=24',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/TUBBY-JUMP.jpg',
+                            label: 'TUBBY JUMP',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=25',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Water.jpg',
+                            label: 'Water Laser Show',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=26',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/No-Limits.jpg',
+                            label: 'No Limits',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=27',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Fender-Bender.jpg',
+                            label: 'Fender Bender',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=28',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Bang-bang.jpg',
+                            label: 'Bang bang',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=29',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Jungle-Fun.jpg',
+                            label: 'Jungle-Fun',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=30',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Kids.jpg',
+                            label: 'Kids Paddle Boats',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=31',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Badminton.jpg',
+                            label: 'Badminton',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=32',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Selfie-Zone.jpg',
+                            label: 'Selfie Zone',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=33',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Water-Park.jpg',
+                            label: 'Water Park & Rain Dance',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=34',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Lost-Valley.jpg',
+                            label: 'Lost Valley of Dinosaurs',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=35',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Water-Splash.jpg',
+                            label: 'Water Splash Mountain',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=36',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Maze.jpg',
+                            label: 'Maze',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=37',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Trampoline.jpg',
+                            label: 'Trampoline Park & Soft Play',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=38',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Swap-Super.jpg',
+                            label: 'Swap Super Swing',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=39',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/REVERSE-BUNGEE.jpg',
+                            label: 'REVERSE BUNGEE',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=40',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sky-paddle.jpg',
+                            label: 'Sky paddle',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=41',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/FOOT-BILLIARDS.jpg',
+                            label: 'FOOT BILLIARDS',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=42',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aapnu-Gom.jpg',
+                            label: 'Aapnu Gom',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=43',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Cruzer-Ride.jpg',
+                            label: 'Cruzer Ride',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=44',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Disco-Tagada.jpg',
+                            label: 'Disco Tagada',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=45',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/The-Jugnoo.jpg',
+                            label: 'The Jugnoo World',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=51',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Vrundavan-Garden.jpg',
+                            label: 'Vrundavan Garden',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=52',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Flying-Carousel.jpg',
+                            label: 'Flying Carousel',
+                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=6',
+                            routerLink: ''
+                        },
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Plan Your Trip',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
+                    routerLink: '',
+                    icon: 'paper-plane-outline'
+                },
+            ],
+            departments: [
+                {
+                    name: 'Menus and Requests',
+                    icon: 'orchid/experience.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Chilli Tadka',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/bibimbap.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/chilli.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Vadilal Ice Cream',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/ice.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'King Of PavBhaji',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/fast-food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/pav.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'GUJJU kathyawadi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/diet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
+                        {
+                            name: 'SODABAR',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/can.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/soda-bar.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
+                        {
+                            name: 'Lockers & Changing Rooms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/locker.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/locker.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Cloak Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/checkroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Cloak-Room.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Wheelchair / Pram',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wheelchair.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/wheelchair.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Lost & Found',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/lost-and-found.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/luggage.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Prayer Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/prayer-room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/prayer-room.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Baby Nursing Room',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/mother.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/baby.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'orchid/gift.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Upgrade Ticket',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/ticket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Extend Stay',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/calendar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Our Executive Package',
+                            extLink: 'https://aatapiwonderland.com/Packages.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/tickets.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'Aatapi Guide',
+                    icon: 'orchid/gift.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Packages',
+                            extLink: 'https://aatapiwonderland.com/Packages.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/packages.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Group & Event Booking',
+                            extLink: 'https://aatapiwonderland.com/GroupBookingPackages.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/event.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Park Attractions',
+                            extLink: 'https://aatapiwonderland.com/OurAttractions.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/parking-lot.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Photo Gallery',
+                            extLink: 'https://aatapiwonderland.com/PhotoGallery.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/photo-gallery.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Map',
+                            extLink: 'https://aatapiwonderland.com/Parkmap.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/map.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Rides',
+                            extLink: 'https://aatapiwonderland.com/Attractions.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/rides.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Video Gallery',
+                            extLink: 'https://aatapiwonderland.com/VideoGallery.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/slideshow.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Foodcourts',
+                            extLink: 'https://aatapiwonderland.com/ourdining.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Reach Us',
+                            extLink: 'https://aatapiwonderland.com/ContactUs.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/call.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+
+                        
+                    ]
+                },
+                {
+                    name: 'Personalised Packages',
+                    icon: 'orchid/gift.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Resort & Park Day Package',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Resort.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: '3 Nights 4 Days Package',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/3n-4d.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sunday Brunch at Aatapi Wonderland',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sunday-Brunch.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Aatapi Wonderland Resort Day Package',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Resort-Day-Package.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img6.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Birthdays at Aatapi Wonderland',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-branch.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img8.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img9.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'Special Offers',
+                    icon: 'orchid/gift.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Independence Day Thali at Aatapi Wonderland',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Independence.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Save 25% on Thursday at Aatapi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/25.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Special Offer for Indian Armed Forces at Aatapi Wonderland',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/army.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Early Bird Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/early.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img6.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: '20% Off for College Students',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/college.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img8.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img9.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        },
     ],
     'www.fortunehotels-experiences.goyaana.com': [
         {
@@ -195212,15 +196388,9 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'Menus and Requests',
+                            label: 'Ticketing',
                             extLink: '',
                             routerLink: '/by-admin/1683'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
-                            extLink: '',
-                            routerLink: '/by-admin/1678'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/aatapi-guide.jpg',
@@ -195228,15 +196398,96 @@
                             extLink: '',
                             routerLink: '/by-admin/1679'
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Defalut/sleeep-boutique.jpg',
-                            label: 'Shopping @ Aatapi',
-                            extLink: 'https://www.fortunehotels-sleep-boutique.goyaana.com/#/',
-                            routerLink: ''
-                        }
                     ]
                 },
                 destinations: {
+                    active: true,
+                    heading: 'Dinning Experience',
+                    desc: 'We would like to present our New Packages. Choose from a wide range of packages that best suits to make your visit at AATAPI WONDERLAND most memorable.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/Tapisco.jpeg',
+                            name: 'Tapisco',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/skydeck.jpg',
+                            name: 'Skydeck',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/chilli.jpg',
+                            name: 'Chilli Tadka',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/ice.jpg',
+                            name: 'Vadilal Ice Cream',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/pav.jpg',
+                            name: 'King Of PavBhaji',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/gujju.jpg',
+                            name: 'GUJJU kathyawadi',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/soda-bar.jpg',
+                            name: 'SODABAR',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/dill.jpg',
+                            name: 'Delhi Dhaba',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/sugarcane.jpg',
+                            name: 'Viram Food',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/sugarcane.jpg',
+                            name: 'Sugarcane juice (Zone-ll)',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                    ]
+                },
+                experiences: {
                     active: true,
                     heading: 'Personalised Packages',
                     desc: 'We would like to present our New Packages. Choose from a wide range of packages that best suits to make your visit at AATAPI WONDERLAND most memorable.',
@@ -195283,7 +196534,7 @@
                         },
                     ]
                 },
-                experiences: {
+                activities: {
                     active: true,
                     heading: 'Special Offers',
                     desc: '',
@@ -195328,69 +196579,6 @@
                             routerLink: '/stores/20%OffforCollegeStudents',
                             extLink: ''
                         }
-                    ]
-                },
-                activities: {
-                    active: false,
-                    heading: 'Local Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/helicopter.jpg',
-                            name: 'Helicopter Ride In Mysore | INR 6000 per adult',
-                            desc: 'Surprise birthday gift for family',
-                            routerLink: '/stores/HelicopterRideInMysore',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/water_sport.jpg',
-                            name: 'Water sports in Varuna lake',
-                            desc: 'River Rafting | Kayaking | Jet Skiing',
-                            routerLink: '/stores/WatersportsinVarunalake',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/walking.jpg',
-                            name: 'Mysore walking tour',
-                            desc: 'Walk with locals to know about the city and history',
-                            routerLink: '/stores/Mysorewalkingtour',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/food.jpg',
-                            name: 'Mysore Food Tours',
-                            desc: 'Relish your taste buds with the locals Mysuru food.',
-                            routerLink: '/stores/MysoreFoodTours',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/ebike.jpg',
-                            name: 'E-bike tour of majestic Mysore',
-                            desc: 'Hire and E-bike and explore city with our guide',
-                            routerLink: '/stores/EbiketourMysore',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/skydiving.jpg',
-                            name: 'Skydiving in Mysore',
-                            desc: 'Breath holding experience near Mysore Airport',
-                            routerLink: '/stores/SkydivinginMysore',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/camping.jpg',
-                            name: 'Camping in Chamundi hills',
-                            desc: 'Spend your evening at the Chamundi hills',
-                            routerLink: '/stores/CampinginChamundihills',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/bird_watching.jpg',
-                            name: 'Bird watching Shuka Vana',
-                            desc: 'Guided tour and explore the migratory birds',
-                            routerLink: '/stores/BirdwatchingShukaVana',
-                            extLink: ''
-                        },
                     ]
                 },
                 offers: {
@@ -195750,7 +196938,7 @@
             ],
             departments: [
                 {
-                    name: 'Menus and Requests',
+                    name: 'Ticketing',
                     icon: 'orchid/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -195758,75 +196946,139 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Chilli Tadka',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/bibimbap.png',
+                            name: 'Packages',
+                            extLink: 'https://aatapiwonderland.com/Packages.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/packages.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/chilli.jpg' },
+
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Vadilal Ice Cream',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/ice-cream.png',
+                            name: 'Group & Event Booking',
+                            extLink: 'https://aatapiwonderland.com/GroupBookingPackages.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/event.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/ice.jpg' },
+
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'King Of PavBhaji',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/fast-food.png',
+                            name: 'Offers',
+                            extLink: 'https://aatapiwonderland.com/OfferBookingPackages.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/price-tag.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/pav.jpg' },
+
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'GUJJU kathyawadi',
+                            name: 'Picnic',
                             extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/diet.png',
+                            routerLink: '/coming-soon',
+                            icon: 'Aatapi/picnic-basket.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
                             gallery: [
-                                
+
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        }, 
+                        },
+                    ]
+                },
+                {
+                    name: 'Quick Upgrades',
+                    icon: 'orchid/gift.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
                         {
-                            name: 'SODABAR',
+                            name: 'Upgrade Ticket',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/can.png',
+                            icon: 'Aatapi/ticket.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for konda reddy fort',
-                            headerText: 'When would you like to book?',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/soda-bar.jpg' },
+
                             ],
                             confirmBtnLabel: 'Submit Request'
-                        }, 
+                        },
+                        {
+                            name: 'Extend Stay',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/calendar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Our Executive Package',
+                            extLink: 'https://aatapiwonderland.com/Packages.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/tickets.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                    ]
+                },
+                {
+                    name: 'Aatapi Guide',
+                    icon: 'orchid/gift.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Map',
+                            extLink: 'https://aatapiwonderland.com/Parkmap.aspx',
+                            routerLink: '',
+                            icon: 'Aatapi/map.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                         {
                             name: 'Lockers & Changing Rooms',
                             extLink: '',
@@ -195911,98 +197163,6 @@
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                    ]
-                },
-                {
-                    name: 'Quick Upgrades',
-                    icon: 'orchid/gift.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Upgrade Ticket',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/ticket.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Extend Stay',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/calendar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Our Executive Package',
-                            extLink: 'https://aatapiwonderland.com/Packages.aspx',
-                            routerLink: '',
-                            icon: 'Aatapi/tickets.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                    ]
-                },
-                {
-                    name: 'Aatapi Guide',
-                    icon: 'orchid/gift.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Packages',
-                            extLink: 'https://aatapiwonderland.com/Packages.aspx',
-                            routerLink: '',
-                            icon: 'Aatapi/packages.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Group & Event Booking',
-                            extLink: 'https://aatapiwonderland.com/GroupBookingPackages.aspx',
-                            routerLink: '',
-                            icon: 'Aatapi/event.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
                         {
                             name: 'Park Attractions',
                             extLink: 'https://aatapiwonderland.com/OurAttractions.aspx',
@@ -196022,20 +197182,6 @@
                             extLink: 'https://aatapiwonderland.com/PhotoGallery.aspx',
                             routerLink: '',
                             icon: 'Aatapi/photo-gallery.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Map',
-                            extLink: 'https://aatapiwonderland.com/Parkmap.aspx',
-                            routerLink: '',
-                            icon: 'Aatapi/map.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
@@ -196103,6 +197249,180 @@
                         },
 
                         
+                    ]
+                },
+                {
+                    name: 'Dinning Experience',
+                    icon: 'orchid/gift.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Tapisco',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/bibimbap.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/Tapisco.jpeg' },
+                            ],
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/Tapisco-menu.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Skydeck',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/bibimbap.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/skydeck.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Chilli Tadka',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/bibimbap.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/chilli.jpg' },
+                            ],
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/chilli.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Vadilal Ice Cream',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/ice.jpg' },
+                            ],
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/vadilal.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'King Of PavBhaji',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/fast-food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/pav.jpg' },
+                            ],
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/king.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'GUJJU kathyawadi',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/diet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/gujju.jpg' },
+                            ],
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/gujju-menu.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
+                        {
+                            name: 'SODABAR',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/can.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/soda-bar.jpg' },
+                            ],
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/soda.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
+                        {
+                            name: 'Delhi Dhaba',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/can.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/dill.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Viram Food',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/can.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/viram.jpg' },
+                            ],
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/viram-menu.png' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
+                        {
+                            name: 'Sugarcane juice (Zone-ll)',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/can.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for konda reddy fort',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/sugarcane.jpg' },
+                            ],
+                             menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/sugarcane-menu.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }, 
                     ]
                 },
                 {
