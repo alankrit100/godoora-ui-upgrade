@@ -196649,8 +196649,8 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sky-drop.jpg',
                             label: 'Sky Drop',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=7',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/SkyDrop'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Flying-Carousel.jpg',
@@ -196661,20 +196661,20 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/BoB-And-Splash.jpg',
                             label: 'BoB And Splash',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=8',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/BoBAndSplash'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Batwing-Coaster.jpg',
                             label: 'Batwing Coaster',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=9',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/BatwingCoaster'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Thrilling-Engine.jpg',
                             label: 'Thrilling Engine',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=10',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/ThrillingEngine'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/DholuBholu-Bubble.jpg',
