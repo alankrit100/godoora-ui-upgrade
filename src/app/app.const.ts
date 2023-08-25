@@ -196387,7 +196387,7 @@
                     desc: `AATAPI WONDERLAND is award winning theme park in the outskirts of Vadodara at Ajwa. A government project spread over 70 acres of land. We have some of the best Rides & Attractions from all around the world, A place where you can spend the whole day and explore with your family.`,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Dinning/ticketing.png',
                             label: 'Ticketing',
                             extLink: '',
                             routerLink: '/by-admin/1683'
@@ -196643,7 +196643,7 @@
                     active: true,
                     cols: 3,
                     rowHeight: 1,
-                    title: 'RIDES',
+                    title: 'Explore Ride and Attraction',
                     desc: 'OUR EXCITING RIDES & ATTRACTIONS',
                     items: [
                         {
