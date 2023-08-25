@@ -196410,7 +196410,7 @@
                             name: 'Tapisco',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Tapisco',
                             extLink: ''
                         },
                         {
@@ -196418,7 +196418,7 @@
                             name: 'Skydeck',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Skydeck',
                             extLink: ''
                         },
                         {
@@ -196426,7 +196426,7 @@
                             name: 'Chilli Tadka',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ChilliTadka',
                             extLink: ''
                         },
                         {
@@ -196434,7 +196434,7 @@
                             name: 'Vadilal Ice Cream',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/VadilalIceCream',
                             extLink: ''
                         },
                         {
@@ -196442,7 +196442,7 @@
                             name: 'King Of PavBhaji',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KingOfPavBhaji',
                             extLink: ''
                         },
                         {
@@ -196450,7 +196450,7 @@
                             name: 'GUJJU kathyawadi',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GUJJUkathyawadi',
                             extLink: ''
                         },
                         {
@@ -196458,7 +196458,7 @@
                             name: 'SODABAR',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SODABAR',
                             extLink: ''
                         },
                         {
@@ -196466,7 +196466,7 @@
                             name: 'Delhi Dhaba',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DelhiDhaba',
                             extLink: ''
                         },
                         {
@@ -196474,7 +196474,7 @@
                             name: 'Viram Food',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ViramFood',
                             extLink: ''
                         },
                         {
@@ -196482,7 +196482,7 @@
                             name: 'Sugarcane juice (Zone-ll)',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Sugarcanejuice(Zonell)',
                             extLink: ''
                         },
                     ]
@@ -196989,7 +196989,7 @@
                         },
                         {
                             name: 'Picnic',
-                            extLink: '',
+                            extLink: '/coming-soon',
                             routerLink: '/coming-soon',
                             icon: 'Aatapi/picnic-basket.png',
                             showTextarea: true,
@@ -197509,6 +197509,62 @@
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img7.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img8.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aatapi-img9.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Sky Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sky-drop.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'BoB And Splash',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/BoB-And-Splash.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Batwing Coaster',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Batwing-Coaster.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Thrilling Engine',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Thrilling-Engine.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
