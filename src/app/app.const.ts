@@ -196769,92 +196769,92 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Water.jpg',
                             label: 'Water Laser Show',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=26',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/WaterLaserShow'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/No-Limits.jpg',
                             label: 'No Limits',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=27',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/NoLimits'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Fender-Bender.jpg',
                             label: 'Fender Bender',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=28',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/FenderBender'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Bang-bang.jpg',
                             label: 'Bang bang',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=29',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/Bangbang'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Jungle-Fun.jpg',
                             label: 'Jungle-Fun',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=30',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/JungleFun'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Kids.jpg',
                             label: 'Kids Paddle Boats',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=31',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/KidsPaddleBoats'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Badminton.jpg',
                             label: 'Badminton',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=32',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/Badminton_2'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Water-Park.jpg',
                             label: 'Water Park & Rain Dance',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=34',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/WaterPark&RainDance'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Lost-Valley.jpg',
                             label: 'Lost Valley of Dinosaurs',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=35',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/LostValleyofDinosaurs'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Water-Splash.jpg',
                             label: 'Water Splash Mountain',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=36',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/WaterSplashMountain'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Maze.jpg',
                             label: 'Maze',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=37',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/Maze'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Trampoline.jpg',
                             label: 'Trampoline Park & Soft Play',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=38',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/TrampolinePark&SoftPlay'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Swap-Super.jpg',
                             label: 'Swap Super Swing',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=39',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/SwapSuperSwing'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/REVERSE-BUNGEE.jpg',
                             label: 'REVERSE BUNGEE',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=40',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/REVERSEBUNGEE'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sky-paddle.jpg',
                             label: 'Sky paddle',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=41',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/Skypaddle'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/FOOT-BILLIARDS.jpg',
@@ -198069,6 +198069,126 @@
                             headerText: 'Book a Slot',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Sky-paddle.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'FOOT BILLIARDS',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/FOOT-BILLIARDS.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Aapnu Gom',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aapnu-Gom.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Cruzer Ride',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Cruzer-Ride.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Disco Tagada',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Disco-Tagada.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'The Jugnoo World',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/The-Jugnoo.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Vrundavan Garden',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Vrundavan-Garden.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Flying Carousel',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Flying-Carousel.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Selfie Zone',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wilderness.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Selfie-Zone.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
