@@ -196488,7 +196488,7 @@
                     ]
                 },
                 experiences: {
-                    active: true,
+                    active: false,
                     heading: 'Personalised Packages',
                     desc: 'We would like to present our New Packages. Choose from a wide range of packages that best suits to make your visit at AATAPI WONDERLAND most memorable.',
                     items: [
@@ -196535,7 +196535,7 @@
                     ]
                 },
                 activities: {
-                    active: true,
+                    active: false,
                     heading: 'Special Offers',
                     desc: '',
                     items: [
