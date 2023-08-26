@@ -196859,20 +196859,20 @@
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/FOOT-BILLIARDS.jpg',
                             label: 'FOOT BILLIARDS',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=42',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/FOOTBILLIARDS'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Aapnu-Gom.jpg',
                             label: 'Aapnu Gom',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=43',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/AapnuGom'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Cruzer-Ride.jpg',
                             label: 'Cruzer Ride',
-                            extLink: 'https://aatapiwonderland.com/RideDetails.aspx?RI=44',
-                            routerLink: ''
+                            extLink: '',
+                            routerLink: '/stores/CruzerRide'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Aatapi/Disco-Tagada.jpg',
