@@ -173544,7 +173544,7 @@
                 destinations: {
                     active: true,
                     heading: 'Local Experiences',
-                    desc: 'Hampi was the capital of the Vijayanagara Empire in the 14th century. It was a fortified city.',
+                    desc: 'Hampi better known as the worlds largest open air museum, after all these centuries testifies to the glory of the Vijayanagara Empire.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Explore+Hampi+on+a+Bicycle+or+a+Moped.jpg',
@@ -173629,7 +173629,7 @@
                 experiences: {
                     active: true,
                     heading: 'In-House Experiences',
-                    desc: 'Whether youre looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
+                    desc: 'Discover a world of indulgence at Clarks Inn, Hampi, where every corner exudes sophistication.',
                     items: [
 
                         {
@@ -173660,7 +173660,7 @@
                 activities: {
                     active: true,
                     heading: 'Unique Hotel Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'Clarks Inn, Hampi is a quaint hotel that perfectly blends ancient heritage with contemporary amenities.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/balloon.jpg',
@@ -173723,7 +173723,7 @@
                 stories: {
                     active: true,
                     heading: 'Behind the scenes',
-                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    desc: 'Ans: Hampi is famous for its ruins which belong to the Vijayanagar Empire. This UNESCO World Heritage Site is also renowned for its group of monuments',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/behind1.jpg',
@@ -175208,8 +175208,8 @@
                             headerText: 'When would you like to travel?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/temple1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/temple2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/temple3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/temple2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/temple3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -175226,7 +175226,7 @@
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/anjaneya1.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/anjaneya2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/anjaneya3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/anjaneya3.jpg' },
                             ],
                             confirmBtnLabel: 'Rock Climbing',
                             storePageAsBlog: true
@@ -175242,7 +175242,7 @@
                             headerText: 'When would you like to travel?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/climb1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/climb2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/climb2.webp' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/climb3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -175276,8 +175276,7 @@
                             headerText: 'When would you like to travel?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Fishing1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Fishing2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Fishing3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/Fishing2.png' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -175293,7 +175292,6 @@
                             headerText: 'When would you like to travel?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/boat1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/boat2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/boat3.jpg' },
                                 
                             ],
@@ -175330,7 +175328,7 @@
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/matang1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/matang2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/matang3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Hampi/matang3.jpeg' },
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
@@ -175497,7 +175495,7 @@
                 destinations: {
                     active: true,
                     heading: 'Local Experiences',
-                    desc: 'Manali is a town, near Kullu town in Kullu district in the Indian state of Himachal Pradesh.',
+                    desc: 'The mountains are my happy place, and Manali is the perfect retreat, Explore the Experiences in Manali',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/tre1.jpg',
@@ -175582,7 +175580,7 @@
                 experiences: {
                     active: true,
                     heading: 'In-House Experiences',
-                    desc: 'Whether youre looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
+                    desc: 'Clarks Inn Suites is a luxurious hotel nestled amidst the serene and picturesque valley of Manali. Clarks Inn Suites, Manali enjoys good connectivity while also offering a certain degree of isolation.',
                     items: [
 
                         {
@@ -175613,7 +175611,7 @@
                 activities: {
                     active: true,
                     heading: 'Unique Hotel Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: 'You can experience the warmth of bonfires and soak in the mesmerising views of the surrounding natural beauty.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/balloon.jpg',
@@ -175676,7 +175674,7 @@
                 stories: {
                     active: true,
                     heading: 'Behind the scenes',
-                    desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
+                    desc: 'Manali is a high-altitude Himalayan resort town in Indias northern Himachal Pradesh state. It has a reputation as a backpacking center and honeymoon destination.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Clarks+inn+Manali/manali1.jpg',
