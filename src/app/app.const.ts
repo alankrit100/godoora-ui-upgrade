@@ -218854,21 +218854,21 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/group-events.jpg',
                             name: 'Group Events & Parties',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GroupEvents&Parties',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/special-events.jpg',
                             name: 'Special Events',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpecialEvents_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/everything.jpg',
                             name: 'Everything Else',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EverythingElse',
                             extLink: ''
                         },
                     ]
@@ -218883,7 +218883,7 @@
                             name: 'Cooking Techniques',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingTechniques',
                             extLink: ''
                         },
                         {
@@ -218891,7 +218891,7 @@
                             name: 'Hosting & Planing a Party',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Hosting&PlaningaParty',
                             extLink: ''
                         },
                         {
@@ -218899,7 +218899,7 @@
                             name: 'Food Safety & Hygiene',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FoodSafety&Hygiene',
                             extLink: ''
                         },
                     ]
