@@ -218755,6 +218755,658 @@
             }
         },
     ],
+    'www.stories-experiences.goyaana.com': [
+        {
+            branch: 'Stories JP Nagar',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/jaipur-jantar/jaipur-jantar-branch1.jpg',
+            id: 'www.stories-experiences.goyaana.com',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/logo.jpeg',
+            theme: 'grey-theme',
+            idCategory: 35,
+            favIconLink: 'assets/icon/stories.png',
+            title: 'Stories JP Nagar',
+            storeImg: 'social2.jpg',
+            label: 'Hotel Admin', // Login label
+            serviceLabel: 'Service',
+            pwaInstallTimer: 15000,
+            gAnalyticscode: 'UA-144064030-1',
+            editShopLabel: 'Edit Service',
+            c: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            S: {
+                loginType: {
+                    normalLogin: true,
+                    fbLogin: false,
+                    googleLogin: false,
+                },
+            },
+            adminLogin: true,
+            updateShopLocation: false,
+            mainLocation: false,
+            searchBar: false,
+            conceirge: true,
+            addressLabel: 'Details',
+            bookSlotLabel: 'Raise Request',
+            footer: {
+                terms: {
+                    isAnchor: false,
+                    route: 'terms',
+                    url: 'www.stories.com/'
+                },
+                privacy: {
+                    isAnchor: false,
+                    route: 'privacy',
+                    url: 'www.stories.com/'
+                },
+                about: {
+                    isAnchor: true,
+                    route: 'about',
+                    url: 'www.stories.com/'
+                },
+                feedBackEmail: 'enquiry@stories.com'
+            },
+            landingPage: {
+                slider: {
+                    active: true,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            heading: 'Order Direct Get 15% Discount',
+                            subHeading: 'Book the Table skip the rush'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/branch.jpg',
+                            heading: 'An experience that you will cherish forever',
+                            subHeading: 'Experience | Hospitality | Memories'
+                        },
+                    ]
+                },
+                experience: {
+                    active: true,
+                    heading: 'Stories Bar and Kitchen',
+                    desc: `Bengaluru loves it share of nightlife, a fact that is evident in its endless list of bars crawling in every part of the city. Swish cosmopolitan watering holes to playful quirky drinking nooks, Bengaluru has something for everyone.`,
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
+                            label: 'Book a Table',
+                            extLink: '',
+                            routerLink: '/home'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
+                            label: 'Food Delivery',
+                            extLink: 'https://www.aramanedonnebiryani.goyaana.com/#/',
+                            routerLink: ''
+                        },
+                    ]
+                },
+                destinations: {
+                    active: true,
+                    heading: 'Event that Rock',
+                    desc: '',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/group-events.jpg',
+                            name: 'Group Events & Parties',
+                            desc: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/special-events.jpg',
+                            name: 'Special Events',
+                            desc: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/everything.jpg',
+                            name: 'Everything Else',
+                            desc: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Workshop',
+                    desc: '',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/Cooking-Techniques.jpg',
+                            name: 'Cooking Techniques',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/Hosting.jpg',
+                            name: 'Hosting & Planing a Party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/Food-Safety.jpg',
+                            name: 'Food Safety & Hygiene',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                    ]
+                },
+                activities: {
+                    active: false,
+                    heading: 'Unique Hotel Experiences',
+                    desc: 'Hotels Group resonate true Indian Hospitality and its warmth can be felt right from the moment a guest steps in.',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/wedding1.jpg',
+                            name: 'Wedding Packages',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/WeddingPackages',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/aarya-niwas/cultural.jpg',
+                            name: 'Cultural Shows And Theme Dinners On Request',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CulturalShowsAndThemeDinnersOnRequest',
+                            extLink: ''
+                        },
+                       {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/wedding1.jpeg',
+                            name: 'Destination Wedding',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/DestinationWedding_2',
+                            extLink: ''
+                        },
+                    ]
+                },
+                stories: {
+                    active: true,
+                    heading: 'Stories',
+                    desc: '',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/branch.jpg',
+                            videoId: 'bdJ0SESAEdI'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/1.jpg',
+                            videoId: '_VjnxxZ4vb4'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/2.jpg',
+                            videoId: '_VjnxxZ4vb4'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/branch.jpg',
+                            videoId: 'bdJ0SESAEdI'
+                        }
+                    ]
+                },
+                masonry: {
+                    active: false,
+                    cols: 3,
+                    rowHeight: 1,
+                    title: 'masonry title',
+                    desc: 'masonry Description',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/mumbai-explore.png',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/433x649/?Uruguay',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/530x572/?Jamaica',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/531x430/?Kuwait',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/586x1073/?Bermuda',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/500x571/?Ecuador',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/579x518/?Virgin Islands (British)',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/503x548/?Angola',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/511x630/?Mauritania',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/414x767/?Sri Lanka',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/443x704/?St. Helena',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/441x1145/?Namibia',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/491x1097/?Samoa',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/570x851/?Eritrea',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/560x1072/?Iraq',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://source.unsplash.com/551x598/?Togo',
+                            label: 'Plan your trip the way you like it',
+                            extLink: 'https://www.demohotel-planner.goyaana.com',
+                            routerLink: ''
+                        }
+                    ]
+                },
+                heroIntro: {
+                    active: false,
+                    videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
+                    preTitle: 'Our world, exclusively yours',
+                    title: 'Secluded Sanctuaries',
+                    linkLabel: 'Plan Your Trip',
+                    extLink: 'https://www.demohotel-planner.goyaana.com',
+                    routerLink: ''
+                }
+            },
+            leftSideMenu: [
+                {
+                    label: 'Booked List',
+                    extLink: '',
+                    routerLink: '/booked-slots',
+                    icon: 'calendar-outline'
+                },
+                {
+                    label: 'My Services',
+                    extLink: '',
+                    routerLink: '/user-shops',
+                    icon: 'list-outline'
+                },
+                {
+                    label: 'Plan Your Trip',
+                    extLink: 'https://www.fortunehotels-planner.goyaana.com',
+                    routerLink: '',
+                    icon: 'paper-plane-outline'
+                },
+            ],
+            departments: [
+                {
+                    name: 'AC',
+                    icon: 'Stories/ac.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '3 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: '4 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: '7 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/7.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                    ]
+                },
+                {
+                    name: 'Outdoor',
+                    icon: 'Stories/outdoor.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '3 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: '4 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'placeholder',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                         {
+                            name: '7 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/7.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to go for Belum caves',
+                            headerText: 'When would you like to book?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                        },
+                    ]
+                },
+                {
+                    name: 'Smoking',
+                    icon: 'Stories/smoking.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: '3 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: '4 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: '7 Seater',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/7.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                    ]
+                },
+                {
+                    name: '3 Seater',
+                    icon: 'Stories/3.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'A1',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'A2',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'A3',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/7.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                    ]
+                },
+                {
+                    name: 'Event that Rock',
+                    icon: 'Stories/3.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Group Events & Parties',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/group-events.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Special Events',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/special-events.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Everything Else',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/7.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/everything.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                    ]
+                },
+                {
+                    name: 'Workshop',
+                    icon: 'Stories/3.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Cooking Techniques',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/3.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/Cooking-Techniques.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Hosting & Planing a Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/4.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/Hosting.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                        {
+                            name: 'Food Safety & Hygiene',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Stories/7.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Stories/Food-Safety.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                        },
+                    ]
+                },
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
+        },
+    ],
     'www.asavarihotels-experiences.goyaana.com': [
         {
             branch: 'Roop Vilas Palace Nawalgarh',
