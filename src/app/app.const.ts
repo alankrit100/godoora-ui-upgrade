@@ -219103,7 +219103,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: '3 Seater',
+                            name: '3S - 1',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/3.png',
@@ -219116,7 +219116,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: '4 Seater',
+                            name: '4S - 2',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/4.png',
@@ -219129,7 +219129,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: '7 Seater',
+                            name: '7S - 3',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/7.png',
@@ -219152,7 +219152,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: '3 Seater',
+                            name: '3S - 1',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/3.png',
@@ -219165,7 +219165,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: '4 Seater',
+                            name: '4S - 2',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/4.png',
@@ -219178,7 +219178,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                          {
-                            name: '7 Seater',
+                            name: '7S - 3',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/7.png',
@@ -219201,7 +219201,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: '3 Seater',
+                            name: '3S - 1',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/3.png',
@@ -219214,7 +219214,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: '4 Seater',
+                            name: '4S - 2',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/4.png',
@@ -219227,7 +219227,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: '7 Seater',
+                            name: '7S - 3',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/7.png',
@@ -219242,15 +219242,15 @@
                     ]
                 },
                 {
-                    name: '3 Seater',
-                    icon: 'Stories/3.png',
+                    name: 'Rooftop',
+                    icon: 'Stories/rooftop.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'A1',
+                            name: '3S - 1',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/3.png',
@@ -219263,7 +219263,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: 'A2',
+                            name: '4S - 2',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/4.png',
@@ -219276,7 +219276,7 @@
                             confirmBtnLabel: 'Submit Request',
                         },
                         {
-                            name: 'A3',
+                            name: '7S - 3',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Stories/7.png',
