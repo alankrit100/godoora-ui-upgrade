@@ -173643,7 +173643,7 @@
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sanaas/Aligarh-Service-Directory.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
