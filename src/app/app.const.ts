@@ -291032,13 +291032,13 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/SOBHA-OAKSHIRE.jpg',
                             label: 'Sobha Oakshire',
                             extLink: '',
-                            routerLink: '/stores/SobhaLifestyleLegacy'
+                            routerLink: '/stores/SobhaOakshire'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/century-wintersun.jpg',
                             label: 'Century Wintersun',
                             extLink: '',
-                            routerLink: '/stores/SobhaVictoriaPark'
+                            routerLink: '/stores/CenturyWintersun'
                         }
                     ]
                 },
@@ -292406,13 +292406,13 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/sobha-royal-crest.webp',
                             label: 'Sobha-Royal-Crest',
                             extLink: '',
-                            routerLink: '/stores/SobhaRoyalPavillion'
+                            routerLink: '/stores/SobhaRoyalCrest'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/sobha-brooklyn.webp',
                             label: 'Sobha-Brooklyn-Towers-Town-Park',
                             extLink: '',
-                            routerLink: '/stores/SobhaWindsor'
+                            routerLink: '/stores/SobhaBrooklynTowersTownPark'
                         }
 
                     ]
@@ -293764,13 +293764,13 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/ASSETZ-Marq1.webp',
                             label: 'ASSETZ Marq 3.0',
                             extLink: '',
-                            routerLink: '/stores/SobhaRoyalPavillion_1'
+                            routerLink: '/stores/ASSETZMarq30'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/ASSETZ1.jpg',
                             label: 'ASSETZ 63° East',
                             extLink: '',
-                            routerLink: '/stores/SobhaDreamAcres_1'
+                            routerLink: '/stores/ASSETZ63°East'
                         }
                     ]
                 },
@@ -295121,7 +295121,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/Assetz-Bloom.webp',
                             label: 'Assetz Bloom & Dell',
                             extLink: '',
-                            routerLink: '/stores/SobhaRajvilas'
+                            routerLink: '/stores/AssetzBloom&Dell'
                         },
                     ]
                 },
