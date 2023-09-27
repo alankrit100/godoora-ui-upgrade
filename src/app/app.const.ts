@@ -295626,7 +295626,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/GY_homepage_1.png',
-                            heading: '<strong>Exclusive Holidays Deals for you</strong>',
+                            heading: 'Exclusive Holidays Deals for you',
                             subHeading: 'Verified Partners | Unbeatable Prices | Reliable Customer Support'
                         },
                     ]
@@ -295640,25 +295640,25 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Royal_Caribbean_Cruise_OFfer.jpg',
                             label: '4N Royal Caribbean Cruise - Exclusive Blockings',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/4NRoyalCaribbeanCruiseExclusiveBlockings'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Bali_Fixed_Departure_Carousel_Latest.jpg',
                             label: '5N Bali Fixed Departure with Airfare',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/5NBaliFixedDeparturewithAirfare'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Oman_carousel_2_september.jpg',
                             label: '4N Majestic Oman Package',
                             extLink: '',
-                            routerLink: '/stores/Payment_1'
+                            routerLink: '/stores/4NMajesticOmanPackage'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Dubai_Special_Deal_June.jpg',
                             label: '4N Fun-Tastic Dubai Summer Deal',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/4NFunTasticDubaiSummerDeal'
                         }
                     ]
                 },
