@@ -295570,7 +295570,7 @@
             branch: 'default',
             branchImg: 'https://source.unsplash.com/433x649/?Uruguay',
             id: 'www.traveldeals.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/travels-logo.jpeg',
+            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/logo.png',
             theme: 'grey-theme',
             idCategory: 31,
             favIconLink: 'assets/icon/favicon.png',
@@ -295625,20 +295625,10 @@
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/home1.avif',
-                            heading: 'Exclusive Holidays Deals for you',
-                            subHeading: ''
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/GY_homepage_1.png',
+                            heading: '<strong>Exclusive Holidays Deals for you</strong>',
+                            subHeading: 'Verified Partners | Unbeatable Prices | Reliable Customer Support'
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/home2.webp',
-                            heading: 'Verified Partners Unbeatable Prices',
-                            subHeading: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/home3.jpg',
-                            heading: 'Reliable Customer Support',
-                            subHeading: ''
-                        }
                     ]
                 },
                 experience: {
@@ -295647,26 +295637,26 @@
                     desc: ``,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Vietnam1.jpg',
-                            label: 'Glimpses of Vietnam',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Royal_Caribbean_Cruise_OFfer.jpg',
+                            label: '4N Royal Caribbean Cruise - Exclusive Blockings',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/kerala1.webp',
-                            label: 'GLORIOUS KERALA',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Bali_Fixed_Departure_Carousel_Latest.jpg',
+                            label: '5N Bali Fixed Departure with Airfare',
                             extLink: '',
                             routerLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Makunudu1.jpg',
-                            label: 'Makunudu Island Maldives package',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Oman_carousel_2_september.jpg',
+                            label: '4N Majestic Oman Package',
                             extLink: '',
                             routerLink: '/stores/Payment_1'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali1.jpg',
-                            label: 'Bali',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Dubai_Special_Deal_June.jpg',
+                            label: '4N Fun-Tastic Dubai Summer Deal',
                             extLink: '',
                             routerLink: ''
                         }
@@ -295732,28 +295722,24 @@
                 },
                 stories: {
                     active: true,
-                    heading: 'Behind the scenes',
-                    desc: '',
+                    heading: 'Get Inspired',
+                    desc: 'Browse destination videos to get much needed inspiration for your trip',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/shimla1.webp',
-                            videoId: 'y9SgaWRM_Pg&list=PLMVV9AxH84ivTQcY3_8VrEX1NU_aKYS_6&index=1'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali1.jpg',
+                            videoId: 'BFS9n4B_2xA'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/munner2.png',
-                            videoId: 'oLHh7lF0pYo&list=PLMVV9AxH84ivTQcY3_8VrEX1NU_aKYS_6&index=3'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai.avif',
+                            videoId: 'ahy5o5nT4oI'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/agra3.jpg',
-                            videoId: 'MtKQmk0teWY&list=PLMVV9AxH84ivTQcY3_8VrEX1NU_aKYS_6&index=5'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/taj.webp',
+                            videoId: 'CsoWoS6aL0E'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jaipur4.jpg',
-                            videoId: 'xK1ioymxWS8&list=PLMVV9AxH84ivTQcY3_8VrEX1NU_aKYS_6&index=10'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/singapore5.webp',
-                            videoId: 'AFUssZvI950&list=PLMVV9AxH84ivTQcY3_8VrEX1NU_aKYS_6&index=13'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/kerala1.webp',
+                            videoId: 'zD43hknPtLc'
                         }
                     ]
                 },
@@ -295858,120 +295844,7 @@
             ],
             departments: [
                 {
-                    name: 'Food Menu',
-                    icon: 'Islandicons/menu.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Griham/abbydhama/Free+Food+Menu.pdf',
-                    services: [
-                        {
-                            name: 'Menu',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'abbydhama/menu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to know if there is a cloak room',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Web Checkin',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/checkin.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkIn',
-                            headerText: 'Select a date & time you would like to checkIn.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            checkinForm: true
-                        },
-                        {
-                            name: 'Web Checkout',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/reception.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkout',
-                            headerText: 'Select a date & time you would like to checkOut',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Assistance',
-                    icon: 'Islandicons/reception.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Web Check-In',
-                            extLink: 'https://forms.gle/gYSYStMjVxM3uJKz8',
-                            routerLink: '',
-                            icon: 'Islandicons/reception.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Terms and Condition',
-                            extLink: 'https://forms.gle/zZAXvCz1EtDxXkS57',
-                            routerLink: '',
-                            icon: 'Islandicons/terms.png',
-                            showTextarea: true,
-                            placeholder: 'Example: Please send me an extra pillow',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Special Request',
-                            extLink: 'https://forms.gle/pmks5u7TcGAs8J6x6',
-                            routerLink: '',
-                            icon: 'Islandicons/SpecRequest.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please arrange laundry pickup for me',
-                            headerText: 'Select a time when our person can knock your door',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Route Map',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/routmap.jpg',
-                            routerLink: '',
-                            icon: 'abbydhama/map.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please sanitize my room and replace bedding',
-                            headerText: 'Select an ideal time for us to work in your room',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Wellness and Fitness',
+                    name: 'Local Experiences',
                     icon: 'kediyoor-icon/fitness.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -295979,7 +295852,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: 'Spa',
+                            name: '4N Royal Caribbean Cruise - Exclusive Blockings',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/spa.png',
@@ -295988,11 +295861,14 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/royal1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Royal_Caribbean_Cruise_OFfer.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/royal2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Gym',
+                            name: '5N Bali Fixed Departure with Airfare',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/gym.png',
@@ -296001,11 +295877,14 @@
                             placeholder: 'Ex: I would like to use the treadmill',
                             headerText: 'When would you like to hit the Gym?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Bali_Fixed_Departure_Carousel_Latest.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali2.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
                         {
-                            name: 'Swimming Pool',
+                            name: '4N Majestic Oman Package',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/swimming.png',
@@ -296014,697 +295893,30 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a Slot'
-                        }
-                    ]
-                },
-                {
-                    name: 'Recreation & Sports',
-                    icon: 'kediyoor-icon/tenniss.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Tennis',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/tenniss.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the racket in the court',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/oman.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Oman_carousel_2_september.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/oman2.webp' }
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         },
                         {
-                            name: 'Pool Table',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/ping-pong.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Travel and Activities',
-                    icon: 'kediyoor-icon/bus.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the cab'
-                        },
-                        {
-                            name: 'Local Taxi',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a Cab'
-                        }
-                    ]
-                },
-                {
-                    name: 'Repairs',
-                    icon: 'kediyoor-icon/repair.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'TV',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/tv.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: None of the Kannada channels are not working',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'AC',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/ac.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need help in adjusting room temprature',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Coffee Maker',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/coffee.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Need help in operating the coffee maker',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Hair Dryer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/dryer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Please replace the hair dryer',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Electrical',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/bulb.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Others',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/others.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Pre-Book Special Dining',
-                    icon: 'kediyoor-icon/food.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Candle light dinner with Birthday Cake',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Sea Food Platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/fish.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Mangalore Thali',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Udupi Breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Pre-book Local Sightseeing',
-                    icon: 'kediyoor-icon/forest.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'St. Mary Island tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/island.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Houseboat Ride',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/house.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this ride.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Scuba Diving',
+                            name: '4N Fun-Tastic Dubai Summer Deal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/swimming.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this diving.',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                            headerText: 'When would you like to get into the pool?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Dubai_Special_Deal_June.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai2.avif' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Water Scooter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/rafting.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this ride.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                    ]
-                },
-                {
-                    name: 'In-house Experiences and Workshops',
-                    icon: 'kediyoor-icon/home.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Towel Origami Class',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/towel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Cooking with chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/chef.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Mocktail Making Class',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/mocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Learn Painting from Udupi artists',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/art.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Book a Slot'
                         }
                     ]
                 },
-                {
-                    name: 'Pre-Book & Shop Local Items',
-                    icon: 'kediyoor-icon/shopping.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'DakshinaKannada Crafts',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/others.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this shopping',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Painting Local Artisan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/paint.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'DIY Eco Friendly Craft Kits',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/food-pickup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Room Booking',
-                    icon: 'kediyoor-icon/bed.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Room Booking',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Exclusive Offers',
-                    icon: 'kediyoor-icon/offerr.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Book 1 Seafood platter & get one Mocktail free',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Book Personalised Dinner and get one Mocktail Free',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Restaurant Menu',
-                    icon: 'kediyoor-icon/restaurant1.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Breakfast Menu',
-                            extLink: '',
-                            routerLink: '',
-                            icon: 'fortunegrace/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Snacks Menu',
-                            extLink: '',
-                            routerLink: '',
-                            icon: 'fortunegrace/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Dinner Menu',
-                            extLink: '',
-                            routerLink: '',
-                            icon: 'fortunegrace/tray.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Lunch Menu',
-                            extLink: '',
-                            routerLink: '',
-                            icon: 'kediyoor-icon/restaurant1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Book Rooms at Special Offers',
-                    icon: 'palace/travel-luggage.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Superior Room',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Any special requests?',
-                            placeholder: 'Ex: I need one extra bed.',
-                            headerText: 'Please select below the dates for your stay',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
-                            ],
-                            bookingEngine: true,
-                            confirmBtnLabel: 'BOOK NOW'
-                        },
-                        {
-                            name: 'Suite Room',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/hotel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Any special requests?',
-                            placeholder: 'Ex: I need one extra bed.',
-                            headerText: 'Please select below the dates for your stay',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
-                            ],
-                            bookingEngine: true,
-                            confirmBtnLabel: 'BOOK NOW'
-                        },
-                        {
-                            name: 'Continental Plan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/plan1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Any special requests?',
-                            placeholder: 'Ex: I need one extra bed.',
-                            headerText: 'Please select below the dates for your stay',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
-                            ],
-                            bookingEngine: true,
-                            confirmBtnLabel: 'BOOK NOW'
-                        },
-                        {
-                            name: 'American Plan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/plan2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Any special requests?',
-                            placeholder: 'Ex: I need one extra bed.',
-                            headerText: 'Please select below the dates for your stay',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
-                            ],
-                            bookingEngine: true,
-                            confirmBtnLabel: 'BOOK NOW'
-                        },
-                        {
-                            name: 'Modified American plan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/plan3.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Any special requests?',
-                            placeholder: 'Ex: I need one extra bed.',
-                            headerText: 'Please select below the dates for your stay',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room1-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room2-min.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/room3.jpg' }
-                            ],
-                            bookingEngine: true,
-                            confirmBtnLabel: 'BOOK NOW'
-                        }
-                    ]
-                },
-                {
-                    name: 'About Us',
-                    icon: 'palace/aboutus.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'About Us',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/about.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to know the services offered by you',
-                            headerText: 'You can contact us through text or call.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/contactus.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Contact Us',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/contact.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to know the services offered by you.',
-                            headerText: 'You can contact us through text or call.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/contactus.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/palacegarden/pwps2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Payment',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'palace/cashless-payment.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to make the payment',
-                            headerText: 'What kind of payment do you like to make?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Islandhomestay/Payment.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                }
             ],
             comingSoon: {
                 active: true,
