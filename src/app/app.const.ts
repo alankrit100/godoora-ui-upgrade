@@ -295727,19 +295727,19 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali1.jpg',
-                            videoId: 'BFS9n4B_2xA'
+                            videoId: 'Ic31Izt69lo'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai.avif',
-                            videoId: 'ahy5o5nT4oI'
+                            videoId: 'p6Y52iiVnt8'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/taj.webp',
-                            videoId: 'CsoWoS6aL0E'
+                            videoId: 'MtKQmk0teWY'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/kerala1.webp',
-                            videoId: 'zD43hknPtLc'
+                            videoId: 'qJakT51glJI'
                         }
                     ]
                 },
