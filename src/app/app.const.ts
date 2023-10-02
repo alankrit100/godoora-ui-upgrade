@@ -170966,7 +170966,7 @@
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_1',
+                            routerLink: '/stores/DeepTissueMassage_13',
                             extLink: ''
                         },
                         {
@@ -170974,7 +170974,7 @@
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial',
+                            routerLink: '/stores/Facial_11',
                             extLink: ''
                         },
                         {
@@ -170982,7 +170982,7 @@
                             name: 'Head Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/HeadMassage_1',
+                            routerLink: '/stores/HeadMassage_7',
                             extLink: ''
                         },
                         {
@@ -170990,7 +170990,7 @@
                             name: 'Foot Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FootMassage',
+                            routerLink: '/stores/FootMassage_5',
                             extLink: ''
                         },
                         {
@@ -170998,7 +170998,7 @@
                             name: 'Japanese Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/JapaneseMassage',
+                            routerLink: '/stores/JapaneseMassage_5',
                             extLink: ''
                         },
                     ]
@@ -171013,7 +171013,7 @@
                             name: 'Special dining experience',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/Specialdiningexperience',
                             extLink: ''
                         },
                         {
@@ -171021,7 +171021,7 @@
                             name: 'Cook with Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/CookwithChef_17',
                             extLink: ''
                         },
                         {
@@ -171029,7 +171029,7 @@
                             name: 'Celebrate special days',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/Celebratespecialdays_4',
                             extLink: ''
                         },
                     ]
