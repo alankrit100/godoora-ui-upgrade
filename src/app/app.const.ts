@@ -289301,109 +289301,109 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Badrinath.jpg',
                             label: 'Badrinath',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Badrinath'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/kedarnath.jpg',
                             label: 'Kedarnath',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Kedarnath'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/backwater-in-kerala.jpg',
                             label: 'Backwater in Kerala',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/BackwaterinKerala'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/hills-of-kerala.jpg',
                             label: 'Hills of Kerala',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/HillsofKerala'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Costa-Serena-Mumbai.jpg',
                             label: 'Costa Serena Mumbai',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/CostaSerenaMumbai'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Costa-Serena-Goa.jpg',
                             label: 'Costa Serena Goa',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/CostaSerenaGoa'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Vibrant-Kerala.jpg',
                             label: 'Vibrant Kerala',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/VibrantKerala'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Jyotirlingas.jpg',
                             label: 'Jyotirlingas Tour of Madhya Pradesh',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/JyotirlingasTourofMadhyaPradesh'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Makunudu-Island.jpg',
                             label: 'Makunudu Island',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/MakunuduIsland'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Glimpses-of-Vietnam.jpg',
                             label: 'Glimpses of Vietnam',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/GlimpsesofVietnam'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Express-Vietnam-Tour.jpg',
                             label: 'Express Vietnam Tour',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/ExpressVietnamTour'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Best-of-Turkey.webp',
                             label: 'Best of Turkey with Antalya',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/BestofTurkeywithAntalya'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/istambul.jpeg',
                             label: 'Istambul',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Istambul'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/singapur.jpg',
                             label: 'Singapur',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Singapur'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/australia.webp',
                             label: 'Australia',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Australia'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Switzerland.webp',
                             label: 'Switzerland',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Switzerland'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Italy.jpg',
                             label: 'Italy',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Italy'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Spain.avif',
                             label: 'Spain',
                             extLink: '',
-                            routerLink: ''
+                            routerLink: '/stores/Spain'
                         }
                     ]
                 },
