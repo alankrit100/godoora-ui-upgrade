@@ -169486,7 +169486,7 @@
                     icon: 'fortunemussoorieicons/Front.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+rajkot/Aligarh-Service-Directory.pdf',
                     services: [
                         {
