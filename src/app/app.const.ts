@@ -289322,26 +289322,26 @@
                             routerLink: '/stores/HillsofKerala'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Costa-Serena-Mumbai.jpg',
-                            label: 'Costa Serena Mumbai',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa1.jpg',
+                            label: 'Goa',
                             extLink: '',
                             routerLink: '/stores/CostaSerenaMumbai'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Costa-Serena-Goa.jpg',
-                            label: 'Costa Serena Goa',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/pondicherry1.avif',
+                            label: 'Pondicherry',
                             extLink: '',
                             routerLink: '/stores/CostaSerenaGoa'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Vibrant-Kerala.jpg',
-                            label: 'Vibrant Kerala',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/manali1.jpg',
+                            label: 'Shimla and Manali',
                             extLink: '',
                             routerLink: '/stores/VibrantKerala'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Jyotirlingas.jpg',
-                            label: 'Jyotirlingas Tour of Madhya Pradesh',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/leh-ladakh1.jpg',
+                            label: 'Leh-Ladakh',
                             extLink: '',
                             routerLink: '/stores/JyotirlingasTourofMadhyaPradesh'
                         },
@@ -289683,40 +289683,6 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Express Vietnam Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/swimming.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
-                            headerText: 'When would you like to get into the pool?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Express-Vietnam-Tour.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Express1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Express2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Glimpses of Vietnam',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/swimming.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
-                            headerText: 'When would you like to get into the pool?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Glimpses-of-Vietnam.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Glimpses.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Glimpses1.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Makunudu Island',
                             extLink: '',
                             routerLink: 'test',
@@ -289734,7 +289700,7 @@
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Jyotirlingas Tour of Madhya Pradesh',
+                            name: 'Leh-Ladakh',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/swimming.png',
@@ -289743,15 +289709,15 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Jyotirlingas.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Jyotirlingas1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Jyotirlingas2.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/leh-ladakh1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/leh-ladakh2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/leh-ladakh3.avif' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Vibrant Kerala',
+                            name: 'Shimla and Manali',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/swimming.png',
@@ -289760,15 +289726,15 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Vibrant-Kerala.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Vibrant-Kerala1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Vibrant-Kerala2.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/manali1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/manali2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/manali3.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Costa Serena Goa',
+                            name: 'Pondicherry',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/swimming.png',
@@ -289777,26 +289743,26 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Costa-Serena-Goa.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/pondicherry1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/pondicherry2.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/pondicherry3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Goa',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/swimming.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                            headerText: 'When would you like to get into the pool?',
+                            gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa2.webp' }
-                            ],
-                            confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Costa Serena Mumbai',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'kediyoor-icon/swimming.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
-                            headerText: 'When would you like to get into the pool?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Costa-Serena-Mumbai.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Mumbai2.webp' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Mumbai1.webp' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa3.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
