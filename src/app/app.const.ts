@@ -289379,7 +289379,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/singapur.jpg',
                             label: 'Singapore',
                             extLink: '',
-                            routerLink: '/stores/Singapur'
+                            routerLink: '/stores/Singapore'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/australia.webp',
@@ -289677,7 +289677,7 @@
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/istambul.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Istambul1.webp' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Istambul1.png' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Istambul2.png' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
