@@ -289325,25 +289325,25 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa1.jpg',
                             label: 'Goa',
                             extLink: '',
-                            routerLink: '/stores/CostaSerenaMumbai'
+                            routerLink: '/stores/Goa_4'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/pondicherry1.avif',
                             label: 'Pondicherry',
                             extLink: '',
-                            routerLink: '/stores/CostaSerenaGoa'
+                            routerLink: '/stores/Pondicherry'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/manali1.jpg',
                             label: 'Shimla and Manali',
                             extLink: '',
-                            routerLink: '/stores/VibrantKerala'
+                            routerLink: '/stores/ShimlaandManali'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/leh-ladakh1.jpg',
                             label: 'Leh-Ladakh',
                             extLink: '',
-                            routerLink: '/stores/JyotirlingasTourofMadhyaPradesh'
+                            routerLink: '/stores/LehLadakh'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Makunudu-Island.jpg',
