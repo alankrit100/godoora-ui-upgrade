@@ -169482,12 +169482,12 @@
                     ]
                 },
                 {
-                    name: 'Front Desk',
+                    name: 'Services Directory',
                     icon: 'fortunemussoorieicons/Front.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
-                    extLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+rajkot/Aligarh-Service-Directory.pdf',
                     services: [
                         {
                             name: 'Reception',
@@ -171764,7 +171764,7 @@
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sanaas/Aligarh-Service-Directory.pdf',
+                    extLink: '',
                     services: [
                         {
                             name: 'IRD Menu',
