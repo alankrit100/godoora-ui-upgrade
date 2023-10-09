@@ -289184,26 +289184,26 @@
                     desc: ``,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/royal2.jpg',
-                            label: '4N Royal Caribbean Cruise - Exclusive Blockings',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/singapore.jpg',
+                            label: 'Singapore',
                             extLink: '',
                             routerLink: '/stores/4NRoyalCaribbeanCruiseExclusiveBlockings'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali1.jpg',
-                            label: '5N Bali Fixed Departure with Airfare',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/goa.jpg',
+                            label: 'Goa',
                             extLink: '',
                             routerLink: '/stores/5NBaliFixedDeparturewithAirfare'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/oman.webp',
-                            label: '4N Majestic Oman Package',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/thailand.jpg',
+                            label: 'Thailand',
                             extLink: '',
                             routerLink: '/stores/4NMajesticOmanPackage'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai2.avif',
-                            label: '4N Fun-Tastic Dubai Summer Deal',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/vietnam.jpg',
+                            label: 'Vietnam',
                             extLink: '',
                             routerLink: '/stores/4NFunTasticDubaiSummerDeal'
                         }
@@ -289435,7 +289435,7 @@
                     extLink: '',
                     services: [
                         {
-                            name: '4N Royal Caribbean Cruise - Exclusive Blockings',
+                            name: 'Singapore',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/spa.png',
@@ -289444,15 +289444,15 @@
                             placeholder: 'placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/royal1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Royal_Caribbean_Cruise_OFfer.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/royal2.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Singapore2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/singapore.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Singapore1.avif' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: '5N Bali Fixed Departure with Airfare',
+                            name: 'Goa',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/gym.png',
@@ -289461,15 +289461,15 @@
                             placeholder: 'Ex: I would like to use the treadmill',
                             headerText: 'When would you like to hit the Gym?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Bali_Fixed_Departure_Carousel_Latest.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bali2.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/goa.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa1.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
                         {
-                            name: '4N Majestic Oman Package',
+                            name: 'Thailand',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/swimming.png',
@@ -289478,15 +289478,15 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/oman.webp' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Oman_carousel_2_september.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/oman2.webp' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/thailand1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/thailand.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/thailand2.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
                         {
-                            name: '4N Fun-Tastic Dubai Summer Deal',
+                            name: 'Vietnam',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'kediyoor-icon/swimming.png',
@@ -289495,9 +289495,9 @@
                             placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                             headerText: 'When would you like to get into the pool?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Dubai_Special_Deal_June.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai2.avif' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Vietnam2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/vietnam.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/Vietnam1.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
