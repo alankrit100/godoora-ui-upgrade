@@ -289187,25 +289187,25 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/singapore.jpg',
                             label: 'Singapore',
                             extLink: '',
-                            routerLink: '/stores/4NRoyalCaribbeanCruiseExclusiveBlockings'
+                            routerLink: '/stores/Singapore_1'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/goa.jpg',
                             label: 'Goa',
                             extLink: '',
-                            routerLink: '/stores/5NBaliFixedDeparturewithAirfare'
+                            routerLink: '/stores/Goa_5'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/thailand.jpg',
                             label: 'Thailand',
                             extLink: '',
-                            routerLink: '/stores/4NMajesticOmanPackage'
+                            routerLink: '/stores/Thailand'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/vietnam.jpg',
                             label: 'Vietnam',
                             extLink: '',
-                            routerLink: '/stores/4NFunTasticDubaiSummerDeal'
+                            routerLink: '/stores/Vietnam_1'
                         }
                     ]
                 },
