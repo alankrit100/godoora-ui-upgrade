@@ -285106,7 +285106,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/century-wintersun.jpg',
                             label: 'Launching Century Wintersun Phase-2',
                             extLink: '',
-                            routerLink: '/stores/CenturyWintersun'
+                            routerLink: '/stores/LaunchingCenturyWintersunPhase2'
                         }
                     ]
                 },
