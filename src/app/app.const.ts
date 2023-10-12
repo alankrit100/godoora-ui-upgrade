@@ -173228,7 +173228,7 @@
                             name: 'Nainital Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NainitalHillStation',
                             extLink: ''
                         },
                         {
@@ -173236,7 +173236,7 @@
                             name: 'Ranikhet Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RanikhetHillStation',
                             extLink: ''
                         },
                         {
@@ -173244,7 +173244,7 @@
                             name: 'Bhimtal Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BhimtalHillStation',
                             extLink: ''
                         },
                         {
@@ -173252,7 +173252,7 @@
                             name: 'Pangot Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PangotHillStation',
                             extLink: ''
                         },
                     ]
