@@ -291618,7 +291618,128 @@
                             label: 'Spain',
                             extLink: '',
                             routerLink: '/stores/Spain'
-                        }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
+                            label: 'Dubai',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome1.jpg',
+                            label: 'Rome',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london1.jpg',
+                            label: 'London',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
+                            label: 'Maldives',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo1.jpg',
+                            label: 'Tokyo',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster1.jpeg',
+                            label: 'Amsterdam',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris1.jpeg',
+                            label: 'Paris',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney1.jpg',
+                            label: 'Sydney',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1.jpg',
+                            label: 'New York City',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris1.jpeg',
+                            label: 'Paris',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali1.jpg',
+                            label: 'Manali',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg1.jpg',
+                            label: 'Coorg',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman1.jpg',
+                            label: 'Andaman',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur1.jpeg',
+                            label: 'Udaipur',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty1.jpg',
+                            label: 'Ooty',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona1.jpg',
+                            label: 'Lonavala',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi1.jpeg',
+                            label: 'Varanasi',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie1.jpeg',
+                            label: 'Massoorie',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur3.jpg',
+                            label: 'Jodhpur',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount1.jpg',
+                            label: 'Mount Abu',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        
                     ]
                 },
                 heroIntro: {
@@ -292048,7 +292169,351 @@
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
-                        }
+                        },
+                        {
+                        name: 'Dubai',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Rome',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'London',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Maldives',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Tokyo',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Amsterdam',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Barcelona',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Sydney',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'New York City',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Paris',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Manali',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Coorg',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Andaman',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Udaipur',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Ooty',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Lonavala',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Varanasi',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Massoorie',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Jodhpur',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Mount Abu',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    
+            
+
+                        
                     ]
                 }
             ],
