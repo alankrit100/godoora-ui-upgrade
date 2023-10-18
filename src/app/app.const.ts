@@ -291623,41 +291623,41 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
                             label: 'Dubai',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Dubai'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome1.jpg',
                             label: 'Rome',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Rome'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london1.jpg',
                             label: 'London',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/London'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
                             label: 'Maldives',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Maldives'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo1.jpg',
                             label: 'Tokyo',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Tokyo'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster1.jpeg',
                             label: 'Amsterdam',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Amsterdam'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris1.jpeg',
-                            label: 'Paris',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar1.jpg',
+                            label: 'Barcelona',
                             extLink: '',
                             routerLink: '/stores/'
                         },
@@ -291665,79 +291665,79 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney1.jpg',
                             label: 'Sydney',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Sydney'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1.jpg',
                             label: 'New York City',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/NewYorkCity'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris1.jpeg',
                             label: 'Paris',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Paris'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali1.jpg',
                             label: 'Manali',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Manali_1'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg1.jpg',
                             label: 'Coorg',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Coorg'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman1.jpg',
                             label: 'Andaman',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Andaman'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur1.jpeg',
                             label: 'Udaipur',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Udaipur_1'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty1.jpg',
                             label: 'Ooty',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Ooty'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona1.jpg',
                             label: 'Lonavala',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Lonavala_1'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi1.jpeg',
                             label: 'Varanasi',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Varanasi'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie1.jpeg',
                             label: 'Massoorie',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Massoorie'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur3.jpg',
                             label: 'Jodhpur',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/Jodhpur'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount1.jpg',
                             label: 'Mount Abu',
                             extLink: '',
-                            routerLink: '/stores/'
+                            routerLink: '/stores/MountAbu'
                         },
                         
                     ]
