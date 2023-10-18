@@ -173115,7 +173115,7 @@
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Jim-Corbett',
+            title: 'Fortune Jim Corbett',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -173228,7 +173228,7 @@
                             name: 'Nainital Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NainitalHillStation',
                             extLink: ''
                         },
                         {
@@ -173236,7 +173236,7 @@
                             name: 'Ranikhet Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RanikhetHillStation',
                             extLink: ''
                         },
                         {
@@ -173244,7 +173244,7 @@
                             name: 'Bhimtal Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BhimtalHillStation',
                             extLink: ''
                         },
                         {
@@ -173252,7 +173252,7 @@
                             name: 'Pangot Hill Station',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PangotHillStation',
                             extLink: ''
                         },
                     ]
@@ -174439,9 +174439,9 @@
             }
         },
         {
-            branch: 'ITC Royal Bengal-Kolkata',
+            branch: 'Kolkata',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-kolkata/ITC-Royal-Bengal-kolkata.png',
-            id: 'www.ITC Royal Bengal-Kolkata.goyaana.com',
+            id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-kolkata/ITCRoyalBengal-Kolkatalogo.jpeg',
             theme: 'fortune-theme',
             idCategory: 10,
@@ -285490,6 +285490,13 @@
                             desc: '3 BHK Luxury Apartments/Flats',
                             extLink: '',
                             routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Launching1.webp',
+                            label: 'Launching Century Wintersun Phase-2',
+                            desc: '4BHK  Villa, Super Built up area: 3100 sqft ',
+                            extLink: '',
+                            routerLink: ''
                         }
                     ]
                 },
@@ -286389,183 +286396,68 @@
                             label: 'Century Wintersun',
                             extLink: '',
                             routerLink: '/stores/CenturyWintersun'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/century-wintersun.jpg',
+                            label: 'Launching Century Wintersun Phase-2',
+                            extLink: '',
+                            routerLink: '/stores/LaunchingCenturyWintersunPhase2'
                         }
                     ]
                 },
                 destinations: {
-                    active: false,
-                    heading: 'Exclusive Offers',
-                    desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
+                    active: true,
+                    heading: 'Our Developers',
+                    desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
-                            name: 'TORI KASTU ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Total.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
-                            name: 'YASAI FUTO MAKI',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/assetz.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
-                            name: 'CRAB TEMPURA',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Embassy.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
-                            name: 'SPICY SALMON SUSHI ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Brigade.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
-                            name: 'MURGH MALAI CHAAP',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Sobha.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
-                            name: 'SABNAMI VEG SHEEK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/prestige.png',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
-                            name: 'VEG CHILLY MILLY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
-                            name: 'MURGH SOLEY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
-                            name: 'KHUMB CHEMAN TIKKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/sushi.jpeg',
-                            name: 'DILCIOUS MIX SUSHI PLATTERS',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rajma.jpeg',
-                            name: 'DILCIOUS RAJMA CHAWAL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/crispyshrimp.jpeg',
-                            name: 'DILCIOUS CRISPY SHRIMP MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/salmonmaki.jpeg',
-                            name: 'DILCIOUS FLAMED SALMON MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        }
                     ]
                 },
                 experiences: {
@@ -286843,6 +286735,13 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
                             label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
+                            extLink: '+',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Launching1.webp',
+                            label: 'Launching Century Wintersun Phase-2',
+                            desc: '4BHK  Villa, Super Built up area: 3100 sqft ',
                             extLink: '',
                             routerLink: ''
                         }
@@ -286961,6 +286860,24 @@
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/century-wintersun.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/go-digital/banner.jpg' },
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Launching Century Wintersun Phase-2',
+                            extLink: '',
+                            routerLink: 'test',
+
+                            icon: 'godigital/five.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this experience.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Launching1.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Launching2.webp' },
 
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -287768,179 +287685,58 @@
                     ]
                 },
                 destinations: {
-                    active: false,
-                    heading: 'Exclusive Offers',
-                    desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
+                    active: true,
+                    heading: 'Our Developers',
+                    desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
-                            name: 'TORI KASTU ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Total.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
-                            name: 'YASAI FUTO MAKI',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/assetz.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
-                            name: 'CRAB TEMPURA',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Embassy.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
-                            name: 'SPICY SALMON SUSHI ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Brigade.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
-                            name: 'MURGH MALAI CHAAP',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Sobha.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
-                            name: 'SABNAMI VEG SHEEK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/prestige.png',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
-                            name: 'VEG CHILLY MILLY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
-                            name: 'MURGH SOLEY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
-                            name: 'KHUMB CHEMAN TIKKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/sushi.jpeg',
-                            name: 'DILCIOUS MIX SUSHI PLATTERS',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rajma.jpeg',
-                            name: 'DILCIOUS RAJMA CHAWAL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/crispyshrimp.jpeg',
-                            name: 'DILCIOUS CRISPY SHRIMP MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/salmonmaki.jpeg',
-                            name: 'DILCIOUS FLAMED SALMON MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        }
                     ]
                 },
                 experiences: {
@@ -288218,6 +288014,13 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
                             label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Launching1.webp',
+                            label: 'Launching Century Wintersun Phase-2',
+                            desc: '4BHK  Villa, Super Built up area: 3100 sqft ',
                             extLink: '',
                             routerLink: ''
                         }
@@ -289125,179 +288928,58 @@
                     ]
                 },
                 destinations: {
-                    active: false,
-                    heading: 'Exclusive Offers',
-                    desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
+                    active: true,
+                    heading: 'Our Developers',
+                    desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
-                            name: 'TORI KASTU ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Total.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
-                            name: 'YASAI FUTO MAKI',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/assetz.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
-                            name: 'CRAB TEMPURA',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Embassy.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
-                            name: 'SPICY SALMON SUSHI ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Brigade.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
-                            name: 'MURGH MALAI CHAAP',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Sobha.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
-                            name: 'SABNAMI VEG SHEEK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/prestige.png',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
-                            name: 'VEG CHILLY MILLY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
-                            name: 'MURGH SOLEY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
-                            name: 'KHUMB CHEMAN TIKKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/sushi.jpeg',
-                            name: 'DILCIOUS MIX SUSHI PLATTERS',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rajma.jpeg',
-                            name: 'DILCIOUS RAJMA CHAWAL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/crispyshrimp.jpeg',
-                            name: 'DILCIOUS CRISPY SHRIMP MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/salmonmaki.jpeg',
-                            name: 'DILCIOUS FLAMED SALMON MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        }
                     ]
                 },
                 experiences: {
@@ -289575,6 +289257,13 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
                             label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Launching1.webp',
+                            label: 'Launching Century Wintersun Phase-2',
+                            desc: '4BHK  Villa, Super Built up area: 3100 sqft ',
                             extLink: '',
                             routerLink: ''
                         }
@@ -290476,179 +290165,58 @@
                     ]
                 },
                 destinations: {
-                    active: false,
-                    heading: 'Exclusive Offers',
-                    desc: 'Experiences are something that we relive and talk about long after the moments are over. We promise to make your journey worth remembering.',
+                    active: true,
+                    heading: 'Our Developers',
+                    desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/TORIKASTU.jpeg',
-                            name: 'TORI KASTU ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Total.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/YEASI.jpeg',
-                            name: 'YASAI FUTO MAKI',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/assetz.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/CRAB.jpeg',
-                            name: 'CRAB TEMPURA',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Embassy.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SPICYSALMON.jpeg',
-                            name: 'SPICY SALMON SUSHI ROLL',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Brigade.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHMALAI.jpeg',
-                            name: 'MURGH MALAI CHAAP',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Sobha.jpg',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/SABNAMI.jpeg',
-                            name: 'SABNAMI VEG SHEEK',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/prestige.png',
+                            name: '',
                             location: '',
                             views: '',
                             routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
+                            extLink: '',
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/VEGCHILLY.jpeg',
-                            name: 'VEG CHILLY MILLY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/MURGHSOLEY.jpeg',
-                            name: 'MURGH SOLEY KEBAB',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/KUMBHCHEMAN.jpeg',
-                            name: 'KHUMB CHEMAN TIKKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/sushi.jpeg',
-                            name: 'DILCIOUS MIX SUSHI PLATTERS',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/rajma.jpeg',
-                            name: 'DILCIOUS RAJMA CHAWAL',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/crispyshrimp.jpeg',
-                            name: 'DILCIOUS CRISPY SHRIMP MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/salmonmaki.jpeg',
-                            name: 'DILCIOUS FLAMED SALMON MAKI',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                            btn: {
-                                routerLink: '',
-                                extLink: 'https://www.countryinnmanipal-restaurant.goyaana.com/#/search?category=Exclusive%20Offers',
-                                label: 'ORDER NOW'
-                            }
-                        }
                     ]
                 },
                 experiences: {
@@ -290926,6 +290494,13 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/east2.jpg',
                             label: 'Sobha Lake garden (3 BHK Luxury Apartments/Flats)',
                             desc: '3 BHK Luxury Apartments/Flats',
+                            extLink: '',
+                            routerLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GoDigital/Launching1.webp',
+                            label: 'Launching Century Wintersun Phase-2',
+                            desc: '4BHK  Villa, Super Built up area: 3100 sqft ',
                             extLink: '',
                             routerLink: ''
                         }
@@ -291997,7 +291572,7 @@
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/istambul.jpeg',
-                            label: 'Istambul',
+                            label: 'Istanbul',
                             extLink: '',
                             routerLink: '/stores/Istambul'
                         },
@@ -292030,7 +291605,128 @@
                             label: 'Spain',
                             extLink: '',
                             routerLink: '/stores/Spain'
-                        }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
+                            label: 'Dubai',
+                            extLink: '',
+                            routerLink: '/stores/Dubai'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome1.jpg',
+                            label: 'Rome',
+                            extLink: '',
+                            routerLink: '/stores/Rome'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london1.jpg',
+                            label: 'London',
+                            extLink: '',
+                            routerLink: '/stores/London'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
+                            label: 'Maldives',
+                            extLink: '',
+                            routerLink: '/stores/Maldives'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo1.jpg',
+                            label: 'Tokyo',
+                            extLink: '',
+                            routerLink: '/stores/Tokyo'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster1.jpeg',
+                            label: 'Amsterdam',
+                            extLink: '',
+                            routerLink: '/stores/Amsterdam'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar1.jpg',
+                            label: 'Barcelona',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney1.jpg',
+                            label: 'Sydney',
+                            extLink: '',
+                            routerLink: '/stores/Sydney'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1.jpg',
+                            label: 'New York City',
+                            extLink: '',
+                            routerLink: '/stores/NewYorkCity'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris1.jpeg',
+                            label: 'Paris',
+                            extLink: '',
+                            routerLink: '/stores/Paris'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali1.jpg',
+                            label: 'Manali',
+                            extLink: '',
+                            routerLink: '/stores/Manali_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg1.jpg',
+                            label: 'Coorg',
+                            extLink: '',
+                            routerLink: '/stores/Coorg'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman1.jpg',
+                            label: 'Andaman',
+                            extLink: '',
+                            routerLink: '/stores/Andaman'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur1.jpeg',
+                            label: 'Udaipur',
+                            extLink: '',
+                            routerLink: '/stores/Udaipur_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty1.jpg',
+                            label: 'Ooty',
+                            extLink: '',
+                            routerLink: '/stores/Ooty'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona1.jpg',
+                            label: 'Lonavala',
+                            extLink: '',
+                            routerLink: '/stores/Lonavala_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi1.jpeg',
+                            label: 'Varanasi',
+                            extLink: '',
+                            routerLink: '/stores/Varanasi'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie1.jpeg',
+                            label: 'Massoorie',
+                            extLink: '',
+                            routerLink: '/stores/Massoorie'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur3.jpg',
+                            label: 'Jodhpur',
+                            extLink: '',
+                            routerLink: '/stores/Jodhpur'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount1.jpg',
+                            label: 'Mount Abu',
+                            extLink: '',
+                            routerLink: '/stores/MountAbu'
+                        },
+                        
                     ]
                 },
                 heroIntro: {
@@ -292460,7 +292156,351 @@
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
-                        }
+                        },
+                        {
+                        name: 'Dubai',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Rome',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'London',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/london3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Maldives',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Tokyo',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Amsterdam',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Barcelona',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/bar3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Sydney',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/sydney3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'New York City',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Paris',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/paris3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Manali',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/manali3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Coorg',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/coorg3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Andaman',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Udaipur',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Ooty',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/ooty3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Lonavala',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/lona3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Varanasi',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/varanasi3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Massoorie',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie1.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie2.jpeg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/massoorie3.jpeg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Jodhpur',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/jodhpur3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Mount Abu',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount1.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    
+            
+
+                        
                     ]
                 }
             ],
