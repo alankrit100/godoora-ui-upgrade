@@ -174442,7 +174442,7 @@
             branch: 'Kolkata',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-kolkata/ITC-Royal-Bengal-kolkata.png',
             id: 'www.fortunehotels-experiences.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-kolkata/ITCRoyalBengal-Kolkatalogo.jpeg',
+            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
