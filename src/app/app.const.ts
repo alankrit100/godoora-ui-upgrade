@@ -174681,7 +174681,7 @@
                             name: 'The Royal Spa',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheRoyalSpa',
                             extLink: ''
                         },
                         {
@@ -174689,7 +174689,7 @@
                             name: 'Salon',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Salon_1',
                             extLink: ''
                         },
                         {
@@ -174697,7 +174697,7 @@
                             name: 'Health & Fitness Centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Health&FitnessCentre',
                             extLink: ''
                         },
                         
