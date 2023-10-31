@@ -113873,7 +113873,17 @@
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                    ]
+            ],
+            comingSoon: {
+                active: true,
+                heading: 'Something Awesome is in the works',
+                subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+            },
+            offSeason: {
+                active: true,
+                heading: 'The season is almost here',
+                subHeading: 'We are not yet open for bookings. Please visit us later.'
+            }
         },
         {
             branch: 'Inn-Grazia-Noida',
@@ -116851,6 +116861,18 @@
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
         },
+],
+comingSoon: {
+    active: true,
+    heading: 'Something Awesome is in the works',
+    subHeading: 'We are working on a new and exciting product that we think you’ll really like! Please visit us later.'
+},
+offSeason: {
+    active: true,
+    heading: 'The season is almost here',
+    subHeading: 'We are not yet open for bookings. Please visit us later.'
+}
+},
         {
             branch: 'Ahmedabad',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Fortune+Landmark+Ahmedabad+-+Copy+(1)+(1)+(1)_11zon.jpg',
