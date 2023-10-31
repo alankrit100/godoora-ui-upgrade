@@ -116872,7 +116872,7 @@ offSeason: {
     heading: 'The season is almost here',
     subHeading: 'We are not yet open for bookings. Please visit us later.'
 }
-},
+        },
         {
             branch: 'Ahmedabad',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Fortune+Landmark+Ahmedabad+-+Copy+(1)+(1)+(1)_11zon.jpg',
@@ -164784,19 +164784,19 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/1767'
+                            routerLink: '/by-admin/1774'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Special Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/1189'
+                            routerLink: '/by-admin/1775'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/1190'
+                            routerLink: '/by-admin/1776'
                         }
                     ]
                 },
@@ -166692,6 +166692,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/upgraderoom.jpeg'}
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -166706,6 +166707,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/meal.jpeg'}
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -166720,6 +166722,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/extrabed.jpeg'}
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -166745,6 +166748,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/poolsidedining.jpeg'}
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -166759,6 +166763,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/CustomIn-roomdining1.jpeg'}
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -166773,10 +166778,51 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/celebrateyourspecialday.jpeg'}
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         }
+                    ]
+                },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Manu Temple',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/museum.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/manutemple.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Hadimba Devi Temple',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/temple1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/hadimbadevitemple.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
             ],
