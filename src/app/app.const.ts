@@ -116930,7 +116930,7 @@
                 heading: 'The season is almost here',
                 subHeading: 'We are not yet open for bookings. Please visit us later.'
             }
-        },
+                },
 ],
 comingSoon: {
     active: true,
@@ -166864,31 +166864,33 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Manu Temple',
+                            name: 'Hasta Shilpa Heritage Village',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'aligarh/museum.png',
+                            icon: 'aligarh/village.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/manutemple.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/village1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/village2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Hadimba Devi Temple',
+                            name: 'Museum of Anatomy & Pathology',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'aligarh/temple1.png',
+                            icon: 'aligarh/museum.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal0/hadimbadevitemple.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/museum1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/manipal/museum2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
