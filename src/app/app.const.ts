@@ -113886,14 +113886,14 @@
             }
         },
         {
-            branch: 'Inn-Grazia-Noida',
+            branch: 'Fortune Sector 27',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Grazia, Noida',
+            title: 'Fortune Sector 27, Noida',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -113945,7 +113945,7 @@
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
-                            heading: 'Fortune Inn Grazia, Noida',
+                            heading: 'Fortune Sector 27, Noida',
                             subHeading: ''
                         },
                         {
@@ -113957,8 +113957,8 @@
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Inn Grazia, Noida',
-                    desc: `Fortune Inn Grazia Noida is conveniently located adjacent to the commercial and shopping hub of Sector -18 in Noida, close to corporates, multinational companies and other premier establishments. This contemporary full service business hotel in Noida offers an excellent range of guest facilities and services to the modern day traveler. A perfect amalgam of convenience, comfort and great value, the hotel is perfectly suited to service the NCR region covering Noida, Ghaziabad and Delhi.`,
+                    heading: 'Fortune Sector 27, Noida',
+                    desc: `Fortune Sector 27 Noida is conveniently located adjacent to the commercial and shopping hub of Sector -18 in Noida, close to corporates, multinational companies and other premier establishments. `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -115131,8 +115131,10 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/thegreatindianplace.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/place1.webp' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'DLF Mall',
@@ -115145,8 +115147,10 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/dlfmall.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/DLF-Mall.png' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Worlds Of Wonder',
@@ -115159,8 +115163,10 @@
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/worldsofwonder.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Worlds-Of-Wonder.webp' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                     ]
                 },
