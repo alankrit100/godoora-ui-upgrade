@@ -114840,8 +114840,8 @@
                     icon: 'aligarh/note.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Laundry+Price+list.pdf',
                     services: [
                         {
                             name: 'Bar Menu',
