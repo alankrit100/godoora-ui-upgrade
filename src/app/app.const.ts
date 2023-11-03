@@ -114837,7 +114837,7 @@
                 },
                 {
                     name: 'Laundry Price List',
-                    icon: 'aligarh/note.png',
+                    icon: 'aligarh/washing-machine.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
