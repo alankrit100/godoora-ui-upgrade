@@ -86109,7 +86109,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/905'
+                            routerLink: '/by-admin/1783'
                         }
                     ]
                 },
@@ -88509,29 +88509,6 @@
                     ]
                 },
                 {
-                    name: 'Quick Upgrades',
-                    icon: 'JammuIcons/upgrader.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Upgrade Room',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
                     name: 'Special Benefits',
                     icon: 'JammuIcons/Benifits.png',
                     size: '64px',
@@ -88611,6 +88588,42 @@
                             ],
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Plan Your Trip',
+                            icon: 'lucknow/skills.png',
+                            size: '64px',
+                            color: '#1a8cd2',
+                            routerLink: 'test',
+                            extLink: '',
+                            services: [
+                                {
+                                    name: 'Picnic spot',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'panchwatikolkatta/picnic.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Placeholder',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request'
+                                },
+                                {
+                                    name: 'Heritage walk',
+                                    extLink: '',
+                                    routerLink: 'test',
+                                    icon: 'panchwatikolkatta/museum.png',
+                                    showTextarea: true,
+                                    textAreaLabel: 'Request Summary',
+                                    placeholder: 'Example: I want to book a slot for this tour.',
+                                    headerText: 'Select a time you would like to receive it.',
+                                    gallery: [
+                                    ],
+                                    confirmBtnLabel: 'Submit Request'
+                                }
+                            ]
                         },
                     ]
                 },],
@@ -88733,7 +88746,7 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/804'
+                            routerLink: '/by-admin/1784'
                         }
                     ]
                 },
@@ -91044,6 +91057,45 @@
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        }
+                    ]
+                },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'lucknow/skills.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Akshardham Temple',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'panchwatikolkatta/picnic.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gandhinagar/gandhinagar/akshardhamtemple.jpg' }
+
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Borijderasar',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'panchwatikolkatta/museum.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this tour.',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/gandhinagar/gandhinagar/borijderasar.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
                         }
                     ]
                 },
@@ -127636,19 +127688,19 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/774'
+                            routerLink: '/by-admin/1786'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Special Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/775'
+                            routerLink: '/by-admin/1787'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/776'
+                            routerLink: '/by-admin/1788'
                         }
                     ]
                 },
@@ -134949,19 +135001,19 @@
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
                             label: 'Quick Upgrades',
                             extLink: '',
-                            routerLink: '/by-admin/812'
+                            routerLink: '/by-admin/1789'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'Special Benefits',
                             extLink: '',
-                            routerLink: '/by-admin/813'
+                            routerLink: '/by-admin/1790'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/814'
+                            routerLink: '/by-admin/1791'
                         }
                     ]
                 },
@@ -137595,7 +137647,56 @@
                             confirmBtnLabel: 'Submit Request'
                         }
                     ]
-                }
+                },
+                {
+                    name: 'Plan Your Trip',
+                    icon: 'fortunemussoorieicons/local.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Watson Museum',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/vacations.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Lal Pari Lake',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/waterfall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Kaba Gandhi No Dehlo',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Vijaywadaicons/mountain.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        }
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
@@ -144694,17 +144795,6 @@
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                    ]
-                },
-                {
-                    name: 'Plan Your Trip',
-                    icon: 'fortunemussoorieicons/local.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-
                     ]
                 },
                 {
