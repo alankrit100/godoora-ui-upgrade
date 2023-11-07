@@ -113982,7 +113982,7 @@
             }
         },
         {
-            branch: 'Fortune Sector 27',
+            branch: 'Fortune-Sector-27',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
