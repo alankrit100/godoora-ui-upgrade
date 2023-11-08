@@ -101486,15 +101486,7 @@ export const Vendors = {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Deep Tissue Massage',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/PoolSideDinner_16',
                             extLink: ''
                         },
                         {
@@ -101502,7 +101494,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/CandleLightDinner_24',
                             extLink: ''
                         },
                         {
@@ -101510,15 +101502,7 @@ export const Vendors = {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Facial_5',
+                            routerLink: '/stores/Naturebreakfast_18',
                             extLink: ''
                         },
                         {
@@ -101526,7 +101510,7 @@ export const Vendors = {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/CustomInroomdining_45',
                             extLink: ''
                         },
                     ]
@@ -101541,7 +101525,7 @@ export const Vendors = {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/CelebrateYourSpecialDay_44',
                             extLink: ''
                         },
                         {
@@ -101549,7 +101533,7 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/CookingSessionWithChef_14',
                             extLink: ''
                         },
                         {
@@ -101557,7 +101541,7 @@ export const Vendors = {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/BonfireatLawn_8',
                             extLink: ''
                         }
                     ]
@@ -102939,6 +102923,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/inroom.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/inroom2.webp' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -102971,9 +102957,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/poolside1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/poolside2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/poolside3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/pool.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/pool2.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -164364,7 +164349,7 @@ offSeason: {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/PoolSideDinner_17',
                             extLink: ''
                         },
                         {
@@ -164372,7 +164357,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/CandleLightDinner_25',
                             extLink: ''
                         },
                         {
@@ -164380,7 +164365,7 @@ offSeason: {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/Naturebreakfast_19',
                             extLink: ''
                         },
                         {
@@ -164388,7 +164373,7 @@ offSeason: {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/CustomInroomdining_47',
                             extLink: ''
                         },
                     ]
@@ -164403,7 +164388,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/CelebrateYourSpecialDay_46',
                             extLink: ''
                         },
                         {
@@ -164411,15 +164396,7 @@ offSeason: {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sanaas/Venue1.jpg',
-                            name: 'Wedding Venues',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/CookingSessionWithChef_15',
                             extLink: ''
                         },
                         {
@@ -164427,7 +164404,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/BonfireatLawn_9',
                             extLink: ''
                         }
                     ]
@@ -165332,6 +165309,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -165346,6 +165324,8 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/pool.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/pool2.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -165360,6 +165340,8 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/inroom.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/inroom2.webp' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -165398,6 +165380,9 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -165412,6 +165397,9 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/meal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/meal3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -165426,6 +165414,9 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/bed1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/bed2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/bed3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
