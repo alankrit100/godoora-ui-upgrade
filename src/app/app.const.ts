@@ -111249,7 +111249,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Dinning Experiences',
-                    desc: 'Dive into a whole new world of activities!',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner.jpg',
@@ -111280,16 +111280,8 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'Unique Hotel Offerings',
-                    desc: 'Enjoy the best of vantage Experience!',
+                    desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday.jpg',
-                            name: 'Bday or Anniversary TDH celebration table above 6pax',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax',
-                            extLink: ''
-                        },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg',
                             name: 'ANNIVERSARY DECORTAION',
@@ -111305,7 +111297,15 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/BirthdayRoomDecoration',
                             extLink: ''
-                        }
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday.jpg',
+                            name: 'Bday or Anniversary TDH celebration table above 6pax',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax',
+                            extLink: ''
+                        },
                     ]
                 },
                 activities: {
@@ -112667,8 +112667,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner2.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner3.webp' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
