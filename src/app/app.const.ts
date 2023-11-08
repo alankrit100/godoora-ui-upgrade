@@ -111256,7 +111256,7 @@ export const Vendors = {
                             name: 'Couple Candle light Dinner at pool-side',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_15',
+                            routerLink: '/stores/CoupleCandlelightDinneratpoolside',
                             extLink: ''
                         },
                         {
@@ -111264,7 +111264,7 @@ export const Vendors = {
                             name: 'Couple Candle light Dinner at lawn area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_23',
+                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea',
                             extLink: ''
                         },
                         {
@@ -111272,15 +111272,7 @@ export const Vendors = {
                             name: 'Couple Special Dinner table at Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_17',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
-                            name: 'Custom In-room dining',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CustomInroomdining_41',
+                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant',
                             extLink: ''
                         },
                     ]
@@ -111295,7 +111287,7 @@ export const Vendors = {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_41',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax',
                             extLink: ''
                         },
                         {
@@ -111303,7 +111295,7 @@ export const Vendors = {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_13',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION',
                             extLink: ''
                         },
                         {
@@ -111311,7 +111303,7 @@ export const Vendors = {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_7',
+                            routerLink: '/stores/BirthdayRoomDecoration',
                             extLink: ''
                         }
                     ]
