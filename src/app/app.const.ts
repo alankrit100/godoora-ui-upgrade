@@ -101478,8 +101478,8 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
-                    desc: 'Dive into a whole new world of activities!',
+                    heading: 'Dining Experiences',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg',
@@ -101518,7 +101518,7 @@ export const Vendors = {
                             name: 'Couple Candle light Dinner at pool-side',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratpoolside',
+                            routerLink: '/stores/CoupleCandlelightDinneratpoolside_1',
                             extLink: ''
                         },
                         {
@@ -101526,12 +101526,12 @@ export const Vendors = {
                             name: 'Couple Candle light Dinner at lawn area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea',
+                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/table-at-Restaurant.jpg',
-                            name: 'Couple Special Dinner table at Restaurant',
+                            name: 'Couple Special Dinner table at RestaurantCoupleSpecialDinnertableatRestaurant_1',
                             location: '',
                             views: '',
                             routerLink: '/stores/CoupleSpecialDinnertableatRestaurant',
@@ -101542,7 +101542,7 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'Unique Hotel Offerings',
-                    desc: 'Enjoy the best of vantage Experience!',
+                    desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
@@ -101573,7 +101573,7 @@ export const Vendors = {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_1',
                             extLink: ''
                         },
                         {
@@ -101581,7 +101581,7 @@ export const Vendors = {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration',
+                            routerLink: '/stores/BirthdayRoomDecoration_1',
                             extLink: ''
                         },
                         {
@@ -102407,7 +102407,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'In-house Experiences',
+                    name: 'Dining Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -103216,7 +103216,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: '1 + 1 mocktal',
+                            name: '1 + 1 mocktail',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/mocktail.png',
@@ -164526,8 +164526,8 @@ offSeason: {
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
-                    desc: 'Dive into a whole new world of activities!',
+                    heading: 'Dining Experiences',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg',
@@ -164590,7 +164590,7 @@ offSeason: {
                 experiences: {
                     active: true,
                     heading: 'Unique Hotel Offerings',
-                    desc: 'Enjoy the best of vantage Experience!',
+                    desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
@@ -165549,7 +165549,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: '1 + 1 mocktal',
+                            name: '1 + 1 mocktail',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/mocktail.png',
@@ -165928,7 +165928,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'In-house Experiences',
+                    name: 'Dining Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
