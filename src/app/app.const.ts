@@ -103470,6 +103470,36 @@ export const Vendors = {
                             confirmBtnLabel: 'Book a Slot',
                             storePageAsBlog: true
                         },
+                        {
+                            name: '1+1 Happy Hours',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/celebrating.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Vivek-Vihar/happy-hour.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Avail 20% Discount on Food & Beverages',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please keep the racket in the court',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Vivek-Vihar/food.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
