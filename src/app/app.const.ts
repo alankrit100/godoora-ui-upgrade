@@ -105583,8 +105583,8 @@ export const Vendors = {
                     icon: 'fortunegrace/directory.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Service-directory-Haridwar.pdf',
                     services: [
                         {
                             name: 'Welcome',
@@ -112652,7 +112652,7 @@ export const Vendors = {
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/NOIDA-SERVICE-DIRECTORY.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
@@ -165638,7 +165638,7 @@ offSeason: {
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+rajkot/Aligarh-Service-Directory.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Fortune-Park-Aligarh-Service-Directory.pdf',
                     services: [
                         {
                             name: 'Reception',
