@@ -57451,7 +57451,7 @@ export const Vendors = {
             }
         },
         {
-            branch: 'kolkata',
+            branch: 'Calcutta',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-kolkata/branch1.jpg',
             id: 'demohotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/BestTripHotelsLogo.png',
