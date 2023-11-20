@@ -62837,7 +62837,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'סדנאות',
+                    name: 'Workshops',
                     icon: 'orchid/gift.png',
                     size: '64px',
                     color: '#1a8cd2',
