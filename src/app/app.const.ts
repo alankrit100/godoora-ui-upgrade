@@ -61054,7 +61054,7 @@ export const Vendors = {
                 },
                 offers: {
                     active: true,
-                    heading: 'סדנאות',
+                    heading: 'Workshops',
                     desc: 'שירותים שהופכים את הטיול שלך למרגש ומלא עוד יותר.',
                     items: [
                         {
