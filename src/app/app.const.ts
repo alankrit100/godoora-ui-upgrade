@@ -51056,7 +51056,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
                             label: 'Book Direct Offer',
                             extLink: '',
-                            routerLink: '/by-admin/1373'
+                            routerLink: '/stores/BookDirectOffer'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
