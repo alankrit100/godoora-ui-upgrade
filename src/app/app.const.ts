@@ -51054,7 +51054,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/offer.png',
-                            label: 'Special Offers',
+                            label: 'Book Direct Offer',
                             extLink: '',
                             routerLink: '/by-admin/1373'
                         },
@@ -52880,6 +52880,20 @@ export const Vendors = {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/beyond1.webp' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/beyond2.webp' },
+                            ],
+                            confirmBtnLabel: 'Book a Slot'
+                        },
+                        {
+                            name: 'Book Direct Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/walk.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                
                             ],
                             confirmBtnLabel: 'Book a Slot'
                         }
