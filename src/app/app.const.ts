@@ -290113,25 +290113,25 @@ offSeason: {
                     desc: ``,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/singapore.jpg',
-                            label: 'Singapore',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
+                            label: 'Maldives',
                             extLink: '',
-                            routerLink: '/stores/Singapore_1'
+                            routerLink: '/stores/Maldives'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/goa.jpg',
-                            label: 'Goa',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
+                            label: 'Dubai',
                             extLink: '',
-                            routerLink: '/stores/Goa_5'
+                            routerLink: '/stores/Dubai'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/thailand.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/thailand.jpg',
                             label: 'Thailand',
                             extLink: '',
                             routerLink: '/stores/Thailand'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/vietnam.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/vietnam.jpg',
                             label: 'Vietnam',
                             extLink: '',
                             routerLink: '/stores/Vietnam_1'
@@ -290227,6 +290227,127 @@ offSeason: {
                     desc: '',
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Vibrant-Mauritius.avif',
+                            label: 'Vibrant Mauritius',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Express-Vietnam-Tour.jpg',
+                            label: 'Express Vietnam Tour',
+                            extLink: '',
+                            routerLink: '/stores/ExpressVietnamTour'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman1.jpg',
+                            label: 'Andaman',
+                            extLink: '',
+                            routerLink: '/stores/Andaman'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Bali1.webp',
+                            label: 'Bali',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
+                            label: 'Dubai',
+                            extLink: '',
+                            routerLink: '/stores/Dubai'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Europe.webp',
+                            label: 'Europe',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
+                            label: 'Maldives',
+                            extLink: '',
+                            routerLink: '/stores/Maldives'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa1.jpg',
+                            label: 'Goa',
+                            extLink: '',
+                            routerLink: '/stores/Goa_4'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/backwater-in-kerala.jpg',
+                            label: 'Backwater in Kerala',
+                            extLink: '',
+                            routerLink: '/stores/BackwaterinKerala'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/singapur.jpg',
+                            label: 'Singapore',
+                            extLink: '',
+                            routerLink: '/stores/Singapore'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/hong-kong.jpg',
+                            label: 'Hong Kong',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/manali1.jpg',
+                            label: 'Shimla and Manali',
+                            extLink: '',
+                            routerLink: '/stores/ShimlaandManali'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Kashmir.avif',
+                            label: 'Kashmir',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/hills-of-kerala.jpg',
+                            label: 'Hills of Kerala',
+                            extLink: '',
+                            routerLink: '/stores/HillsofKerala'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Malaysia.jpg',
+                            label: 'Malaysia',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
+                            label: 'Dubai',
+                            extLink: '',
+                            routerLink: '/stores/Dubai'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-week/singapore.jpg',
+                            label: 'Singapore',
+                            extLink: '',
+                            routerLink: '/stores/Singapore_1'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/thailand.jpg',
+                            label: 'Thailand',
+                            extLink: '',
+                            routerLink: '/stores/Thailand'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo1.jpg',
+                            label: 'Tokyo',
+                            extLink: '',
+                            routerLink: '/stores/Tokyo'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Sri-Lanka1.jpg',
+                            label: 'Sri Lanka',
+                            extLink: '',
+                            routerLink: '/stores/'
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Badrinath.jpg',
                             label: 'Badrinath',
                             extLink: '',
@@ -290239,34 +290360,10 @@ offSeason: {
                             routerLink: '/stores/Kedarnath'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/backwater-in-kerala.jpg',
-                            label: 'Backwater in Kerala',
-                            extLink: '',
-                            routerLink: '/stores/BackwaterinKerala'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/hills-of-kerala.jpg',
-                            label: 'Hills of Kerala',
-                            extLink: '',
-                            routerLink: '/stores/HillsofKerala'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Goa1.jpg',
-                            label: 'Goa',
-                            extLink: '',
-                            routerLink: '/stores/Goa_4'
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/pondicherry1.avif',
                             label: 'Pondicherry',
                             extLink: '',
                             routerLink: '/stores/Pondicherry'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/manali1.jpg',
-                            label: 'Shimla and Manali',
-                            extLink: '',
-                            routerLink: '/stores/ShimlaandManali'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/leh-ladakh1.jpg',
@@ -290287,12 +290384,6 @@ offSeason: {
                             routerLink: '/stores/GlimpsesofVietnam'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Express-Vietnam-Tour.jpg',
-                            label: 'Express Vietnam Tour',
-                            extLink: '',
-                            routerLink: '/stores/ExpressVietnamTour'
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/Best-of-Turkey.webp',
                             label: 'Best of Turkey with Antalya',
                             extLink: '',
@@ -290303,12 +290394,6 @@ offSeason: {
                             label: 'Istanbul',
                             extLink: '',
                             routerLink: '/stores/Istambul'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/singapur.jpg',
-                            label: 'Singapore',
-                            extLink: '',
-                            routerLink: '/stores/Singapore'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new/australia.webp',
@@ -290335,12 +290420,6 @@ offSeason: {
                             routerLink: '/stores/Spain'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
-                            label: 'Dubai',
-                            extLink: '',
-                            routerLink: '/stores/Dubai'
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/rome1.jpg',
                             label: 'Rome',
                             extLink: '',
@@ -290351,18 +290430,6 @@ offSeason: {
                             label: 'London',
                             extLink: '',
                             routerLink: '/stores/London'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
-                            label: 'Maldives',
-                            extLink: '',
-                            routerLink: '/stores/Maldives'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/tokyo1.jpg',
-                            label: 'Tokyo',
-                            extLink: '',
-                            routerLink: '/stores/Tokyo'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/amster1.jpeg',
@@ -290405,12 +290472,6 @@ offSeason: {
                             label: 'Coorg',
                             extLink: '',
                             routerLink: '/stores/Coorg'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/andaman1.jpg',
-                            label: 'Andaman',
-                            extLink: '',
-                            routerLink: '/stores/Andaman'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/udaipur1.jpeg',
@@ -290484,6 +290545,125 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Sri Lanka',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Sri-Lanka1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Sri-Lanka2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Sri-Lanka3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Malaysia',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Malaysia.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Malaysia2.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Malaysia3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Kashmir',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Kashmir.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Kashmir2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Kashmir3.webp' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Hong Kong',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/hong-kong.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/hong-kong2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/hong-kong3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Europe',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Europe.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Europe2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Europe3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Bali',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Bali1.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Bali2.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Bali3.webp' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Vibrant Mauritius',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kediyoor-icon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Vibrant-Mauritius.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Vibrant-Mauritius2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/Vibrant-Mauritius3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                         {
                             name: 'Singapore',
                             extLink: '',
