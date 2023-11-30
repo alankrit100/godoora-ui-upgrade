@@ -115009,7 +115009,7 @@ export const Vendors = {
                             icon: 'aligarh/menu.png',
                             size: '64px',
                             color: '#1a8cd2',
-                            routerLink: 'test',
+                            routerLink: '/by-admin/1772',
                             extLink: '',
                             services: [
                                 {
