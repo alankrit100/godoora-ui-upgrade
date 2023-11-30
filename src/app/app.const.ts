@@ -115199,7 +115199,7 @@ export const Vendors = {
                     icon: 'Aatapi/feedback.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
+                    routerLink: '/stores/Feedback_1',
                     extLink: '',
                     services: [
                         {
