@@ -163945,7 +163945,7 @@ offSeason: {
                             name: 'couple candle light dinner @ Restaurants',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/couplecandlelightdinner@Restaurants',
                             extLink: ''
                         },
                         {
@@ -163953,7 +163953,7 @@ offSeason: {
                             name: 'couple candle light dinner at lawn area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/couplecandlelightdinneratlawnarea_2',
                             extLink: ''
                         },
                         {
@@ -163961,7 +163961,7 @@ offSeason: {
                             name: 'couple special dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/couplespecialdinner_2',
                             extLink: ''
                         },
                         {
@@ -163969,7 +163969,7 @@ offSeason: {
                             name: 'veg kabab platter',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/vegkababplatter_2',
                             extLink: ''
                         },
                         {
@@ -163977,7 +163977,7 @@ offSeason: {
                             name: 'non-veg kabab platter',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/nonvegkababplatter_2',
                             extLink: ''
                         },
                         {
@@ -163985,7 +163985,7 @@ offSeason: {
                             name: 'Private party Package',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivatepartyPackage',
                             extLink: ''
                         },
                     ]
@@ -164000,15 +164000,15 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_2',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal/New/Anniversary1.jpg',
                             name: 'Anniversary Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AnniversaryRoomDecoration',
                             extLink: ''
                         },
                     ]
@@ -164847,7 +164847,8 @@ offSeason: {
                                 { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room2.jpg' },
                                 { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Meal Upgrade',
@@ -164863,55 +164864,8 @@ offSeason: {
                                 { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/meal2.jpg' },
                                 { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/meal3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Extra bed',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/bed1.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/bed2.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/bed3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Get a cab',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/cab1.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/cab2.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/cab3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Business center services',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/service1.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/service2.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/service3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Airport Pickup/Drop',
@@ -165008,7 +164962,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manali/food.jpeg' }
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: '1 Review 1 Mocktail',
@@ -165186,7 +165141,7 @@ offSeason: {
                             name: 'Mahabaleshwar Temple Gokarna',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vellore/temple5.png',
+                            icon: 'Vellore/temple2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -165203,7 +165158,7 @@ offSeason: {
                             name: 'Sri Kshetra Manjunatha Dharmasthala',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vellore/temple5.png',
+                            icon: 'Vellore/temple3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -165220,7 +165175,7 @@ offSeason: {
                             name: 'Sri Sahasralingeshwara Temple',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vellore/temple5.png',
+                            icon: 'Vellore/temple4.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -165237,7 +165192,7 @@ offSeason: {
                             name: 'Sri Murudeshwara Temple',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Vellore/temple5.png',
+                            icon: 'Vellore/temple1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
