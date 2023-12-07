@@ -163823,14 +163823,14 @@ offSeason: {
             }
         },
         {
-            branch: 'VALLEY-VIEW-MANIPAL',
+            branch: 'Valley-View-Manipal',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal/manipal.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Inn Valley View, Manipal',
+            title: 'Fortune Valley View',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -163882,7 +163882,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal1/manipal.jpg',
-                            heading: 'Fortune Inn Valley View, Manipal',
+                            heading: 'Fortune Valley View',
                             subHeading: ''
                         },
                         {
@@ -163904,8 +163904,8 @@ offSeason: {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Inn Valley View, Manipal',
-                    desc: `Fortune Inn Valley View, Manipal is a premium, full-service business hotel catering to the needs of the new age traveler. The hotel features 68 well-appointed rooms, with 40 Standard Rooms, 22 Fortune Club Rooms, 2 Executive Suites and 4 Director Suites. Located in the educational hub of the country, Fortune Inn Valley View offers contemporary ambience, thoughtful modern amenities and efficient services for all its guest.'.
+                    heading: 'Fortune Valley View, Manipal',
+                    desc: `Fortune Valley View, Manipal is a premium, full-service business hotel catering to the needs of the new age traveler. The hotel features 68 well-appointed rooms, with 40 Standard Rooms, 22 Fortune Club Rooms, 2 Executive Suites and 4 Director Suites. Located in the educational hub of the country, Fortune Inn Valley View offers contemporary ambience, thoughtful modern amenities and efficient services for all its guest.'.
 
                     `,
                     items: [
@@ -164787,7 +164787,7 @@ offSeason: {
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/Manipal-room-directory.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
@@ -164843,9 +164843,10 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room1.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room2.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/vally-view1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/vally-view2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/vally-view3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/vally-view4.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -164860,9 +164861,9 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/meal1.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/meal2.jpg' },
-                                { path: 'https://ourtourplanner.s3.ap-southeast-1.amazonaws.com/pride_hotel/meal3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/meal2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Valley-View-Manipal/meal3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
