@@ -67106,7 +67106,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Fortune-Mussoorie-Service-Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -70272,7 +70272,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Service Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Service+Directory.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Fortune-Dalhousie-Service-Directory.pdf',
                             routerLink: '',
                             icon: 'hublii/root-directory.png',
                             showTextarea: true,
@@ -174332,7 +174332,7 @@ offSeason: {
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Vivek-Vihar-Service-Directory.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
