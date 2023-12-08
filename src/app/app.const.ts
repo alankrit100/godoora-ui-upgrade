@@ -167695,7 +167695,7 @@ offSeason: {
                             name: 'Unlock Night Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/UnlockNightClub',
                             extLink: ''
                         },
                         {
@@ -167703,7 +167703,7 @@ offSeason: {
                             name: 'Banquet Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BanquetHall_17',
                             extLink: ''
                         },
                         {
@@ -167711,7 +167711,7 @@ offSeason: {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_67',
                             extLink: ''
                         },
                         {
@@ -167719,7 +167719,7 @@ offSeason: {
                             name: 'Gym',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gym_62',
                             extLink: ''
                         },
                         {
@@ -167727,7 +167727,7 @@ offSeason: {
                             name: 'Board Room',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BoardRoom_2',
                             extLink: ''
                         },
                     ]
