@@ -173375,14 +173375,14 @@ offSeason: {
             }
         },
         {
-            branch: 'Fortune-Park-Vivek-Vihar',
+            branch: 'Fortune-Park-East-Delhi',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park Vivek Vihar',
+            title: 'Fortune Park East Delhi',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -173434,7 +173434,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
-                            heading: 'Fortune Park Vivek Vihar',
+                            heading: 'Fortune Park East Delhi',
                             subHeading: ''
                         },
                         {
@@ -173446,8 +173446,8 @@ offSeason: {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Park Vivek Vihar',
-                    desc: `Fortune Vivek Vihar, Delhi is a Banquet hall, Wedding venue with rooms located in Block C, Vivek Vihar, New Delhi,. Space available: The venue has Indoor spaces available which can accomodate up to 250 guests and hence a popular option for weddings in New Delhi.`,
+                    heading: 'Fortune Park East Delhi',
+                    desc: `Fortune Park East, Delhi is a Banquet hall, Wedding venue with rooms located in Block C, Vivek Vihar, New Delhi,. Space available: The venue has Indoor spaces available which can accomodate up to 250 guests and hence a popular option for weddings in New Delhi.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
