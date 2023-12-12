@@ -173830,7 +173830,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'In-Rome Dinning',
+                            name: 'In-Room Dinning',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/IRD-MENU.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
