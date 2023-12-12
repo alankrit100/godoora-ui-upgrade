@@ -173797,7 +173797,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'Restaurant Menu',
+                    name: 'Restaurant Menus',
                     icon: 'Aatapi/menu1234.png',
                     size: '64px',
                     color: '#1a8cd2',
