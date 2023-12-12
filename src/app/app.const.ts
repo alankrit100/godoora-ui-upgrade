@@ -173798,17 +173798,17 @@ offSeason: {
             departments: [
                 {
                     name: 'Restaurant Menu',
-                    icon: 'aligarh/menu.png',
+                    icon: 'Aatapi/menu1234.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: 'test',
                     extLink: '',
                     services: [
                         {
-                            name: 'Bar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf',
+                            name: 'IRD Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/IRD-MENU.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu.png',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -173819,36 +173819,6 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/IRD-MENU.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD+SHARE+07.09.2023+final.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Zodiac Share',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/ZODIAC+SHARE+07.09.2023+final.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/ZODIAC+SHARE+07.09.2023+final.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
                     ]
                 },
                 {
