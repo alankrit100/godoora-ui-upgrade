@@ -85440,7 +85440,7 @@ export const Vendors = {
                             name: 'Ocean World Water Park',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OceanWorldWaterPark',
                             extLink: ''
                         },
                         {
@@ -85448,7 +85448,7 @@ export const Vendors = {
                             name: 'Dhauli',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Dhauli_1',
                             extLink: ''
                         },
                         {
@@ -85456,7 +85456,7 @@ export const Vendors = {
                             name: 'Lingaraj',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Lingaraj',
                             extLink: ''
                         },
                         {
@@ -85464,7 +85464,7 @@ export const Vendors = {
                             name: 'Nandankanan',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Nandankanan',
                             extLink: ''
                         },
                         {
@@ -85472,7 +85472,7 @@ export const Vendors = {
                             name: 'Khandagiri & Udyagiri',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Khandagiri&Udyagiri',
                             extLink: ''
                         },
                         {
@@ -85480,7 +85480,7 @@ export const Vendors = {
                             name: 'Pipli, Konark, Puri',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PipliKonarkPuri',
                             extLink: ''
                         },
                         {
@@ -85488,7 +85488,7 @@ export const Vendors = {
                             name: 'State Musem',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/StateMusem',
                             extLink: ''
                         },
                     ]
@@ -85503,7 +85503,7 @@ export const Vendors = {
                             name: 'Special Programme',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpecialProgramme',
                             extLink: ''
                         },
                         {
@@ -85511,7 +85511,7 @@ export const Vendors = {
                             name: 'Banquet Special package',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BanquetSpecialpackage',
                             extLink: ''
                         },
                         {
@@ -85519,7 +85519,7 @@ export const Vendors = {
                             name: 'Extra Activity',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExtraActivity',
                             extLink: ''
                         },
                         {
@@ -85527,7 +85527,7 @@ export const Vendors = {
                             name: 'Room Design part',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RoomDesignpart',
                             extLink: ''
                         },
                         {
@@ -85535,7 +85535,7 @@ export const Vendors = {
                             name: 'Bed making, towel design',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bedmakingtoweldesign',
                             extLink: ''
                         }
                     ]
