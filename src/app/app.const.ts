@@ -85440,7 +85440,7 @@ export const Vendors = {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpecialProgramme',
+                            routerLink: '/stores/CelebrateYourSpecialDay_45',
                             extLink: ''
                         },
                         {
@@ -85463,7 +85463,7 @@ export const Vendors = {
                             name: 'Extra Activity',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ExtraActivity',
+                            routerLink: '/stores/ExtraActivity_1',
                             extLink: ''
                         },
                         {
@@ -85471,7 +85471,7 @@ export const Vendors = {
                             name: 'Room Design part',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RoomDesignpart',
+                            routerLink: '/stores/RoomDesignpart_1',
                             extLink: ''
                         },
                         {
@@ -85479,7 +85479,7 @@ export const Vendors = {
                             name: 'Bed making, towel design',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Bedmakingtoweldesign',
+                            routerLink: '/stores/Bedmakingtoweldesign_1',
                             extLink: ''
                         }
                     ]
@@ -86800,7 +86800,7 @@ export const Vendors = {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Bed-making-towel-design1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Bed-making-towel-design2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Bed-making-towel-design3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Bed-making-towel-design3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
