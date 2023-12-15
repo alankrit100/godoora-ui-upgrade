@@ -85432,75 +85432,12 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'Local Experience',
-                    desc: '',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Ocean-World-Water-Park1.jpg',
-                            name: 'Ocean World Water Park',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/OceanWorldWaterPark',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Dhauli1.jpg',
-                            name: 'Dhauli',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Dhauli_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Lingaraj1.jpg',
-                            name: 'Lingaraj',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Lingaraj',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Nandankanan1.jpg',
-                            name: 'Nandankanan',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Nandankanan',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Khandagiri-Udyagiri1.jpg',
-                            name: 'Khandagiri & Udyagiri',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Khandagiri&Udyagiri',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Pipli-Konark-Puri1.jpg',
-                            name: 'Pipli, Konark, Puri',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PipliKonarkPuri',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/State-Musem1.jpg',
-                            name: 'State Musem',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/StateMusem',
-                            extLink: ''
-                        },
-                    ]
-                },
-                experiences: {
-                    active: true,
                     heading: 'Unique Hotel Offerings',
                     desc: 'Enjoy the best of vantage Experience!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Special-Programme.png',
-                            name: 'Special Programme',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
+                            name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
                             routerLink: '/stores/SpecialProgramme',
@@ -85514,6 +85451,13 @@ export const Vendors = {
                             routerLink: '/stores/BanquetSpecialpackage',
                             extLink: ''
                         },
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Workshop',
+                    desc: 'Enjoy the best of vantage Experience!',
+                    items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Extra-Activity.webp',
                             name: 'Extra Activity',
@@ -86769,7 +86713,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Special Programme',
+                            name: 'Celebrate Your Special Day',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/dining-table.png',
@@ -86778,7 +86722,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -86800,6 +86746,16 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                    ]
+                },
+                {
+                    name: 'Workshop',
+                    icon: 'fortunemussoorieicons/local.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
                         {
                             name: 'Extra Activity',
                             extLink: '',
@@ -86825,7 +86781,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Room-Design1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Room-Design2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Room-Design3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -86847,135 +86805,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                    ]
-                },
-                {
-                    name: 'Local Experience',
-                    icon: 'fortunemussoorieicons/local.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Ocean World Water Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/Lingaraj.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Ocean-World-Water-Park1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Ocean-World-Water-Park2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Ocean-World-Water-Park3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Dhauli',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/Dhauli.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Dhauli1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Dhauli2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Dhauli3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Lingaraj',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/zoo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Lingaraj1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Lingaraj2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Lingaraj3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Nandankanan',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/zoo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Nandankanan1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Nandankanan2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Nandankanan3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Khandagiri & Udyagiri',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/zoo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Khandagiri-Udyagiri1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Khandagiri-Udyagiri2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Khandagiri-Udyagiri3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Pipli, Konark, Puri',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/zoo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Pipli-Konark-Puri1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Pipli-Konark-Puri2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Pipli-Konark-Puri3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'State Musem',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/zoo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/State-Musem1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/State-Musem2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/State-Musem3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
                     ]
                 },
             ],
