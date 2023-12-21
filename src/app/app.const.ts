@@ -102314,14 +102314,7 @@ export const Vendors = {
                             routerLink: '/stores/CoupleCandlelightDinneratpoolside_1',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Club-ITC-Reward-NIghts.png',
-                            name: 'Club ITC Membership',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.itchotels.com/in/en/clubitc'
-                        },
+                        
                     ]
                 },
                 experiences: {
@@ -102344,6 +102337,14 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/BirthdayRoomDecoration_1',
                             extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Club-ITC-Reward-NIghts.png',
+                            name: 'Club ITC Membership',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc'
                         },
                     ]
                 },
