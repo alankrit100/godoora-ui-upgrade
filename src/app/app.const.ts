@@ -102315,20 +102315,12 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
-                            name: 'Custom In-room dining',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Club-ITC-Reward-NIghts.png',
+                            name: 'Club ITC Membership',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_45',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/Lawn.jpg',
-                            name: 'Couple Candle light Dinner at lawn area',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea_1',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc'
                         },
                     ]
                 },
@@ -102337,30 +102329,6 @@ export const Vendors = {
                     heading: 'Unique Hotel Offerings',
                     desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
-                            name: 'Celebrate Your Special Day',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_44',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CookingSessionWithChef_14',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg',
-                            name: 'Bonfire at Lawn',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/BonfireatLawn_8',
-                            extLink: ''
-                        },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg',
                             name: 'ANNIVERSARY DECORTAION',
@@ -104025,7 +103993,7 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/BUFFET-at-Orchid1.avif' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/BUFFET-at-Orchid1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/BUFFET-at-Orchid2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -104041,8 +104009,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/EarlyBird-Meal-Offer.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/EarlyBird-Meal-Offer.avif' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/EarlyBird-Meal-Offer.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/EarlyBird-Meal-Offer1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/EarlyBird-Meal-Offer2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
