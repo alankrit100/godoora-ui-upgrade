@@ -85440,15 +85440,15 @@ export const Vendors = {
                             name: 'Couple Candle light Dinner at Dhauli Terrace',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CoupleCandlelightDinneratDhauliTerrace',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/restaurant1.jpg',
-                            name: 'Couple Special Dinner at Restaurant',
+                            name: 'Couple Anniversary at  The Oriental Pavilion Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CoupleSpecialDinneratRestaurant',
                             extLink: ''
                         },
                         {
@@ -85456,7 +85456,7 @@ export const Vendors = {
                             name: 'Couple Special Dinner table at Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant_3',
                             extLink: ''
                         },
                     ]
