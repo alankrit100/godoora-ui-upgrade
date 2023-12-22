@@ -85433,7 +85433,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Dining Experience',
-                    desc: 'Enjoy the best of vantage Experience!',
+                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/terrace1.jpg',
