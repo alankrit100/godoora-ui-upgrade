@@ -166710,8 +166710,8 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/IRD-Aligarh.pdf',
+                            name: 'Zodiac Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Aligarh.pdf',
                             routerLink: '',
                             icon: 'Pride/menu.png',
                             showTextarea: true,
@@ -166723,13 +166723,12 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-
-                            ],
+                                ],
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Zodiac Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Aligarh.pdf',
+                            name: 'In-room Dining',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/IRD-Aligarh.pdf',
                             routerLink: '',
                             icon: 'Pride/menu.png',
                             showTextarea: true,
