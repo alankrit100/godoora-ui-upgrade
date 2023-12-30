@@ -70815,7 +70815,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_26',
                             extLink: ''
                         },
                         {
@@ -70823,7 +70823,7 @@ export const Vendors = {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BarbequeatKhyber',
                             extLink: ''
                         },
                         {
@@ -70831,7 +70831,7 @@ export const Vendors = {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpaandHealthClub',
                             extLink: ''
                         },
                         {
@@ -70839,7 +70839,7 @@ export const Vendors = {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RecreationalActivities',
                             extLink: ''
                         },
                         {
@@ -70847,7 +70847,7 @@ export const Vendors = {
                             name: 'Meeting Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MeetingHall_2',
                             extLink: ''
                         },
                     ]
