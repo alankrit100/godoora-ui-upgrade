@@ -97073,7 +97073,7 @@ export const Vendors = {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Avenue-jalandhar',
+                    heading: 'Fortune Avenue-Jalandhar',
                     desc: `Fortune Avenue, Jalandhar is coveniently located on Mahavir Marg, just 2 kms from Model Town. The hotel is well equipped with all modern amenities and offers efficient service at a great value to the discerning traveller. The hotel offers a selection of 51 contemporary rooms, high speed Wi-Fi connectivity, round the clock dining and banquet facilities for up to 300 guests. Fortune Avenue, Jalandhar is in close proximity to Devi Talab Temple, Chhevin Patshahi Gurudwara and other sacred places.`,
                     items: [
                         {
