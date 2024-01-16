@@ -85106,6 +85106,21 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
                             ]
+                        },
+                        {
+                            name: 'The Oriental Pavillion',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavillion.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/food-promotion.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ]
                         }
                     ]
                 },
