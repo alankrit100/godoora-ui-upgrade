@@ -84974,7 +84974,7 @@ export const Vendors = {
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/FINAL-SERVICE-DIRECTORY.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Service-Directory.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
@@ -85121,6 +85121,21 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
                             ]
+                        },
+                        {
+                            name: 'Minibar',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavillion.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/bar-counter.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ]
                         }
                     ]
                 },
@@ -85225,6 +85240,17 @@ export const Vendors = {
                     ]
                 },
                 {
+                    name: 'Laundry',
+                    icon: 'Aatapi/laundry-machine.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Laundry-Price.pdf',
+                    services: [
+                        
+                    ]
+                },
+                {
                     name: 'Quick Upgrades',
                     icon: 'JammuIcons/upgrader.png',
                     size: '64px',
@@ -85260,9 +85286,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/meal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/meal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/meal3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -85654,15 +85680,15 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/terrace1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/terrace2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/terrace3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/candle1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/candle3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Couple Special Dinner at Restaurant',
+                            name: 'Couple Anniversary at The Oriental Pavilion Restaurant',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
