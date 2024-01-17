@@ -85291,11 +85291,10 @@ export const Vendors = {
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car4.jpg' },
                             ],
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
@@ -85310,11 +85309,10 @@ export const Vendors = {
                             placeholder: 'Arrange a Sedan for local sightseeing',
                             headerText: 'When are you planning to start from hotel?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car4.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
@@ -85329,9 +85327,9 @@ export const Vendors = {
                             placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
                             headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car3.jpg' },
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
@@ -85346,9 +85344,9 @@ export const Vendors = {
                             placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
                             headerText: 'When are you planning to visit?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car3.jpg' },
                             ],
                             confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
@@ -128935,7 +128933,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Pool Side Dinner',
@@ -128951,7 +128950,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Deep Tissue Massage',
@@ -129001,7 +129001,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Custom In-room dining',
@@ -129105,7 +129106,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(10).jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(11).jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Kharghar Hills',
@@ -129121,7 +129123,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(13).jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(14).jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Pandavkada Falls',
@@ -129137,7 +129140,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/6014462034_391e16cec0_c.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/Pandavkada-.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -129164,7 +129168,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cuisine/Cuisine4.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'extensive a-la-carte',
@@ -129178,7 +129183,8 @@ offSeason: {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Extensive.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Close to Kumaon foothills Dining',
@@ -129191,7 +129197,8 @@ offSeason: {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Candlelight dinner',
@@ -129204,7 +129211,8 @@ offSeason: {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'business lunch and family dinner',
@@ -129217,7 +129225,8 @@ offSeason: {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Indulge in live wood fire pizza and beverage',
@@ -129230,7 +129239,8 @@ offSeason: {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Groove to live music',
@@ -129244,7 +129254,8 @@ offSeason: {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -129269,7 +129280,8 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Zodiac',
@@ -129284,7 +129296,8 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'IRD-Menu',
@@ -129299,7 +129312,8 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Banquet-Brochure',
@@ -129314,7 +129328,8 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Scrumptious feast',
@@ -129328,7 +129343,8 @@ offSeason: {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Sunday Brunch',
@@ -129343,7 +129359,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg' },
                                 
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Liquid Buffet',
@@ -129357,7 +129374,8 @@ offSeason: {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -129384,7 +129402,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Sales & Reservations Offices in India',
@@ -129401,7 +129420,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'In Room Dining',
@@ -129418,7 +129438,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Dining Facilities',
@@ -129435,7 +129456,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Other Fortune Hotels',
@@ -129452,7 +129474,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Safety',
@@ -129469,7 +129492,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'House Rules',
@@ -129486,7 +129510,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Telecommunication',
@@ -129503,7 +129528,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'About the Place',
@@ -129520,7 +129546,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Places of Interest',
@@ -129537,76 +129564,8 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Special Offer',
-                    icon: 'Vijaywadaicons/SpecialOffer.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Scrumptious feast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/ice-cream.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Sunday Brunch',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/dinner2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg' },
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Liquid Buffet',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/liquor.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Combo Offer Spa + Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/Combo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -129629,7 +129588,8 @@ offSeason: {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Meal upgrade',
@@ -129642,7 +129602,8 @@ offSeason: {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
@@ -129665,7 +129626,8 @@ offSeason: {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Complimentry cake',
@@ -129678,7 +129640,8 @@ offSeason: {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Discount on Spa and Saloon',
@@ -129691,8 +129654,55 @@ offSeason: {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Scrumptious feast',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/dinner2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg' },
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Liquid Buffet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/liquor.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 }
             ],
