@@ -128111,7 +128111,7 @@ offSeason: {
                             name: 'Scrumptious feast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Scrumptiousfeast_2',
                             extLink: ''
                         },
                         {
@@ -128119,7 +128119,7 @@ offSeason: {
                             name: 'Sunday Brunch',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SundayBrunch_17',
                             extLink: ''
                         },
                         {
@@ -128127,7 +128127,7 @@ offSeason: {
                             name: 'Liquid Buffet',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LiquidBuffet_2',
                             extLink: ''
                         },
                     ]
