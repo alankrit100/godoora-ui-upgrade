@@ -85124,7 +85124,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Minibar',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavillion.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Minibar.pdf',
                             routerLink: '',
                             icon: 'Aatapi/bar-counter.png',
                             showTextarea: true,
@@ -98554,6 +98554,19 @@ export const Vendors = {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/NON+VEG+BANQUET+MENU.pdf',
                             routerLink: '',
                             icon: 'orchid/menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Millets Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Millets-Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/food-promotion.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
