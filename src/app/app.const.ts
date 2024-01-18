@@ -85432,7 +85432,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Sunday.jpg' },
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/sunday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/sunday2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -85448,7 +85449,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/bbq.jpg' },
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/bbq1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/bbq2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -129145,10 +129147,10 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'BAR',
+                            name: 'Nostradamus-BAR(12.00PM to 10.30PM)',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/BAR-Fortune.pdf',
                             routerLink: '',
-                            icon: 'fortune-navi-mumbai/menu.png',
+                            icon: 'Aatapi/bar.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -129161,10 +129163,10 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Zodiac',
+                            name: 'Zodiac (7.30AM to 10.30PM)',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac.pdf',
                             routerLink: '',
-                            icon: 'fortune-navi-mumbai/menu1.png',
+                            icon: 'Aatapi/Zodiac.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -129177,7 +129179,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'IRD-Menu',
+                            name: 'IRD-Menu(24 Hours)',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'fortune-navi-mumbai/menu2.png',
