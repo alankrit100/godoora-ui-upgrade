@@ -129146,7 +129146,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Nostradamus-BAR(12.00PM to 10.30PM)',
+                            name: 'Nostradamus BAR (12.00PM to 10.30PM)',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/BAR-Fortune.pdf',
                             routerLink: '',
                             icon: 'Aatapi/bar.png',
@@ -129178,7 +129178,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'IRD-Menu(24 Hours)',
+                            name: 'IRD Menu (24 Hours)',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'fortune-navi-mumbai/menu2.png',
