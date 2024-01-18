@@ -128215,7 +128215,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/CelebrateYourSpecialDay_46',
                             extLink: ''
                         },
                         {
@@ -128231,7 +128231,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_4',
                             extLink: ''
                         },
                     ]
