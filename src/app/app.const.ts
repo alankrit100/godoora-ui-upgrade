@@ -128219,21 +128219,21 @@ offSeason: {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Banquet-Brochure.png',
+                            name: 'Banquet-Brochure',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Banquet-Brochure.pdf'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg',
-                            name: 'Bonfire at Lawn',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg',
+                            name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION',
                             extLink: ''
-                        }
+                        },
                     ]
                 },
                 activities: {
@@ -129042,9 +129042,9 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Cooking Session With Chef',
-                            extLink: '',
-                            routerLink: 'test',
+                            name: 'Banquet-Brochure',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Banquet-Brochure.pdf',
+                            routerLink: '',
                             icon: 'dharmshala/cooking.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -129059,7 +129059,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Bonfire at Lawn',
+                            name: 'ANNIVERSARY DECORTAION',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -129068,9 +129068,8 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
