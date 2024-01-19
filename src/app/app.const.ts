@@ -163124,7 +163124,7 @@ offSeason: {
                             name: 'Couple Candle light Dinner at pool-side',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratpoolside',
+                            routerLink: '/stores/CoupleCandlelightDinneratpoolside_3',
                             extLink: ''
                         },
                         {
@@ -163132,7 +163132,7 @@ offSeason: {
                             name: 'Couple Candle light Dinner at lawn area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea',
+                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea_5',
                             extLink: ''
                         },
                         {
@@ -163140,7 +163140,7 @@ offSeason: {
                             name: 'Couple Special Dinner table at Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant',
+                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant_3',
                             extLink: ''
                         },
                     ]
@@ -163155,7 +163155,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_5',
                             extLink: ''
                         },
                         {
@@ -163163,7 +163163,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration',
+                            routerLink: '/stores/BirthdayRoomDecoration_3',
                             extLink: ''
                         },
                         {
@@ -163171,7 +163171,7 @@ offSeason: {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_2',
                             extLink: ''
                         },
                     ]
