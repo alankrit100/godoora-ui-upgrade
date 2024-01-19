@@ -70862,7 +70862,7 @@ export const Vendors = {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/CelebrateYourSpecialDay_47',
                             extLink: ''
                         },
                         {
@@ -70870,7 +70870,7 @@ export const Vendors = {
                             name: 'Cooking with Guest',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/CookingwithGuest',
                             extLink: ''
                         },
                         {
@@ -70878,7 +70878,7 @@ export const Vendors = {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/BonfireatLawn_9',
                             extLink: ''
                         }
                     ]
@@ -71646,7 +71646,7 @@ export const Vendors = {
                             name: 'IRD MENU',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/In+Room+Dining+Menu.pdf',
                             routerLink: '',
-                            icon: 'dharmshala/restaurant1.png',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -71770,7 +71770,7 @@ export const Vendors = {
                             name: 'Minibar Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Minibar-Menu.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/menu123.png',
+                            icon: 'dharmshala/restaurant1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -71888,7 +71888,7 @@ export const Vendors = {
                             name: 'Safety',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Safety.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/hotel.png',
+                            icon: 'Aatapi/safety.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -71939,7 +71939,7 @@ export const Vendors = {
                             name: 'About the Place',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/About-the-Place.pdf',
                             routerLink: '',
-                            icon: 'hublii/emergency-sign.png',
+                            icon: 'Aatapi/map.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -71956,7 +71956,7 @@ export const Vendors = {
                             name: 'Places of Interest',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Place-of-interest.pdf',
                             routerLink: '',
-                            icon: 'hublii/book.png',
+                            icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
