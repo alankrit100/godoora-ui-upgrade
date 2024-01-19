@@ -70853,7 +70853,7 @@ export const Vendors = {
                     ]
                 },
                 experiences: {
-                    active: false,
+                    active: true,
                     heading: 'Unique Hotel Offerings',
                     desc: 'Enjoy the best of vantage Experience!',
                     items: [
@@ -70867,7 +70867,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
+                            name: 'Cooking with Guest',
                             location: '',
                             views: '',
                             routerLink: '/stores/CookingSessionWithChef_7',
@@ -71768,7 +71768,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Minibar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Minibar-Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Minibar-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -71813,12 +71813,12 @@ export const Vendors = {
                     icon: 'fortunegrace/directory.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Fortune-Sullivan-Court-Service-Directory.pdf',
+                    routerLink: 'test',
+                    extLink: '',
                     services: [
                         {
                             name: 'Service Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Service+Directory.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Service-Directory.pdf',
                             routerLink: '',
                             icon: 'hublii/root-directory.png',
                             showTextarea: true,
@@ -71835,7 +71835,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Sales+%26+Reservations+Offices+in+India.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Sales-Reservations.pdf',
                             routerLink: '',
                             icon: 'hublii/network.png',
                             showTextarea: true,
@@ -71852,7 +71852,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Dining Facilities',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Dining+Facilities.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Dining-Facilities.pdf',
                             routerLink: '',
                             icon: 'hublii/dining-table.png',
                             showTextarea: true,
@@ -71869,7 +71869,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Other Fortune Hotels',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Other+Fortune+Hotels.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Other-Fortune.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
@@ -71886,7 +71886,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Safety',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Safety.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Safety.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
@@ -71903,7 +71903,7 @@ export const Vendors = {
                         },
                         {
                             name: 'House Rules',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/House+Rules.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/House-Rules.pdf',
                             routerLink: '',
                             icon: 'hublii/book.png',
                             showTextarea: true,
@@ -71937,7 +71937,7 @@ export const Vendors = {
                         },
                         {
                             name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/About+the+Place.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/About-the-Place.pdf',
                             routerLink: '',
                             icon: 'hublii/emergency-sign.png',
                             showTextarea: true,
@@ -71954,7 +71954,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Places+of+Interest.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Place-of-interest.pdf',
                             routerLink: '',
                             icon: 'hublii/book.png',
                             showTextarea: true,
@@ -71967,6 +71967,96 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
+                            ]
+                        }
+                    ]
+                },
+                {
+                    name: 'Spa Menu',
+                    icon: 'Aatapi/spa-menu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Spa-Menu.pdf',
+                    services: [
+                        {
+                            name: 'Spa Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Spa-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/spa-menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                    ]
+                },
+                {
+                    name: 'Laundry Menu',
+                    icon: 'Aatapi/laundry-machine.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Laundry-Menu.pdf',
+                    services: [
+                        {
+                            name: 'Laundry Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Laundry-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                    ]
+                },
+                {
+                    name: 'Cab Charges',
+                    icon: 'Aatapi/taxi.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Cab-Charges.pdf',
+                    services: [
+                        {
+                            name: 'Cab Charges',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Cab-Charges.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
                             ]
                         }
                     ]
@@ -72090,7 +72180,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Cooking Session With Chef',
+                            name: 'Cooking with Guest',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
