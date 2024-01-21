@@ -287523,7 +287523,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
-                            label: 'Maldives',
+                            label: 'Bangkok',
                             extLink: '',
                             routerLink: '/stores/Maldives'
                         },
@@ -287535,13 +287535,13 @@ offSeason: {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/thailand.jpg',
-                            label: 'Thailand',
+                            label: 'Mauritius',
                             extLink: '',
                             routerLink: '/stores/Thailand'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/vietnam.jpg',
-                            label: 'Vietnam',
+                            label: 'Singapore',
                             extLink: '',
                             routerLink: '/stores/Vietnam_1'
                         }
@@ -288810,6 +288810,74 @@ offSeason: {
                             { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount1.jpg' },
                             { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount2.jpg' },
                             { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/mount3.jpg' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Bangkok',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/watpho.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/jimthompsonhouse.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/bangkokplace.html' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Dubai',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/dubai.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/dubai2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/dubaiplaces.html' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Mauritius',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/mauritius.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/mauritius2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/mauritiusplaces.html' }
+                        ],
+                        confirmBtnLabel: 'Book a Slot',
+                        storePageAsBlog: true
+                    },
+                    {
+                        name: 'Singapore',
+                        extLink: '',
+                        routerLink: 'test',
+                        icon: 'kediyoor-icon/swimming.png',
+                        showTextarea: true,
+                        textAreaLabel: 'Request Summary',
+                        placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
+                        headerText: 'When would you like to get into the pool?',
+                        gallery: [
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/singapore.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/singapore2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/singaporeplaces.html' }
                         ],
                         confirmBtnLabel: 'Book a Slot',
                         storePageAsBlog: true
