@@ -67013,7 +67013,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/SPA+MENU.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/SPA-Menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/spa.png',
                             showTextarea: true,
@@ -85416,7 +85416,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Railway station Pick up and Drop ',
+                            name: 'Railway Station Pick up and Drop ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/localtaxi.png',
@@ -85434,7 +85434,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Local Sightseeing charges 8Hrs 80 Kms ',
+                            name: 'Local Sightseeing Charges 8Hrs 80 Kms ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/taxi.png',
@@ -85451,7 +85451,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Local sightseeing charges 4 HRS 40 Kms',
+                            name: 'Local Sightseeing Charges 4 HRS 40 Kms',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/taxi-1.png',
@@ -85478,7 +85478,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'veg kabab platter',
+                            name: 'Veg Kabab Platter',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/banquet.png',
@@ -85495,7 +85495,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'non-veg kabab platter',
+                            name: 'Non-Veg Kabab Platter',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/roast-chicken.png',
@@ -85538,9 +85538,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/bbq.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/bbq1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/bbq2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Barbecue1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Barbecue2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Barbecue3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -85763,7 +85763,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Couple Candle light Dinner at Dhauli Terrace',
+                            name: 'Couple Candle Light Dinner at Dhauli Terrace',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/dining-table.png',
@@ -85773,7 +85773,7 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/candle2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Dhauli.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/candle3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -85789,15 +85789,14 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/restaurant1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/restaurant2.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Picture1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavilion1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavilion2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Special buffet Dinner at Orchid Restaurant',
+                            name: 'Special Buffet Dinner at Orchid Restaurant',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -287522,28 +287521,28 @@ offSeason: {
                     desc: ``,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/maldiv1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/Bangkok.jpg',
                             label: 'Bangkok',
                             extLink: '',
-                            routerLink: '/stores/Maldives'
+                            routerLink: '/stores/Bangkok'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/dubai1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/dubai.jpg',
                             label: 'Dubai',
                             extLink: '',
-                            routerLink: '/stores/Dubai'
+                            routerLink: '/stores/Dubai_1'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/thailand.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/maruitius.jpg',
                             label: 'Mauritius',
                             extLink: '',
-                            routerLink: '/stores/Thailand'
+                            routerLink: '/stores/Mauritius_1'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new1/vietnam.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/singapore.avif',
                             label: 'Singapore',
                             extLink: '',
-                            routerLink: '/stores/Vietnam_1'
+                            routerLink: '/stores/Singapore_2'
                         }
                     ]
                 },
