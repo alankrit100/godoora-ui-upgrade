@@ -84279,7 +84279,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/terrace1.jpg',
-                            name: 'Couple Candle light Dinner at Dhauli Terrace',
+                            name: 'Couple Candle Light Dinner at Dhauli Terrace',
                             location: '',
                             views: '',
                             routerLink: '/stores/CoupleCandlelightDinneratDhauliTerrace',
@@ -84295,7 +84295,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Buffet1.jpg',
-                            name: 'Special buffet Dinner at Orchid Restaurant',
+                            name: 'Special Buffet Dinner at Orchid Restaurant',
                             location: '',
                             views: '',
                             routerLink: '/stores/SpecialbuffetDinneratOrchidRestaurant',
@@ -85349,7 +85349,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room',
+                            name: 'Upgrade Room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/room.png',
@@ -85367,7 +85367,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade meal',
+                            name: 'Upgrade Meal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/meal.png',
@@ -85384,7 +85384,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Extra bed',
+                            name: 'Extra Bed',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/bed.png',
@@ -85434,7 +85434,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Local Sightseeing Charges 8Hrs 80 Kms ',
+                            name: 'Local Sightseeing Charges 8 Hrs 80 Kms ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/taxi.png',
@@ -85451,7 +85451,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Local Sightseeing Charges 4 HRS 40 Kms',
+                            name: 'Local Sightseeing Charges 4 Hrs 40 Kms',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/taxi-1.png',
@@ -85546,7 +85546,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: '1 + 1 coktail',
+                            name: '1 + 1 Coktail',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/cocktail.png',
@@ -85563,7 +85563,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: '1 + 1 mocktal',
+                            name: '1 + 1 Mocktal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/mocktail.png',
