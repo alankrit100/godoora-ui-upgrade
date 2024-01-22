@@ -288823,9 +288823,9 @@ offSeason: {
                         placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                         headerText: 'When would you like to get into the pool?',
                         gallery: [
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/watpho.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/jimthompsonhouse.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/bangkokplace.html' }
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/Bangkok.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/Bangkok2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/Bangkok3.jpg' }
                         ],
                         confirmBtnLabel: 'Book a Slot',
                         storePageAsBlog: true
@@ -288840,9 +288840,9 @@ offSeason: {
                         placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                         headerText: 'When would you like to get into the pool?',
                         gallery: [
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/dubai.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/dubai2.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/dubaiplaces.html' }
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/dubai.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/dubai1.webp' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/dubai2.jpg' }
                         ],
                         confirmBtnLabel: 'Book a Slot',
                         storePageAsBlog: true
@@ -288857,9 +288857,9 @@ offSeason: {
                         placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                         headerText: 'When would you like to get into the pool?',
                         gallery: [
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/mauritius.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/mauritius2.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/mauritiusplaces.html' }
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/mauritius1.png' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/mauritius2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/mauritius3.jpg' }
                         ],
                         confirmBtnLabel: 'Book a Slot',
                         storePageAsBlog: true
@@ -288874,9 +288874,9 @@ offSeason: {
                         placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
                         headerText: 'When would you like to get into the pool?',
                         gallery: [
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/singapore.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/singapore2.jpg' },
-                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/travelgoyaana/singaporeplaces.html' }
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/singapore1.avif' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/singapore2.jpg' },
+                            { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Travel-Deals/new-1/singapore3.avif' }
                         ],
                         confirmBtnLabel: 'Book a Slot',
                         storePageAsBlog: true
