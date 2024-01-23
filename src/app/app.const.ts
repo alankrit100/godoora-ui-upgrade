@@ -85563,7 +85563,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: '1 + 1 Mocktal',
+                            name: '1 + 1 Mocktail',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/mocktail.png',
