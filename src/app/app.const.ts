@@ -158407,6 +158407,17 @@ offSeason: {
                     ]
                 },
                 {
+                    name: 'Laundry',
+                    icon: 'Aatapi/laundry-machine.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/Laundry-price-list1.jpeg',
+                    services: [
+                        
+                    ]
+                },
+                {
                     name: 'Quick Upgrades',
                     icon: 'fortunemussoorieicons/candidate.png',
                     size: '64px',
