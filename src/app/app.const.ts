@@ -157516,7 +157516,7 @@ offSeason: {
                             name: 'Veg Kabab Platter',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/VegKababPlatter_5',
                             extLink: ''
                         },
                         {
@@ -157524,7 +157524,7 @@ offSeason: {
                             name: 'Non Veg Platter',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NonVegPlatter',
                             extLink: ''
                         },
                         {
@@ -157532,7 +157532,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_27',
                             extLink: ''
                         },
                         {
@@ -157540,7 +157540,7 @@ offSeason: {
                             name: 'Lunch at Forest area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LunchatForestarea',
                             extLink: ''
                         },
                     ]
@@ -157555,7 +157555,7 @@ offSeason: {
                             name: 'Birthday Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayDecoration',
                             extLink: ''
                         },
                         {
@@ -157563,7 +157563,7 @@ offSeason: {
                             name: 'Anniversary Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AnniversaryDecoration',
                             extLink: ''
                         },
                         {
@@ -157571,7 +157571,7 @@ offSeason: {
                             name: 'Shuttle Service',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ShuttleService',
                             extLink: ''
                         }
                     ]
