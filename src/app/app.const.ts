@@ -128339,6 +128339,14 @@ offSeason: {
                             routerLink: '/stores/ANNIVERSARYDECORTAION_4',
                             extLink: ''
                         },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg',
+                            name: 'BIRTHDAY DECORTAION',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_4',
+                            extLink: ''
+                        },
                     ]
                 },
                 activities: {
@@ -129175,6 +129183,22 @@ offSeason: {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'BIRTHDAY DECORTAION',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Happy-Brithday1.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Happy-Brithday2.png' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -158488,10 +158512,9 @@ offSeason: {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -158506,10 +158529,9 @@ offSeason: {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -158524,10 +158546,9 @@ offSeason: {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/car4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
