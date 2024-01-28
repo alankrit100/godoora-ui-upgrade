@@ -128340,11 +128340,11 @@ offSeason: {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Happy-Brithday1.png',
                             name: 'BIRTHDAY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION_4',
+                            routerLink: '/stores/BIRTHDAYDECORTAION',
                             extLink: ''
                         },
                     ]
@@ -158394,7 +158394,7 @@ offSeason: {
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/Service-Directory-kufri.pdf',
                     services: [
                         {
                             name: 'IRD Menu',
