@@ -163660,7 +163660,7 @@ offSeason: {
                             name: 'Mini Bar',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/Mini-Bar-alighar.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/cocktail.png',
+                            icon: 'aligarh/cocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -163835,7 +163835,7 @@ offSeason: {
                 },
                 {
                     name: 'Laundry Menu',
-                    icon: 'fortunegrace/directory.png',
+                    icon: 'aligarh/washing-machine.png',
                     size: '64px',
                     color: '#1a8cd2',
                     routerLink: '',
