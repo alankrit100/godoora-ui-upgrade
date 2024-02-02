@@ -25464,10 +25464,10 @@ export const Vendors = {
                             name: 'Web Checkin',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Islandicons/check-out.png',
+                            icon: 'Islandicons/check-in.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkout',
+                            placeholder: 'Example: I need to checkin',
                             headerText: 'Select a date & time you would like to checkin',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
