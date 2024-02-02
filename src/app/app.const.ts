@@ -25769,6 +25769,31 @@ export const Vendors = {
                     ]
                 },
                 {
+                    name: 'Instant Feedback',
+                    icon: 'Aatapi/feedback1.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Instant Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
                     name: 'Wellness and Fitness',
                     icon: 'fortunemussoorieicons/fitness.png',
                     size: '64px',
