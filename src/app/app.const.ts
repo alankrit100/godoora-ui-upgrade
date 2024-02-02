@@ -128321,7 +128321,7 @@ offSeason: {
                     desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg',
                             name: 'Scrumptious feast',
                             location: '',
                             views: '',
@@ -128349,7 +128349,7 @@ offSeason: {
                             name: 'Happy Hours',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HappyHours_3',
                             extLink: ''
                         },
                         {
@@ -128357,7 +128357,7 @@ offSeason: {
                             name: 'Kitty Parties',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KittyParties',
                             extLink: ''
                         },
                         {
@@ -128365,7 +128365,7 @@ offSeason: {
                             name: 'Zodiac Combo Offer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ZodiacComboOffer',
                             extLink: ''
                         },
                         {
@@ -128373,7 +128373,7 @@ offSeason: {
                             name: 'Fuel Your Workday',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FuelYourWorkday',
                             extLink: ''
                         },
                         {
@@ -128381,7 +128381,7 @@ offSeason: {
                             name: 'Early Bird',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EarlyBird_4',
                             extLink: ''
                         },
                         {
@@ -128389,7 +128389,7 @@ offSeason: {
                             name: 'Pizza Paradise',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PizzaParadise',
                             extLink: ''
                         },
                         {
@@ -128397,7 +128397,7 @@ offSeason: {
                             name: 'One Plate Wonder',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OnePlateWonder_1',
                             extLink: ''
                         },
                     ]
