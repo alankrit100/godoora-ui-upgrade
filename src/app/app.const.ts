@@ -25480,6 +25480,24 @@ export const Vendors = {
                             checkinForm: true
                         },
                         {
+                            name: 'Web Checkin',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Islandicons/check-out.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to checkout',
+                            headerText: 'Select a date & time you would like to checkOut',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'Web Checkout',
                             extLink: '',
                             routerLink: 'test',
@@ -26834,6 +26852,19 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Extend Your Stay',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'demo-agra/stay-at-home.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Select a Date & Time when you would like to Checkout',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                         {
                             name: 'Upgrade room @ INR 999*',
                             extLink: '',
