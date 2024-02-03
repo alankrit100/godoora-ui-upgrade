@@ -25788,7 +25788,7 @@ export const Vendors = {
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Book the table',
+                            confirmBtnLabel: 'Submit',
                         },
                         {
                             name: 'Instant Feedback',
