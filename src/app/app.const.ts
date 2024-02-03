@@ -25783,13 +25783,26 @@ export const Vendors = {
                             icon: 'Aatapi/feedback1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Instant Feedback',
+                            extLink: 'https://forms.gle/ofHD91VQiuS2xrtX9',
+                            routerLink: '',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
 
                             ],
                             confirmBtnLabel: 'Book the table',
-                            storePageAsBlog: true
                         },
                     ]
                 },
