@@ -25782,7 +25782,7 @@ export const Vendors = {
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
                             showTextarea: true,
-                            textAreaLabel: 'Request Summary',
+                            textAreaLabel: 'Feedback or Suggestions',
                             placeholder: '',
                             headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
                             gallery: [
