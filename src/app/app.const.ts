@@ -53106,6 +53106,20 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
+                            name: 'Instant Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                        },
+                        {
                             name: '1 Review 1 Mocktail',
                             extLink: '',
                             routerLink: 'test',
@@ -173131,6 +173145,25 @@ offSeason: {
                             confirmBtnLabel: 'Submit',
                         },
                         {
+                            name: "Instant Feedback",
+                            extLink: "",
+                            routerLink: "test",
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: "Feedback or Suggestions",
+                            placeholder: "",
+                            headerText: "Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.",
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: "Submit",
+                            emailConfig: {
+                              sendTo: "vishnuprasad.goyaana@gmail.com",
+                              subject: "Feedback or Suggestion",
+                              bodyTemplate: "Feedback received:\n\n{{feedback}}\n\nSent at: {{timestamp}}"
+                            }
+                        },
+                        {
                             name: 'CLUB ITC MEMBER BENIFITS',
                             extLink: 'https://www.itchotels.com/in/en/clubitc',
                             routerLink: '',
@@ -173158,6 +173191,60 @@ offSeason: {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Make my trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Make-my-trip.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Booking.Com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Booking.Com.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
                             storePageAsBlog: true
                         },
                     ]
