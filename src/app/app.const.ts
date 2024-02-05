@@ -171928,7 +171928,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_26',
+                            routerLink: '/stores/CandleLightDinner_28',
                             extLink: ''
                         },
                         {
@@ -171936,7 +171936,7 @@ offSeason: {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber',
+                            routerLink: '/stores/BarbequeatKhyber_1',
                             extLink: ''
                         },
                         {
@@ -171944,7 +171944,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub',
+                            routerLink: '/stores/SpaandHealthClub_1',
                             extLink: ''
                         },
                         {
@@ -171952,7 +171952,7 @@ offSeason: {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities',
+                            routerLink: '/stores/RecreationalActivities_1',
                             extLink: ''
                         },
                         {
@@ -171960,7 +171960,7 @@ offSeason: {
                             name: 'Meeting Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MeetingHall_2',
+                            routerLink: '/stores/MeetingHall_3',
                             extLink: ''
                         },
                     ]
@@ -171975,7 +171975,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_6',
                             extLink: ''
                         },
                         {
@@ -171983,7 +171983,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration',
+                            routerLink: '/stores/BirthdayRoomDecoration_4',
                             extLink: ''
                         },
                         {
@@ -171991,7 +171991,7 @@ offSeason: {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_3',
                             extLink: ''
                         },
                     ]
