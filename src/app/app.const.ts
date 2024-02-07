@@ -128442,7 +128442,7 @@ offSeason: {
                             name: 'A Sparkling Affair',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ASparklingAffair',
                             extLink: ''
                         },
                         {
