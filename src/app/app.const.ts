@@ -67154,6 +67154,21 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
                             ]
+                        },
+                        {
+                            name: 'Millet Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Fortune-Menu-Millets-02-24.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ]
                         }
                     ]
                 },
