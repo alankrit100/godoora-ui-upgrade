@@ -10,6 +10,7 @@ import { UtilAlertService } from 'src/app/services/util/util-alert.service';
 import { VendorDeatil } from 'src/app/app.const';
 import { WebCheckInModel } from '../model/web-checkIn.model';
 import { CarouselInModalComponent } from 'src/app/components/carousel-in-modal/carousel-in-modal.component';
+import {DomSanitizer} from '@angular/platform-browser';
 
 @Component({
   selector: 'app-stores',
@@ -65,7 +66,8 @@ export class StoresPage implements OnInit {
     private navController: NavController,
     private router: Router,
     private utilAlertService: UtilAlertService,
-    private loadingController: LoadingController
+    private loadingController: LoadingController,
+    public sanitizer: DomSanitizer
   ) {
     this.smallScreen = this.appService.checkSmallScreen();
     this.webCheckin = new WebCheckInModel();
