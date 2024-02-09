@@ -55338,7 +55338,7 @@ export const Vendors = {
             }
         },
         {
-            branch: 'Jaipur',
+            branch: 'Jaipur-Rajasthan',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/branch.jpg',
             id: 'demohotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/BestTripHotelsLogo.png',
