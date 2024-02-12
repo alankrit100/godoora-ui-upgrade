@@ -10,7 +10,7 @@ import { UtilAlertService } from 'src/app/services/util/util-alert.service';
 import { VendorDeatil } from 'src/app/app.const';
 import { WebCheckInModel } from '../model/web-checkIn.model';
 import { CarouselInModalComponent } from 'src/app/components/carousel-in-modal/carousel-in-modal.component';
-import {DomSanitizer} from '@angular/platform-browser';
+import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
 
 @Component({
   selector: 'app-stores',
@@ -20,6 +20,7 @@ import {DomSanitizer} from '@angular/platform-browser';
 export class StoresPage implements OnInit {
 
   storeDetail: any;
+  safeContent: SafeHtml;
   selectedDate: any = new Date();
   selectedSlot: any;
   user: any;
@@ -70,6 +71,7 @@ export class StoresPage implements OnInit {
     public sanitizer: DomSanitizer
   ) {
     this.smallScreen = this.appService.checkSmallScreen();
+    this.safeContent = sanitizer.bypassSecurityTrustHtml(this.storeDetail?.description);
     this.webCheckin = new WebCheckInModel();
     this.getUserDetail();
     this.getVendorDeatil();
