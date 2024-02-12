@@ -94,7 +94,7 @@
                   <span>
                     <div class="_cfvh61">
                       <div class="_1xib9m0">
-                          <span [innerHtml]="safeContent"></span>
+                        <span [innerHtml]="sanitizer.bypassSecurityTrustHtml(storeDetail?.description)"></span>
                       </div>
                     </div>
                   </span>

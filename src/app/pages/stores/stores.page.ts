@@ -20,7 +20,6 @@ import {DomSanitizer, SafeHtml} from '@angular/platform-browser';
 export class StoresPage implements OnInit {
 
   storeDetail: any;
-  safeContent: SafeHtml;
   selectedDate: any = new Date();
   selectedSlot: any;
   user: any;
@@ -71,7 +70,6 @@ export class StoresPage implements OnInit {
     public sanitizer: DomSanitizer
   ) {
     this.smallScreen = this.appService.checkSmallScreen();
-    this.safeContent = sanitizer.bypassSecurityTrustHtml(this.storeDetail.description);
     this.webCheckin = new WebCheckInModel();
     this.getUserDetail();
     this.getVendorDeatil();
