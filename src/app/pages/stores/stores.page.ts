@@ -71,7 +71,7 @@ export class StoresPage implements OnInit {
     public sanitizer: DomSanitizer
   ) {
     this.smallScreen = this.appService.checkSmallScreen();
-    this.safeContent = sanitizer.bypassSecurityTrustHtml(this.storeDetail?.description);
+    this.safeContent = sanitizer.bypassSecurityTrustHtml(this.storeDetail.description);
     this.webCheckin = new WebCheckInModel();
     this.getUserDetail();
     this.getVendorDeatil();
