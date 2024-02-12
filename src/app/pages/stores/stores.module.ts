@@ -10,6 +10,7 @@ import { WebCheckinPage } from './web-checkIn-form.page';
 // import { SignaturePadModule } from 'angular2-signaturepad';
 import { IvyCarouselModule } from 'angular-responsive-carousel';
 import { CarouselInModalComponent } from 'src/app/components/carousel-in-modal/carousel-in-modal.component';
+import { SharedModule } from 'src/app/shared.module';
 
 @NgModule({
   imports: [
@@ -20,6 +21,7 @@ import { CarouselInModalComponent } from 'src/app/components/carousel-in-modal/c
     IvyCarouselModule,
     // CarouselModule.forRoot(),
     // SignaturePadModule,
+    SharedModule,
     StoresPageRoutingModule
   ],
   declarations: [StoresPage, WebCheckinPage, CarouselInModalComponent],

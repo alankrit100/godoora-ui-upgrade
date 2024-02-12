@@ -22,6 +22,7 @@ import { OffSeasonComponent } from './components/off-season/off-season.component
 import { FooterPage } from './components/footer/footer.page';
 import { AuthInterceptor } from './interceptors/auth.interceptor';
 import { CacheInterceptor } from './interceptors/cache.interceptor';
+import { SharedModule } from './shared.module';
 
 const config = new AuthServiceConfig([
   {
@@ -71,6 +72,7 @@ export function provideConfig() {
     SocialLoginModule,
     CreateSlotPageModule,
     ConfirmModalPageModule,
+    SharedModule,
     // NgxGoogleAnalyticsModule.forRoot(getGoogleAnalyticscode()),
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],

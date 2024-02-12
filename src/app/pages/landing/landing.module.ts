@@ -6,11 +6,11 @@ import { LandingPageRoutingModule } from './landing-routing.module';
 import { LandingPage } from './landing.page';
 import { ComponentsModule } from '../../components/components.module';
 import { CarouselModule } from 'ngx-bootstrap/carousel';
-import { SafePipe } from 'src/app/pipes/safe.pipe';
 // import { IvyCarouselModule } from 'angular-responsive-carousel';
 import { MatGridListModule } from '@angular/material';
 import { GridGalleryComponent } from './grid-gallery/grid-gallery.component';
 import { GridGalleryItemComponent } from './grid-gallery/grid-gallery-item/grid-gallery-item.component';
+import { SharedModule } from 'src/app/shared.module';
 @NgModule({
   imports: [
     CommonModule,
@@ -20,8 +20,9 @@ import { GridGalleryItemComponent } from './grid-gallery/grid-gallery-item/grid-
     ComponentsModule,
     MatGridListModule,
     CarouselModule.forRoot(),
-    LandingPageRoutingModule
+    LandingPageRoutingModule,
+    SharedModule
   ],
-  declarations: [LandingPage, SafePipe, GridGalleryComponent, GridGalleryItemComponent]
+  declarations: [LandingPage, GridGalleryComponent, GridGalleryItemComponent]
 })
 export class LandingPageModule { }
