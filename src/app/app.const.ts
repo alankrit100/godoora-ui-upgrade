@@ -172982,6 +172982,21 @@ offSeason: {
                             confirmBtnLabel: 'Submit',
                         },
                         {
+                            name: 'Instant Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'CLUB ITC MEMBER BENIFITS',
                             extLink: 'https://www.itchotels.com/in/en/clubitc',
                             routerLink: '',
