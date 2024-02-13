@@ -172982,7 +172982,7 @@ offSeason: {
                             confirmBtnLabel: 'Submit',
                         },
                         {
-                            name: 'Instant Feedback',
+                            name: 'Instant feedback',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
