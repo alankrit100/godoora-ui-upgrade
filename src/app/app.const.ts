@@ -164233,6 +164233,7 @@ offSeason: {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'CLUB ITC MEMBER BENIFITS',
