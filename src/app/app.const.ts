@@ -173634,7 +173634,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_28',
+                            routerLink: '/stores/CandleLightDinner_29',
                             extLink: ''
                         },
                         {
@@ -173642,7 +173642,7 @@ offSeason: {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber_1',
+                            routerLink: '/stores/BarbequeatKhyber_2',
                             extLink: ''
                         },
                         {
@@ -173650,7 +173650,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub_1',
+                            routerLink: '/stores/SpaandHealthClub_2',
                             extLink: ''
                         },
                         {
@@ -173658,7 +173658,7 @@ offSeason: {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities_1',
+                            routerLink: '/stores/RecreationalActivities_2',
                             extLink: ''
                         },
                         {
@@ -173666,7 +173666,7 @@ offSeason: {
                             name: 'Events At Fortune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MeetingHall_3',
+                            routerLink: '/stores/EventsAtFortune',
                             extLink: ''
                         },
                     ]
@@ -173681,7 +173681,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION_6',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_7',
                             extLink: ''
                         },
                         {
@@ -173689,7 +173689,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration_4',
+                            routerLink: '/stores/BirthdayRoomDecoration_5',
                             extLink: ''
                         },
                         {
@@ -173697,7 +173697,7 @@ offSeason: {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_3',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_4',
                             extLink: ''
                         },
                     ]
@@ -175050,81 +175050,51 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'ISKCON Temple',
+                            name: 'Jallianwala Bagh',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'aligarh/temple.png',
+                            icon: 'Aatapi/Amritsar.jpeg',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/ISKCON-Temple.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/ISKCON-Temple1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Okhla bird sanctuary',
+                            name: 'Golden Temple',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'aligarh/bird.png',
+                            icon: 'Aatapi/amritsar.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Okhla-bird.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Okhla-bird1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Botanical garden',
+                            name: 'The Partition Museum',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'aligarh/garden.png',
+                            icon: 'Aatapi/museum123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Botanical-garden.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Botanical-garden1.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Kidzania',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/playground.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Kidzania.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Kidzania1.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Worlds Of Wonder',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/games.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/worldsofwonder.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/Worlds-Of-Wonder.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
