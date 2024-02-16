@@ -72549,7 +72549,7 @@ export const Vendors = {
                             name: 'Cab Charges',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Cab-Charges.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/picnic-basket1.png',
+                            icon: 'Aatapi/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
