@@ -160468,7 +160468,7 @@ offSeason: {
                             name: 'couple candle light dinner @ Restaurants',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/dinner1.png',
+                            icon: 'aligarh/romantic-dinner.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
