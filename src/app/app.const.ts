@@ -72478,7 +72478,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Cab Charges',
+                            name: 'Cab Charge',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Cab-Charges-1.pdf',
                             routerLink: '',
                             icon: 'Aatapi/taxi.png',
