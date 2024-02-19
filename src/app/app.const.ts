@@ -108272,7 +108272,7 @@ export const Vendors = {
             }
         },
         {
-            branch: 'JP-Celestial',
+            branch: 'JP-Celestial-Bengaluru',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Banner1.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -108392,7 +108392,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_29',
+                            routerLink: '/stores/CandleLightDinner_31',
                             extLink: ''
                         },
                         {
@@ -108400,7 +108400,7 @@ export const Vendors = {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber_2',
+                            routerLink: '/stores/BarbequeatKhyber_4',
                             extLink: ''
                         },
                         {
@@ -108408,7 +108408,7 @@ export const Vendors = {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub_2',
+                            routerLink: '/stores/SpaandHealthClub_4',
                             extLink: ''
                         },
                         {
@@ -108416,7 +108416,7 @@ export const Vendors = {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities_2',
+                            routerLink: '/stores/RecreationalActivities_4',
                             extLink: ''
                         },
                         {
@@ -108424,7 +108424,7 @@ export const Vendors = {
                             name: 'Events At Fortune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/EventsAtFortune',
+                            routerLink: '/stores/EventsAtFortune_2',
                             extLink: ''
                         },
                     ]
@@ -108439,7 +108439,7 @@ export const Vendors = {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION_7',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_9',
                             extLink: ''
                         },
                         {
@@ -108447,7 +108447,7 @@ export const Vendors = {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration_5',
+                            routerLink: '/stores/BirthdayRoomDecoration_7',
                             extLink: ''
                         },
                         {
@@ -108455,7 +108455,7 @@ export const Vendors = {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_4',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_6',
                             extLink: ''
                         },
                     ]
@@ -154658,7 +154658,7 @@ offSeason: {
             }
         },
         {
-            branch: 'JP-Cosmos',
+            branch: 'JP-Cosmos-Bengaluru',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Cosmos+Bangalore/jp-cosmos-branch.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -154778,7 +154778,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_29',
+                            routerLink: '/stores/CandleLightDinner_30',
                             extLink: ''
                         },
                         {
@@ -154786,7 +154786,7 @@ offSeason: {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber_2',
+                            routerLink: '/stores/BarbequeatKhyber_3',
                             extLink: ''
                         },
                         {
@@ -154794,7 +154794,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub_2',
+                            routerLink: '/stores/SpaandHealthClub_3',
                             extLink: ''
                         },
                         {
@@ -154802,7 +154802,7 @@ offSeason: {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities_2',
+                            routerLink: '/stores/RecreationalActivities_3',
                             extLink: ''
                         },
                         {
@@ -154810,7 +154810,7 @@ offSeason: {
                             name: 'Events At Fortune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/EventsAtFortune',
+                            routerLink: '/stores/EventsAtFortune_1',
                             extLink: ''
                         },
                     ]
@@ -154825,7 +154825,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION_7',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_8',
                             extLink: ''
                         },
                         {
@@ -154833,7 +154833,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration_5',
+                            routerLink: '/stores/BirthdayRoomDecoration_6',
                             extLink: ''
                         },
                         {
@@ -154841,7 +154841,7 @@ offSeason: {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_4',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_5',
                             extLink: ''
                         },
                     ]
