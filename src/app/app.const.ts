@@ -169143,7 +169143,7 @@ offSeason: {
 }
         },
         {
-            branch: 'Fortune-Statue-of-Unity',
+            branch: 'Kevadia-Gujarat',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Kevadia-branch.png',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
