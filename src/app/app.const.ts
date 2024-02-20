@@ -75492,6 +75492,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'CLUB ITC MEMBER BENIFITS',
@@ -107825,6 +107826,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'CLUB ITC MEMBER BENIFITS',
@@ -153265,6 +153267,7 @@ offSeason: {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'CLUB ITC MEMBER BENIFITS',
@@ -171604,7 +171607,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_29',
+                            routerLink: '/stores/CandleLightDinner_32',
                             extLink: ''
                         },
                         {
@@ -171612,7 +171615,7 @@ offSeason: {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber_2',
+                            routerLink: '/stores/BarbequeatKhyber_5',
                             extLink: ''
                         },
                         {
@@ -171620,7 +171623,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub_2',
+                            routerLink: '/stores/SpaandHealthClub_5',
                             extLink: ''
                         },
                         {
@@ -171628,7 +171631,7 @@ offSeason: {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities_2',
+                            routerLink: '/stores/RecreationalActivities_5',
                             extLink: ''
                         },
                         {
@@ -171636,7 +171639,7 @@ offSeason: {
                             name: 'Events At Fortune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/EventsAtFortune',
+                            routerLink: '/stores/EventsAtFortune_3',
                             extLink: ''
                         },
                     ]
@@ -171651,7 +171654,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION_7',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_10',
                             extLink: ''
                         },
                         {
@@ -171659,7 +171662,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration_5',
+                            routerLink: '/stores/BirthdayRoomDecoration_8',
                             extLink: ''
                         },
                         {
@@ -171667,7 +171670,7 @@ offSeason: {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_4',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_7',
                             extLink: ''
                         },
                     ]
@@ -172730,6 +172733,7 @@ offSeason: {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'CLUB ITC MEMBER BENIFITS',
