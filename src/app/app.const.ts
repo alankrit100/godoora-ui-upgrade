@@ -71336,7 +71336,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instant Feedback',
+                            name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
@@ -75480,7 +75480,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instant Feedback',
+                            name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
@@ -107814,7 +107814,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instant Feedback',
+                            name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
@@ -153255,7 +153255,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instant Feedback',
+                            name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
@@ -170986,7 +170986,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instant Feedback',
+                            name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
@@ -172721,7 +172721,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instant Feedback',
+                            name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
