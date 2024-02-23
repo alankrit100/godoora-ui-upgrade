@@ -101464,37 +101464,6 @@ export const Vendors = {
                 },
                 destinations: {
                     active: true,
-                    heading: 'Special Offers ',
-                    desc: 'Explore and experience the infinite possibilities with us!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
-                            name: 'Fortune Weekend Escapes',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
-                            name: 'Fortune Leisure Escape',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
-                            name: 'Fortune Business Stays',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
-                        }
-                    ]
-                },
-                experiences: {
-                    active: true,
                     heading: 'In-House Experience',
                     desc: 'Dive into a whole new world of activities!',
                     items: [
@@ -101529,11 +101498,11 @@ export const Vendors = {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SPA_35',
+                            routerLink: '/stores/Spa_67',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/SPA',
+                                routerLink: '/stores/Spa_67',
                                 label: 'ENQUIRE NOW'
                             }
                         },
@@ -101542,11 +101511,11 @@ export const Vendors = {
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NatureWalk_3',
+                            routerLink: '/stores/NatureWalk_11',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/Nature_Walk',
+                                routerLink: '/stores/NatureWalk_11',
                                 label: 'ENQUIRE NOW'
                             }
                         },
@@ -101555,17 +101524,17 @@ export const Vendors = {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_32',
+                            routerLink: '/stores/SwimmingPool_67',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/Swimming Pool',
+                                routerLink: '/stores/SwimmingPool_67',
                                 label: 'ENQUIRE NOW'
                             }
                         },
                     ]
                 },
-                activities: {
+                experiences: {
                     active: true,
                     heading: 'Our Unique Offerings',
                     desc: 'Enjoy the best of vantage dining!',
@@ -101629,6 +101598,37 @@ export const Vendors = {
                                 routerLink: '/stores/ChauffeurdriveAirportTransfer_4',
                                 label: 'ENQUIRE NOW'
                             }
+                        }
+                    ]
+                },
+                activities: {
+                    active: true,
+                    heading: 'Special Offers ',
+                    desc: 'Explore and experience the infinite possibilities with us!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Weekend+Escapes.jpeg',
+                            name: 'Fortune Weekend Escapes',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-weekend-escapes.sp.5077?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Leisure+Escape.jpeg',
+                            name: 'Fortune Leisure Escape',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/leisure-escape.sp.5076?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Fortune+Business+Stays.jpeg',
+                            name: 'Fortune Business Stays',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
                         }
                     ]
                 },
