@@ -95776,7 +95776,7 @@ export const Vendors = {
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/844'
@@ -96950,7 +96950,7 @@ export const Vendors = {
                             name: '20% Discount on Laundry',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
+                            icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -96967,7 +96967,7 @@ export const Vendors = {
                             name: '10% discount on Hotel Cabs',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/celebrating.png',
+                            icon: 'Aatapi/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -101298,7 +101298,7 @@ export const Vendors = {
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/847'
@@ -106052,7 +106052,7 @@ export const Vendors = {
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/1868'
