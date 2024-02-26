@@ -79486,7 +79486,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'fortune Deli',
+                            name: 'Fortune Deli',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Fortune-Deli-Thane.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
