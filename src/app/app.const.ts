@@ -79501,6 +79501,24 @@ export const Vendors = {
                             menuImgs: [
                                 ],
                         },
+                        {
+                            name: 'Millet Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Millet-Menu-thane.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -79589,6 +79607,28 @@ export const Vendors = {
                             menuImgs: [
                                 ],
                         },
+                    ]
+                },
+                {
+                    name: 'Laundry',
+                    icon: 'Aatapi/laundry-machine.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/LAUNDRY-PRICE-thane.pdf',
+                    services: [
+                        
+                    ]
+                },
+                {
+                    name: 'Mini Bar',
+                    icon: 'Aatapi/wine-bottle.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/MINI-BAR-MENU-thane.pdf',
+                    services: [
+                        
                     ]
                 },
                 {
@@ -96791,6 +96831,28 @@ export const Vendors = {
 
                             ]
                         }
+                    ]
+                },
+                {
+                    name: 'Laundry',
+                    icon: 'Aatapi/laundry-machine.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Laundry-jalandar.pdf',
+                    services: [
+                        
+                    ]
+                },
+                {
+                    name: 'Mini Bar',
+                    icon: 'Aatapi/wine-bottle.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Minibar-jalandar.pdf',
+                    services: [
+                        
                     ]
                 },
                 {
