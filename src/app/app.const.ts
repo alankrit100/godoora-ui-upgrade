@@ -73883,11 +73883,11 @@ export const Vendors = {
                 },
                 {
                     name: 'Spa Menu',
-                    icon: 'dharmshala/tray.png',
+                    icon: 'benaulimIcon/spa.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Fortune+Resort+Heevan+Spa+Menu+(1).pdf',
                     services: [
                         {
                             name: 'Spa Menu',
@@ -90300,11 +90300,11 @@ export const Vendors = {
                 },
                 {
                     name: 'SPA MENU',
-                    icon: 'fortunegrace/directory.png',
+                    icon: 'benaulimIcon/spa.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
+                    routerLink: '',
+                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/The+Leisure+Spa+Menu.pdf',
                     services: [
                         {
                             name: 'SPA MENU',
