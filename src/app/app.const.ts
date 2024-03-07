@@ -90177,10 +90177,10 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Mini Bar',
+                            name: 'Mini-Bar',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/MINI-BAR-Ghaziabad.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/wine-bottle.png',
+                            icon: 'aligarh/cocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
