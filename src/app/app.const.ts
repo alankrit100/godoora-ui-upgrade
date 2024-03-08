@@ -69768,7 +69768,7 @@ export const Vendors = {
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/809'
@@ -89271,26 +89271,70 @@ export const Vendors = {
                             routerLink: '/by-admin/1912'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/863'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
                             routerLink: '/by-admin/864'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/741'
                         }
                     ]
                 },
                 destinations: {
+                    active: true,
+                    heading: 'Dining Experiences',
+                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/pool-side.jpg',
+                            name: 'Couple Candle Light Dinner Table at Pool Side',
+                            desc: '',
+                            routerLink: '/stores/WellnessCentreOffering',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Restaurant.jpg',
+                            name: 'Couple Special Dinner table at Restaurant',
+                            desc: '',
+                            routerLink: '/stores/SwimmingPool_33',
+                            extLink: ''
+                        },
+                    ]
+                },
+                experiences: {
+                    active: true,
+                    heading: 'Unique Hotel Offerings',
+                    desc: 'Enjoy the best of vantage dining!',
+                    items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/honeymoon.jpg',
+                            name: 'Honeymoon Decoration',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/Breakfast_5',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Happy.jpeg',
+                            name: 'Birthday Room Decoration',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/CandleLightDinner_14',
+                            extLink: ''
+                        },
+                    ]
+                },
+                activities: {
                     active: true,
                     heading: 'Special Offers ',
                     desc: 'Explore and experience the infinite possibilities with us!',
@@ -89318,80 +89362,6 @@ export const Vendors = {
                             views: '',
                             routerLink: '',
                             extLink: 'https://www.fortunehotels.in/special-offers/fortune-business-stays.sp.5075?utm_source=QR+Code&utm_medium=Special+Offers&utm_campaign=HQ+%7C+Fortune+Hotels+%7C+QR+Code+%7C+August+2022',
-                        }
-                    ]
-                },
-                experiences: {
-                    active: true,
-                    heading: 'Unique Dinning Experience',
-                    desc: 'Enjoy the best of vantage dining!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Idli+Sambar.jpg',
-                            name: 'Breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Breakfast_5',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Bhubaneshwar/candle.jpg',
-                            name: 'Candle Light Dinner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CandleLightDinner_14',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/orchid.jpg',
-                            name: 'Orchid',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Orchid_15',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/4+Deli+CF+SHLR+(1).JPG',
-                            name: 'Fortune Deli',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/FortuneDeli_2',
-                            extLink: ''
-                        }
-                    ]
-                },
-                activities: {
-                    active: true,
-                    heading: 'In-House Experience',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Mind+Prossage+Spa+-+Thai+Massage+Therapists+in+Corona+del+Mar+-+Orange+County.jpg',
-                            name: 'Wellness Centre Offering',
-                            desc: '',
-                            routerLink: '/stores/WellnessCentreOffering',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/6+Swimming+Pool+CF+SHLR.JPG',
-                            name: 'Swimming Pool',
-                            desc: '',
-                            routerLink: '/stores/SwimmingPool_33',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/13+Board+Room+CF+SH+LR.JPG',
-                            name: 'EMERALD BOARD ROOM',
-                            desc: '',
-                            routerLink: '/stores/BusinessCentre_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/12+Gym+CF+SH+LR.JPG',
-                            name: 'GYM',
-                            desc: '',
-                            routerLink: '/stores/GYM_32',
-                            extLink: ''
                         }
                     ]
                 },
@@ -90230,18 +90200,63 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Service Directory',
-                    icon: 'fortunegrace/directory.png',
+                    name: 'REVIEW & REWARD',
+                    icon: 'JammuIcons/upgrader.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Service-Directory-Ghaziabad.pdf',
+                    routerLink: 'test',
+                    extLink: '',
                     services: [
                         {
-                            name: 'Service Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Service-Directory-Ghaziabad.pdf',
+                            name: 'In-Stay Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'CLUB ITC MEMBER BENIFITS',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc',
                             routerLink: '',
-                            icon: 'fortunegrace/directory.png',
+                            icon: 'Aatapi/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Trip Adviser',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/tripadvisor1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Make my trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Make-my-trip.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -90252,23 +90267,14 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'SPA MENU',
-                    icon: 'benaulimIcon/spa.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/The+Leisure+Spa+Menu.pdf',
-                    services: [
+                            ],
+                            storePageAsBlog: true
+                        },
                         {
-                            name: 'SPA MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/The+Leisure+Spa+Menu.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/spa.png',
+                            name: 'Booking.Com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Booking.Com.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -90279,23 +90285,14 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Mini Bar',
-                    icon: 'Aatapi/wine-bottle.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/MINI-BAR-Ghaziabad.pdf',
-                    services: [
+                            ],
+                            storePageAsBlog: true
+                        },
                         {
-                            name: 'Mini Bar',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/MINI-BAR-Ghaziabad.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/wine-bottle.pngg',
+                            name: 'Google',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/search.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -90306,39 +90303,13 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
-                            ]
-                        }
-                    ]
-                },
-                {
-                    name: 'Laundry menu',
-                    icon: 'Aatapi/laundry-machine.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/LAUNDRY-Ghaziabad.pdf',
-                    services: [
-                        {
-                            name: 'Laundry menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/LAUNDRY-Ghaziabad.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/laundry-machine.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
                             ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        }
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
-                    name: 'Special Benefits',
+                    name: 'SPECIAL OFFERS & PROMOTIONS',
                     icon: '',
                     size: '64px',
                     color: '#1a8cd2',
@@ -90346,7 +90317,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Avail a 20% discount* on spa',
+                            name: 'Veg Kabab Platter',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/SpaMenu.png',
@@ -90355,15 +90326,12 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Mind+Prossage+Spa+-+Thai+Massage+Therapists+in+Corona+del+Mar+-+Orange+County.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/v-beauty_nl.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/7+Spa+CCF+SHLR.JPG' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Custom In-room dining',
+                            name: 'Non-Veg Kabab Platter',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/dinning-table.png',
@@ -90372,16 +90340,13 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/15+Suite+1+A1CF+SH+LR.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/CELEBRATION+HOMES_3BHK.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Navpad-A+New+Path+with+Kaleidoscope+of+Tints+_Pavan+Infratech+-+The+Architects+Diary.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/room.jpg' }
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Poolside dining',
+                            name: 'Room Upgrades',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/swimming-pool.png',
@@ -90390,51 +90355,23 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/33+Best+Outdoor+Seating+Options_+ALL+Under+%24500+-+thetarnishedjewelblog(1).jpg' },
-                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/6+Swimming+Pool+CF+SHLR.JPG' },
-                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Pool+side+dining.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Quick Upgrades',
-                    icon: '',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Upgrade room @ INR 999*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/room+(1).jpg' }
+                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/standard-room1.jpg' },
+                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/standard-room2.jpg' },
+                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/standard-room3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade meal @ INR 499*',
+                            name: 'Meal Upgrades',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
+                            icon: 'JammuIcons/swimming-pool.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Idli+Sambar.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Bread+Omelette+Sandwich.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Arabic+Chicken+Samosa+Recipe.png' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -90442,7 +90379,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Plan Your Trip',
+                    name: 'DIGITAL CONCIERGE',
                     icon: '',
                     size: '64px',
                     color: '#1a8cd2',
@@ -90519,11 +90456,83 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
+                        },
+                        {
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book the cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Railway Station Pick Up and Drop ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/localtaxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book a Cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local Sightseeing Charges 8 hrs 80 Kms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a slow',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local Sightseeing Charges 4 hrs 40 Kms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi-1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
+                            headerText: 'When are you planning to visit?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book tickets',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
-                    name: 'In-House Experience',
+                    name: 'Dining Experiences',
                     icon: '',
                     size: '64px',
                     color: '#1a8cd2',
@@ -90531,7 +90540,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Emerald Board Room',
+                            name: 'Couple Candle Light Dinner Table at Pool Side',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/sold-out.png',
@@ -90546,7 +90555,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'GYM',
+                            name: 'Couple Special Dinner table at Restaurant',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/weightlifting.png',
@@ -90560,40 +90569,10 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Swimming Pool',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Swimming.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Wellness Centre Offering',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/building.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
                     ]
                 },
                 {
-                    name: 'Unique Dinning Experience',
+                    name: 'Unique Hotel Offerings',
                     icon: '',
                     size: '64px',
                     color: '#1a8cd2',
@@ -90601,7 +90580,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Breakfast',
+                            name: 'Honeymoon Decoration',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Vijaywadaicons/breakfast.png',
@@ -90610,15 +90589,13 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Idli+Sambar.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Bread+Omelette+Sandwich.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Arabic+Chicken+Samosa+Recipe.png' }
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Candle Light Dinner',
+                            name: 'Birthday Room Decoration',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/Candle.png',
@@ -90627,41 +90604,11 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/16+Romantic+Candle+Light+Dinner+Ideas+That+Will+Impress+-+FTD_com.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/image+4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Pale+romantic+table.jpg' }
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Orchid',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/ORCHID.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Fortune Deli',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
                     ]
                 },
             ],
