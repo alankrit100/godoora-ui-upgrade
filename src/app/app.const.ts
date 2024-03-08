@@ -166924,7 +166924,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Bar Menu',
+                            name: 'Minibar Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Minibar-Kevadia.jpg',
                             routerLink: '',
                             icon: 'aligarh/mocktail.png',
