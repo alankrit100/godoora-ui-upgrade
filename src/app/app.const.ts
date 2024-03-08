@@ -89293,7 +89293,7 @@ export const Vendors = {
                 destinations: {
                     active: true,
                     heading: 'Dining Experiences',
-                    desc: 'One`s destination is never a place, but a new way of seeing things – Henry Miller. We want to give you every possible experience that you will cherish for a long time!',
+                    desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/pool-side.jpg',
@@ -89314,7 +89314,7 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'Unique Hotel Offerings',
-                    desc: 'Enjoy the best of vantage dining!',
+                    desc: 'Enjoy the best of vantage Experience!',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/honeymoon.jpg',
