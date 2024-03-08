@@ -89299,14 +89299,14 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/pool-side.jpg',
                             name: 'Couple Candle Light Dinner Table at Pool Side',
                             desc: '',
-                            routerLink: '/stores/WellnessCentreOffering',
+                            routerLink: '/stores/CoupleCandleLightDinnerTableatPoolSide',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Restaurant.jpg',
                             name: 'Couple Special Dinner table at Restaurant',
                             desc: '',
-                            routerLink: '/stores/SwimmingPool_33',
+                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant_4',
                             extLink: ''
                         },
                     ]
@@ -89321,7 +89321,7 @@ export const Vendors = {
                             name: 'Honeymoon Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Breakfast_5',
+                            routerLink: '/stores/HoneymoonDecoration',
                             extLink: ''
                         },
                         {
@@ -89329,7 +89329,7 @@ export const Vendors = {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_14',
+                            routerLink: '/stores/BirthdayRoomDecoration_9',
                             extLink: ''
                         },
                     ]
