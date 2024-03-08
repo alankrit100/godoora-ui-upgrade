@@ -166925,9 +166925,9 @@ offSeason: {
                     services: [
                         {
                             name: 'Bar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Minibar-Kevadia.jpg',
                             routerLink: '',
-                            icon: 'aligarh/menu.png',
+                            icon: 'aligarh/mocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
