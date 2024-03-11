@@ -70409,7 +70409,7 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Digital Menus',
+                    name: 'Menus',
                     icon: 'dharmshala/tray.png',
                     size: '64px',
                     color: '#1a8cd2',
