@@ -166924,10 +166924,10 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'IRD Menu',
+                            name: 'In-Room Dining Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/IRD-Kevadia.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/menu123.png',
+                            icon: 'aligarh/menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
