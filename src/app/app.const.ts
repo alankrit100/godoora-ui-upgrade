@@ -125983,7 +125983,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Food and Beverage',
+                    name: 'Digital Menus',
                     icon: 'fortunemussoorieicons/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
