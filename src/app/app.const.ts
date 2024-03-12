@@ -101220,11 +101220,11 @@ export const Vendors = {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Spa_67',
+                            routerLink: '/stores/Spa_68',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/Spa_67',
+                                routerLink: '/stores/Spa_68',
                                 label: 'ENQUIRE NOW'
                             }
                         },
@@ -101233,11 +101233,11 @@ export const Vendors = {
                             name: 'Nature Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NatureWalk_11',
+                            routerLink: '/stores/NatureWalk_12',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/NatureWalk_11',
+                                routerLink: '/stores/NatureWalk_12',
                                 label: 'ENQUIRE NOW'
                             }
                         },
@@ -101246,11 +101246,11 @@ export const Vendors = {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_67',
+                            routerLink: '/stores/SwimmingPool_68',
                             extLink: '',
                             btn: {
                                 extLink: '',
-                                routerLink: '/stores/SwimmingPool_67',
+                                routerLink: '/stores/SwimmingPool_68',
                                 label: 'ENQUIRE NOW'
                             }
                         },
