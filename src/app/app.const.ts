@@ -126039,22 +126039,6 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Banquet-Brochure',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Banquet-Brochure.pdf',
-                            routerLink: '',
-                            icon: 'fortune-navi-mumbai/brochure.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Scrumptious feast',
                             extLink: '',
                             routerLink: 'test',
@@ -126133,7 +126117,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Banquet-Brochure',
+                            name: 'Banquet Brochure',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Banquet-Brochure.pdf',
                             routerLink: '',
                             icon: 'Aatapi/brochure.png',
