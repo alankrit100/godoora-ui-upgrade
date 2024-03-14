@@ -78430,7 +78430,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_25',
+                            routerLink: '/stores/CandleLightDinner_33',
                             extLink: ''
                         },
                         {
@@ -78446,7 +78446,7 @@ export const Vendors = {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_47',
+                            routerLink: '/stores/CustomInroomdining_46',
                             extLink: ''
                         },
                         {
@@ -78454,7 +78454,7 @@ export const Vendors = {
                             name: 'Couple Candle light Dinner at pool-side',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratpoolside',
+                            routerLink: '/stores/CoupleCandlelightDinneratpoolside_4',
                             extLink: ''
                         },
                         {
@@ -78462,7 +78462,7 @@ export const Vendors = {
                             name: 'Couple Candle light Dinner at lawn area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea',
+                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea_6',
                             extLink: ''
                         },
                         {
@@ -78470,7 +78470,7 @@ export const Vendors = {
                             name: 'Couple Special Dinner table at Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant',
+                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant_5',
                             extLink: ''
                         },
                     ]
@@ -78501,7 +78501,7 @@ export const Vendors = {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_67',
+                            routerLink: '/stores/SwimmingPool_69',
                             extLink: ''
                         },
                         {
