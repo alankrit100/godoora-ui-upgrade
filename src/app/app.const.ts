@@ -66522,7 +66522,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'Fortune Resort Benaulim, Goa',
-                    desc: `Just a leisurly walk from the pristine Benaulim Beach, this quaint and tranquil 96 keys retreat with a relaxing spa, stunning swimming pool, multiple F&B offerings and a gamut of vantage venues is a perfect destination for dreamy weddings and a breathtaking tropical holiday`,
+                    desc: `Just a leisurly walk from the pristine Benaulim Beach, this quaint and tranquil 102 keys retreat with a relaxing spa, stunning swimming pool, multiple F&B offerings and a gamut of vantage venues is a perfect destination for dreamy weddings and a breathtaking tropical holiday`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
