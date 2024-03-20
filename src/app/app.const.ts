@@ -89120,6 +89120,24 @@ export const Vendors = {
                             ],
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Trust-You',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/trustyou.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
