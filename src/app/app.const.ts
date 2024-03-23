@@ -157623,7 +157623,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/1916'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
@@ -157646,7 +157646,7 @@ offSeason: {
                     ]
                 },
                 destinations: {
-                    active: true,
+                    active: false,
                     heading: 'Rejuvenating Spa Experiences',
                     desc: 'Rejuvenate every element of your body and soul at the Golden Glory Spa that treats you with an amazing plethora of holistic treatments within an exotic and soul-soothing setting.',
                     items: [
@@ -157702,7 +157702,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_34',
                             extLink: ''
                         },
                         {
@@ -157710,7 +157710,7 @@ offSeason: {
                             name: 'Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RoomDecoration_10',
                             extLink: ''
                         },
                         {
@@ -157718,7 +157718,7 @@ offSeason: {
                             name: 'Couple Dinner at poolside area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CoupleDinneratpoolsidearea',
                             extLink: ''
                         },
                         {
@@ -157726,7 +157726,7 @@ offSeason: {
                             name: 'The private dining room at the Coffee shop',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheprivatediningroomattheCoffeeshop',
                             extLink: ''
                         },
                     ]
