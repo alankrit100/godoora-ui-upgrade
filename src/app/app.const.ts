@@ -172041,7 +172041,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/1917'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
@@ -172866,7 +172866,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'Restaurant Menu',
+                    name: 'Digital Menus',
                     icon: 'aligarh/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -172874,8 +172874,8 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Millet Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Fortune-Menu-Millets.pdf',
+                            name: 'IRD Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/IRD-Menu-kathmandu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -172889,8 +172889,8 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'In-Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/IRD-MENU.pdf',
+                            name: 'Neptune Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Neptune-kathmandu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -172904,8 +172904,8 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Zodiac Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/ZODIAC-MENU.pdf',
+                            name: 'Rainbow Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Rainbow-Menu-kathmandu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu2.png',
                             showTextarea: true,
@@ -172919,10 +172919,25 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Nakshatra Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/NAKSHATRA-MENU.pdf',
+                            name: 'Services Directory',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Service-Directory-kathmandu.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu.png',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/ZODIAC-MENU.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Laundry Price List',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/LAUNDRY-kathmandu.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/washing-machine.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -172931,249 +172946,6 @@ offSeason: {
                                 {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
                             ],
                             confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Laundry Price List',
-                    icon: 'aligarh/washing-machine.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Laundry+Price+list.pdf',
-                    services: [
-                        {
-                            name: 'Bar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'In-Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD+SHARE+07.09.2023+final.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD+SHARE+07.09.2023+final.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Zodiac Share',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/ZODIAC+SHARE+07.09.2023+final.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/ZODIAC+SHARE+07.09.2023+final.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'IRD Menu',
-                    icon: 'Pride/menu.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
-                    services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                ],
-                        },
-                    ]
-                },
-                {
-                    name: 'Services Directory',
-                    icon: 'fortunegrace/directory.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/NOIDA-SERVICE-DIRECTORY.pdf',
-                    services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                ],
-                        },
-                    ]
-                },
-                {
-                    name: 'Guest Feedback',
-                    icon: 'Aatapi/feedback.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '/stores/Feedback_1',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Tripadvisor',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Tripadvisor.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Expedia',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Expedia.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Agoda',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Agoda.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
                             storePageAsBlog: true
                         },
                     ]
