@@ -161601,7 +161601,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/1798'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
@@ -162410,32 +162410,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'IRD Menu',
-                    icon: 'Aatapi/menu1234.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/IRD-MENU.pdf',
-                    services: [
-                        {
-                            name: 'In-Rome Dinning',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/IRD-MENU.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/menu123.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Restaurant Menus',
+                    name: 'Digital Menus',
                     icon: 'Aatapi/menu1234.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -162502,21 +162477,11 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                    ]
-                },
-                {
-                    name: 'Laundry Price List',
-                    icon: 'aligarh/washing-machine.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Laundry+Price+list.pdf',
-                    services: [
                         {
-                            name: 'Bar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf',
+                            name: 'Services Directory',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Vivek-Vihar-Service-Directory.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu.png',
+                            icon: 'fortunegrace/directory.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -162528,78 +162493,19 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'In-Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD+SHARE+07.09.2023+final.pdf',
+                            name: 'Laundry Price List',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Laundry-Price-Delhi.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu1.png',
+                            icon: 'aligarh/washing-machine.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD+SHARE+07.09.2023+final.pdf'}
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        },
-                        {
-                            name: 'Zodiac Share',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/ZODIAC+SHARE+07.09.2023+final.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/ZODIAC+SHARE+07.09.2023+final.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Services Directory',
-                    icon: 'fortunegrace/directory.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Vivek-Vihar-Service-Directory.pdf',
-                    services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                ],
                         },
                     ]
                 },
