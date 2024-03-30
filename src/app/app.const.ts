@@ -123633,14 +123633,6 @@ offSeason: {
                     desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Valentine1.jpg',
-                            name: 'A Sparkling Affair',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/ASparklingAffair',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg',
                             name: 'Scrumptious feast',
                             location: '',
