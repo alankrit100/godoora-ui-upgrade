@@ -67564,6 +67564,19 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
+                            name: 'Digital IRD Menu',
+                            extLink: 'https://airmenus.in/fortunebenaulim/ird',
+                            routerLink: '',
+                            icon: 'benaulimIcon/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'IRD Menu',
                             extLink: 'https://airmenus.in/fortunebenaulim/ird',
                             routerLink: '',
