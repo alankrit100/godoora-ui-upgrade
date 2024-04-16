@@ -65780,7 +65780,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Restaurant Menu',
+                    name: 'Digital Menus',
                     icon: 'fortunemussoorieicons/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
