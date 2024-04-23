@@ -72776,7 +72776,22 @@ export const Vendors = {
                             name: 'Spa Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Fortune+Resort+Heevan+Spa+Menu+(1).pdf',
                             routerLink: '',
-                            icon: 'benaulimIcon/spa.png',
+                            icon: 'fortunegrace/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ]
+                        },
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Service-Directory-Srinagar.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
