@@ -163388,7 +163388,7 @@ offSeason: {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Statue Of Unity, Kevadia',
+            title: 'Fortune Statue Of Unity',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -163440,7 +163440,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Banner1.jpg',
-                            heading: 'Fortune Statue Of Unity, Kevadia',
+                            heading: 'Fortune Statue Of Unity',
                             subHeading: ''
                         },
                         {
@@ -163452,8 +163452,8 @@ offSeason: {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Statue Of Unity, Kevadia',
-                    desc: `At Fortune Hotels, we have diligently improvised our service standards to ensure a heightened level of cleanliness and hygiene, keeping our impeccable hospitality and the discerning needs of our guests in mind at all times.`,
+                    heading: 'Fortune Statue Of Unity Ekta Nagar',
+                    desc: `Fortune Statue of Unity Ekta Nagar is an iconic hotel near the vibrant vicinity of the World's Tallest Statue - the Statue of Unity - Ekta Nagar, Gujarat. We offer a 144 key facility along with amenities such as a Restaurant, Banquet and party Lawns that are equally suitable for a Weekend Family Trip, Group Stay, Business Trip, Casual Leisure stay or to celebrate a destination wedding.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
