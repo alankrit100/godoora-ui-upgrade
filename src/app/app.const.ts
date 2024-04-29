@@ -64507,7 +64507,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'Plan Your Trip',
                             extLink: '',
-                            routerLink: '/by-admin/802'
+                            routerLink: '/by-admin/228'
                         }
                     ]
                 },
@@ -65652,7 +65652,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Local Offering',
+                    name: 'Plan Your Trip',
                     icon: 'fortunemussoorieicons/local.png',
                     size: '64px',
                     color: '#1a8cd2',
