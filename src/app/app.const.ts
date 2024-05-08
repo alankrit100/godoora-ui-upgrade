@@ -77767,56 +77767,16 @@ export const Vendors = {
                     desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg',
-                            name: 'Pool Side Dinner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/PoolSideDinner_17',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg',
-                            name: 'Candle Light Dinner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CandleLightDinner_33',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg',
-                            name: 'Nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Naturebreakfast_19',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
                             routerLink: '/stores/CustomInroomdining_46',
                             extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner.jpg',
-                            name: 'Couple Candle light Dinner at pool-side',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratpoolside_4',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/Lawn.jpg',
-                            name: 'Couple Candle light Dinner at lawn area',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea_6',
-                            extLink: ''
-                        },
+                        },,
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/table-at-Restaurant.jpg',
-                            name: 'Couple Special Dinner table at Restaurant',
+                            name: 'Couple Special Dinner table',
                             location: '',
                             views: '',
                             routerLink: '/stores/CoupleSpecialDinnertableatRestaurant_5',
@@ -77830,35 +77790,11 @@ export const Vendors = {
                     desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/Unlock-Night-Club1.jpg',
-                            name: 'Unlock Night Club',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/UnlockNightClub',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/Banquet-Hall1.jpg',
                             name: 'Banquet Hall',
                             location: '',
                             views: '',
                             routerLink: '/stores/BanquetHall_17',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/Swimming-Pool1.jpg',
-                            name: 'Swimming Pool',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/SwimmingPool_69',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/Gym1.jpg',
-                            name: 'Gym',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Gym_62',
                             extLink: ''
                         },
                         {
@@ -78443,7 +78379,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: '#SafeStaysatFortuneHotels',
                     desc: 'From check-in to check-out, we have you covered',
                     items: [
