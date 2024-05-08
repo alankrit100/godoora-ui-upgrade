@@ -78379,7 +78379,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: false,
+                    active: true,
                     heading: '#SafeStaysatFortuneHotels',
                     desc: 'From check-in to check-out, we have you covered',
                     items: [
