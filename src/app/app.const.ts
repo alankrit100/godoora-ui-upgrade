@@ -77773,7 +77773,7 @@ export const Vendors = {
                             views: '',
                             routerLink: '/stores/CustomInroomdining_46',
                             extLink: ''
-                        },,
+                        },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/table-at-Restaurant.jpg',
                             name: 'Couple Special Dinner table',
