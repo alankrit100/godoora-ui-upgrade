@@ -69199,7 +69199,7 @@ export const Vendors = {
                             name: 'Service Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Service-Directory.pdf',
                             routerLink: '',
-                            icon: 'hublii/root-directory.png',
+                            icon: 'fortunegrace/directory.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -77733,7 +77733,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'Fortune Park Lake City, Thane',
-                    desc: `At Fortune Park hotel you'll be welcomed among something new each and every time you visit us, innovation is our synonym. Let's pack up your bags and get ready to experience the different flavours of India through Thane. Let's not wait and join this never ending thrill with us you won't be disappointed. An opulent resort built to perfection by sustainable, locally sourced materials, set in oneness with nature, seamlessly weaves bespoke soul searching experiences to ensure its patrons find a perfect place to discover, revitalize and renew themselves and go on a fulfilling transformational holiday.`,
+                    desc: `Fortune Park Lake City, Thane is an upscale, first class, full service business hotel and is the perfect amalgam of comfort, convenience and great value. The hotel offers a selection of 22 well-appointed rooms, modern conferencing, banqueting space and delectable dining options for its guests. Besides being a hub of economic activities, Thane is surrounded by the picturesque hills of Yeoor and Parsik Hill and is surrounded by 30 lakes which gives Thane an enthralling and riveting outlook.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -78666,9 +78666,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/king-deluxe1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/king-deluxe2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/king-deluxe3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/room1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/room3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
