@@ -66751,14 +66751,6 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/yoga.jpg',
-                            name: 'Guided Yoga Session',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/GuidedYogaSession',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/day+sight+seeing.jpg',
                             name: 'Day Sightseeing Tours',
                             location: '',
@@ -66790,7 +66782,7 @@ export const Vendors = {
                     desc: 'Enjoy the best of vantage dining!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/Pool+Side+Dinner.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Pool-Setup.jpg',
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
@@ -67681,23 +67673,6 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Guided Yoga Session',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this experience.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/yoga/Bamboo+Yoga+Retreat+in+South+Goa+_+Yoga+Holidays%2C+Retreats+and+Teacher+Training.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/yoga/Female+Silhouette+In+Yoga+Lotus+Pose_+Stock+Illustration+-+Illustration+of+girl%2C+pose_+58671231.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/in+house/yoga/morning+yoga.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Day sighseeing tours',
                             extLink: '',
                             routerLink: 'test',
@@ -67769,7 +67744,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Pool-Setup.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/4.jpg' }
                             ],
