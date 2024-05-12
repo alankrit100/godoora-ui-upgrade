@@ -89166,7 +89166,7 @@ export const Vendors = {
                             name: 'ORCHID Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/ghaziabad+menu.pdf',
                             routerLink: '',
-                            icon: 'kolkatta/orchid.png',
+                            icon: 'fortunegrace/nost.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
