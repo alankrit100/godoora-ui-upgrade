@@ -67646,6 +67646,19 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
+                        {
+                            name: 'Goa Map',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/GOA-MAP.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/map.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                     ]
                 },
                 {
@@ -169167,7 +169180,7 @@ offSeason: {
                 experience: {
                     active: true,
                     heading: 'Fortune Park Hoshiarpur',
-                    desc: `Located in the ‘City of the Saints’ Fortune Park Hoshiarpur, is on National Highway 3, just 6 km from Hoshiarpur town. This regal hotel with well-appointed rooms & suites comes with a restful spa, a swimming pool, multiple food & beverage offerings and 1900 sq. m of banquet venues and extensive lawns, to host weddings and events While catering to the corporates in the city this elegant hotel doubles up as a convenient getaway for the city residents to relax and rejuvenate over weekends. `,
+                    desc: `Located in the ‘City of the Saints’ Fortune Park Hoshiarpur, is on National Highway 3, just 6 km from Hoshiarpur town. This regal hotel with well-appointed rooms & suites comes with a restful multiple food & beverage offerings and 1900 sq. m of banquet venues and extensive lawns, to host weddings and events While catering to the corporates in the city this elegant hotel doubles up as a convenient getaway for the city residents to relax and rejuvenate over weekends. `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -169201,24 +169214,24 @@ offSeason: {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal2.png',
-                            name: 'Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Kitty-Parties1.jpg',
+                            name: 'Kitty Parties',
                             location: '',
                             views: '',
                             routerLink: '/stores/CandleLightDinner_32',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber.jpg',
-                            name: 'Barbeque at Khyber',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Conferences1.jpg',
+                            name: 'Conferences',
                             location: '',
                             views: '',
                             routerLink: '/stores/BarbequeatKhyber_5',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Gym.jpg',
-                            name: 'Spa and Health Club',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/wedding.jpeg',
+                            name: 'Wedding',
                             location: '',
                             views: '',
                             routerLink: '/stores/SpaandHealthClub_5',
@@ -169230,14 +169243,6 @@ offSeason: {
                             location: '',
                             views: '',
                             routerLink: '/stores/RecreationalActivities_5',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/hall2.jpg',
-                            name: 'Events At Fortune',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/EventsAtFortune_3',
                             extLink: ''
                         },
                     ]
@@ -170393,51 +170398,65 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Jallianwala Bagh',
+                            name: 'Gurudwara Harian velan',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/Amritsar.jpeg',
+                            icon: 'Aatapi/buildings.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Gurudwara1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Gurudwara2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Gurudwara3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Golden Temple',
+                            name: 'Vaishno Mata Mandir',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/amritsar.png',
+                            icon: 'Aatapi/mandir.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Vaishno-Mata-Mandir1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Vaishno-Mata-Mandir2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Vaishno-Mata-Mandir3.avif' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'The Partition Museum',
+                            name: 'Sheesh Mahal',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/museum123.png',
+                            icon: 'Aatapi/art-museum.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Sheesh-Mahal1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Sheesh-Mahal3.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Chintpurni Mata Mandir',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/mandir.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -170453,7 +170472,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Candle Light Dinner',
+                            name: 'Kitty Parties',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/paint.png',
@@ -170462,15 +170481,15 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal1.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal2.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal3.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Kitty-Parties1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Kitty-Parties2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Kitty-Parties3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Barbeque at Khyber',
+                            name: 'Conferences',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/yoga.png',
@@ -170479,15 +170498,14 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Conferences1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Conferences2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Spa and Health Club',
+                            name: 'Wedding',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -170496,8 +170514,6 @@ offSeason: {
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Gym.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Spa.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -170515,21 +170531,6 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Events At Fortune',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/hall2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
