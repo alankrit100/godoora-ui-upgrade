@@ -66779,7 +66779,7 @@ export const Vendors = {
                             name: 'Banquets & Events',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Banquets&Events',
                             extLink: ''
                         },
                     ]
