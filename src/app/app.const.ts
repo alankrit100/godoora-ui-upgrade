@@ -137100,7 +137100,105 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        
+                        {
+                            name: 'In-Stay Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'CLUB ITC MEMBER BENIFITS',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc',
+                            routerLink: '',
+                            icon: 'Aatapi/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Trip Advisor',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/tripadvisor1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Make my trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Make-my-trip.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Booking.Com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Booking.Com.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -137216,7 +137314,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Candle Light Dinner',
+                            name: 'Audio Visual Requirement Particulars',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/paint.png',
@@ -137225,9 +137323,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle3.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
