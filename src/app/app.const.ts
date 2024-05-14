@@ -136064,8 +136064,8 @@ offSeason: {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg',
-                            name: 'Pool Side Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/CAV-Image.jpg',
+                            name: 'Audio Visual Requirement Particulars',
                             location: '',
                             views: '',
                             routerLink: '/stores/PoolSideDinner_9',
