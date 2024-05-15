@@ -161419,7 +161419,7 @@ offSeason: {
         },
         {
             branch: 'Fortune-Park-East-Delhi',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/East-delhi.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
@@ -161476,7 +161476,7 @@ offSeason: {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneNoida/Banner1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/East-delhi.jpg',
                             heading: 'Fortune Park East Delhi',
                             subHeading: ''
                         },
@@ -161500,19 +161500,19 @@ offSeason: {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/1795'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
                             routerLink: '/by-admin/1794'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/1793'
                         }
@@ -161520,31 +161520,23 @@ offSeason: {
                 },
                 destinations: {
                     active: true,
-                    heading: 'Dinning Experiences',
-                    desc: 'We offer a truly great dining experience where our guests needs are anticipated and strive to make every moment memorable',
+                    heading: 'In-house experience',
+                    desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner.jpg',
-                            name: 'Couple Candle light Dinner at pool-side',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Gym1.jpg',
+                            name: 'Gym facility',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratpoolside',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/Lawn.jpg',
-                            name: 'Couple Candle light Dinner at lawn area',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/spa1.jpg',
+                            name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CoupleCandlelightDinneratlawnarea',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/table-at-Restaurant.jpg',
-                            name: 'Couple Special Dinner table at Restaurant',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CoupleSpecialDinnertableatRestaurant',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -161555,27 +161547,19 @@ offSeason: {
                     desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg',
-                            name: 'ANNIVERSARY DECORTAION',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Complimentary-Breakfast1.jpg',
+                            name: 'Complimentary Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth.jpg',
-                            name: 'Birthday Room Decoration',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Extra-Mattress.jpg',
+                            name: 'Extra Mattress',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday.jpg',
-                            name: 'Bday or Anniversary TDH celebration table above 6pax',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -162403,20 +162387,65 @@ offSeason: {
                             storePageAsBlog: true
                         },
                     ]
-                },
+                },     
                 {
-                    name: 'HK DECORATION PACKAGES',
-                    icon: 'aligarh/decoration.png',
+                    name: 'REVIEW & REWARD',
+                    icon: 'JammuIcons/upgrader.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Noida/HK-DECORATION-PACKAGES.pdf',
+                    routerLink: 'test',
+                    extLink: '',
                     services: [
                         {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            name: 'In-Stay Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'CLUB ITC MEMBER BENIFITS',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc',
                             routerLink: '',
-                            icon: 'pune/dinning-table.png',
+                            icon: 'Aatapi/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Trip Advisor',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/tripadvisor1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Make my trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Make-my-trip.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -162431,10 +162460,10 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
+                            name: 'Booking.Com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Booking.Com.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -162444,23 +162473,33 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                                ],
+
+                            ],
+                            storePageAsBlog: true
                         },
+                        {
+                            name: 'Google',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        
                     ]
                 },
                 {
-                    name: 'TRANSPORATION',
-                    icon: 'fortunemussoorieicons/van.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        
-                    ]
-                },     
-                {
-                    name: 'Quick Upgrades',
+                    name: 'SPECIAL OFFERS & PROMOTIONS',
                     icon: 'JammuIcons/upgrader.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -162515,6 +162554,109 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'veg kabab platter',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/banquet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'non-veg kabab platter',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/roast-chicken.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Mango food festival',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'F & B',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/roast-chicken.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 + 1 cocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 + 1 mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        
+                    ]
+                },
+                {
+                    name: 'DIGITAL CONCIERGE',
+                    icon: 'JammuIcons/upgrader.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
                         {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
@@ -162587,91 +162729,6 @@ offSeason: {
                             confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
                         },
-                    ]
-                },
-                {
-                    name: 'Special Benefits',
-                    icon: 'JammuIcons/upgrader.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'veg kabab platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/banquet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'non-veg kabab platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/roast-chicken.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: '1 + 1 cocktail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/cocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: '1 + 1 mocktail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/mocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        
-                    ]
-                },
-                {
-                    name: 'Plan Your Trip',
-                    icon: 'JammuIcons/upgrader.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
                         {
                             name: 'ISKCON Temple',
                             extLink: '',
@@ -162755,7 +162812,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Dinning Experiences',
+                    name: 'In-house experience',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -162763,7 +162820,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Couple Candle light Dinner at pool-side',
+                            name: 'Gym facility',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/romantic-dinner-1.png',
@@ -162772,15 +162829,15 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner2.webp' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/poolside-dinner3.webp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Gym1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Gym2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Gym3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Couple Candle light Dinner at lawn area',
+                            name: 'SPA',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/romantic-dinner.png',
@@ -162789,26 +162846,9 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/Lawn.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/Lawn2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/Lawn3.webp' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Couple Special Dinner table at Restaurant',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/romantic-dinner-2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/table-at-Restaurant.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/table-at-Restaurant2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/table-at-Restaurant3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/spa3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -162824,7 +162864,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Bday or Anniversary TDH celebration table above 6pax',
+                            name: 'Complimentary Breakfast',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/decoration.png',
@@ -162833,14 +162873,14 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Complimentary-Breakfast1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Complimentary-Breakfast2.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'ANNIVERSARY DECORTAION',
+                            name: 'Extra Mattress',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -162849,24 +162889,6 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Birthday Room Decoration',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
