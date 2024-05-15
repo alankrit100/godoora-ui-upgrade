@@ -136068,7 +136068,7 @@ offSeason: {
                             name: 'Audio Visual Requirement Particulars',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/AudioVisualRequirementParticulars',
                             extLink: ''
                         },
                         {
@@ -136076,7 +136076,7 @@ offSeason: {
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/DeepTissueMassage_14',
                             extLink: ''
                         },
                         {
@@ -136092,7 +136092,7 @@ offSeason: {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/Naturebreakfast_19',
                             extLink: ''
                         },
                         {
@@ -136100,7 +136100,7 @@ offSeason: {
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_5',
+                            routerLink: '/stores/Facial_12',
                             extLink: ''
                         },
                         {
@@ -136108,7 +136108,7 @@ offSeason: {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/CustomInroomdining_47',
                             extLink: ''
                         },
                     ]
