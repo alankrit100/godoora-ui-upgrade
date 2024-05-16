@@ -66743,7 +66743,7 @@ export const Vendors = {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Leaf-Art-Image1.jpeg',
                             name: 'Room Decoration',
                             location: '',
                             views: '',
@@ -66759,7 +66759,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/Learn+Towar+Art.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Towel-Art-Image1.jpeg',
                             name: 'Learn towel art',
                             location: '',
                             views: '',
@@ -66767,7 +66767,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/Learn+Leaf+Art.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Leaf-Art-Image1.jpeg',
                             name: 'Learn leaf art',
                             location: '',
                             views: '',
@@ -66798,7 +66798,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/Picnic+Hamper.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Picnic-Hamper1.jpg',
                             name: 'Picnic Hamper',
                             location: '',
                             views: '',
@@ -162921,7 +162921,6 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
