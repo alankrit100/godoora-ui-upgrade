@@ -67655,19 +67655,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Goa Map',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/GOA-MAP.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/map.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
                             name: 'ITC Fortune Presentation',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/ITC-Fortune-Presentation.pdf',
                             routerLink: '',
@@ -67824,8 +67811,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/picnic/Champagne+and+the+beach%2C+oh+my%2C+what+a+delight+_3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/picnic/Designer+Clothes%2C+Shoes+%26+Bags+for+Women+_+SSENSE.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Picnic-Hamper1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Picnic-Hamper2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -67990,11 +67977,10 @@ export const Vendors = {
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
@@ -68009,11 +67995,10 @@ export const Vendors = {
                             placeholder: 'Arrange a Sedan for local sightseeing',
                             headerText: 'When are you planning to start from hotel?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
                             confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
@@ -68028,9 +68013,10 @@ export const Vendors = {
                             placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
                             headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
@@ -68045,9 +68031,10 @@ export const Vendors = {
                             placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
                             headerText: 'When are you planning to visit?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
                             confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
@@ -68107,7 +68094,20 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
+                        },
+                        {
+                            name: 'Goa Map',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/GOA-MAP.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/map.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                     ]
                 },
                 {
@@ -162516,9 +162516,11 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/East-Room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/East-Room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/East-Room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/East-Room4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/East-Room5.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
