@@ -12,7 +12,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -1055,7 +1055,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -3755,7 +3755,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -5114,7 +5114,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -6148,7 +6148,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -7468,7 +7468,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Admin Login', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -8668,7 +8668,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -11312,7 +11312,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Admin Login', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -12280,7 +12280,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -14345,7 +14345,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -16149,7 +16149,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -18225,7 +18225,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -19303,7 +19303,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -20710,7 +20710,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -22257,7 +22257,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -24914,7 +24914,7 @@ export const Vendors = {
             title: 'Monarch Hotels',
             storeImg: 'social2.jpg',
             label: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Shop',
             c: {
@@ -24971,7 +24971,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -27037,7 +27037,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -28842,7 +28842,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -31404,7 +31404,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -33078,7 +33078,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -35602,7 +35602,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             editShopLabel: 'Edit Service',
             c: {
                 loginType: {
@@ -38625,7 +38625,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -40198,7 +40198,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -42500,7 +42500,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -44305,7 +44305,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -46781,7 +46781,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -48308,7 +48308,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             editShopLabel: 'Edit Service',
             c: {
                 loginType: {
@@ -51023,7 +51023,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -53295,7 +53295,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -55349,7 +55349,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -57630,7 +57630,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -59794,7 +59794,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -60969,7 +60969,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -63248,7 +63248,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -64417,7 +64417,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -66612,7 +66612,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -68229,7 +68229,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -70022,7 +70022,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -71738,7 +71738,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -73447,7 +73447,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -75193,7 +75193,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -77716,7 +77716,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -79451,7 +79451,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -82059,7 +82059,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -83791,7 +83791,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -85546,7 +85546,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -88303,7 +88303,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -89766,7 +89766,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -92553,7 +92553,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -94901,7 +94901,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -96539,7 +96539,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -98175,7 +98175,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -100168,7 +100168,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -101975,7 +101975,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -104819,7 +104819,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -106570,7 +106570,7 @@ export const Vendors = {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -108321,7 +108321,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -110605,7 +110605,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -113426,7 +113426,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -116278,7 +116278,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -119172,7 +119172,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -122010,7 +122010,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -123802,7 +123802,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -125435,7 +125435,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -128238,7 +128238,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -130301,7 +130301,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -133194,7 +133194,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -135963,7 +135963,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -137506,7 +137506,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -139674,7 +139674,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -142591,7 +142591,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -144418,7 +144418,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -146922,7 +146922,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -149572,7 +149572,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -151323,7 +151323,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -152899,7 +152899,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -154625,7 +154625,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -155646,7 +155646,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -157230,7 +157230,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -158804,7 +158804,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -160135,7 +160135,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -161429,7 +161429,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -165212,7 +165212,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -166977,7 +166977,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -168712,7 +168712,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -170212,7 +170212,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -171948,7 +171948,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -173489,7 +173489,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -174260,7 +174260,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -176211,7 +176211,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -178166,7 +178166,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -180477,7 +180477,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -182724,7 +182724,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -184461,7 +184461,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -186222,7 +186222,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -188031,7 +188031,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -190321,7 +190321,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -191927,7 +191927,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -194519,7 +194519,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -196668,7 +196668,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -198478,7 +198478,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -201224,7 +201224,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -203235,7 +203235,7 @@ offSeason: {
           storeImg: 'social2.jpg',
           label: 'Hotel Admin', // Login label
           serviceLabel: 'Service',
-          pwaInstallTimer: 15000,
+          pwaInstallTimer: 15000000,
           gAnalyticscode: 'UA-144064030-1',
           editShopLabel: 'Edit Service',
           c: {
@@ -205286,7 +205286,7 @@ offSeason: {
           storeImg: 'social2.jpg',
           label: 'Hotel Admin', // Login label
           serviceLabel: 'Service',
-          pwaInstallTimer: 15000,
+          pwaInstallTimer: 15000000,
           gAnalyticscode: 'UA-144064030-1',
           editShopLabel: 'Edit Service',
           c: {
@@ -207330,7 +207330,7 @@ offSeason: {
         storeImg: 'social2.jpg',
         label: 'Hotel Admin', // Login label
         serviceLabel: 'Service',
-        pwaInstallTimer: 15000,
+        pwaInstallTimer: 15000000,
         gAnalyticscode: 'UA-144064030-1',
         editShopLabel: 'Edit Service',
         c: {
@@ -209372,7 +209372,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -211416,7 +211416,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -213683,7 +213683,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -215967,7 +215967,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -217930,7 +217930,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -219876,7 +219876,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -221874,7 +221874,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -223686,7 +223686,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -224650,7 +224650,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -226693,7 +226693,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -228505,7 +228505,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -230742,7 +230742,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -232556,7 +232556,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -235121,7 +235121,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -236933,7 +236933,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -239676,7 +239676,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -241489,7 +241489,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             editShopLabel: 'Edit Service',
             c: {
                 loginType: {
@@ -244206,7 +244206,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -245712,7 +245712,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -247218,7 +247218,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -248724,7 +248724,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -250230,7 +250230,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -251736,7 +251736,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -253243,7 +253243,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -253956,7 +253956,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -255865,7 +255865,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -257994,7 +257994,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -259233,7 +259233,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -259965,7 +259965,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -261203,7 +261203,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -262609,7 +262609,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -263746,7 +263746,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -264933,7 +264933,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -266070,7 +266070,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -267195,7 +267195,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -268297,7 +268297,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -269841,7 +269841,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -271152,7 +271152,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -272468,7 +272468,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -273784,7 +273784,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -275100,7 +275100,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -276407,7 +276407,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -277958,7 +277958,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -279079,7 +279079,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -280201,7 +280201,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -281402,7 +281402,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -282639,7 +282639,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -284058,7 +284058,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -285342,7 +285342,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -286586,7 +286586,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -287829,7 +287829,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
@@ -289067,7 +289067,7 @@ offSeason: {
             storeImg: 'social2.jpg',
             label: 'Hotel admin', // Login label
             serviceLabel: 'Service',
-            pwaInstallTimer: 15000,
+            pwaInstallTimer: 15000000,
             gAnalyticscode: 'UA-144064030-1',
             editShopLabel: 'Edit Service',
             c: {
