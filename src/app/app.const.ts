@@ -161499,7 +161499,7 @@ offSeason: {
                             routerLink: '/by-admin/1798'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/1795'
@@ -161528,7 +161528,7 @@ offSeason: {
                             name: 'Gym facility',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gymfacility',
                             extLink: ''
                         },
                         {
@@ -161536,7 +161536,7 @@ offSeason: {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SPA_69',
                             extLink: ''
                         },
                     ]
@@ -161551,7 +161551,7 @@ offSeason: {
                             name: 'Complimentary Breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ComplimentaryBreakfast',
                             extLink: ''
                         },
                         {
@@ -161559,7 +161559,7 @@ offSeason: {
                             name: 'Extra Mattress',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExtraMattress_1',
                             extLink: ''
                         },
                     ]
