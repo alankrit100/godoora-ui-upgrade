@@ -163024,7 +163024,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_28',
+                            routerLink: '/stores/CandleLightDinner_35',
                             extLink: ''
                         },
                         {
@@ -163032,7 +163032,7 @@ offSeason: {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber_1',
+                            routerLink: '/stores/BarbequeatKhyber_6',
                             extLink: ''
                         },
                         {
@@ -163040,7 +163040,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub_1',
+                            routerLink: '/stores/SpaandHealthClub_6',
                             extLink: ''
                         },
                         {
@@ -163048,7 +163048,7 @@ offSeason: {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities_1',
+                            routerLink: '/stores/RecreationalActivities_6',
                             extLink: ''
                         },
                         {
@@ -163056,7 +163056,7 @@ offSeason: {
                             name: 'Meeting Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MeetingHall_3',
+                            routerLink: '/storesMeetingHall_4',
                             extLink: ''
                         },
                     ]
