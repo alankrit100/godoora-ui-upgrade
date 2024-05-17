@@ -162973,7 +162973,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Banner1.jpg',
-                            heading: 'Fortune Statue Of Unity',
+                            heading: 'Fortune Statue Of Unity Ekta Nagar',
                             subHeading: ''
                         },
                         {
@@ -163900,8 +163900,8 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Fortune Ekta Nagar Factsheet',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Fortune-Ekta-Nagar-Factsheet.pdf',
+                            name: 'Banquet',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Fortune-Ekta-Nagar-Banquet.pdf',
                             routerLink: '',
                             icon: 'Aatapi/5-stars.png',
                             showTextarea: true,
