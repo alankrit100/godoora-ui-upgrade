@@ -66755,8 +66755,16 @@ export const Vendors = {
                             name: 'Day Sightseeing Tours',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Daysighseeingtours',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/SIGHTSEEING-PACKAGES.pdf'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Goa-Places.jpeg',
+                            name: 'Goa Sightseeing Places',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Goa-Sightseeing-Places.pdf'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Towel-Art-Image1.jpeg',
@@ -66806,7 +66814,7 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/inhouse%26unique/LAwn+Experience.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/lawn/2.jpg',
                             name: 'Lawn Experience',
                             location: '',
                             views: '',
@@ -67766,9 +67774,6 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Periwinkle-Hall-3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Periwinkle-Hall-4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Periwinkle-Hall-5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Periwinkle-Hall-6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Wedding-Venue.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Outdoor-Event-setup.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Daisy-hall.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -67875,7 +67880,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Trip Adviser',
+                            name: 'Trip Advisor',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/tripadvisor1.png',
