@@ -67774,7 +67774,8 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Periwinkle-Hall-3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Periwinkle-Hall-4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Periwinkle-Hall-5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Daisy-hall.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Daisy-hall.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/New/Daisy-Hall.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -67800,8 +67801,8 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Pool-Setup.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/pool/4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/New/Pool-Side-dinner1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/New/Pool-Side-dinner2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -67833,8 +67834,8 @@ export const Vendors = {
                             headerText: 'When would you like to receive it?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/lawn/2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/lawn/3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/unique/lawn/4.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/New/Lawn-Expearince1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/New/Lawn-Expearince2.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -68207,7 +68208,66 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Kitty Party',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Kitty-Party.jpg',
+                            routerLink: '',
+                            icon: 'aligarh/party.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Kitty-Party.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Summer Splash',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Summer-Splash.jpg',
+                            routerLink: '',
+                            icon: 'aligarh/bucket.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Summer-Splash.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },{
+                            name: 'Beer Bucket',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beer-Bucket.jpg',
+                            routerLink: '',
+                            icon: 'aligarh/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beer-Bucket.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
+                        ,{
+                            name: 'Beat the heat',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beat-the-heat.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/sun.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+
                     ]
                 },
             ],
