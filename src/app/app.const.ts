@@ -102149,7 +102149,7 @@ export const Vendors = {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/PoolSideDinner_18',
                             extLink: ''
                         },
                         {
@@ -102157,7 +102157,7 @@ export const Vendors = {
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/DeepTissueMassage_15',
                             extLink: ''
                         },
                         {
@@ -102165,7 +102165,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/CandleLightDinner_36',
                             extLink: ''
                         },
                         {
@@ -102173,7 +102173,7 @@ export const Vendors = {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/Naturebreakfast_20',
                             extLink: ''
                         },
                         {
@@ -102181,7 +102181,7 @@ export const Vendors = {
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_5',
+                            routerLink: '/stores/Facial_13',
                             extLink: ''
                         },
                         {
@@ -102189,7 +102189,7 @@ export const Vendors = {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/CustomInroomdining_48',
                             extLink: ''
                         },
                     ]
@@ -102204,7 +102204,7 @@ export const Vendors = {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/CelebrateYourSpecialDay_49',
                             extLink: ''
                         },
                         {
@@ -102212,7 +102212,7 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/CookingSessionWithChef_16',
                             extLink: ''
                         },
                         {
@@ -102220,7 +102220,7 @@ export const Vendors = {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/BonfireatLawn_11',
                             extLink: ''
                         }
                     ]
