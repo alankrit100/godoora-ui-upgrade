@@ -136194,7 +136194,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/CelebrateYourSpecialDay_48',
                             extLink: ''
                         },
                         {
@@ -136202,7 +136202,7 @@ offSeason: {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/CookingSessionWithChef_15',
                             extLink: ''
                         },
                         {
@@ -136210,7 +136210,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/BonfireatLawn_10',
                             extLink: ''
                         }
                     ]
