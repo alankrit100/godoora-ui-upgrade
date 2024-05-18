@@ -162961,7 +162961,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Single / Double Occupancy',
+                            name: 'Single - Double Occupancy',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Single-Double-Occupancy.jpg',
                             routerLink: '',
                             icon: 'aligarh/5-stars.png',
