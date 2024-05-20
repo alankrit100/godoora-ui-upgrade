@@ -103130,6 +103130,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
                                 ],
+                            storePageAsBlog: true
                         },
                     ]
                 },
