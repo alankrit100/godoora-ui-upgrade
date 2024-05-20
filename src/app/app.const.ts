@@ -162626,7 +162626,7 @@ offSeason: {
                     services: [
                         {
                             name: 'In-Room Dining Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/IRD-Kevadia.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -162641,7 +162641,7 @@ offSeason: {
                         },
                         {
                             name: 'Rainbow Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Rainbow-Menu-Kevadia.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Rainbow-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -162656,7 +162656,7 @@ offSeason: {
                         },
                         {
                             name: 'Minibar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Minibar-Kevadia.jpg',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Minibar.jpg',
                             routerLink: '',
                             icon: 'aligarh/mocktail.png',
                             showTextarea: true,
@@ -162671,7 +162671,7 @@ offSeason: {
                         },
                         {
                             name: 'Laundry Price List',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/LAUNDRY-Kevadia.jpg',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/LAUNDRY.jpg',
                             routerLink: '',
                             icon: 'aligarh/washing-machine.png',
                             showTextarea: true,
@@ -162686,7 +162686,7 @@ offSeason: {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/service-directory-kevadia.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/service-directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
