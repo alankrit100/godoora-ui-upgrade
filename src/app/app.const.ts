@@ -134916,43 +134916,19 @@ offSeason: {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Deep Tissue Massage',
+                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym1.jpg',
+                            name: 'GYM',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_14',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg',
-                            name: 'Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/olivia1.jpeg',
+                            name: 'Meeting Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg',
-                            name: 'Nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Naturebreakfast_19',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Facial_12',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
-                            name: 'Custom In-room dining',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CustomInroomdining_47',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -136068,9 +136044,9 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade meal',
-                            extLink: '',
-                            routerLink: 'test',
+                            name: 'Early Bird',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/EARLY-BIRD.pdf',
+                            routerLink: '',
                             icon: 'JammuIcons/meal.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -136082,10 +136058,38 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Extra bed',
+                            name: 'Discount on Laundry',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Travel Desk',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Fortune Deli',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/one-meal.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -136187,7 +136191,26 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Pool Side Dinner',
+                            name: 'GYM',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/Gym.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like to use the treadmill',
+                            headerText: 'When would you like to hit the Gym?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Meeting Hall',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/yoga.png',
@@ -136196,77 +136219,9 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Deep Tissue Massage',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Facial',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/barbeque.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Nature breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/olivia1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/olivia2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/olivia3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
