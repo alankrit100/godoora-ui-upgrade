@@ -134920,7 +134920,7 @@ offSeason: {
                             name: 'GYM',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GYM_62',
                             extLink: ''
                         },
                         {
@@ -134928,7 +134928,7 @@ offSeason: {
                             name: 'Meeting Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MeetingHall_5',
                             extLink: ''
                         },
                     ]
@@ -136086,7 +136086,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Fortune Deli',
+                            name: 'Discount on Fortune Deli',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/one-meal.png',
