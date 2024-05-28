@@ -290863,35 +290863,35 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local1.webp',
                             name: 'Jaipur Art work',
                             desc: '',
-                            routerLink: '/stores/JaipurArtwork',
+                            routerLink: '/stores/JaipurArtwork_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/Jaipur+Cultural+Walking+Tour.jpg',
                             name: 'Jaipur Walking tour',
                             desc: '',
-                            routerLink: '/stores/JaipurWalkingtour_1',
+                            routerLink: '/stores/JaipurWalkingtour_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local5.webp',
                             name: 'Jaipur monument tour',
                             desc: '',
-                            routerLink: '/stores/Jaipurmonumenttour',
+                            routerLink: '/stores/Jaipurmonumenttour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local9.jpg',
                             name: 'JANTAR MANTAR',
                             desc: '',
-                            routerLink: '/stores/JANTARMANTAR',
+                            routerLink: '/stores/JANTARMANTAR_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/albert.jpg',
                             name: 'ALBERT HALL MUSEUM (CENTRAL MUSEUM)',
                             desc: '',
-                            routerLink: '/stores/ALBERTHALLMUSEUM(CENTRALMUSEUM)',
+                            routerLink: '/stores/ALBERTHALLMUSEUM(CENTRALMUSEUM)_1',
                             extLink: ''
                         },
 
@@ -290899,21 +290899,21 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/local8.jpg',
                             name: 'CITY PALACE',
                             desc: '',
-                            routerLink: '/stores/CITYPALACE',
+                            routerLink: '/stores/CITYPALACE_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/light.jpg',
                             name: 'LIGHT & SOUND SHOW AT JAINIWAS UDHYAN',
                             desc: '',
-                            routerLink: '/stores/LIGHT&SOUNDSHOWATJAINIWASUDHYAN',
+                            routerLink: '/stores/LIGHT&SOUNDSHOWATJAINIWASUDHYAN_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/jaigrah.jpg',
                             name: 'JAIGARH FORT',
                             desc: '',
-                            routerLink: '/stores/JAIGARHFORT',
+                            routerLink: '/stores/JAIGARHFORT_1',
                             extLink: ''
                         }
                     ]
@@ -290928,7 +290928,7 @@ offSeason: {
                             name: 'Baloon Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/BaloonArtist_6',
+                            routerLink: '/stores/BaloonArtist_9',
                             extLink: ''
                         },
                         {
@@ -290936,7 +290936,7 @@ offSeason: {
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasions_7',
+                            routerLink: '/stores/CandleLightOccasions_10',
                             extLink: ''
                         },
                         {
@@ -290944,7 +290944,7 @@ offSeason: {
                             name: 'Guest Room Decoration with towel art & flowers',
                             location: 'Our experts take your party vibe a notch higher',
                             views: '',
-                            routerLink: '/stores/GuestRoomDecoration_6',
+                            routerLink: '/stores/GuestRoomDecoration_8',
                             extLink: ''
                         },
                         {
@@ -290952,7 +290952,7 @@ offSeason: {
                             name: 'Tattoo Artist',
                             location: 'One-of-a-kind activities hosted by experts',
                             views: '',
-                            routerLink: '/stores/TattooArtist_7',
+                            routerLink: '/stores/TattooArtist_10',
                             extLink: ''
                         },
                         {
@@ -290960,7 +290960,7 @@ offSeason: {
                             name: 'Cookery Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/CookeryClasses_6',
+                            routerLink: '/stores/CookeryClasses_9',
                             extLink: ''
                         },
                         {
@@ -290968,7 +290968,7 @@ offSeason: {
                             name: 'Swimming Class',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/SwimmingClass_6',
+                            routerLink: '/stores/SwimmingClass_9',
                             extLink: ''
                         },
                         {
@@ -290976,7 +290976,7 @@ offSeason: {
                             name: 'Bakery Cake Making Classes',
                             location: 'Family Fun | Workshops',
                             views: '',
-                            routerLink: '/stores/BakeryCakeMakingClasses_6',
+                            routerLink: '/stores/BakeryCakeMakingClasses_9',
                             extLink: ''
                         },
                     ]
@@ -290987,19 +290987,11 @@ offSeason: {
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/bonfire.jpg',
-                            name: 'Bonfire setup for open area dinner party',
-                            location: 'Tea & Snacks facing the Brindavan garden',
-                            views: '',
-                            routerLink: '/stores/Bonfiresetup_6',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
                             views: '',
-                            routerLink: '/stores/CandleLightOccasion_8',
+                            routerLink: '/stores/CandleLightOccasion_11',
                             extLink: ''
                         },
                         {
@@ -291007,7 +290999,7 @@ offSeason: {
                             name: 'Picnic Baskets',
                             location: 'Hampi sight visit with picnic baskets',
                             views: '',
-                            routerLink: '/stores/PicnicBaskets_7',
+                            routerLink: '/stores/PicnicBaskets_8',
                             extLink: ''
                         },
                         {
@@ -291015,7 +291007,7 @@ offSeason: {
                             name: 'Raja Rani poolside dinner',
                             location: 'Be the Royal guests',
                             views: '',
-                            routerLink: '/stores/RajaRanipoolsidedinner_8',
+                            routerLink: '/stores/RajaRanipoolsidedinner_9',
                             extLink: ''
                         },
                         {
@@ -291023,7 +291015,7 @@ offSeason: {
                             name: 'Barbeque evening with movie screening',
                             location: 'Enjoy your personal butler service',
                             views: '',
-                            routerLink: '/stores/Barbequeeveningwithmoviescreening_8',
+                            routerLink: '/stores/Barbequeeveningwithmoviescreening_10',
                             extLink: ''
                         },
                         {
@@ -291031,7 +291023,7 @@ offSeason: {
                             name: 'High tea at garden cafe',
                             location: 'Tea & Snacks facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Highteaatgardencafe_6',
+                            routerLink: '/stores/Highteaatgardencafe_7',
                             extLink: ''
                         },
                         {
@@ -291039,7 +291031,7 @@ offSeason: {
                             name: 'Romantic candle light dinner',
                             location: 'Facing the Brindavan garden',
                             views: '',
-                            routerLink: '/stores/Romanticcandlelightdinner_10',
+                            routerLink: '/stores/Romanticcandlelightdinner_12',
                             extLink: ''
                         },
                         {
@@ -291047,7 +291039,7 @@ offSeason: {
                             name: 'Relax at Elephant bar',
                             location: 'Whiskey | Cocktails | Beer',
                             views: '',
-                            routerLink: '/stores/RelaxatElephantbar_6',
+                            routerLink: '/stores/RelaxatElephantbar_7',
                             extLink: ''
                         }
                     ]
@@ -291061,7 +291053,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/event.jpg',
                             name: 'Meetings and Events',
                             desc: 'Well equipped event spaces at Royal Orchid & Regenta Hotels across the country',
-                            routerLink: '/stores/MeetingsandEvents_4',
+                            routerLink: '/stores/MeetingsandEvents_5',
                             extLink: ''
                         },
                         {
@@ -291075,7 +291067,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/loyalty.jpg',
                             name: 'Loyalty Program',
                             desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '/stores/LoyaltyProgram_4',
+                            routerLink: '/stores/LoyaltyProgram_5',
                             extLink: ''
                         }
                     ]
@@ -291724,7 +291716,10 @@ offSeason: {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/room-1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/room-2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/room-3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/room-4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
