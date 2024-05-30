@@ -161775,7 +161775,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Banner3.jpg',
-                            heading: '',
+                            heading: 'Fortune Statue Of Unity',
                             subHeading: ''
                         },
                         {
