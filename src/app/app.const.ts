@@ -135698,7 +135698,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/IRD-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/IRD-SG.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -135716,7 +135716,7 @@ offSeason: {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Millet-SG-Highway.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Millet-SG-Highway.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -135734,7 +135734,7 @@ offSeason: {
                         },
                         {
                             name: 'Single Diner',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Single-Diner-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Single-Diner-SG.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -135752,7 +135752,7 @@ offSeason: {
                         },
                         {
                             name: 'zodiac Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/zodiac-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/zodiac-SG.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu2.png',
                             showTextarea: true,
@@ -135770,7 +135770,7 @@ offSeason: {
                         },
                         {
                             name: 'Dravida menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Dravida-menu-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Dravida-menu-SG.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -135788,7 +135788,7 @@ offSeason: {
                         },
                         {
                             name: 'Banquet Social Package(Non-Veg)',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Banquet-Social-Package(Non-Veg)-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Banquet-Social-Package(Non-Veg)-SG.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -135806,7 +135806,7 @@ offSeason: {
                         },
                         {
                             name: 'Banquet-Social-Package(Veg)',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Banquet-Social-Package(Veg)-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Banquet-Social-Package(Veg)-SG.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -135824,7 +135824,7 @@ offSeason: {
                         },
                         {
                             name: 'Fortune Deli',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Fortune-Deli-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Fortune-Deli-SG.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu2.png',
                             showTextarea: true,
@@ -135842,7 +135842,7 @@ offSeason: {
                         },
                         {
                             name: 'Minibar',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Minibar-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Minibar-SG.pdf',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
@@ -135860,7 +135860,7 @@ offSeason: {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Laundry-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Laundry-SG.pdf',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -135878,7 +135878,7 @@ offSeason: {
                         },
                         {
                             name: 'Banquet',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Banquet-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Banquet-SG.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -135896,7 +135896,7 @@ offSeason: {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Service-Directory-SG.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Service-Directory-SG.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
