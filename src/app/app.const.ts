@@ -89541,6 +89541,36 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
+                            name: 'Mango Mania',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Mango-Mania.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/mango.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Bottle Pe Charcha',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Bottle-pe-Charcha.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/whiskey.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Room Upgrades',
                             extLink: '',
                             routerLink: 'test',
