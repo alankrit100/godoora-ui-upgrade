@@ -168354,7 +168354,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/1893'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
@@ -168386,7 +168386,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_32',
+                            routerLink: '/stores/CandleLightDinner_37',
                             extLink: ''
                         },
                         {
@@ -168394,7 +168394,7 @@ offSeason: {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber_5',
+                            routerLink: '/stores/BarbequeatKhyber_7',
                             extLink: ''
                         },
                         {
@@ -168402,7 +168402,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub_5',
+                            routerLink: '/stores/SpaandHealthClub_7',
                             extLink: ''
                         },
                         {
@@ -168410,7 +168410,7 @@ offSeason: {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities_5',
+                            routerLink: '/stores/RecreationalActivities_7',
                             extLink: ''
                         },
                         {
@@ -168418,7 +168418,7 @@ offSeason: {
                             name: 'Events At Fortune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/EventsAtFortune_3',
+                            routerLink: '/stores/EventsAtFortune_4',
                             extLink: ''
                         },
                     ]
@@ -168433,7 +168433,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ANNIVERSARYDECORTAION_10',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_11',
                             extLink: ''
                         },
                         {
@@ -168441,7 +168441,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayRoomDecoration_8',
+                            routerLink: '/stores/BirthdayRoomDecoration_10',
                             extLink: ''
                         },
                         {
@@ -168449,7 +168449,7 @@ offSeason: {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_7',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_8',
                             extLink: ''
                         },
                     ]
@@ -169179,7 +169179,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'Restaurant Menu',
+                    name: 'Digital Menus',
                     icon: 'aligarh/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
