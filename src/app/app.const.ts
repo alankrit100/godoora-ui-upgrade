@@ -65789,7 +65789,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Nostradamus Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -65805,7 +65805,7 @@ export const Vendors = {
                         },
                         {
                             name: 'ORCHID Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/ORCHID+Menu+MUSSOORIE.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/ORCHID+Menu+MUSSOORIE.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -65822,7 +65822,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu Mussoorie',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Mussoorie+IRD+Menu+calories+230123.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Mussoorie+IRD+Menu+calories+230123.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
                             showTextarea: true,
@@ -65839,7 +65839,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Soul-full Delights Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Soul-full+Delights.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Soul-full+Delights.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/menu1.png',
                             showTextarea: true,
@@ -65854,7 +65854,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Delivery and Takeaway Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Delivery-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Delivery-Menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/order.png',
                             showTextarea: true,
@@ -65869,7 +65869,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Fortune-Menu-Millets-02-24.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Fortune-Menu-Millets-02-24.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -65884,7 +65884,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/SPA-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/SPA-Menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/spa.png',
                             showTextarea: true,
@@ -65901,7 +65901,7 @@ export const Vendors = {
                         },
                         {
                             name: 'LAUNDRY Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Laundry+List.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Laundry+List.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/laundry-machine.png',
                             showTextarea: true,
@@ -65918,7 +65918,7 @@ export const Vendors = {
                         },
                         {
                             name: 'MINIBAR Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/MINIBAR.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/MINIBAR.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/minibar.png',
                             showTextarea: true,
@@ -65935,7 +65935,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Fortune-Mussoorie-Service-Directory.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Fortune-Mussoorie-Service-Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -65952,7 +65952,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Sales+and+Reservations+offices+in+India.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Sales+and+Reservations+offices+in+India.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/reserve.png',
                             showTextarea: true,
@@ -65986,7 +65986,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Other Fortune Hotels',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/5.+Other+Fortune+Hotels.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/5.+Other+Fortune+Hotels.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
@@ -66003,7 +66003,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Safety',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/6.+Safety.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/6.+Safety.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/safety.png',
                             showTextarea: true,
@@ -66020,7 +66020,7 @@ export const Vendors = {
                         },
                         {
                             name: 'House Rules',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/7.+House+Rules.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/7.+House+Rules.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/rules.png',
                             showTextarea: true,
@@ -66037,7 +66037,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Telecommunication',
-                            extLink: '  https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/8.+Telecommunication.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/8.+Telecommunication.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/network.png',
                             showTextarea: true,
@@ -66054,7 +66054,7 @@ export const Vendors = {
                         },
                         {
                             name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/About+the+Place.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/About+the+Place.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/place.png',
                             showTextarea: true,
@@ -66071,7 +66071,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/10.+Places+of+Interest.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/10.+Places+of+Interest.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/PlaceOfInterest.png',
                             showTextarea: true,
@@ -66088,7 +66088,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Pillow',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Pillow+Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Pillow+Menu.pdf',
                             routerLink: '',
                             icon: 'JammuIcons/pillows.png',
                             showTextarea: true,
@@ -67534,7 +67534,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Zodiac Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Zodiac-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Zodiac-Menu.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/nost.png',
                             showTextarea: true,
@@ -67547,7 +67547,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Zodiac Dine-In',
-                            extLink: 'https://airmenus.in/fortunebenaulim/zodiac/Dine-In',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://airmenus.in/fortunebenaulim/zodiac/Dine-In',
                             routerLink: '',
                             icon: 'benaulimIcon/nost.png',
                             showTextarea: true,
@@ -67560,7 +67560,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/IRD-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
@@ -67573,7 +67573,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Digital IRD Menu',
-                            extLink: 'https://airmenus.in/fortunebenaulim/ird',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://airmenus.in/fortunebenaulim/ird',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
@@ -67586,7 +67586,7 @@ export const Vendors = {
                         },
                         {
                             name: 'JOECONS BAR Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/JOECONS-BAR-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/JOECONS-BAR-Menu.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/menu.png',
                             showTextarea: true,
@@ -67599,7 +67599,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Single Diner Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Single-Diner-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Single-Diner-Menu.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/nost.png',
                             showTextarea: true,
@@ -67612,7 +67612,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Digital Restaurant Menu',
-                            extLink: 'https://fortune-resort.godirekt.in/spark-fortuneresortird/app/#/inrrestaurant?spX=FRIRD&t1=Biy0bn3w8aCryaYRvoo%2BFPQFVyBVz%2B5HLvELX9Vk5tU%3D',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://fortune-resort.godirekt.in/spark-fortuneresortird/app/#/inrrestaurant?spX=FRIRD&t1=Biy0bn3w8aCryaYRvoo%2BFPQFVyBVz%2B5HLvELX9Vk5tU%3D',
                             routerLink: '',
                             icon: 'benaulimIcon/nost.png',
                             showTextarea: true,
@@ -67625,7 +67625,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/SPA-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/SPA-Menu.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/spa.png',
                             showTextarea: true,
@@ -290268,6 +290268,22 @@ offSeason: {
                     desc: 'Enjoy experiences you always dream of and fulfil your dream.',
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/Birthday-Party1.jpg',
+                            name: 'Birthday Party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/kitty-party1.jpg',
+                            name: 'Kitty Party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/RoyalOrchid/Hampi/candle.jpg',
                             name: 'Candle Light Occasions',
                             location: 'Decoration theme | Dinner | Birthday, Wedding Anniversary',
@@ -290560,7 +290576,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Meetings and Events',
+                            name: 'Splendid Event',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/bicycle.png',
@@ -290569,16 +290585,12 @@ offSeason: {
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/meeting5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/splendid-event.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Complimentary Honeymoon Package',
+                            name: 'Birthday Party',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/spiritual.png',
@@ -290587,11 +290599,7 @@ offSeason: {
                             placeholder: 'Ex: I would like to go for konda reddy fort',
                             headerText: 'When would you like to book?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/mysore/honeymoon5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/Birthday-Party.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
@@ -290754,6 +290762,38 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
+                            name: 'Birthday Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/Birthday-Party1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/Birthday-Party2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/Birthday-Party3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Kitty Party',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/dinner.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/kitty-party1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/kitty-party2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/kitty-party3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'Raja Rani poolside dinner',
                             extLink: '',
                             routerLink: 'test',
@@ -290771,6 +290811,7 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
+
                         {
                             name: 'Barbeque evening with movie screening',
                             extLink: '',
@@ -291099,6 +291140,34 @@ offSeason: {
                             headerText: 'Fix an appointment',
                             gallery: [
 
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: '20% discount* on food',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/buffet.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/off-on-food.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Mid Week Special',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/offero-on-Breakfast.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
