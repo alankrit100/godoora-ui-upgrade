@@ -290087,19 +290087,9 @@ offSeason: {
                             heading: 'Book Direct With Us',
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },{
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/landing2.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/landing3.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-jaipur/landing4.jpg',
-                            heading: 'Celebrate your dream day with us',
-                            subHeading: 'Birthdays | Wedding | Anniversary'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Grand-Capitol/Hotel-Grand-Capitol.jpg',
+                            heading: 'Hotel Grand Capitol',
+                            subHeading: 'Jaipur'
                         },
                     ]
                 },
