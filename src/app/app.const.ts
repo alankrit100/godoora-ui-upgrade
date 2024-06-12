@@ -290272,7 +290272,7 @@ offSeason: {
                             name: 'Birthday Party',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayParty_2',
                             extLink: ''
                         },
                         {
@@ -290280,7 +290280,7 @@ offSeason: {
                             name: 'Kitty Party',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KittyParty_1',
                             extLink: ''
                         },
                         {
