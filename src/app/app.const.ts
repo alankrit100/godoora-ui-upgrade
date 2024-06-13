@@ -68252,12 +68252,40 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
-                        ,{
+                        },
+                        {
                             name: 'Beat the heat',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beat-the-heat.pdf',
                             routerLink: '',
                             icon: 'aligarh/sun.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'A Fathers day Brunch',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Father-day.jpg',
+                            routerLink: '',
+                            icon: 'aligarh/fathers-day.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Viva Sao Joao',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Viva-Sao-Joao.jpeg',
+                            routerLink: '',
+                            icon: 'aligarh/music.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
