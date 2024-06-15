@@ -173026,7 +173026,7 @@ offSeason: {
             branch: 'Manali',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Allure-Grand/Allure-Grand-Branch.jpg',
             id: 'www.alluregrandresorts.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Allure-Grand/Allure-Grand-logo.png',
             theme: 'fortune-theme',
             idCategory: 9,
             favIconLink: 'assets/icon/favicon.png',
@@ -173133,7 +173133,7 @@ offSeason: {
                             name: 'Candlelight Dinner By The River Side',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandlelightDinnerByTheRiverSide',
                             extLink: ''
                         },
                         {
@@ -173141,7 +173141,7 @@ offSeason: {
                             name: 'Live Band Performances',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LiveBandPerformances',
                             extLink: ''
                         },
                         {
@@ -173149,7 +173149,7 @@ offSeason: {
                             name: 'Honeymooners Delight',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HoneymoonersDelight',
                             extLink: ''
                         },
                         {
@@ -173157,7 +173157,7 @@ offSeason: {
                             name: 'Private Jacuzzi',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivateJacuzzi',
                             extLink: ''
                         },
                         {
@@ -173165,7 +173165,7 @@ offSeason: {
                             name: 'Bonfire By The River Side',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BonfireByTheRiverSide',
                             extLink: ''
                         },
                         {
@@ -173173,7 +173173,7 @@ offSeason: {
                             name: 'Hike To Jogni Falls',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HikeToJogniFalls',
                             extLink: ''
                         },
                         {
@@ -173181,7 +173181,7 @@ offSeason: {
                             name: 'Nati, Traditional Folk Dance',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NatiTraditionalFolkDance',
                             extLink: ''
                         },
                     ]
@@ -173196,7 +173196,7 @@ offSeason: {
                             name: 'The Rohtang Pass',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheRohtangPass',
                             extLink: ''
                         },
                         {
@@ -173204,15 +173204,7 @@ offSeason: {
                             name: 'Atal Tunnel & Sisu Valley',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Allure-Grand/Bonfire-River-Side1.jpg',
-                            name: 'Bonfire at Lawn',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AtalTunnel&SisuValley',
                             extLink: ''
                         },
                         {
@@ -173220,7 +173212,7 @@ offSeason: {
                             name: 'Hadimba Devi Temple',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HadimbaDeviTemple',
                             extLink: ''
                         },
                         {
@@ -173228,7 +173220,7 @@ offSeason: {
                             name: 'Paragliding at Solang Valley',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ParaglidingatSolangValley',
                             extLink: ''
                         },
                         {
@@ -173236,7 +173228,7 @@ offSeason: {
                             name: 'Manali Wildlife Sanctuary',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ManaliWildlifeSanctuary',
                             extLink: ''
                         }
                     ]
@@ -173251,7 +173243,7 @@ offSeason: {
                             name: 'Zaika',
                             location: '',
                             views: '',
-                            routerLink: 'test',
+                            routerLink: '/stores/Zaika',
                             extLink: '',
                         },
                         {
@@ -173259,7 +173251,7 @@ offSeason: {
                             name: 'Café Soul Garden',
                             location: '',
                             views: '',
-                            routerLink: 'test',
+                            routerLink: '/stores/CaféSoulGarden',
                             extLink: '',
                         },
                     ]
