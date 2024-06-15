@@ -169233,7 +169233,7 @@ offSeason: {
                             name: 'IRD Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Candolim-Goa/IRD-Menu.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu1.png',
+                            icon: 'aligarh/banquet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
