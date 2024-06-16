@@ -67638,7 +67638,7 @@ export const Vendors = {
                         },
                         {
                             name: 'House Rules',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/House-Rules.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/House-Rules.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/book.png',
                             showTextarea: true,
@@ -67651,7 +67651,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/Fortune-Resort-Benaulim-Service-Directory.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/Fortune-Resort-Benaulim-Service-Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -67664,9 +67664,22 @@ export const Vendors = {
                         },
                         {
                             name: 'ITC Fortune Presentation',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/ITC-Fortune-Presentation.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/ITC-Fortune-Presentation.pdf',
                             routerLink: '',
                             icon: 'Aatapi/town-hall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Banquet Brochure',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Banquet-Brochure.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/Banquet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Can I get food in my room',
@@ -154794,7 +154807,7 @@ offSeason: {
                         },
                         {
                             name: 'In-room Dining',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Hubli/IRD-Aligarh.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'Pride/menu.png',
                             showTextarea: true,
