@@ -171292,7 +171292,7 @@ offSeason: {
                             name: 'Places of Interest ',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Places-of-Interest.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/place.jpeg',
+                            icon: 'Aatapi/place.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
