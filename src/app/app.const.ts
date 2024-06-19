@@ -170078,7 +170078,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_38',
                             extLink: ''
                         },
                         {
@@ -170086,7 +170086,7 @@ offSeason: {
                             name: 'Bonfire',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Bonfire_12',
                             extLink: ''
                         },
                         {
@@ -170094,7 +170094,7 @@ offSeason: {
                             name: 'Hi-Tea set up',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HiTeasetup',
                             extLink: ''
                         },
                     ]
@@ -170109,7 +170109,7 @@ offSeason: {
                             name: 'Wedding',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Wedding_3',
                             extLink: ''
                         },
                         {
@@ -170117,7 +170117,7 @@ offSeason: {
                             name: 'Sauna, Steam, Jacuzzi',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SaunaSteamJacuzzi',
                             extLink: ''
                         },
                         {
@@ -170125,7 +170125,7 @@ offSeason: {
                             name: 'Jungle Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JungleWalk',
                             extLink: ''
                         },
                         {
@@ -170133,7 +170133,7 @@ offSeason: {
                             name: 'Yoga Session',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/YogaSession_3',
                             extLink: ''
                         },
                     ]
