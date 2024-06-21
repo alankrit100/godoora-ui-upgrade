@@ -152954,7 +152954,7 @@ offSeason: {
                             routerLink: '/by-admin/1369',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/1365'
@@ -152983,7 +152983,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_26',
+                            routerLink: '/stores/CandleLightDinner_39',
                             extLink: ''
                         },
                         {
@@ -152991,7 +152991,7 @@ offSeason: {
                             name: 'Barbeque at Khyber',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber',
+                            routerLink: '/stores/BarbequeatKhyber_8',
                             extLink: ''
                         },
                         {
@@ -152999,7 +152999,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub',
+                            routerLink: '/stores/SpaandHealthClub_8',
                             extLink: ''
                         },
                         {
@@ -153007,7 +153007,7 @@ offSeason: {
                             name: 'Recreational Activities',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities',
+                            routerLink: '/stores/RecreationalActivities_8',
                             extLink: ''
                         },
                         {
@@ -153015,7 +153015,7 @@ offSeason: {
                             name: 'Meeting Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MeetingHall_2',
+                            routerLink: '/stores/MeetingHall_6',
                             extLink: ''
                         },
                     ]
@@ -153030,7 +153030,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_47',
+                            routerLink: '/stores/CelebrateYourSpecialDay_50',
                             extLink: ''
                         },
                         {
@@ -153038,7 +153038,7 @@ offSeason: {
                             name: 'Cooking with Guest',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingwithGuest',
+                            routerLink: '/stores/CookingwithGuest_1',
                             extLink: ''
                         },
                         {
@@ -153046,7 +153046,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_9',
+                            routerLink: '/stores/BonfireatLawn_12',
                             extLink: ''
                         }
                     ]
