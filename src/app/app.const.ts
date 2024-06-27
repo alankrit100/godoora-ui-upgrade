@@ -1168,7 +1168,7 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Goyaana/HOTELS.jpg',
                             label: 'FOR HOTELS',
-                            extLink: 'https://hotelasaplatform.com/',
+                            extLink: 'http://hotelasaplatform.com',
                             routerLink: ''
                         },
                         {
