@@ -172831,7 +172831,7 @@ offSeason: {
                             name: 'Deli Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Deli-Menu.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/menu3.png',
+                            icon: 'aligarh/menu3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
