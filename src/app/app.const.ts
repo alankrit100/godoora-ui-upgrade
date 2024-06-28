@@ -172858,7 +172858,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Services Directory',
+                            name: 'Services-Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Service-Directory-kathmandu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
