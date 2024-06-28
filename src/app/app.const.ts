@@ -172799,7 +172799,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/IRD-Menu-kathmandu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -172813,8 +172813,8 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Neptune Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Neptune-kathmandu.pdf',
+                            name: 'Barrel Island Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Barrel-Island-Menu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -172828,25 +172828,10 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Rainbow Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Rainbow-Menu-kathmandu.pdf',
+                            name: 'Deli Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Deli-Menu.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/ZODIAC-MENU.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Minibar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Minibar-kathmandu.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/liquor.png',
+                            icon: 'Aatapi/menu3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -172859,7 +172844,7 @@ offSeason: {
                         },
                         {
                             name: 'Poolside Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Poolside-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Poolside-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/swimming.png',
                             showTextarea: true,
