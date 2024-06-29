@@ -162486,6 +162486,21 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
+                            name: 'Kids Table Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Kids-Table-Menu.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Rainbow Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Rainbow-Menu.pdf',
                             routerLink: '',
