@@ -67688,6 +67688,19 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
+                        {
+                            name: 'Fact Sheet',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Fact-Sheet.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/review.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
                     ]
                 },
                 {
