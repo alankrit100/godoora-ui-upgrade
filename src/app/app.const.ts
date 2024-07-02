@@ -175337,7 +175337,7 @@ offSeason: {
             }
         },
         {
-            branch: 'Kings-Cliff',
+            branch: 'Kings-Cliff-Ooty',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
             id: 'www.littleearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
@@ -176553,7 +176553,7 @@ offSeason: {
             }
         },
         {
-            branch: 'Destiny',
+            branch: 'Destiny-Ooty',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
             id: 'www.littleearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
@@ -177769,7 +177769,7 @@ offSeason: {
             }
         },
         {
-            branch: 'Sherlock',
+            branch: 'Sherlock-Ooty',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
             id: 'www.littleearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
@@ -178985,7 +178985,7 @@ offSeason: {
             }
         },
         {
-            branch: 'Cintacor',
+            branch: 'Cintacor-Karwar',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
             id: 'www.littleearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
@@ -180201,7 +180201,7 @@ offSeason: {
             }
         },
         {
-            branch: 'Mangifera',
+            branch: 'Mangifera-Bandipur',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
             id: 'www.littleearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
