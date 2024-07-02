@@ -169813,6 +169813,23 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Candolim-Goa/Service-Directory.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
                     ]
                 },
                 {
@@ -175340,11 +175357,11 @@ offSeason: {
             branch: 'Kings-Cliff-Ooty',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
             id: 'www.littleearth.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Logo.png',
             theme: 'grey-theme',
             idCategory: 35,
             favIconLink: 'assets/icon/Little-Earth.png',
-            title: 'The Little Earth',
+            title: 'Kings Cliff',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -175398,17 +175415,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
                             heading: 'Book Direct With Us',
                             subHeading: 'Avail unique offers and benefits curated especially for you'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Home.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pridehotel+delhi.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
-                        },
+                        }
                     ]
                 },
                 experience: {
@@ -176235,108 +176242,76 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        },
-                        {
-                            name: 'Cab Charge',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Cab-Charges-1.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden4.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Picnic Basket',
+                        },{
+                            name: 'Airport Pickup/Drop',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/picnic-basket1.png',
+                            icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Mudumalai Wildlife Safari',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Mudumalai-Wildlife-Safari.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/conservation.png',
+                            name: 'Railway Station Pick Up and Drop ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/localtaxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Nature Walk',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Nature-Walk.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/landscape.png',
+                            name: 'Sightseeing',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Areas of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Brochure-Ooty.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/packages.png',
+                            name: 'Local Sightseeing Charges 4 hrs 40 Kms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi-1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
+                            headerText: 'When are you planning to visit?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/About-the-Place.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/mountains.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
                         },
                     ]
@@ -176507,18 +176482,24 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade to Next Category if Available',
+                            name: 'Upgrade Rooms',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/upgrade.png',
+                            icon: 'aligarh/living-room.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room3.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room4.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room5.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room6.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room7.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room8.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Room9.avif' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -176554,13 +176535,13 @@ offSeason: {
         },
         {
             branch: 'Destiny-Ooty',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Branch.avif',
             id: 'www.littleearth.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
             favIconLink: 'assets/icon/Little-Earth.png',
-            title: 'The Little Earth',
+            title: 'Destiny – The Farm Resort',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -176614,93 +176595,83 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
                             heading: 'Book Direct With Us',
                             subHeading: 'Avail unique offers and benefits curated especially for you'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/Home.jpg',
-                            heading: 'An experience that you will cherish forever',
-                            subHeading: 'Experience | Hospitality | Memories'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pridehotel+delhi.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
-                        },
+                        }
                     ]
                 },
                 experience: {
                     active: true,
-                    heading: 'Kings Cliff',
-                    desc: `More than 100 years ago in Ooty, this was the majestic residence of Lady Maybn and Lord Reginald. It was the playground for the rich and famous of the Raj era. Today, this heritage mansion is a charming hotel. Welcoming guests with an authentic stay experience – the romance of a regal life.`,
+                    heading: 'Destiny – The Farm Resort',
+                    desc: `Destiny is a resort unlike any other. It’s here where different worlds come together. A working Farm. Premium, country-style hospitality, including delectable dining restaurants and an elegant conference hall. Horses. The vast wilderness of the Nilgiri biosphere. Mesmerising trails through beautiful woods. The serene Lake Emerald is home to myriad species of avifauna. And a Spa that faces the lake. In all, 125 acres of fresh air, calm and rejuvenation. At just a 1 hr 30 min drive (~25 km) away from Ooty.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'DIGITAL MENUS',
                             extLink: '',
-                            routerLink: '/by-admin/1944'
+                            routerLink: '/by-admin/1948'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
-                            routerLink: '/by-admin/1945'
+                            routerLink: '/by-admin/1949'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
-                            routerLink: '/by-admin/1946'
+                            routerLink: '/by-admin/1950'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'DIGITAL CONCIERGE',
                             extLink: '',
-                            routerLink: '/by-admin/1947'
+                            routerLink: '/by-admin/1951'
                         }
                     ]
                 },
                 destinations:{
                     active: true,
                     heading: 'In-House Experiences',
-                    desc: 'Dive into a whole new world of activities!',
+                    desc: 'Destiny offers a plethora of fun and engaging activities that make for an unforgettable vacation – one marked by inspiring moments of discovery, adventure, learning and gorgeous views.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal2.png',
-                            name: 'Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Horse-riding1.avif',
+                            name: 'Horse Riding',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_26',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber-main.jpg',
-                            name: 'Barbeque at Khyber',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Farms1.avif',
+                            name: 'Guided Tour of the Farms and Farm Animals',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Gym.jpg',
-                            name: 'Spa and Health Club',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Happy-Hours1.avif',
+                            name: 'Happy Hours: High Tea, Games and Karaoke',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational1.jpg',
-                            name: 'Recreational Activities',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Documentary.avif',
+                            name: 'Documentary',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/hall2.jpg',
-                            name: 'Meeting Hall',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Kids-Gardening.avif',
+                            name: 'Kids Gardening',
                             location: '',
                             views: '',
-                            routerLink: '/stores/MeetingHall_2',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -176708,99 +176679,108 @@ offSeason: {
                 experiences: {
                     active: true,
                     heading: 'Unique Hotel Offerings',
-                    desc: 'Enjoy the best of vantage Experience!',
+                    desc: 'Destiny offers a plethora of fun and engaging activities that make for an unforgettable vacation – one marked by inspiring moments of discovery, adventure, learning and gorgeous views.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
-                            name: 'Celebrate Your Special Day',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Ropes1.avif',
+                            name: 'The Ropes of Endurance Testing',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_47',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking with Guest',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Nature-walk1.avif',
+                            name: 'Fishing, Nature Walks and Long Treks',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingwithGuest',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire1.png',
-                            name: 'Bonfire at Lawn',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Camping-Bonfire1.avif',
+                            name: 'Camping and Bonfire',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_9',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Art-Craft1.avif',
+                            name: 'Art and Craft',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
                 },
                 activities: {
                     active: true,
-                    heading: 'Hotel Experience',
-                    desc: '',
+                    heading: 'SPA Experiences',
+                    desc: 'At Destiny, we advocate holistic wellness and offer an array of restorative services and treatments to please your senses. Our in-house wellness spa Unwind looks out to Lake Emerald and offers luxurious therapies, body wraps, massages and beauty treatments to help relax and rejuvenate your soul, mind and body. Guests can also make use of other spa facilities and services such as a jacuzzi, steam, manicure and pedicure, among others.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Fitness1.jpg',
-                            name: 'Fitness Center',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Relaxing-Massages.jpg',
+                            name: 'Relaxing Massages',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FitnessCenter_6',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/swimming1.jpg',
-                            name: 'Swimming Pool',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Rejuvenating-Scrubs.jpg',
+                            name: 'Rejuvenating Scrubs',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_47',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Laundry1.jpg',
-                            name: 'Laundry Services',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Soothing-Aromatherapy.jpeg',
+                            name: 'Soothing Aromatherapy',
                             location: '',
                             views: '',
-                            routerLink: '/stores/LaundryServices_3',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Beauty-Therapies.jpg',
+                            name: 'Beauty Therapies',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
                 },
                 offers: {
                     active: true,
-                    heading: 'Plan Your Events',
+                    heading: 'Events at Destiny',
                     desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Corporate1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny1.avif',
                             name: 'Corporate Event',
                             location: '',
                             views: '',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            routerLink: 'test',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/wedding1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny2.avif',
                             name: 'Wedding Ceremonies',
-                            desc: 'Wedding Planners | Theme Wedding | Bridal Studio',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            desc: '',
+                            routerLink: 'test',
+                            extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/family1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny3.avif',
                             name: 'Family Events',
-                            desc: 'Talk to our expert for the exciting member only offers',
+                            desc: '',
                             routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
+                            extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/business1.jpg',
-                            name: 'Buissness Meetings',
-                            desc: 'Talk to our expert for the exciting member only offers',
-                            routerLink: '',
-                            extLink: 'https://www.pridehotel.com/plan-your-events.html'
-                        }
                     ]
                 },
                 stories: {
@@ -177274,159 +177254,6 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'In-House Experiences',
-                    icon: 'dharmshala/home.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Candle Light Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paint.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal1.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal2.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal3.png' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Barbeque at Khyber',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Spa and Health Club',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Gym.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Spa.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Recreational Activities',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/barbeque.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Meeting Hall',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/hall2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Unique Hotel Offerings',
-                    icon: 'dharmshala/dining-table.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Celebrate Your Special Day',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Cooking with Guest',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Bonfire at Lawn',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire1.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire2.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire3.png' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
                     name: 'DIGITAL CONCIERGE',
                     icon: 'dharmshala/skills.png',
                     size: '64px',
@@ -177451,23 +177278,76 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        },
-                        {
-                            name: 'Cab Charge',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Cab-Charges-1.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/taxi.png',
+                        },{
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Garden4.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book the cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Railway Station Pick Up and Drop ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/localtaxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Book a Cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sightseeing',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Book a slow',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local Sightseeing Charges 4 hrs 40 Kms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi-1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
+                            headerText: 'When are you planning to visit?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
                         },
                         {
@@ -177475,74 +177355,6 @@ offSeason: {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/picnic-basket1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Mudumalai Wildlife Safari',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Mudumalai-Wildlife-Safari.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/conservation.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Nature Walk',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Nature-Walk.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/landscape.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Areas of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Brochure-Ooty.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/packages.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/About-the-Place.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/mountains.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this tour.',
@@ -177723,18 +177535,21 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Upgrade to Next Category if Available',
+                            name: 'Upgrade Rooms',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/upgrade.png',
+                            icon: 'aligarh/living-room.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Room1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Room2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Room3.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Room4.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Room5.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Room6.avif' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -177755,7 +177570,305 @@ offSeason: {
                             storePageAsBlog: true
                         },
                     ]
-                }
+                },
+                {
+                    name: 'In-House Experiences',
+                    icon: 'dharmshala/home.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Horse Riding',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/paint.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Horse-riding1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Horse-riding2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Horse-riding3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Guided Tour of the Farms and Farm Animals',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/yoga.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Farms1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Farms2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Farms3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Happy Hours: High Tea, Games and Karaoke',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Book a Slot',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Happy-Hours1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Happy-Hours2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Happy-Hours3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Documentary',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'royal/barbeque.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Documentary.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Kids Gardening',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Kids-Gardening.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Unique Hotel Offerings',
+                    icon: 'dharmshala/dining-table.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'The Ropes of Endurance Testing',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/dining-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Ropes1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Ropes2.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Fishing, Nature Walks and Long Treks',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Nature-walk1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Nature-walk2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Nature-walk3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Camping and Bonfire',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Camping-Bonfire1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Camping-Bonfire2.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Art and Craft',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Art-Craft1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Art-Craft2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Art-Craft3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'SPA Experiences',
+                    icon: 'dharmshala/dining-table.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Relaxing Massages',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/dining-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Rejuvenating Scrubs',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Soothing Aromatherapy',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Beauty Therapies',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'Events at Destiny',
+                    icon: 'dharmshala/dining-table.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Corporate Event',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/dining-table.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Wedding Ceremonies',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Family Events',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny1.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny2.avif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny3.avif' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
             ],
             comingSoon: {
                 active: true,
