@@ -122112,7 +122112,7 @@ offSeason: {
                             name: 'Chai Pe Charcha',
                             location: '',
                             views: '',
-                            routerLink: 'test',
+                            routerLink: '/stores/ChaiPeCharcha_3',
                             extLink: ''
                         },
                         {
