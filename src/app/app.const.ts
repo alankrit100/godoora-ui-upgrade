@@ -122100,6 +122100,22 @@ offSeason: {
                     desc: '',
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/noodles.jpg',
+                            name: 'Noodles Bar',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/noodles.jpg'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha.jpg',
+                            name: 'Chai Pe Charcha',
+                            location: '',
+                            views: '',
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg'
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg',
                             name: 'Scrumptious feast',
                             location: '',
@@ -122953,6 +122969,38 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
+                            name: 'Noodles Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Noodles-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/noodles.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Chai Pe Charcha',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/chai-tea.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'A Sparkling Affair',
                             extLink: '',
                             routerLink: 'test',
@@ -123429,6 +123477,38 @@ offSeason: {
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Service-Directory-Navi-Mumbai.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Noodles Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Noodles-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/noodles.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Chai Pe Charcha',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/chai-tea.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
