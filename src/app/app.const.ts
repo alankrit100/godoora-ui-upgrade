@@ -122112,8 +122112,8 @@ offSeason: {
                             name: 'Chai Pe Charcha',
                             location: '',
                             views: '',
-                            routerLink: '',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg'
+                            routerLink: 'test',
+                            extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg',
