@@ -121860,20 +121860,20 @@ offSeason: {
                             routerLink: '/by-admin/941'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/942'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
                             routerLink: '/by-admin/943'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/939'
                         }
@@ -122746,6 +122746,518 @@ offSeason: {
             ],
             departments: [
                 {
+                    name: 'Digital Menus',
+                    icon: 'fortunemussoorieicons/menu.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Nostradamus BAR (12.00PM to 10.30PM)',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/BAR-Fortune.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/bar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Pizza & Shawarma (12:30PM to 10:30PM)',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Pizza-Shawarma.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/pizza.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Zodiac (7.30AM to 10.30PM)',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/Zodiac.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'IRD Menu (24 Hours)',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/IRD-Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortune-navi-mumbai/menu2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Scrumptious feast',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/dinner2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg' },
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Liquid Buffet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/liquor.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Millet Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Millet-Menu.pdf',
+                            routerLink: '',
+                            icon: 'fortune-navi-mumbai/menu2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Single Dinner Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Fortune-Single-Diner.pdf',
+                            routerLink: '',
+                            icon: 'fortune-navi-mumbai/menu2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Banquet Brochure',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Banquet-Brochure.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/brochure.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Service-Directory-Navi-Mumbai.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Noodles Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Noodles-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/noodles.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Chai Pe Charcha',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/chai-tea.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'REVIEW & REWARD',
+                    icon: 'JammuIcons/upgrade.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'In-Stay Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'CLUB ITC MEMBER BENIFITS',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc',
+                            routerLink: '',
+                            icon: 'Aatapi/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Trip Advisor',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/tripadvisor1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Make my trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Make-my-trip.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Booking.Com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Booking.Com.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'SPECIAL OFFERS & PROMOTIONS',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Scrumptious feast',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/ice-cream.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/dinner2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg' },
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Liquid Buffet',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/liquor.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Room upgrade',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Meal upgrade',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Extra Bed',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'DIGITAL CONCIERGE',
+                    icon: 'fortunemussoorieicons/local.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Colaba Heritage Walking tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/picnic.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(9).jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(10).jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(11).jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Kharghar Hills',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/landscape.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(12).jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(13).jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(14).jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Pandavkada Falls',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/lake.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(15).jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/6014462034_391e16cec0_c.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/Pandavkada-.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book the cab',
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
                     name: 'Food and Beverage Offers',
                     icon: 'dharmshala/home.png',
                     size: '64px',
@@ -123032,461 +123544,6 @@ offSeason: {
                         },
                     ]
                 },
-                {
-                    name: 'Plan Your Trip',
-                    icon: 'fortunemussoorieicons/local.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Colaba Heritage Walking tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/picnic.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(9).jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(10).jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(11).jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Kharghar Hills',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/landscape.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(12).jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(13).jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(14).jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Pandavkada Falls',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/lake.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/download+(15).jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/6014462034_391e16cec0_c.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Navi+Mumbai/Pandavkada-.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Digital Menus',
-                    icon: 'fortunemussoorieicons/menu.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Nostradamus BAR (12.00PM to 10.30PM)',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/BAR-Fortune.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/bar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Pizza & Shawarma (12:30PM to 10:30PM)',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Pizza-Shawarma.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/pizza.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Zodiac (7.30AM to 10.30PM)',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/Zodiac.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'IRD Menu (24 Hours)',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/IRD-Menu.pdf',
-                            routerLink: '',
-                            icon: 'fortune-navi-mumbai/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Scrumptious feast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/ice-cream.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Sunday Brunch',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/dinner2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg' },
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Liquid Buffet',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/liquor.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Millet-Menu.pdf',
-                            routerLink: '',
-                            icon: 'fortune-navi-mumbai/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Single Dinner Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Fortune-Single-Diner.pdf',
-                            routerLink: '',
-                            icon: 'fortune-navi-mumbai/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Banquet Brochure',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Banquet-Brochure.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/brochure.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Service-Directory-Navi-Mumbai.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Noodles Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Noodles-Menu.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/noodles.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Chai Pe Charcha',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/chai-tea.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Quick Upgrades',
-                    icon: 'JammuIcons/upgrade.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Room upgrade',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Meal upgrade',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/meal3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Extra Bed',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book the cab',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Special Benefits',
-                    icon: 'JammuIcons/Benifits.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Complimentry cake',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cake.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Discount on Spa and Saloon',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/SpaMenu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Scrumptious feast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/ice-cream.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Sunday Brunch',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/dinner2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg' },
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Liquid Buffet',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/liquor.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/LIQUID-BUFFET.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                }
             ],
             comingSoon: {
                 active: true,
