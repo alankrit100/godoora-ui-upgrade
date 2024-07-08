@@ -173465,11 +173465,11 @@ offSeason: {
 }
         },
     ],
-    'www.littleearth.goyaana.com': [
+    'www.littlearth.goyaana.com': [
         {
             branch: 'default',
             branchImg: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/BranchImages/mysore.jpg',
-            id: 'www.littleearth.goyaana.com',
+            id: 'www.littlearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
             theme: 'grey-theme',
             idCategory: 12,
@@ -175280,7 +175280,7 @@ offSeason: {
         {
             branch: 'Kings-Cliff-Ooty',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
-            id: 'www.littleearth.goyaana.com',
+            id: 'www.littlearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Logo.png',
             theme: 'grey-theme',
             idCategory: 35,
@@ -176460,7 +176460,7 @@ offSeason: {
         {
             branch: 'Destiny-Ooty',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Branch.avif',
-            id: 'www.littleearth.goyaana.com',
+            id: 'www.littlearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
@@ -177808,7 +177808,7 @@ offSeason: {
         {
             branch: 'Sherlock-Ooty',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
-            id: 'www.littleearth.goyaana.com',
+            id: 'www.littlearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
@@ -179024,7 +179024,7 @@ offSeason: {
         {
             branch: 'Cintacor-Karwar',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
-            id: 'www.littleearth.goyaana.com',
+            id: 'www.littlearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
@@ -180240,7 +180240,7 @@ offSeason: {
         {
             branch: 'Mangifera-Bandipur',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Kings-Cliff/Kings-Cliff-Branch.avif',
-            id: 'www.littleearth.goyaana.com',
+            id: 'www.littlearth.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/little-earth-logo.png',
             theme: 'grey-theme',
             idCategory: 35,
