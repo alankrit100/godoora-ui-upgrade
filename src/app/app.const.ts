@@ -106062,7 +106062,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'In-Room Dining',
+                            name: 'IRD Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD+SHARE+07.09.2023+final.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
@@ -176563,7 +176563,7 @@ offSeason: {
                             name: 'Horse Riding',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HorseRiding_1',
                             extLink: ''
                         },
                         {
@@ -176571,7 +176571,7 @@ offSeason: {
                             name: 'Guided Tour of the Farms and Farm Animals',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GuidedTouroftheFarmsandFarmAnimals',
                             extLink: ''
                         },
                         {
@@ -176579,7 +176579,7 @@ offSeason: {
                             name: 'Happy Hours: High Tea, Games and Karaoke',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HappyHoursHighTeaGamesandKaraoke',
                             extLink: ''
                         },
                         {
@@ -176587,7 +176587,7 @@ offSeason: {
                             name: 'Documentary',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Documentary_1',
                             extLink: ''
                         },
                         {
@@ -176595,7 +176595,7 @@ offSeason: {
                             name: 'Kids Gardening',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KidsGardening',
                             extLink: ''
                         },
                     ]
@@ -176610,7 +176610,7 @@ offSeason: {
                             name: 'The Ropes of Endurance Testing',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheRopesofEnduranceTesting',
                             extLink: ''
                         },
                         {
@@ -176618,7 +176618,7 @@ offSeason: {
                             name: 'Fishing, Nature Walks and Long Treks',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FishingNatureWalksandLongTreks',
                             extLink: ''
                         },
                         {
@@ -176626,7 +176626,7 @@ offSeason: {
                             name: 'Camping and Bonfire',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CampingandBonfire',
                             extLink: ''
                         },
                         {
@@ -176634,7 +176634,7 @@ offSeason: {
                             name: 'Art and Craft',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ArtandCraft_3',
                             extLink: ''
                         }
                     ]
@@ -176649,7 +176649,7 @@ offSeason: {
                             name: 'Relaxing Massages',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RelaxingMassages',
                             extLink: ''
                         },
                         {
@@ -176657,7 +176657,7 @@ offSeason: {
                             name: 'Rejuvenating Scrubs',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RejuvenatingScrubs',
                             extLink: ''
                         },
                         {
@@ -176665,7 +176665,7 @@ offSeason: {
                             name: 'Soothing Aromatherapy',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SoothingAromatherapy',
                             extLink: ''
                         },
                         {
@@ -176673,7 +176673,7 @@ offSeason: {
                             name: 'Beauty Therapies',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BeautyTherapies',
                             extLink: ''
                         },
                     ]
@@ -176688,21 +176688,21 @@ offSeason: {
                             name: 'Corporate Event',
                             location: '',
                             views: '',
-                            routerLink: 'test',
+                            routerLink: '/stores/CorporateEvent_4',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny2.avif',
                             name: 'Wedding Ceremonies',
                             desc: '',
-                            routerLink: 'test',
+                            routerLink: '/stores/WeddingCeremonies_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Events-Destiny3.avif',
                             name: 'Family Events',
                             desc: '',
-                            routerLink: '',
+                            routerLink: '/stores/FamilyEvents_2',
                             extLink: ''
                         },
                     ]
@@ -176713,20 +176713,20 @@ offSeason: {
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi1.jpg',
-                            videoId: 'moSR_sX-t0o'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Behind1.jpg',
+                            videoId: 'aIej_Xb7_oE'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi2.jpg',
-                            videoId: 'W87Bk1XIL7E'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Behind2.jpg',
+                            videoId: 'dg0qWKHpS-s'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi3.jpg',
-                            videoId: 'OfsoHVeRwtY'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Behind3.jpg',
+                            videoId: 'HqMLP5jSMGo'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride+hotel+delhi/pride-delhi4.jpg',
-                            videoId: 'u_z6EB3d12c'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Destiny-Behind4.jpg',
+                            videoId: 'IBDwxAynasU'
                         }
                     ]
                 },
