@@ -35208,7 +35208,7 @@ export const Vendors = {
                         },
                         {
                             name: 'In Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'fortunegrace/serving-dish.png',
                             showTextarea: true,
@@ -51471,7 +51471,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -51515,7 +51515,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -53729,7 +53729,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -53773,7 +53773,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -55836,7 +55836,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -55880,7 +55880,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -58072,7 +58072,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -58116,7 +58116,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -61411,7 +61411,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'תפריט IRD',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -61455,7 +61455,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'תפריט IRD',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -66346,7 +66346,7 @@ export const Vendors = {
                         },
                         {
                             name: 'In Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'JammuIcons/serving-dish.png',
                             showTextarea: true,
@@ -74655,7 +74655,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -80542,7 +80542,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -84843,7 +84843,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -86600,7 +86600,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -93099,7 +93099,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -97602,7 +97602,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -104492,7 +104492,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -106232,7 +106232,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -106376,7 +106376,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -109546,7 +109546,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -112367,7 +112367,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -115219,7 +115219,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -118108,7 +118108,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -124386,7 +124386,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -127187,24 +127187,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -129254,7 +129237,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -132147,7 +132130,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -136425,24 +136408,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -138594,24 +138560,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -141435,24 +141384,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/pride-pune-IRD.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -141481,7 +141413,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -143338,24 +143270,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -145842,24 +145757,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -148607,24 +148505,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/NOIDA-SERVICE-DIRECTORY.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -158231,7 +158112,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -158273,24 +158154,7 @@ offSeason: {
                     routerLink: '',
                     extLink: '',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -158317,24 +158181,8 @@ offSeason: {
                     routerLink: '',
                     extLink: '',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
+                        
 
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -159553,24 +159401,7 @@ offSeason: {
                     routerLink: '',
                     extLink: '',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -159597,24 +159428,7 @@ offSeason: {
                     routerLink: '',
                     extLink: '',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -159641,24 +159455,7 @@ offSeason: {
                     routerLink: '',
                     extLink: '',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -164686,7 +164483,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -166464,24 +166261,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/NOIDA-SERVICE-DIRECTORY.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -169718,24 +169498,8 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/NOIDA-SERVICE-DIRECTORY.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
+                        
 
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -184380,23 +184144,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/pride-pune-IRD.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                        },
+                       
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -184423,23 +184171,7 @@ offSeason: {
                     routerLink: '',
                     extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
                     services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                        },
+                       
                         {
                             name: 'Services Directory',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
@@ -186333,7 +186065,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: '',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -186376,7 +186108,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: '',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -198174,7 +197906,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: '',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -198405,7 +198137,7 @@ offSeason: {
                                 },
                                 {
                                     name: 'In Room Dining',
-                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                                    extLink: '',
                                     routerLink: '',
                                     icon: 'JammuIcons/serving-dish.png',
                                     showTextarea: true,
@@ -202058,7 +201790,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -204605,7 +204337,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -204649,7 +204381,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -208622,7 +208354,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -208853,7 +208585,7 @@ offSeason: {
                                 },
                                 {
                                     name: 'In Room Dining',
-                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                                    extLink: 'I',
                                     routerLink: '',
                                     icon: 'JammuIcons/serving-dish.png',
                                     showTextarea: true,
@@ -215425,7 +215157,7 @@ offSeason: {
                   services: [
                       {
                           name: 'IRD Menu',
-                          extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                          extLink: 'I',
                           routerLink: '',
                           icon: 'pune/dinning-table.png',
                           showTextarea: true,
@@ -215468,7 +215200,7 @@ offSeason: {
                   services: [
                       {
                           name: 'IRD Menu',
-                          extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                          extLink: 'I',
                           routerLink: '',
                           icon: 'pune/dinning-table.png',
                           showTextarea: true,
@@ -217469,7 +217201,7 @@ offSeason: {
                 services: [
                     {
                         name: 'IRD Menu',
-                        extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                        extLink: 'I',
                         routerLink: '',
                         icon: 'pune/dinning-table.png',
                         showTextarea: true,
@@ -217512,7 +217244,7 @@ offSeason: {
                 services: [
                     {
                         name: 'IRD Menu',
-                        extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                        extLink: 'I',
                         routerLink: '',
                         icon: 'pune/dinning-table.png',
                         showTextarea: true,
@@ -219511,7 +219243,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -219554,7 +219286,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -221473,7 +221205,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -221517,7 +221249,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -223740,7 +223472,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -223784,7 +223516,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -226024,7 +225756,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -226068,7 +225800,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -227987,7 +227719,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -228031,7 +227763,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -229933,7 +229665,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -229977,7 +229709,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -234708,7 +234440,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -234752,7 +234484,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -238597,7 +238329,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -238641,7 +238373,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -247239,7 +246971,7 @@ offSeason: {
                                 },
                                 {
                                     name: 'In Room Dining',
-                                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                                    extLink: 'I',
                                     routerLink: '',
                                     icon: 'JammuIcons/serving-dish.png',
                                     showTextarea: true,
@@ -265950,7 +265682,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
@@ -265994,7 +265726,7 @@ offSeason: {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Room+Dining.pdf',
+                            extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
                             showTextarea: true,
