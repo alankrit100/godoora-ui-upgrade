@@ -102863,7 +102863,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/IRD-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -102881,7 +102881,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Neptune Bar Beverage Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Neptune+Bar+Beverage+Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Neptune+Bar+Beverage+Menu.pdf',
                             routerLink: '',
                             icon: 'lucknow/terms.png',
                             showTextarea: true,
@@ -102894,7 +102894,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Orchid Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/ORCHID-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/ORCHID-Menu.pdf',
                             routerLink: '',
                             icon: 'lucknow/menuu.png',
                             showTextarea: true,
@@ -102907,7 +102907,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Fortune Deli Dine',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Fortune+Deli+Dine-in.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/Fortune+Deli+Dine-in.pdf',
                             routerLink: '',
                             icon: 'lucknow/menuu.png',
                             showTextarea: true,
@@ -102923,7 +102923,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Earthe Oven',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Earthe-Oven.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Earthe-Oven.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -102941,7 +102941,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Mini-Bar-Durgapur.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Mini-Bar-Durgapur.pdf',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
@@ -102957,23 +102957,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry Price',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Laundry-Price-Durgapur.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/laundry-machine.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ]
-                        },
-                        {
-                            name: 'Laundry Service',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Laundry-Service.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Laundry-Price-Durgapur.pdf',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -102989,7 +102973,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/SPA-MENU.jpg',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/SPA-MENU.jpg',
                             routerLink: '',
                             icon: 'benaulimIcon/spa.png',
                             showTextarea: true,
@@ -103005,7 +102989,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Service-Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
