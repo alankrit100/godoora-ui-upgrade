@@ -83101,7 +83101,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'In-Room Dinning Menu',
+                            name: 'IRD-Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/IRD-MENU-FINAL-18.02.23.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
