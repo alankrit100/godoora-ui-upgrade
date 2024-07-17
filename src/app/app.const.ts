@@ -90257,7 +90257,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Direct Booking',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar',
+                            extLink: 'https://www.itchotels.com/in/en/fortunedistrictcentre-ghaziabad',
                             routerLink: '',
                             icon: 'Aatapi/booking.png',
                             showTextarea: true,
