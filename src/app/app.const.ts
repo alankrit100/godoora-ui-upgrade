@@ -72062,19 +72062,19 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/867'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
                             routerLink: '/by-admin/866'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/1484'
                         }
@@ -72122,6 +72122,14 @@ export const Vendors = {
                             location: '',
                             views: '',
                             routerLink: '/stores/SPA_34',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Shehjar.jpg',
+                            name: 'Candle Light Dinner',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -72989,35 +72997,143 @@ export const Vendors = {
                             menuImgs: [
                             ]
                         },
-                    ]
-                },
-                {
-                    name: 'Spa Menu',
-                    icon: 'benaulimIcon/spa.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Fortune+Resort+Heevan+Spa+Menu+(1).pdf',
-                    services: [
                         {
-                            name: 'Spa Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Fortune+Resort+Heevan+Spa+Menu+(1).pdf',
+                            name: 'Minibar Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/MiniBar.pdf',
                             routerLink: '',
-                            icon: 'dharmshala/nost.png',
+                            icon: 'dharmshala/restaurant1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Place the order',
+                            confirmBtnLabel: 'Book the table',
                             menuImgs: [
+                                
                             ]
-                        }
+                        },
+                        {
+                            name: 'Laundry Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Laundry-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Cab Charges',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Cab-Charges.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                
+                            ]
+                        },
+                        {
+                            name: 'Sales & Reservations Offices in India',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Sales-and-Reservatios-offices.pdf',
+                            routerLink: '',
+                            icon: 'hublii/network.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Other Fortune Hotels',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/other-fortune-hotels.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Safety',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/safety.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/safety.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'House Rules',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/House-Rules.pdf',
+                            routerLink: '',
+                            icon: 'hublii/book.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'About the Place',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/About-the-Place.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/map.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
                     ]
                 },
                 {
-                    name: 'Quick Upgrades',
+                    name: 'REVIEW & REWARD',
                     icon: 'JammuIcons/upgrader.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -73025,54 +73141,108 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade to next category if available',
+                            name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/upgrade.png',
+                            icon: 'Aatapi/feedback1.png',
                             showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/10+Room.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/13+Suite.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/14+Suite.jpg' }
+
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
                         {
-                            name: '20% discount on Buffet Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
+                            name: 'CLUB ITC MEMBER BENIFITS',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc',
+                            routerLink: '',
+                            icon: 'Aatapi/hotel.png',
                             showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
                             gallery: [
+
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Complimentary cake on special occassions',
+                            name: 'Trip Advisor',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/birthday-cake.png',
+                            icon: 'Aatapi/tripadvisor1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Make my trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Make-my-trip.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
                             gallery: [
+
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
                             storePageAsBlog: true
-                        }
+                        },
+                        {
+                            name: 'Booking.Com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Booking.Com.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
-                    name: 'Special Benefits',
+                    name: 'SPECIAL OFFERS & PROMOTIONS',
                     icon: 'JammuIcons/Benifits.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -73148,11 +73318,56 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Upgrade to next category if available',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/upgrade.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/10+Room.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/13+Suite.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/14+Suite.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Extra Bed',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/bedroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Complimentary cake on special occassions',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/birthday-cake.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         }
                     ]
                 },
                 {
-                    name: 'Plan Your Trip',
+                    name: 'DIGITAL CONCIERGE',
                     icon: 'dharmshala/tray.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -73505,6 +73720,21 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/SPA+1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/SPA+2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/hotel+experience/SPA+3.jpg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Candle Light Dinner',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/relax.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
