@@ -154334,9 +154334,9 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Garden Trail',
-                            extLink: '',
-                            routerLink: 'test',
+                            name: 'Places to Visit',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Places+to+Visit.jpg',
+                            routerLink: '',
                             icon: 'Aatapi/garden.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -170041,6 +170041,36 @@ offSeason: {
                         {
                             name: 'Neptune Bar',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Candolim-Goa/NEPTUNE-BAR-MENU.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/whiskey.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Laundry Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Candolim-Goa/Laundry-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Mini Bar',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Candolim-Goa/Mini-Bar.jpg',
                             routerLink: '',
                             icon: 'aligarh/whiskey.png',
                             showTextarea: true,
