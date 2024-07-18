@@ -66793,7 +66793,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'Fortune Resort Benaulim, Goa',
-                    desc: `Just a leisurly walk from the pristine Benaulim Beach, this quaint and tranquil 102 keys retreat with a relaxing spa, stunning swimming pool, multiple F&B offerings and a gamut of vantage venues is a perfect destination for dreamy weddings and a breathtaking tropical holiday`,
+                    desc: `Just a leisurely stroll from the pristine shores of Benaulim Beach, this charming and peaceful retreat boasts 102 well-appointed rooms. Offering a rejuvenating spa, a picturesque swimming pool, a variety of dining options, and a selection of beautiful venues, it is an ideal destination for enchanting weddings and unforgettable tropical getaways.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -67661,6 +67661,32 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
+                            name: 'Mini Bar',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Mini-Bar.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/liquor.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Laundry',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Laundry-Price.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'Zodiac Dine-In',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://airmenus.in/fortunebenaulim/zodiac/Dine-In',
                             routerLink: '',
@@ -68265,6 +68291,20 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Book Direct Web',
+                            extLink: 'https://www.itchotels.com/in/en/fortuneresort-benaulim-goa',
+                            routerLink: '',
+                            icon: 'Aatapi/booking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                         {
                             name: 'Room Upgrade',
                             extLink: '',
