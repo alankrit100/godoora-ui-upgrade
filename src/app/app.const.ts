@@ -153159,7 +153159,7 @@ offSeason: {
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune-Park-Kalimpong',
+            title: 'Fortune Resort Kalimpong',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -153216,7 +153216,7 @@ offSeason: {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+park+Kalimpong/kalimpong-branch.jpg',
-                            heading: 'Fortune Park Kalimpong',
+                            heading: 'Fortune Resort Kalimpong',
                             subHeading: ''
                         },
                         {
@@ -153233,7 +153233,7 @@ offSeason: {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Park Kalimpong',
+                    heading: 'Fortune Resort Kalimpong',
                     desc: `Nestled in between enchanting and panoramic views, Fortune Resort Kalimpong stands out sprawling over 6000 sq ft with an unmatched view of the Mt. Kanchendzonga and a green forested valley, this resort is ideal for those in search of a restful nature experience.'.`,
                     items: [
                         {
@@ -153277,26 +153277,10 @@ offSeason: {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber-main.jpg',
-                            name: 'Barbeque at Khyber',
+                            name: 'Barbeque at Lawn',
                             location: '',
                             views: '',
                             routerLink: '/stores/BarbequeatKhyber_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Gym.jpg',
-                            name: 'Spa and Health Club',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/SpaandHealthClub_8',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational1.jpg',
-                            name: 'Recreational Activities',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/RecreationalActivities_8',
                             extLink: ''
                         },
                         {
