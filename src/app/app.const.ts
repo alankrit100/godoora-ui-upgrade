@@ -120595,7 +120595,7 @@ offSeason: {
                             name: 'Roof Top Wood fire Pizzeria with Italian tofu flour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RoofTopWoodfirePizzeriawithItaliantofuflour',
                             extLink: '',
                         },
                         {
@@ -120681,14 +120681,14 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/birthday-decoration.jpg',
                             name: 'Birthday Decoration',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayDecoration_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Cooking-With-Chef.jpg',
                             name: 'Cooking With Chef',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingWithChef_8',
                             extLink: ''
                         },
                         {
@@ -121814,7 +121814,22 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
+                        },
+                        {
+                            name: 'Extra bed ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
