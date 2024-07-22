@@ -121442,7 +121442,7 @@ offSeason: {
                             name: 'Neptune Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Neptune-Menu.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/tray.png',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -121457,7 +121457,7 @@ offSeason: {
                             name: 'IRD Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/IRD-Menu.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/tray.png',
+                            icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -121487,7 +121487,7 @@ offSeason: {
                             name: 'Pizza MENU',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Pizza-Menu.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/tray.png',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -121634,6 +121634,65 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Early Bird Dining Offer',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Early-Bird.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sunset Dinner',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Sunset.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/bibimbap.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Business Center',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Business-Center.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/cityscape.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Wedding',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haldwani/Wedding.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/wedding.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                         {
                             name: 'Custom In-room dining',
                             extLink: '',
