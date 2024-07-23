@@ -173373,7 +173373,7 @@ offSeason: {
                         },
                         {
                             name: 'CLUB ITC MEMBER BENIFITS',
-                            extLink: 'https://www.itchotels.com/in/en/clubitc',
+                            extLink: 'https://www.itchotels.com/in/en/enrol?utm_source=google&utm_medium=cpc&utm_content=search&utm_campaign=HQ-DTL|MHot|AllIndia|Club-Membership|Search|Conversions|PANIndia|always-on|Owned|AllBrand|GGL|NA|NA|NA|NA|Brand&gad_source=1&gclid=CjwKCAjwqf20BhBwEiwAt7dtdRnbLwBzYK_DTOpE1wrFy4YMtpjqcokYCDghnDgxXTnUSrbxvJMZQxoC7wcQAvD_BwE',
                             routerLink: '',
                             icon: 'Aatapi/hotel.png',
                             showTextarea: true,
