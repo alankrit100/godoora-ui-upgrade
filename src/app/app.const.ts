@@ -173387,7 +173387,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Trip Adviser',
+                            name: 'Trip Advisor',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/tripadvisor1.png',
