@@ -108290,18 +108290,16 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
+                            name: 'Club_ITC Reward Points',
+                            extLink: 'https://www.itchotels.com/in/en/enrol?utm_source=google&utm_medium=cpc&utm_content=search&utm_campaign=HQ-DTL|MHot|AllIndia|Club-Membership|Search|Conversions|PANIndia|always-on|Owned|AllBrand|GGL|NA|NA|NA|NA|Brand&gad_source=1&gclid=EAIaIQobChMIpITPuo-_hwMVP9kWBR2TuwSkEAAYASAAEgKZBvD_BwE',
+                            routerLink: '',
+                            icon: 'Aatapi/hand-gesture.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/inroom1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/inroom2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Ahmedabad/inroom3.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
