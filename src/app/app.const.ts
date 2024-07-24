@@ -107304,7 +107304,7 @@ offSeason: {
                             name: 'Zodiac All day Dining Multi-Speciality Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ZodiacAlldayDiningMultiSpecialityRestaurant',
                             extLink: ''
                         },
                         {
@@ -107312,7 +107312,7 @@ offSeason: {
                             name: 'Fortune Deli Cake Shop',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FortuneDeliCakeShop',
                             extLink: ''
                         },
                         {
@@ -107320,7 +107320,7 @@ offSeason: {
                             name: 'Wind & Water Oriental Cuisine Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Wind&WaterOrientalCuisineRestaurant',
                             extLink: ''
                         },
                         {
@@ -107328,7 +107328,7 @@ offSeason: {
                             name: 'Earthen Oven North Indian Cuisine Speciality Restaurant',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EarthenOvenNorthIndianCuisineSpecialityRestaurant',
                             extLink: ''
                         },
                     ]
@@ -107343,7 +107343,7 @@ offSeason: {
                             name: 'Birthday / Anniversary / Wedding Night Package',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayAnniversaryWeddingNightPackage',
                             extLink: ''
                         },
                     ]
