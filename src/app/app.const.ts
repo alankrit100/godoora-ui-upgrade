@@ -153024,27 +153024,27 @@ offSeason: {
                     desc: 'Enjoy the best of vantage Experience!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
-                            name: 'Celebrate Your Special Day',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Cricket.jpeg',
+                            name: 'Activity & Outdoor Game',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_50',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking with Guest',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Chess.jpg',
+                            name: 'Activity & Indoor Game',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingwithGuest_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire1.png',
-                            name: 'Bonfire at Lawn',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/VIP.jpeg',
+                            name: 'Outdoor Service',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_12',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -154023,7 +154023,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Celebrate Your Special Day',
+                            name: 'Activity & Outdoor Game',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/dining-table.png',
@@ -154032,14 +154032,13 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Bed-Decorations1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Bed-Decorations2.jpg' },
+                               
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Cooking with Guest',
+                            name: 'Activity & Indoor Game',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -154048,15 +154047,13 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef3.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Bonfire at Lawn',
+                            name: 'Outdoor Service',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -154065,9 +154062,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire1.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire2.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Bonfire3.png' },
+                               
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
