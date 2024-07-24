@@ -153028,7 +153028,7 @@ offSeason: {
                             name: 'Activity & Outdoor Game',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Activity&OutdoorGame',
                             extLink: ''
                         },
                         {
@@ -153036,7 +153036,7 @@ offSeason: {
                             name: 'Activity & Indoor Game',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Activity&IndoorGame',
                             extLink: ''
                         },
                         {
@@ -153044,7 +153044,7 @@ offSeason: {
                             name: 'Outdoor Service',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OutdoorService',
                             extLink: ''
                         }
                     ]
