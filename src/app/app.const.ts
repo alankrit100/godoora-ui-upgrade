@@ -108252,22 +108252,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Club_ITC Reward Points',
-                            extLink: 'https://www.itchotels.com/in/en/enrol?utm_source=google&utm_medium=cpc&utm_content=search&utm_campaign=HQ-DTL|MHot|AllIndia|Club-Membership|Search|Conversions|PANIndia|always-on|Owned|AllBrand|GGL|NA|NA|NA|NA|Brand&gad_source=1&gclid=EAIaIQobChMIpITPuo-_hwMVP9kWBR2TuwSkEAAYASAAEgKZBvD_BwE',
-                            routerLink: '',
-                            icon: 'Aatapi/hand-gesture.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Millet Menu',
+                            name: 'Club ITC Reward Points',
                             extLink: 'https://www.itchotels.com/in/en/enrol?utm_source=google&utm_medium=cpc&utm_content=search&utm_campaign=HQ-DTL|MHot|AllIndia|Club-Membership|Search|Conversions|PANIndia|always-on|Owned|AllBrand|GGL|NA|NA|NA|NA|Brand&gad_source=1&gclid=EAIaIQobChMIpITPuo-_hwMVP9kWBR2TuwSkEAAYASAAEgKZBvD_BwE',
                             routerLink: '',
                             icon: 'Aatapi/hand-gesture.png',
@@ -108343,10 +108328,10 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Millet-Menu.pdf',
+                            name: 'Early Bird Meal',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/early-bird-meal.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/menu1234.png',
+                            icon: 'Aatapi/food.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -108358,10 +108343,10 @@ offSeason: {
                             ]
                         },
                         {
-                            name: 'Early Bird Meal',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/early-bird-meal.jpg',
+                            name: 'Millet Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Millet-Menu.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/food.png',
+                            icon: 'aligarh/menu1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
