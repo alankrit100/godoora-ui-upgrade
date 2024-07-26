@@ -108346,7 +108346,7 @@ offSeason: {
                             name: 'Millet Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Millet-Menu.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/menu123.png',
+                            icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
