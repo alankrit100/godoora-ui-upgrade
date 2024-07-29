@@ -84478,7 +84478,7 @@ export const Vendors = {
                             name: 'Birthday Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CelebrateYourSpecialDay_50',
                             extLink: ''
                         },
                         {
@@ -84486,7 +84486,7 @@ export const Vendors = {
                             name: 'Cooking With the Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingSessionWithChef_17',
                             extLink: ''
                         },
                         {
@@ -84494,7 +84494,7 @@ export const Vendors = {
                             name: 'Spa Experiences',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BonfireatLawn_12',
                             extLink: ''
                         }
                     ]
@@ -85830,7 +85830,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Celebrate Your Special Day',
+                            name: 'Birthday Decoration',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/dining-table.png',
@@ -85847,7 +85847,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Cooking Session With Chef',
+                            name: 'Cooking With the Chef',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -85864,7 +85864,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Bonfire at Lawn',
+                            name: 'Spa Experiences',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -85873,9 +85873,6 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
