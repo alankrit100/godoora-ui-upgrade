@@ -120628,6 +120628,22 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
+                            name: 'Chai Pe Charcha',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/chai-tea.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Millet Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Millet-Menu.pdf',
                             routerLink: '',
