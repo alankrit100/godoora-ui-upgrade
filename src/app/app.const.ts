@@ -166753,7 +166753,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_41',
                             extLink: ''
                         },
                     ]
@@ -166768,7 +166768,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_12',
                             extLink: ''
                         },
                         {
@@ -166776,7 +166776,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayRoomDecoration_11',
                             extLink: ''
                         },
                     ]
@@ -167560,7 +167560,7 @@ offSeason: {
                         },
                         {
                             name: 'Minibar Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Minibar-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Mini-Bar.pdf',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
