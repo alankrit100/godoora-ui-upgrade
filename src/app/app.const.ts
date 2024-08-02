@@ -86177,7 +86177,7 @@ export const Vendors = {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -86185,7 +86185,7 @@ export const Vendors = {
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -86193,7 +86193,7 @@ export const Vendors = {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -86201,7 +86201,7 @@ export const Vendors = {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -86209,7 +86209,7 @@ export const Vendors = {
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -86217,7 +86217,7 @@ export const Vendors = {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -86229,10 +86229,10 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
-                            name: 'Celebrate Your Special Day',
+                            name: 'Birthday Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -86240,15 +86240,15 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg',
-                            name: 'Bonfire at Lawn',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
+                            name: 'SPA Experiences',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -87028,7 +87028,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-panchwati/Laundry-Price.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Gandhinagar/Laundry-Menu.jpg',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -87224,7 +87224,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Airport Pickup/Drop',
+                            name: 'Airport & Railway Station Pickup/Drop',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/taxi.png',
@@ -87252,7 +87252,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Sightseeing / Pickup / Drop',
+                            name: 'Local Run / Out Station',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/taxi.png',
@@ -87482,7 +87482,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Celebrate Your Special Day',
+                            name: 'Birthday Decoration',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/dining-table.png',
@@ -87491,9 +87491,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate3.jpg' },
+
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -87516,7 +87514,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Bonfire at Lawn',
+                            name: 'SPA Experiencesn',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -87525,9 +87523,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire3.jpg' },
+
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -117038,7 +117034,7 @@ offSeason: {
                             name: 'Mini Bar',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vapi/Minibar.pdf',
                             routerLink: '',
-                            icon: 'aligarh/whiskey.png',
+                            icon: 'aligarh/mocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -160107,6 +160103,50 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Laundry',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Laundry.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'SPA Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/SPA-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/spa-menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Service-Directory.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },   
                 {
@@ -160273,6 +160313,34 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Beer Bucket',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Beer-Bucket.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Laundry Promotions',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Laundry-Promotion.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -160283,6 +160351,20 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Travel Desk Charges',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Travel-Desk-Charges.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                         {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
