@@ -86232,7 +86232,7 @@ export const Vendors = {
                             name: 'Birthday Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayDecoration_2',
                             extLink: ''
                         },
                         {
@@ -86240,7 +86240,7 @@ export const Vendors = {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookingSessionWithChef_18',
                             extLink: ''
                         },
                         {
@@ -86248,7 +86248,7 @@ export const Vendors = {
                             name: 'SPA Experiences',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SPAExperiencesn',
                             extLink: ''
                         }
                     ]
