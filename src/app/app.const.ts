@@ -160170,6 +160170,7 @@ offSeason: {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'CLUB ITC MEMBER BENIFITS',
@@ -160331,7 +160332,7 @@ offSeason: {
                             name: 'Laundry Promotions',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Laundry-Promotion.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/beer.png',
+                            icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
