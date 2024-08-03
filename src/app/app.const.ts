@@ -159240,7 +159240,7 @@ offSeason: {
                             name: 'Dining Experiences',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DiningExperiences',
                             extLink: ''
                         },
                         {
@@ -168188,7 +168188,7 @@ offSeason: {
 }
         },
         {
-            branch: 'Fortune Khajjiar',
+            branch: 'Fortune-Khajjiar',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Fortune-Khajjiar-Branch.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
