@@ -166309,65 +166309,15 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'veg kabab platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/banquet.png',
+                            name: 'Fortune Park Experiences',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Fortune-Experiences.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/jeep.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'non-veg kabab platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/roast-chicken.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: '1 + 1 cocktail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/cocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: '1 + 1 mocktail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/mocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -173180,16 +173130,15 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Wishbone',
+                            name: 'Wishbone Menu',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Littlearth/Wishbone-logo.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            placeholder: '',
                             headerText: 'When would you like to visit the restaurant?',
                             confirmBtnLabel: 'Book the table',
-                            storePageAsBlog: true,
                             menuImgs: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu2.jpg' },
@@ -173205,7 +173154,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu12.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu13.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu14.jpg' },
-                            ]
+                            ],
+                            storePageAsBlog: true
                         },
                         {
                             name: 'SPA Menu',
