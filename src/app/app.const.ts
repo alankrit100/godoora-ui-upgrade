@@ -165198,47 +165198,71 @@ offSeason: {
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
+                    heading: 'Fortune Park Experiences',
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal2.png',
-                            name: 'Candle Light Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Drive.png',
+                            name: 'Mountain Top Off-Road Drive',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_32',
+                            routerLink: '/stores',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber.jpg',
-                            name: 'Barbeque at Khyber',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Hike.png',
+                            name: 'Mountain Top Off-Road Drive & Hike',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BarbequeatKhyber_5',
+                            routerLink: '/stores',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Gym.jpg',
-                            name: 'Spa and Health Club',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Picnic.png',
+                            name: 'Riverside Picnic',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SpaandHealthClub_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational1.jpg',
-                            name: 'Recreational Activities',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Sundowner.png',
+                            name: 'Sundowner Experience - Bir',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RecreationalActivities_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/hall2.jpg',
-                            name: 'Events At Fortune',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Villane-Walk.png',
+                            name: 'Villane Walk',
                             location: '',
                             views: '',
-                            routerLink: '/stores/EventsAtFortune_3',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Bundla-Hike.png',
+                            name: 'Bundla Chasm Hike',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Hostan-Hike.png',
+                            name: 'Hostan Hike',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Carhi-Hike.png.png',
+                            name: 'Carhi Hike',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -166488,7 +166512,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'In-House Experiences',
+                    name: 'Fortune Park Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -166496,7 +166520,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Candle Light Dinner',
+                            name: 'Mountain Top Off-Road Drive',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/paint.png',
@@ -166505,15 +166529,13 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal1.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal2.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Candal3.png' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Barbeque at Khyber',
+                            name: 'Mountain Top Off-Road Drive & Hike',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/yoga.png',
@@ -166522,15 +166544,13 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Barbeque-at-Khyber2.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Spa and Health Club',
+                            name: 'Riverside Picnic',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -166539,14 +166559,13 @@ offSeason: {
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Gym.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Spa.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Recreational Activities',
+                            name: 'Sundowner Experience - Bir',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/barbeque.png',
@@ -166555,15 +166574,13 @@ offSeason: {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/reacreational3.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Events At Fortune',
+                            name: 'Villane Walk',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/breakfast.png',
@@ -166572,7 +166589,52 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/hall2.jpg' },
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Bundla Chasm Hike',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Hostan Hike',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Carhi Hike',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
