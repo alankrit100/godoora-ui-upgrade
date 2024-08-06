@@ -168246,7 +168246,7 @@ offSeason: {
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Zodiac_12',
                             extLink: ''
                         },
                         {
@@ -168254,7 +168254,7 @@ offSeason: {
                             name: 'Neptune Bar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NeptuneBar_5',
                             extLink: ''
                         },
                         {
@@ -168262,7 +168262,7 @@ offSeason: {
                             name: 'Wellness',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Wellness_2',
                             extLink: ''
                         },
                         {
@@ -168270,7 +168270,7 @@ offSeason: {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_71',
                             extLink: ''
                         },
                         {
@@ -168278,7 +168278,7 @@ offSeason: {
                             name: 'Fitness Centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FitnessCentre_1',
                             extLink: ''
                         },
                     ]
