@@ -33929,19 +33929,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -45156,19 +45156,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -67500,19 +67500,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -68746,19 +68746,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -71039,19 +71039,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -72800,19 +72800,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -74722,19 +74722,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -76476,19 +76476,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -78959,19 +78959,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -80762,19 +80762,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -83351,19 +83351,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -85242,19 +85242,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -86831,19 +86831,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -88223,19 +88223,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -89763,19 +89763,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -92038,19 +92038,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -94886,19 +94886,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -96556,19 +96556,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -98161,19 +98161,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -100023,19 +100023,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -101742,19 +101742,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -103364,19 +103364,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -105089,19 +105089,19 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -106722,19 +106722,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -108211,19 +108211,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -111032,19 +111032,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -113884,19 +113884,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -116765,19 +116765,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -118256,19 +118256,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -120092,19 +120092,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -121943,19 +121943,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -123473,19 +123473,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -125521,19 +125521,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -128266,19 +128266,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -129816,19 +129816,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -131968,19 +131968,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -134836,19 +134836,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -136678,19 +136678,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -139165,19 +139165,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -141788,19 +141788,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -143516,19 +143516,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -145113,19 +145113,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -146991,19 +146991,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -148569,19 +148569,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -150192,19 +150192,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -151765,19 +151765,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -153056,19 +153056,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -154272,19 +154272,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -155810,19 +155810,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -158049,19 +158049,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -159810,19 +159810,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -161235,19 +161235,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -162756,19 +162756,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -164307,19 +164307,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -165852,19 +165852,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -167366,19 +167366,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
@@ -168842,19 +168842,19 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/video.jpeg',
-                            videoId: '1mXIwfBhk6Q'
+                            videoId: '8QDZeDijg-k'
                         }
                     ]
                 },
