@@ -66012,6 +66012,20 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
+                            name: 'Daily Acitity Calendar',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Daily-Activity-Calendar.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/daily-calendar.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I need to host a private party',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Dessert for 2 Offer',
                             extLink: '',
                             routerLink: 'test',
@@ -79449,6 +79463,23 @@ export const Vendors = {
                             headerText: 'When would you like to avail this service?',
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Monsoon-Mocktail.jpg'}
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Raksha Bandhan Gift Hamper',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/raksha-bandhan.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to avail this service?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/RakshaBandhan1.jpg'},
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/RakshaBandhan2.jpg'}
 
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -121289,7 +121320,7 @@ offSeason: {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/PoolSideDinner_19',
                             extLink: ''
                         },
                         {
@@ -121297,7 +121328,7 @@ offSeason: {
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/DeepTissueMassage_16',
                             extLink: ''
                         },
                         {
@@ -121305,7 +121336,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/CandleLightDinner_42',
                             extLink: ''
                         },
                         {
@@ -121313,7 +121344,7 @@ offSeason: {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/Naturebreakfast_21',
                             extLink: ''
                         },
                         {
@@ -121321,7 +121352,7 @@ offSeason: {
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_5',
+                            routerLink: '/stores/Facial_14',
                             extLink: ''
                         },
                         {
@@ -121329,7 +121360,7 @@ offSeason: {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/CustomInroomdining_49',
                             extLink: ''
                         },
                     ]
@@ -121344,7 +121375,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/CelebrateYourSpecialDay_51',
                             extLink: ''
                         },
                         {
@@ -121352,7 +121383,7 @@ offSeason: {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/CookingSessionWithChef_19',
                             extLink: ''
                         },
                         {
@@ -121360,7 +121391,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/BonfireatLawn_13',
                             extLink: ''
                         }
                     ]
@@ -122517,7 +122548,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'In-house Experiences',
+                    name: 'In-House Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -122554,7 +122585,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Deep Tissue Massage',
@@ -122604,7 +122636,8 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Custom In-room dining',
@@ -161420,6 +161453,21 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
+                            name: 'IRD Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/IRD-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Deli Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Deli-Menu-Hoshiarpur.pdf',
                             routerLink: '',
@@ -161680,7 +161728,7 @@ offSeason: {
                         },
                         {
                             name: 'Liquor Buy 2 Get 1 Free',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Liquor-BUY2GET1-Hoshiarpur.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Liquor-BUY2GET1-Hoshiarpur.pdf',
                             routerLink: '',
                             icon: 'aligarh/cocktail.png',
                             showTextarea: true,
