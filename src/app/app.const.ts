@@ -121368,34 +121368,10 @@ offSeason: {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Deep Tissue Massage',
+                            name: 'SPA',
                             location: '',
                             views: '',
                             routerLink: '/stores/DeepTissueMassage_16',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg',
-                            name: 'Candle Light Dinner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CandleLightDinner_42',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg',
-                            name: 'Nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Naturebreakfast_21',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Facial_14',
                             extLink: ''
                         },
                         {
@@ -121421,22 +121397,6 @@ offSeason: {
                             routerLink: '/stores/CelebrateYourSpecialDay_51',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CookingSessionWithChef_19',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg',
-                            name: 'Bonfire at Lawn',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/BonfireatLawn_13',
-                            extLink: ''
-                        }
                     ]
                 },
                 activities: {
@@ -122203,7 +122163,7 @@ offSeason: {
                             name: 'Mini Bar',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/MINIBAR-PRICE.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/liquor.png',
+                            icon: 'Aatapi/shopping-basket.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: Can I get food in my room',
@@ -122502,7 +122462,7 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Early Check-Out',
+                            name: 'Late Check-Out',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/check-out.png',
@@ -122540,7 +122500,8 @@ offSeason: {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Room1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Room3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Room4.jpeg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -122598,22 +122559,7 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Candle Light Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paint.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                         {
                             name: 'Pool Side Dinner',
                             extLink: '',
@@ -122632,7 +122578,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Deep Tissue Massage',
+                            name: 'SPA',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
@@ -122644,40 +122590,6 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Facial',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/barbeque.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Nature breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -122722,40 +122634,6 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Cooking Session With Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Bonfire at Lawn',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -161556,6 +161434,36 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
+                            name: 'Minibar',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Mini-Bar.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/Juice.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Laundry',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Laundry.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/Juice.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Services Directory',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Service-Directory-Hoshiarpur.pdf',
                             routerLink: '',
@@ -161811,20 +161719,15 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
+                            name: 'Cab Charges',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Cab-Charges.pdf',
+                            routerLink: '',
                             icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
@@ -161839,11 +161742,6 @@ offSeason: {
                             placeholder: 'Arrange a Sedan for local sightseeing',
                             headerText: 'When are you planning to start from hotel?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
@@ -164554,7 +164452,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Kids-Veg-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
