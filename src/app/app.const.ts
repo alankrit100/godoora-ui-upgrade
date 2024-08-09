@@ -117067,6 +117067,21 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
+                            name: '1 Review and 1 Reward',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/hand-gesture.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'In-Stay Feedback',
                             extLink: '',
                             routerLink: 'test',
@@ -117225,6 +117240,34 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'One Plate Wonder',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vapi/ONE-PLATE-WONDER.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Early Bird',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vapi/Early-Bird.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/fast-food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -117237,7 +117280,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Cab Charges',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vapi/Cab-Charges.png',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vapi/Cab-Charges.pdf',
                             routerLink: '',
                             icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
