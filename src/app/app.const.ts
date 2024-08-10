@@ -120932,13 +120932,87 @@ offSeason: {
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/mumbai-taxi3.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/mumbai-taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/mumbai-taxi1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/mumbai-taxi.jfif' }
                             ],
                             confirmBtnLabel: 'Book the cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Nerul Wonder Park',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/theme-park.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/wonder-park-hand.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/wonder-park-gate.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/taj-mahal-model.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/wonder-park.jpg' },   
+                            ],
+                            confirmBtnLabel: '',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'DY Patil International Stadium',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/stadium.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/D-Y-Patil-Sports-Stadium.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/dy-patil-stadium1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/DY-night.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/DY-stadium.jfif' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/D-Y-Patil-Sports-Stadium.jpg' },
+                            ],
+                            confirmBtnLabel: '',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Parsik Hill',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/hill.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/parsik-hill4.jpg" },
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/parsik-hill3.jpg" },
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/parsik-hill2.jpg" },
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/parsik-hill.jfif" },
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/download.jfif" },
+                            ],
+                            confirmBtnLabel: '',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Pandavkada Hill',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/hill.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/pandavkada-falls4.jfif" },
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/pandavkada-falls3.jpg" },
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/Pandavkada-falls2.jpg" },
+                                { path: "https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/Pandavkada-falls1.jpg" },
+                            ],
+                            confirmBtnLabel: '',
                             storePageAsBlog: true
                         },
                     ]
