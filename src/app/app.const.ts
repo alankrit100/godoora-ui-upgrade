@@ -177768,7 +177768,7 @@ offSeason: {
                     ]
                 },
                 masonry: {
-                    active: true,
+                    active: false,
                     cols: 3,
                     rowHeight: 1,
                     title: 'Pick an experience that you love!',
@@ -179375,7 +179375,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_42',
                             extLink: ''
                         },
                         {
@@ -179391,7 +179391,7 @@ offSeason: {
                             name: 'Spa and Health Club',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpaandHealthClub_8',
                             extLink: ''
                         },
                     ]
@@ -179406,7 +179406,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_47',
+                            routerLink: '/stores/CelebrateYourSpecialDay_52',
                             extLink: ''
                         },
                         {
@@ -179414,7 +179414,7 @@ offSeason: {
                             name: 'Cooking with Guest',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingwithGuest',
+                            routerLink: '/stores/CookingwithGuest_1',
                             extLink: ''
                         },
                         {
@@ -179422,7 +179422,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_9',
+                            routerLink: '/stores/BonfireatLawn_13',
                             extLink: ''
                         }
                     ]
