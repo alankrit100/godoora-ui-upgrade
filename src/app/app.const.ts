@@ -33924,8 +33924,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -45151,8 +45151,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -65263,8 +65263,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -67509,8 +67509,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -68755,8 +68755,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -71048,8 +71048,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -72809,8 +72809,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -74731,8 +74731,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -76485,8 +76485,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -78968,8 +78968,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: false,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -80788,8 +80788,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -83377,8 +83377,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -85268,8 +85268,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -86857,8 +86857,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -88249,8 +88249,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -89789,8 +89789,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -92064,8 +92064,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -94912,8 +94912,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -96582,8 +96582,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -98187,8 +98187,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -100049,8 +100049,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -101768,8 +101768,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -103390,8 +103390,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -105115,8 +105115,8 @@ export const Vendors = {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -106748,8 +106748,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -108237,8 +108237,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -111058,8 +111058,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -113910,8 +113910,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -116791,8 +116791,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -118325,8 +118325,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -120161,8 +120161,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -122062,8 +122062,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -123512,8 +123512,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -125560,8 +125560,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -128305,8 +128305,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -129855,8 +129855,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -132007,8 +132007,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -134875,8 +134875,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -136717,8 +136717,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -139204,8 +139204,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -141827,8 +141827,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -143449,8 +143449,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -145046,8 +145046,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -146924,8 +146924,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -148502,8 +148502,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -150125,8 +150125,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -151698,8 +151698,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -152989,8 +152989,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -154205,8 +154205,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -155743,8 +155743,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -157982,8 +157982,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -159735,8 +159735,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -161167,8 +161167,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -162723,8 +162723,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -164274,8 +164274,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -165819,8 +165819,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -167333,8 +167333,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -168809,8 +168809,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneDurgapur/video1.jpg',
@@ -182401,8 +182401,8 @@ offSeason: {
                 },
                 stories: {
                     active: true,
-                    heading: '#SafeStaysatFortuneHotels',
-                    desc: 'From check-in to check-out, we have you covered',
+                    heading: ' ',
+                    desc: '  ',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Allure-Grand/Bonfire-River-Side1.jpg',
