@@ -120926,7 +120926,7 @@ offSeason: {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'fortunemussoorieicons/taxi.png',
+                            icon: 'Aatapi/Mumbai-taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
@@ -120936,7 +120936,6 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
@@ -120974,6 +120973,23 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/DY-night.jfif' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/DY-stadium.jfif' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/D-Y-Patil-Sports-Stadium.jpg' },
+                            ],
+                            confirmBtnLabel: '',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Mini Seashore Ground',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/stadium.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Mini-Seashore-Ground1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Mini-Seashore-Ground2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Mini-Seashore-Ground3.jpg' },
                             ],
                             confirmBtnLabel: '',
                             storePageAsBlog: true
@@ -159106,7 +159122,7 @@ offSeason: {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Dining.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Dining1.jpg',
                             name: 'Dining Experiences',
                             location: '',
                             views: '',
@@ -160327,6 +160343,9 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Dining1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Dining2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Dining3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
