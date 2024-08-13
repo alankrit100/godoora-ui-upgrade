@@ -160290,7 +160290,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Spa, Fitness Center and Swimming poll',
+                            name: 'Spa, Fitness Center and Swimming pool',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'royal/table.png',
