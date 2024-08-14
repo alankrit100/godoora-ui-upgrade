@@ -91905,7 +91905,7 @@ export const Vendors = {
                             routerLink: '/by-admin/792'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/ClarksInn/PlanYourTrip.png',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/793'
@@ -91958,23 +91958,23 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg',
-                            name: 'Celebrate Your Special Day',
+                            name: 'Birthday and In room decoration',
                             location: '',
                             views: '',
                             routerLink: '/stores/CelebrateYourSpecialDay_25',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/cooking.jpg',
-                            name: 'Cooking Session With Chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/spa.jpg',
+                            name: 'In-House SPA',
                             location: '',
                             views: '',
                             routerLink: '/stores/CookingSessionWithChef_7',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg',
-                            name: 'Bonfire at Lawn',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/pool.jpg',
+                            name: 'Swimming Pool and Gymnasium',
                             location: '',
                             views: '',
                             routerLink: '/stores/BonfireatLawn_1',
@@ -92474,7 +92474,36 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-
+                        {
+                            name: 'SPA Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/massage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'F&B Offer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/dinner1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -92588,7 +92617,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Celebrate Your Special Day',
+                            name: 'Birthday and In room decoration',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/dining-table.png',
@@ -92605,7 +92634,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Cooking Session With Chef',
+                            name: 'In-House SPA',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -92614,15 +92643,13 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/chef3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/spa.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Bonfire at Lawn',
+                            name: 'Swimming Pool and Gymnasium',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -92631,9 +92658,7 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/bonefire3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/pool.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
