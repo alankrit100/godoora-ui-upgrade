@@ -119967,7 +119967,7 @@ offSeason: {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Poolside1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Pool-Side-Cover.jpg',
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
