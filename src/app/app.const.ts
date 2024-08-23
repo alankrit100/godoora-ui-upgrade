@@ -168771,7 +168771,7 @@ offSeason: {
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Zodiac_12',
+                            routerLink: '/stores/Zodiac_13',
                             extLink: ''
                         },
                         {
@@ -168779,7 +168779,7 @@ offSeason: {
                             name: 'Neptune Bar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NeptuneBar_5',
+                            routerLink: '/stores/NeptuneBar_6',
                             extLink: ''
                         },
                         {
@@ -168787,7 +168787,7 @@ offSeason: {
                             name: 'Wellness',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Wellness_2',
+                            routerLink: '/stores/Wellness_3',
                             extLink: ''
                         },
                         {
@@ -168795,7 +168795,7 @@ offSeason: {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/SwimmingPool_71',
+                            routerLink: '/stores/SwimmingPool_72',
                             extLink: ''
                         },
                         {
@@ -168803,7 +168803,7 @@ offSeason: {
                             name: 'Fitness Centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/FitnessCentre_1',
+                            routerLink: '/stores/FitnessCentre_3',
                             extLink: ''
                         },
                     ]
@@ -168818,7 +168818,7 @@ offSeason: {
                             name: 'ANNIVERSARY DECORTAION',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ANNIVERSARYDECORTAION_14',
                             extLink: ''
                         },
                         {
@@ -168826,7 +168826,7 @@ offSeason: {
                             name: 'Birthday Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayRoomDecoration_13',
                             extLink: ''
                         },
                         {
@@ -168834,7 +168834,7 @@ offSeason: {
                             name: 'Bday or Anniversary TDH celebration table above 6pax',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BdayorAnniversaryTDHcelebrationtableabove6pax_10',
                             extLink: ''
                         },
                     ]
