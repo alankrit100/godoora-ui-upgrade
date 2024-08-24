@@ -138696,7 +138696,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Minibar',
+                            name: 'Minibar Discount',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/Juice.png',
