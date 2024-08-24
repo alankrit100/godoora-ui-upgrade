@@ -138682,6 +138682,34 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
+                            name: '15% discount on laundry',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Minibar',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Juice.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Corporate Buffet Lunch',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/CORP-LUNCH.jpg',
                             routerLink: '',
