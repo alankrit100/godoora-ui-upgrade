@@ -112572,7 +112572,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_44',
                             extLink: ''
                         },
                         {
@@ -112580,7 +112580,7 @@ offSeason: {
                             name: 'BBQ',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BBQ',
                             extLink: ''
                         },
                         {
@@ -112588,7 +112588,7 @@ offSeason: {
                             name: 'Events At Fortune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EventsAtFortune_5',
                             extLink: ''
                         },
                     ]
