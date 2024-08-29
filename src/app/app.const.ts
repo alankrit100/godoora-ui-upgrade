@@ -54879,7 +54879,6 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe4.jpg' },
                             ],
-                            storePageAsBlog: true
                         },
                     ]
                 },
