@@ -53451,24 +53451,24 @@ export const Vendors = {
                     items: [
 
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg',
-                            name: 'Cake cooking session',
-                            location: 'Rs. 999/- | 24 hours',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe1.avif',
+                            name: 'Le Cafe Menu',
+                            location: '',
                             views: '',
                             routerLink: '/stores/Cakecookingsession_1',
                             extLink: ''
                         },{
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
-                            name: 'Decoration in honeymoon arrival room',
-                            location: 'Rs. 2999/- | 03 hours',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe2.avif',
+                            name: 'Le Cafe Menu-1',
+                            location: '',
                             views: '',
                             routerLink: '/stores/Decorationinhoneymoonarrivalroom_1',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg',
-                            name: 'Creating Kids Zone in guest room',
-                            location: 'Rs. 2999/- | 03 hours',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe1.avif',
+                            name: 'Le Cafe Menu-2',
+                            location: '',
                             views: '',
                             routerLink: '/stores/CreatingKidsZoneinguestroom_1',
                             extLink: ''
@@ -54825,7 +54825,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Cake cooking session',
+                            name: 'Le Cafe Menu',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -54834,14 +54834,13 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/cake3.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
-                            name: 'Decoration in honeymoon arrival room',
+                            name: 'Le Cafe Menu-1',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -54850,14 +54849,16 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
-                            name: 'Creating Kids Zone in guest room',
+                            name: 'Le Cafe Menu-2',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'orchid/dinner.png',
@@ -54866,11 +54867,19 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Book a Slot',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/kids3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
+                            menuImgs: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Le-Cafe4.jpg' },
+                            ],
+                            storePageAsBlog: true
                         },
                     ]
                 },
@@ -110313,22 +110322,7 @@ offSeason: {
                             name: 'IRD Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/IRD-Menu.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-                            ]
-                        },
-                        {
-                            name: 'Ranch Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Ranch-Bar.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/liquor.png',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
