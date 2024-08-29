@@ -109433,29 +109433,29 @@ offSeason: {
                 experience: {
                     active: true,
                     heading: 'Fortune Pandiyan Hotel, Madurai',
-                    desc: `Set amidst 12140 square meter of landscaped gardens, Fortune Pandiyan Hotel, Madurai is a contemporary hotel offering modern facilities and accommodation in Madurai for pilgrims, tourists and business travelers. The hotel is well connected and is only 15 kms from the airport, 4 kms from the railway station and 3 kms from Sree Meenakshi Amman Temple. The city has many  tourist spots, including various ancient temples, amusement parks and picnic spots, making it a preferred holiday destination for families.`,
+                    desc: `Set amidst 12,140 square meter of landscaped gardens, Fortune Pandiyan Hotel, Madurai is a contemporary hotel offering modern facilities and accommodation in Madurai for pilgrims, tourists and business travelers. The hotel is well connected and is only 15 kms from the airport, 4 kms from the railway station and 3 kms from Sree Meenakshi Amman Temple. The city has many tourist spots, including various ancient temples, amusement parks and picnic spots, making it a preferred holiday destination for families.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/1078'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/1074'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
                             routerLink: '/by-admin/1075'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/1076'
                         }
@@ -109471,7 +109471,7 @@ offSeason: {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -109479,7 +109479,7 @@ offSeason: {
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -109487,7 +109487,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -109495,7 +109495,7 @@ offSeason: {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -109503,7 +109503,7 @@ offSeason: {
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -109511,7 +109511,7 @@ offSeason: {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -109526,7 +109526,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -109534,7 +109534,7 @@ offSeason: {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -109542,7 +109542,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -110272,1161 +110272,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'IRD Menu',
-                    icon: 'Pride/menu.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
-                    services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                ],
-                        },
-                    ]
-                },
-                {
-                    name: 'Services Directory',
-                    icon: 'fortunegrace/directory.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                    services: [
-                        {
-                            name: 'IRD Menu',
-                            extLink: 'I',
-                            routerLink: '',
-                            icon: 'pune/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                ],
-                        },
-                    ]
-                },
-                {
-                    name: 'Front Desk',
-                    icon: 'fortunemussoorieicons/Front.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Reception',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Reception.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to know if there is a cloak room',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Web Checkin',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Islandicons/reception.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkIn',
-                            headerText: 'Select a date & time you would like to checkIn.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            checkinForm: true,
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Web Checkout',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Islandicons/check-out.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to checkout',
-                            headerText: 'Select a date & time you would like to checkOut',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/frontdesk5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                    ]
-                },
-                {
-                    name: 'Housekeeping',
-                    icon: 'fortunemussoorieicons/Housekeeping.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Extra Crockery & Cutlery',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Extra.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need 2 dinnner plates along with spoons',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/crockery5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Additional Bedding',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            placeholder: 'Example: Please send me an extra pillow',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Laundry Service',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Laundry.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please arrange laundry pickup for me',
-                            headerText: 'Select a time when our person can knock your door',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/laundry1.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Room Cleaning',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please sanitize my room and replace bedding',
-                            headerText: 'Select an ideal time for us to work in your room',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cleaning5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Food and Beverage',
-                    icon: 'fortunemussoorieicons/beverage.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Book a Table - Surbhi Malvani',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Dining.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            storePageAsBlog: true,
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'Order Online - Surbhi Malvani',
-                            extLink: 'http://20.98.100.147:5201/search?category=The%20Restaurant',
-                            routerLink: '',
-                            icon: 'fortunemussoorieicons/online.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Table4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            storePageAsBlog: true,
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'Book Whole Restaurant - Surbhi Malvani',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I need to host a private party',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/whole5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            storePageAsBlog: true,
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'Take Away - SUFIT',
-                            extLink: 'http://20.98.100.147:5201/search?category=The%20Restaurant',
-                            routerLink: '',
-                            icon: 'fortunemussoorieicons/take-away.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            storePageAsBlog: true,
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'In Room Dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/NOSTRADAMUS.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Please send me 1 portion of butter paneer and 4 rotis',
-                            headerText: 'When would you like the food to arrive at your room?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/fbdining5.jpg' },
-                              ],
-                            confirmBtnLabel: 'Place the order',
-                            storePageAsBlog: true,
-                            menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/goa/table4.jpg' }
-                            ]
-                        },
-                        {
-                            name: 'Factory tour of clay wind chimes pottery making',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/clay-crafting.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://source.unsplash.com/433x649/?Uruguay' },
-                                { path: 'https://source.unsplash.com/530x572/?Jamaica' },
-                                { path: 'https://source.unsplash.com/531x430/?Kuwait' },
-                                { path: 'https://source.unsplash.com/586x1073/?Bermuda' },
-                                { path: 'https://source.unsplash.com/500x571/?Ecuador' },
-                                { path: 'https://source.unsplash.com/579x518/?Virgin Islands (British)' },
-                                { path: 'https://source.unsplash.com/503x548/?Angola' },
-                                { path: 'https://source.unsplash.com/511x630/?Mauritania' },
-                                { path: 'https://source.unsplash.com/414x767/?Sri Lanka' },
-                                { path: 'https://source.unsplash.com/443x704/?St. Helena' },
-                                { path: 'https://source.unsplash.com/441x1145/?Namibia' },
-                                { path: 'https://source.unsplash.com/491x1097/?Samoa' },
-                                { path: 'https://source.unsplash.com/570x851/?Eritrea' },
-                                { path: 'https://source.unsplash.com/560x1072/?Iraq' },
-                                { path: 'https://source.unsplash.com/551x598/?Togo' },
-                                { path: 'https://source.unsplash.com/518x813/?Romania' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Learn bed making',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Learn cooking with our Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/chef.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Wellness and Fitness',
-                    icon: 'fortunemussoorieicons/fitness.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Spa',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Spa.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/spa5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Gym',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Gym.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to use the treadmill',
-                            headerText: 'When would you like to hit the Gym?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/gym5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Swimming Pool',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Swimming.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to enter the swimming pool when there is no crowd',
-                            headerText: 'When would you like to get into the pool?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/swimming5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Recreation & Sports',
-                    icon: 'fortunemussoorieicons/Sports.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Tennis',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/tennis.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the racket in the court',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tennis3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book a Slot',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Pool Table',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please keep the rackets and the ball on the table',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/pool3.jpg.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/pool2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Travel and Activities',
-                    icon: 'fortunemussoorieicons/van.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book the cab',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Local Taxi',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/localtaxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book a Cab',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Local Restaurant',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
-                            headerText: 'At what time would you be going to the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table11.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table12.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table13.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table14.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/table15.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book a slow',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Amusement Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/park.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
-                            headerText: 'When are you planning to visit?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/amusment4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book tickets',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Cinemas / Plays',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/cinema.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book 2 tickets in Back row for Avengers movie in PVR',
-                            headerText: 'When are you planning to go for the movie?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book Tickets',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Forex',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/presentation.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need Indian Rupees for 1000 singapore dollar',
-                            headerText: 'When would you like to collect it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Local Shopping',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/shopping.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
-                            headerText: 'When would you like to go for shopping?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/shopping5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Fix appointment',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Arrange a Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/van.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Repairs',
-                    icon: 'fortunemussoorieicons/Repairs.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'TV',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/TV.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: None of the Kannada channels are not working',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'AC',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/AC.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need help in adjusting room temprature',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/ac5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Coffee Maker',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/coffee-cup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I need help in adjusting room temprature',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Gallery/coffee4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Hair Dryer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Hair.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Please replace the hair dryer',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Electrical',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Electrical.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Others',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Others.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/tv1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/electric1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dryer2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/coffee2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/ac2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Lost and found',
-                    icon: 'fortunemussoorieicons/lost-items.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Lost an Item',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/lost-items.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'I lost my wallet near the swimming pool',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost5.jpg' },
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Found an Item',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/lost-and-found.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'I found a wallet near the entrance',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-mumbai/lost5.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Security',
-                    icon: 'fortunemussoorieicons/guard.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Report an Issue',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/report.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'I saw an unattended bag in the garden. Please check',
-                            headerText: 'If needed, when can we contact you for more details?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Hire Staff',
-                    icon: 'fortunemussoorieicons/candidate.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'SUFIT Dietician',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/nutritionist.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Hair1.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Hair2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Hair3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'DJ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/dj.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/chef.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Online Experiences',
-                    icon: 'fortunemussoorieicons/online-lesson.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Learn DJ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/dj.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/dj5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Learn cooking with our Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/chef5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Learn bed making',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/bedding1.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Workshop',
-                    icon: 'fortunemussoorieicons/Workshop.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Cook with chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/Cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Bedmaking',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Towel Origamy',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/bedmaking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Local Experience',
-                    icon: 'fortunemussoorieicons/local.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Heritage and culture tour of Vijayawada',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/walk.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage/Heritage1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage/Heritage2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Heritage/Heritage3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Adventures trip to Bhavani Island',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/adventurer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventure/Adventure1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventure/Adventure2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Adventure/Adventure4.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Trip to nearby Valleys',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/road-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Trip/Trip1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Trip/Trip2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Trip/Trip3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Restaurant Menu',
+                    name: 'Digital Menus',
                     icon: 'fortunemussoorieicons/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -111434,8 +110280,23 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Deli Menu PDF',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Deli+Menu+PDF.pdf',
+                            name: 'Kids Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
+                        },
+                        {
+                            name: 'Ranch Bar',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/EARTHEN+OVEN+FLA+FINAL+MENU+LAND+MARK+AHMEDABAD+-.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -111443,27 +110304,14 @@ offSeason: {
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
                             headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/7.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/8.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Nostradamous/9.jpg' }
                             ]
                         },
                         {
-                            name: 'IN ROOM DINING Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/IN+ROOM+DINING+Menu.pdf',
+                            name: 'IRD Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -111471,253 +110319,60 @@ offSeason: {
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
                             headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
                             confirmBtnLabel: 'Place the order',
                             menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/7.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Orchid/8.jpg' }
                             ]
                         },
                         {
-                            name: 'Neptune Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Neptune+Menu.pdf',
+                            name: 'Ranch Bar',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Ranch-Bar.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/tray.png',
+                            icon: 'Aatapi/liquor.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
-                            confirmBtnLabel: 'Book the table',
+                            confirmBtnLabel: 'Place the order',
                             menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
                             ]
                         },
                         {
-                            name: 'ORCHID MENU PDF',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/ORCHID++MENU+PDF.pdf',
+                            name: 'Orchid-Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Orchid-Menu.pdf',
                             routerLink: '',
-                            icon: 'fortunegrace/tray.png',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
                             ],
-                            confirmBtnLabel: 'Book the table',
+                            confirmBtnLabel: 'Place the order',
                             menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS01.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS02.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS03.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS04.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS05.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS06.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS07.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS08.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/RoomService/RS09.jpg' }
+                            ]
+                        },
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Service-Directory.pdf',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
                             ]
                         }
                     ]
                 },
                 {
-                    name: 'Exclusive Offers',
-                    icon: 'dharmshala/offer.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Yoga Hut Dining Offer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/dinning.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv4.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv5.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv6.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneMoksha/serv7.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Buy 02 beer get 01 beer free',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/beer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dharmshala/beer.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Special Offer',
-                    icon: 'Vijaywadaicons/SpecialOffer.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'personalized dinner experience With Your choice of food',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/dinning.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Landing3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Restaurant2.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Buy 02 beer get 01 beer free',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/beer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Special+Offer/Beer3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Cook with Chef Experience Offer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv1.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv2.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv3.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv4.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv5.JPG' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/serv6.JPG' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Combo Offer Spa + Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/Combo.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Combo/Combo3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Digital Menus',
-                    icon: 'JammuIcons/DigitalMenu.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Restaurant Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
-                            routerLink: '',
-                            icon: 'JammuIcons/RestaurantMenu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'In-Room Dining Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/3.+In+Room+Dining.pdf',
-                            routerLink: '',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Spa Laundry and Minibar Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/SPA+MENU.pdf',
-                            routerLink: '',
-                            icon: 'JammuIcons/SpaMenu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        }
-                    ]
-                },
-                {
-                    name: 'Quick Upgrades',
+                    name: 'REVIEW & REWARD',
                     icon: 'JammuIcons/upgrader.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -111725,7 +110380,131 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Upgrade room @ INR 999*',
+                            name: 'In-Stay Feedback',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/feedback1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'CLUB ITC MEMBER BENIFITS',
+                            extLink: 'https://www.itchotels.com/in/en/clubitc',
+                            routerLink: '',
+                            icon: 'Aatapi/hotel.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Trip Adviser',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/tripadvisor1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Make my trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Make-my-trip.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Booking.Com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Booking.Com.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                    ]
+                },
+                {
+                    name: 'SPECIAL OFFERS & PROMOTIONS',
+                    icon: 'JammuIcons/Benifits.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Club ITC Reward Points',
+                            extLink: 'https://www.itchotels.com/in/en/enrol?utm_source=google&utm_medium=cpc&utm_content=search&utm_campaign=HQ-DTL|MHot|AllIndia|Club-Membership|Search|Conversions|PANIndia|always-on|Owned|AllBrand|GGL|NA|NA|NA|NA|Brand&gad_source=1&gclid=EAIaIQobChMIpITPuo-_hwMVP9kWBR2TuwSkEAAYASAAEgKZBvD_BwE',
+                            routerLink: '',
+                            icon: 'Aatapi/hand-gesture.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Upgrade room',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/room.png',
@@ -111734,30 +110513,17 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Room1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Room2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Room4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        
                         {
-                            name: 'Hire A Local Sherpa/Guide',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Default/tour-guide.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Upgrade meal @ INR 499*',
+                            name: 'Upgrade meal',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/meal.png',
@@ -111766,15 +110532,12 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Extra bed @ INR 99*',
+                            name: 'Extra bed ',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'JammuIcons/bed.png',
@@ -111783,129 +110546,14 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/bed1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/bed2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/bed3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Get a cab @ INR 25* per km',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/cab.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/cab1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/cab2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/cab3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Business center services @ INR 499*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/service.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/office1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/office2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/office3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
                     ]
                 },
                 {
-                    name: 'Special Benefits',
-                    icon: 'JammuIcons/Benifits.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Avail a 20% discount* on spa',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/SpaMenu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/spa1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/spa2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/spa3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Poolside dining @ INR 1999*',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/swimming-pool.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/poolside1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/poolside2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/poolside3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/inroom1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/inroom2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/inroom3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Celebrate your special day',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/celebrating.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/celebrate1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/celebrate2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/celebrate3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Plan Your Trip',
+                    name: 'DIGITAL CONCIERGE',
                     icon: 'JammuIcons/trip.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -111913,151 +110561,19 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Book a city tour',
+                            name: 'Cab Charges',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/city.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-tour1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-tour2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-tour3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Hire local guide',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/tour-guide.png',
+                            icon: 'Aatapi/cab.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-guide1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-guide2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/city-guide3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Explore food trail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/fast-food.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/meal3.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Explore heritage trail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/heritage.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/heritage1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/heritage2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/heritage3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Unique Dinning Experience',
-                    icon: 'dharmshala/dining-table.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'Exclusive Personalised Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/dinner1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/dinner2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/dinner3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Close to nature breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/nature-breakfast1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/nature-breakfast2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/nature-breakfast3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Cooking Session With Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/chef1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/chef2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/chef3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Kangri Dham Lunch Thali',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/lunch1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/lunch2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park+Dahej/lunch3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
                     ]
                 },
                 {
@@ -112230,8 +110746,6 @@ offSeason: {
                         },
                     ]
                 },
-
-
                 ],
             comingSoon: {
                 active: true,
