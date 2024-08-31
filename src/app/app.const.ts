@@ -150964,6 +150964,20 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Puppet Show',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/PuppetShowLobby-Creative.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/puppet-show.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
