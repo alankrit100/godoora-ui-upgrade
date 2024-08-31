@@ -160994,7 +160994,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Himalayan Adrenaline Broucher Palampur Dharamshala',
+                            name: 'Activities Brochure',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Himalayan-Adrenaline-Broucher-Palampur-Dharamshala-Bir-2024.pdf',
                             routerLink: '',
                             icon: 'Aatapi/monserrate-sanctuary.png',
