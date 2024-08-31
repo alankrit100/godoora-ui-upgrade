@@ -160983,7 +160983,7 @@ offSeason: {
                             name: 'Exclusive By GHAS',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Exclusives-By-GHAS+-LF.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/action-cameras.png',
+                            icon: 'Aatapi/action-camera.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
