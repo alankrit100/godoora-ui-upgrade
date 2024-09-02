@@ -64602,19 +64602,6 @@ export const Vendors = {
                             }
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/dining.jpg',
-                            name: 'Personalised Dining Experience',
-                            location: '',
-                            views: '',
-                            routerLink: '/by-admin/224',
-                            extLink: '',
-                            btn: {
-                                extLink: '',
-                                routerLink: '/by-admin/224',
-                                label: 'ENQUIRE NOW'
-                            }
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/Zip_lining.jpg',
                             name: 'Zip Line',
                             location: '',
