@@ -110329,21 +110329,6 @@ offSeason: {
                             ]
                         },
 
-                         {
-                            name: 'Mini bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Mini-Bar-Menu.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/mini.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ]
-                        },
                         {
                             name: 'Service Directory',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Service-Directory.pdf',
@@ -110356,6 +110341,22 @@ offSeason: {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
+                        },
+                        
+                         {
+                            name: 'Mini bar',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Mini-Bar-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/mini.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
                             menuImgs: [
                             ]
                         }
