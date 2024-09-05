@@ -137087,51 +137087,6 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Biryani Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Biryani-menu.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/biryani.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Independence Day Discount On Buffet',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/INDEPENDENCE-DAY-2024.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/India.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Draught Beer',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/DRAUGHT-BEER-PROMOTION.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/beer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Banquet',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/BANQUET-PROMOTION.jpg',
                             routerLink: '',
@@ -137151,6 +137106,118 @@ offSeason: {
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Long-Stayer-Suite-Room-Package.pdf',
                             routerLink: '',
                             icon: 'Aatapi/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+
+                        {
+                            name: 'AT ZODIAC',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/AT-ZODIAC.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/Zodiac.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+
+                        {
+                            name: 'International Heart Day',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Internatinal-heart-day.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/earth.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+
+                        {
+                            name: 'ONAM SADHYA',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/ONAM-SADHYA.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/onam.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+
+                        {
+                            name: 'PICNIC BASKET',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/PICNIC-BASKET.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/picnic-basket12.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+
+                        {
+                            name: 'SIP UP IN BAR',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/SIP-UP-IN-BAR.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/mini.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+
+                        {
+                            name: 'thali',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/thali+.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/thali.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+
+                        {
+                            name: 'WORLD TOURISM DAY',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/WORLD-TOURISIM-DAY.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/world-tourism-day.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
