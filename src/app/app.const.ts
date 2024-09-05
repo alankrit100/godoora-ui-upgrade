@@ -93286,6 +93286,21 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book the table',
                             
+                        },
+                        {
+                            name: 'Kids Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Kids-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            
                         }
                     ]
                 },
