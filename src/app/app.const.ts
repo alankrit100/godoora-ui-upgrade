@@ -166036,7 +166036,7 @@ offSeason: {
                             name: 'Zodiac',
                             location: '',
                             views: '',
-                            routerLink:'',
+                            routerLink:'/stores/Zodiac_14',
                             extLink: ''
                         },
                         {
