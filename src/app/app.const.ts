@@ -93255,13 +93255,12 @@ export const Vendors = {
                                 
                             ],
                             confirmBtnLabel: 'Book the table',
-                           
                         },
                         {
                             name: 'IRD Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/IRD-Menu.pdff',
                             routerLink: '',
-                            icon: 'fortunegrace/restaurant.png',
+                            icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Ex: I would like 2 biryanis to be parcelled',
@@ -93270,7 +93269,6 @@ export const Vendors = {
                                
                             ],
                             confirmBtnLabel: 'Place the order',
-                            
                         },
                         {
                             name: 'Zodiac Menu',
