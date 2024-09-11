@@ -109167,12 +109167,7 @@ offSeason: {
             landingPage: {
                 slider: {
                     active: true,
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Street-Food-Festival.jpeg',
-                            heading: 'Fortune Pandiyan Hotel, Madurai',
-                            subHeading: ''
-                        },
+                    items: [ 
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/facade-front.jpg',
                             heading: 'Fortune Pandiyan Hotel, Madurai',
