@@ -96290,23 +96290,6 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Millet-Menu.pdf',
-                            routerLink: '',
-                            icon: 'Manali/menu123.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                        },
-                        {
                             name: 'Service Directory',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Service-directory-Haridwar.pdf',
                             routerLink: '',
@@ -96626,6 +96609,23 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Millet Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Millet-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Manali/menu123.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
+                            ],
+                            confirmBtnLabel: 'Place the order',
                         },
                     ]
                 },
