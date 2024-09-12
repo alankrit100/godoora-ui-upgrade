@@ -85652,8 +85652,8 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'IRD Digital Menu Figg',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/IRD+MENU.pdf',
+                            name: 'IRD Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/IRD-MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -93016,7 +93016,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/IRD-Menu.pdff',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -93233,9 +93233,9 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
+                        },
                         {
-                            name: 'Map',
+                            name: 'Map to Forest Hill',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Map+to+Forest+Hill.pdf',
                             routerLink: 'test',
                             icon: 'Aatapi/map.png',
@@ -109238,15 +109238,15 @@ offSeason: {
                 destinations: {
                     active: true,
                     heading: 'Todays Promotions',
-                    desc: 'Dive into a whole new world of activities!',
+                    desc: '',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Highway-Food-Festival-2024.jpeg',
                             name: 'Highway Food Festival',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Highway-Food-Festival-2024.jpeg'
                         },
                     ]
                 },
