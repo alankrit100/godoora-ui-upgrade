@@ -93060,7 +93060,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Fact Sheet',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Kids+Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Fact-Sheet.pdf',
                             routerLink: '',
                             icon: 'Aatapi/5-stars.png',
                             showTextarea: true,
