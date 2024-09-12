@@ -93045,7 +93045,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Kids-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Kids+Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -93123,7 +93123,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Activity Packages',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Activity-Pacakage.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Resort+Activities+(1).pdf',
                             routerLink: '',
                             icon: 'Aatapi/lifestyle.png',
                             showTextarea: true,
@@ -93225,6 +93225,20 @@ export const Vendors = {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'clarks/church.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        }
+                        {
+                            name: 'Map',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Map+to+Forest+Hill.pdf',
+                            routerLink: 'test',
+                            icon: 'Aatapi/map.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
