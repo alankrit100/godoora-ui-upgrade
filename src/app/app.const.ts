@@ -85652,8 +85652,8 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'IRD Digital Menu Figg',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/IRD+MENU.pdf',
+                            name: 'IRD Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/IRD-MENU.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -93016,7 +93016,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/IRD-Menu.pdff',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -93048,6 +93048,21 @@ export const Vendors = {
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Kids+Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            
+                        },
+                        {
+                            name: 'Fact Sheet',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Fact-Sheet.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/5-stars.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
@@ -93233,11 +93248,11 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
+                        },
                         {
-                            name: 'Map',
+                            name: 'Map to Forest Hill',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Map+to+Forest+Hill.pdf',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -109237,56 +109252,16 @@ offSeason: {
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
-                    desc: 'Dive into a whole new world of activities!',
+                    heading: 'Todays Promotions',
+                    desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg',
-                            name: 'Pool Side Dinner',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Highway-Food-Festival-2024.jpeg',
+                            name: 'Highway Food Festival',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Deep Tissue Massage',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg',
-                            name: 'Candle Light Dinner',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg',
-                            name: 'Nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
-                            name: 'Custom In-room dining',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
+                            routerLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Highway-Food-Festival-2024.jpeg'
                         },
                     ]
                 },
@@ -110413,7 +110388,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'In-house Experiences',
+                    name: 'Todays Promotions',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -110421,104 +110396,21 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Candle Light Dinner',
-                            extLink: '',
-                            routerLink: 'test',
+                            name: 'Highway Food Festival',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Highway-Food-Festival-2024.jpeg',
+                            routerLink: '',
                             icon: 'dharmshala/paint.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle3.jpg' },
+                              
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Pool Side Dinner',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/yoga.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Deep Tissue Massage',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Facial',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/barbeque.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Nature breakfast',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/breakfast.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service3.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
+                        
                     ]
                 },
                 {
