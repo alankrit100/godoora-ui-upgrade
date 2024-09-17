@@ -80780,21 +80780,6 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'ORCHID Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Orchid-Menu.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-                            ]
-                        },
-                        {
                             name: 'IRD-Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/IRD-MENU-FINAL-18.02.23.pdf',
                             routerLink: '',
@@ -80840,7 +80825,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'The Oriental Pavillion',
+                            name: 'The Oriental Pavillion (Speciality Restaurant)',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavillion.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/food-promotion.png',
@@ -80870,7 +80855,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'Single Dine Menu',
+                            name: 'One Plate Wonder',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Single-Dine-Menu-Bhubaneshwar.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
@@ -93233,7 +93218,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
+                        },
                         {
                             name: 'Map',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Map+to+Forest+Hill.pdf',
