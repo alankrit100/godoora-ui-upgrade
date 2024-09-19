@@ -1495,8 +1495,8 @@ export const Vendors = {
                     videoLink: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/video_1080.mov',
                     preTitle: 'Enrich your trip with',
                     title: 'UNIQUE EXPERIENCES',
-                    linkLabel: 'Plan Your Trip',
-                    extLink: 'https://www.planner.goyaana.com',
+                    linkLabel: 'Travel Deals by GoYaana',
+                    extLink: 'https://www.traveldeals.goyaana.com/landing',
                     routerLink: ''
                 }
             },
