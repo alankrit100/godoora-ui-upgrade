@@ -170560,6 +170560,16 @@ offSeason: {
                             headerText: 'When would you like to visit the restaurant?',
                             confirmBtnLabel: 'Book the table',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu5.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu6.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu7.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu8.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu9.jpg' },
+
                             ],
                             menuImgs: [
                                 
