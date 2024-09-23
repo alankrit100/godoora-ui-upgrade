@@ -170578,6 +170578,7 @@ offSeason: {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Pets-Policy',
@@ -170591,6 +170592,7 @@ offSeason: {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true
                         },
                     ]
                 },
