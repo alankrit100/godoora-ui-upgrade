@@ -51188,7 +51188,7 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'In-House Experiences',
+                    heading: 'In House Experiences',
                     desc: 'Whether you’re looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
                     items: [
 
@@ -51197,14 +51197,14 @@ export const Vendors = {
                             name: 'Cake cooking session',
                             location: 'Rs. 999/- | 24 hours',
                             views: '',
-                            routerLink: '/stores/Cakecookingsession_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
                             name: 'Decoration in honeymoon arrival room',
                             location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/Decorationinhoneymoonarrivalroom_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -51212,7 +51212,7 @@ export const Vendors = {
                             name: 'Creating Kids Zone in guest room',
                             location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/CreatingKidsZoneinguestroom_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
