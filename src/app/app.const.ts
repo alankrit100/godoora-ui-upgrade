@@ -125751,7 +125751,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'DIGITAL MENU',
+                            label: 'DIGITAL MENUS',
                             extLink: '',
                             routerLink: '/by-admin/1993'
                         },
@@ -126586,7 +126586,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'Digital Menu',
+                    name: 'DIGITAL MENUS',
                     icon: 'Pride/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
