@@ -125753,7 +125753,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'DIGITAL MENUS',
                             extLink: '',
-                            routerLink: '/by-admin/1993'
+                            routerLink: '/by-admin/2004'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
@@ -126586,7 +126586,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'DIGITAL MENUS',
+                    name: 'Digital Menus',
                     icon: 'Pride/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -126665,7 +126665,6 @@ offSeason: {
                         },
                     ]
                 },
-               
                 {
                     name: 'REVIEW & REWARDS',
                     icon: 'JammuIcons/upgrader.png',
