@@ -110104,7 +110104,23 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
                             ]
-                        }
+                        },
+
+                        {
+                            name: 'Fortune sweet brocher',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Fortune-sweet-brocher.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/bakery-shop.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                            ]
+                        },
                     ]
                 },
                 {
