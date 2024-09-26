@@ -110401,7 +110401,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Temple Timing',
+                            name: 'Meenakshi Amman Temple Timing',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Temple+Timing2024.jpeg',
                             routerLink: '',
                             icon: 'Aatapi/mandir.png',
