@@ -51188,7 +51188,7 @@ export const Vendors = {
                 },
                 experiences: {
                     active: true,
-                    heading: 'In-House Experiences',
+                    heading: 'In House Experiences',
                     desc: 'Whether you’re looking for last-minute deals on business accommodations or planning for a weekend getaway, you’ll find the best offers for the Radisson Hotel Nathdwara right here. ',
                     items: [
 
@@ -51197,14 +51197,14 @@ export const Vendors = {
                             name: 'Cake cooking session',
                             location: 'Rs. 999/- | 24 hours',
                             views: '',
-                            routerLink: '/stores/Cakecookingsession_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },{
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/radisson/honeymoon1.jpg',
                             name: 'Decoration in honeymoon arrival room',
                             location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/Decorationinhoneymoonarrivalroom_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -51212,7 +51212,7 @@ export const Vendors = {
                             name: 'Creating Kids Zone in guest room',
                             location: 'Rs. 2999/- | 03 hours',
                             views: '',
-                            routerLink: '/stores/CreatingKidsZoneinguestroom_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -110073,7 +110073,21 @@ offSeason: {
                             menuImgs: [
                             ]
                         },
-
+                        {
+                            name: 'Laundry Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Laundry-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
+                        },
                         {
                             name: 'Service Directory',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Service-Directory.pdf',
@@ -125747,18 +125761,16 @@ offSeason: {
                 experience: {
                     active: true,
                     heading: 'FORTUNE PARK, KATRA',
-                    desc: `A calming retreat for people on holy pilgrimages to Mata Vaishno Devi Temple, Fortune Park Katra lets you bask in the tranquility of its open spaces and aesthetic design. Whether you’re on a journey to worship the divine or want a relaxed stay to re-connect with the self, you’ll surely feel your energy and spirit uplifted by our warm service and excellent hospitality.'.
-
-                    `,
+                    desc: `A calming retreat for people on holy pilgrimages to Mata Vaishno Devi Temple, Fortune Park Katra lets you bask in the tranquility of its open spaces and aesthetic design. Whether you’re on a journey to worship the divine or want a relaxed stay to re-connect with the self, you’ll surely feel your energy and spirit uplifted by our warm service and excellent hospitality.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'DIGITAL MENU',
+                            label: 'DIGITAL MENUS',
                             extLink: '',
-                            routerLink: '/by-admin/1993'
+                            routerLink: '/by-admin/2004'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARDS',
                             extLink: '',
                             routerLink: '/by-admin/995'
@@ -125787,7 +125799,7 @@ offSeason: {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -125795,7 +125807,7 @@ offSeason: {
                             name: 'Deep Tissue Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -125803,7 +125815,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -125811,7 +125823,7 @@ offSeason: {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -125819,7 +125831,7 @@ offSeason: {
                             name: 'Facial',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Facial_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -125827,7 +125839,7 @@ offSeason: {
                             name: 'Custom In-room dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -125842,7 +125854,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -125850,7 +125862,7 @@ offSeason: {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -125858,7 +125870,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -126588,18 +126600,54 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'Digital Menu',
+                    name: 'Digital Menus',
                     icon: 'Pride/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
+                    routerLink: 'test',
+                    extLink: '',
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Katra/IRD-Menu.pdf',
                             routerLink: '',
-                            icon: 'pune/dinning-table.png',
+                            icon: 'Aatapi/menu123.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Fortune Deli',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Katra/Fortune-Deli.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Rainbow Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Katra/Rainbow-Menu.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -126615,7 +126663,7 @@ offSeason: {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -126631,7 +126679,6 @@ offSeason: {
                         },
                     ]
                 },
-               
                 {
                     name: 'REVIEW & REWARDS',
                     icon: 'JammuIcons/upgrader.png',
@@ -148915,7 +148962,7 @@ offSeason: {
                             ]
                         },
                         {
-                            name: 'In-Room Dining Menu',
+                            name: 'IRD Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
@@ -170583,34 +170630,17 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu7.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu8.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu9.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu10.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu11.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu12.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu13.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu14.jpg' },
+
                             ],
                             menuImgs: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu5.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu6.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu7.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu8.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu9.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu10.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu11.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu12.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu13.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Wishbone-Menu14.jpg' },
+                                
                             ],
                             storePageAsBlog: true
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/SPA-Menu.pdf',
-                            routerLink: '',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'Littlearth/unwind-spa-logo.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -170619,11 +170649,12 @@ offSeason: {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Pets-Policy',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Little-Earth/Destiny/Pets-Policy.pdf',
-                            routerLink: '',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'Littlearth/dog.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -170632,6 +170663,7 @@ offSeason: {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Book the table',
+                            storePageAsBlog: true
                         },
                     ]
                 },
