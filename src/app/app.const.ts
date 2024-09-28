@@ -85662,7 +85662,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SPA MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/The+Leisure+Spa+Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Tamara+Health+Spa.pdf',
                             routerLink: '',
                             icon: 'benaulimIcon/spa.png',
                             showTextarea: true,
