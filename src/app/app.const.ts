@@ -135831,20 +135831,20 @@ offSeason: {
                             routerLink: '/by-admin/1842'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'Review & Rewards',
                             extLink: '',
                             routerLink: '/by-admin/1029'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'Special Offers & Promotions',
                             extLink: '',
                             routerLink: '/by-admin/1030'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'Digital Concierge',
                             extLink: '',
                             routerLink: '/by-admin/1031'
                         }
