@@ -132357,19 +132357,19 @@ offSeason: {
                             img: 'https://source.unsplash.com/570x851/?Eritrea',
                             label: 'Plan your trip the way you like it',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
+                            routerLink: '',
                         },
                         {
                             img: 'https://source.unsplash.com/560x1072/?Iraq',
                             label: 'Plan your trip the way you like it',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
+                            routerLink: '',
                         },
                         {
                             img: 'https://source.unsplash.com/551x598/?Togo',
                             label: 'Plan your trip the way you like it',
                             extLink: 'https://www.demohotel-planner.goyaana.com',
-                            routerLink: ''
+                            routerLink: '',
                         }
                     ]
                 },
@@ -132461,7 +132461,7 @@ offSeason: {
 
                         {
                             name: 'single diner',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/single-diner.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=',
                             routerLink: '',
                             icon: 'Aatapi/dinner1.png',
                             showTextarea: true,
@@ -132475,7 +132475,7 @@ offSeason: {
 
                          {
                             name: 'SPA COUPON',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/SPA-CUPON.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=',
                             icon: 'Aatapi/coupon.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
