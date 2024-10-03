@@ -132458,6 +132458,33 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                         },
+
+                        {
+                            name: 'single diner',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/single-diner.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/dinner1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+
+                         {
+                            name: 'SPA COUPON',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/SPA-CUPON.pdf',
+                            icon: 'Aatapi/coupon.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
                     ]
                 },     
                 {
@@ -132896,6 +132923,20 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        },
+
+                         {
+                            name: 'Bar Promotion',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/BAR-PROMOTION.jfif',
+                            routerLink: '',
+                            icon: 'Aatapi/bar-counter1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
                         },
                     ]
                 },
