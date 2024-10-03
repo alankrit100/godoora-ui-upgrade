@@ -132461,7 +132461,7 @@ offSeason: {
 
                         {
                             name: 'single diner',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/single-diner.pdf',
                             routerLink: '',
                             icon: 'Aatapi/dinner1.png',
                             showTextarea: true,
@@ -132475,7 +132475,7 @@ offSeason: {
 
                          {
                             name: 'SPA COUPON',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/SPA-CUPON.pdf',
                             icon: 'Aatapi/coupon.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
