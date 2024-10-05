@@ -79113,32 +79113,32 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Modern gastronomy',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'thane/iftar.png',
+                            name: 'Bhai Dooj Hamper',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Bhai-Dooj-Hamper.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/sweet12.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Modern-gastronomy.png' },
+                                
 
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Breakfast package',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'thane/breakfast.png',
+                            name: 'Dosa & Curry',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Dosa-%26-Curry.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/masala-dosa12.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Breakfast-package.png'}
+                               
 
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -79163,26 +79163,25 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Cheese Cake',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/cheesecake.png',
+                            name: 'Karwa Chauth Sargi Hamper',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Karwa-Chauth-Sargi-Hamper.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/pooja.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Cheese-Cake.jpg'}
 
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Monsoon Mocktail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/mocktail.png',
+                            name: 'Navratri Thali',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Navratri-Thali.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/thali.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
@@ -79195,17 +79194,15 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Raksha Bandhan Gift Hamper',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/raksha-bandhan.png',
+                            name: 'Sizzle Street',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Sizzle-Street.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/kiosk.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/RakshaBandhan1.jpg'},
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/RakshaBandhan2.jpg'}
 
                             ],
                             confirmBtnLabel: 'Submit Request',
@@ -79263,10 +79260,10 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Bogo Cake',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/BOGO-cake.jpg',
+                            name: 'Sunday Brunch',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Sunday-Brunch.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/cake.png',
+                            icon: 'Aatapi/dinner2.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -79278,10 +79275,10 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Burger',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/burger.jpg',
+                            name: 'Syrup-Sip-Savour',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Syrup-Sip-Savour.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/burger.png',
+                            icon: 'Aatapi/maple-syrup.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -79293,10 +79290,10 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Dimsum Sushi',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/dimsum-sushi.jpg',
+                            name: 'Wrap Your Cravings',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Wrap-Your-Cravings.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/sushi.png',
+                            icon: 'Aatapi/burrito.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -92980,6 +92977,19 @@ export const Vendors = {
                                 
                             ],
                             confirmBtnLabel: 'Book the table',
+                        },
+                         {
+                            name: 'Service Directory',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Service-Directory.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
                         },
                         {
                             name: 'IRD Menu',
@@ -110213,6 +110223,78 @@ offSeason: {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Expedia',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Expedia.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Agoda',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Agoda.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Goibibo',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Goibibo.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Travel guru',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Travelguru.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -132420,19 +132502,7 @@ offSeason: {
                             confirmBtnLabel: 'Place the order',
                         },
 
-                         {
-                            name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Service-Directory.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                        },
+                        
                         {
                             name: 'IRD Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/IRD-MENU-2024.pdf',
@@ -139647,8 +139717,8 @@ offSeason: {
                         },
                         {
                             name: 'Cab Charge',
-                            extLink: '',
-                            routerLink: 'test',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Cab-Charges.pdf',
+                            routerLink: '',
                             icon: 'Aatapi/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
