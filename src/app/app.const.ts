@@ -99624,7 +99624,7 @@ export const Vendors = {
             ],
             departments: [
                 {
-                    name: 'Digital menu',
+                    name: 'DIGITAL MENUS',
                     icon: 'aligarh/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
