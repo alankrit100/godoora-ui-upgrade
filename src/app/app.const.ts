@@ -99632,8 +99632,8 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Orchid Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/ORCHID-MENU1.pdf',
+                            name: 'IRD Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/IRD+Menu+fortune+park+JP+Celestial+oct+2024.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -99647,9 +99647,23 @@ export const Vendors = {
                         },
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Kids-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Kids-Menu.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu2.png',
+                            icon: 'aligarh/menu123.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'One Plate Wonder',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/one+plate+wonder+fortunepark+jp+celestial.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/menu3.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
