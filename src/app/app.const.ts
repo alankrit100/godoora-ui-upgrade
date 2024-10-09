@@ -90507,10 +90507,10 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/restaurant+1.jpg',
-                            name: 'Personalized dinner experience With Your choice of food',
+                            name: 'personalized dinner experience With Your choice of food',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PersonalizeddinnerexperienceWithYourchoiceoffood_3',
+                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_3',
                             extLink: '',
                         },
                         {
@@ -91852,7 +91852,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Personalized dinner experience With Your choice of food',
+                            name: 'personalized dinner experience With Your choice of food',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Vijaywadaicons/dinning.png',
