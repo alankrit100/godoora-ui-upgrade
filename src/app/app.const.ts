@@ -90510,7 +90510,7 @@ export const Vendors = {
                             name: 'Personalized dinner experience With Your choice of food',
                             location: '',
                             views: '',
-                            routerLink: '/stores/personalizeddinnerexperienceWithYourchoiceoffood_3',
+                            routerLink: '/stores/PersonalizeddinnerexperienceWithYourchoiceoffood_3',
                             extLink: '',
                         },
                         {
