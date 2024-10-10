@@ -109989,7 +109989,7 @@ offSeason: {
                             name: 'Spa menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/SPA-BROUCHRE.pdf',
                             routerLink: '',
-                            icon: 'Aatapi/spa.png',
+                            icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
