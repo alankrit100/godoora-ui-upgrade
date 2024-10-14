@@ -93245,7 +93245,7 @@ export const Vendors = {
                             name: 'Spl Veg & Non Veg Thali / Platter',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapithali/thali.png',
+                            icon: 'Aatapi/thali.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
