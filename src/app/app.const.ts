@@ -92099,7 +92099,7 @@ export const Vendors = {
                     route: 'about',
                     url: 'www.fortunehotels.in'
                 },
-                feedBackEmail: 'dm.fard@fortunehotels.in'
+                feedBackEmail: 'foresthill@fortunehotels.in'
             },
             landingPage: {
                 slider: {
@@ -93245,7 +93245,7 @@ export const Vendors = {
                             name: 'Spl Veg & Non Veg Thali / Platter',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapithali/bed.png',
+                            icon: 'Aatapithali/thali.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -93285,6 +93285,20 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Millet Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/MILLET+MENU.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
                         },
                     ]
                 },
