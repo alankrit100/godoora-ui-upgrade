@@ -132969,7 +132969,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'In-house Experiences',
+                    name: 'In-House Experiences',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
