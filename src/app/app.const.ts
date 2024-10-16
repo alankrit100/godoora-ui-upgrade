@@ -131582,7 +131582,7 @@ offSeason: {
                             name: 'Sky Dining',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SkyDining',
                             extLink: ''
                         },
                         {
@@ -131590,7 +131590,7 @@ offSeason: {
                             name: 'Swimming Pool',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPool_73',
                             extLink: ''
                         },
                         {
@@ -131598,7 +131598,7 @@ offSeason: {
                             name: 'Spa',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Spa_70',
                             extLink: ''
                         },
                         {
@@ -131606,25 +131606,10 @@ offSeason: {
                             name: 'Gym',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Gym_63',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
-                            name: 'Custom In-room dining',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
+                        
                     ]
                 },
                 experiences: {
@@ -131637,7 +131622,7 @@ offSeason: {
                             name: 'Anniversary/Honeymoon Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AnniversaryHoneymoonDecoration',
                             extLink: ''
                         },
                         {
@@ -131645,7 +131630,7 @@ offSeason: {
                             name: 'Birthday Decorations',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BirthdayDecorations',
                             extLink: ''
                         },
                         {
@@ -131653,7 +131638,7 @@ offSeason: {
                             name: 'Events At Fortune',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EventsAtFortune_6',
                             extLink: ''
                         }
                     ]
@@ -133023,23 +133008,7 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Facial',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'royal/barbeque.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Gym',
                             extLink: '',
@@ -133055,23 +133024,7 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Custom In-room dining',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service3.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
