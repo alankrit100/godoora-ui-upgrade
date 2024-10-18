@@ -132806,7 +132806,7 @@ offSeason: {
                         {
                             name: 'Early Bird Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Early+Bird+Menu.jpg',
-                            icon: 'Aatapi/coupon.png',
+                            icon: 'Aatapi/menu.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
