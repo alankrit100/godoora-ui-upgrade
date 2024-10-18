@@ -132781,7 +132781,7 @@ offSeason: {
                         },
                         {
                             name: 'SPA COUPON',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vellore/SPA-Cupon.pdf',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/SPA+COUPEN.jpg',
                             icon: 'Aatapi/coupon.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -132795,6 +132795,18 @@ offSeason: {
                             name: 'Millet Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vellore/Millet-Menu.pdf',
                             icon: 'Aatapi/menu123.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Early Bird Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Early+Bird+Menu.jpg',
+                            icon: 'Aatapi/coupon.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
