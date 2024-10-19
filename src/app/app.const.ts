@@ -115174,6 +115174,21 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
+                            name: 'Pahadi Food Festival',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Pahadi-Food-Festival.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'placeholder',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: '',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Chai Pe Charcha',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha1.jpg',
                             routerLink: '',
@@ -115472,21 +115487,7 @@ offSeason: {
                             confirmBtnLabel: '',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Pahadi Food Festival',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Pahadi-Food-Festival.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/food.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: '',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
