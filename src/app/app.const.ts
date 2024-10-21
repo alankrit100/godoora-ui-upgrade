@@ -113901,30 +113901,6 @@ offSeason: {
                     desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/noodles.jpg',
-                            name: 'Noodles Bar',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/noodles.jpg'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/chai-pe-charcha.jpg',
-                            name: 'Chai Pe Charcha',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/ChaiPeCharcha_3',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-dinner.jpg',
-                            name: 'Scrumptious feast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Scrumptiousfeast_2',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/SUNDAY+BRUNCH+1.jpg',
                             name: 'Sunday Brunch',
                             location: '',
@@ -113954,14 +113930,6 @@ offSeason: {
                             location: '',
                             views: '',
                             routerLink: '/stores/KittyParties',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Zodiac-Combo-Offer.jpg',
-                            name: 'Zodiac Combo Offer',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/ZodiacComboOffer',
                             extLink: ''
                         },
                         {
