@@ -71787,7 +71787,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'About the Place',
+                            name: 'About the place',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/About-the-Place.pdf',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
