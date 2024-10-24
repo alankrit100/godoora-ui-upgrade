@@ -71788,7 +71788,7 @@ export const Vendors = {
                         },
                         {
                             name: 'About the Place',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/About+the+Place.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/About-the-Place.pdf',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
@@ -71805,7 +71805,7 @@ export const Vendors = {
                             name: 'Places of Interest',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Places+of+Interest.pdf',
                             routerLink: '',
-                            icon: 'dalhousie/hotel.png',
+                            icon: 'Aatapi/packages.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
