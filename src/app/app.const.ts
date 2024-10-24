@@ -126602,6 +126602,24 @@ offSeason: {
                             menuImgs: [
                                 ],
                         },
+                        {
+                            name: 'Spa Menu',
+                            extLink: 'https://sites.google.com/view/akasa-spa-at-fortune-park-katr',
+                            routerLink: '',
+                            icon: 'Aatapi/spa-menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
