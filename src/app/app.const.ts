@@ -71793,7 +71793,7 @@ export const Vendors = {
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
+                            placeholder: 'Example: I want to book a slot for this tour',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 
