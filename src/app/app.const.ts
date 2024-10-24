@@ -71455,23 +71455,6 @@ export const Vendors = {
 
                             ]
                         },
-                        {
-                            name: 'About the Place',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/About-the-Place.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/map.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
                         
                     ]
                 },
