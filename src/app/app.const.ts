@@ -99851,9 +99851,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/ECDL+-+Fortune+Club.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/SDEL+-+Suite(Bedroom).jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/SDEL+-+Suite(Living+Room).jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -99901,6 +99901,36 @@ export const Vendors = {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Fortune Club Packages',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Fortune+Club+Packages.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/packages.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Suites Packages',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Suites+Packages.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/bedroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -100033,6 +100063,36 @@ export const Vendors = {
                             gallery: [
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Travel Desk',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Travel+Desk.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/bedroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Tourist Attractions',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Tourist+Attractions.pdf',
+                            routerLink: '',
+                            icon: 'aligarh/bedroom.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
