@@ -164909,8 +164909,8 @@ offSeason: {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Heritage Walk Amritsar',
-                    desc: `Amritsar, historically also known as Rāmdāspur and colloquially as Ambarsar, is a major cultural, transportation and economic centre, located in the Majha region of Punjab`,
+                    heading: 'Fortune Park Orange Sidhrawali, Gurugram',
+                    desc: `An upscale contemporary full service hotel designed to offer pleasant memories & an enriching experience to its guests. With a strategic location off National Highway 8, the hotel provides easy access to the business hub of Gurugram & the industrial belts of Bhiwadi, Bawal, Manesar and Neemrana. The combination of beautifully furnished rooms, delectable dining options, beautiful setting & the excellent range of guest facilities offered by the hotel makes it a preferred conference & event destination, an ideal venue for social gatherings & wedding celebrations.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -165765,7 +165765,7 @@ offSeason: {
                         },
                         {
                             name: 'IRD MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/IRD-Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Park-Orange-Gurugram/IRD+MENU+UPDATED-2023-2024.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -165791,7 +165791,7 @@ offSeason: {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/Service-Directory.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Park-Orange-Gurugram/Service+directory++NH-8-+Final+(1)+(1).pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -166098,6 +166098,21 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Business Center',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'abbydhama/reception.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                        
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -166110,8 +166125,8 @@ offSeason: {
                     services: [
                         {
                             name: 'Cab Charges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/Cab-Charges.pdf',
-                            routerLink: '',
+                            extLink: '',
+                            routerLink: 'test',
                             icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
