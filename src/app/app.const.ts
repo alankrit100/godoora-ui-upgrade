@@ -164896,7 +164896,7 @@ offSeason: {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Park-Orange-Gurugram/Fortune-park-orange-sidhrawali-gurugram.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Park-Orange-Gurugram/Fortune-park-orange-sidhrawali-gurugram+(1).jpg',
                             heading: '',
                             subHeading: ''
                         },
@@ -164943,14 +164943,7 @@ offSeason: {
                     heading: 'In-House Experiences',
                     desc: 'Dive into a whole new world of activities!',
                     items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Zodiac.avif',
-                            name: 'Zodiac',
-                            location: '',
-                            views: '',
-                            routerLink:'/stores/Zodiac_14',
-                            extLink: ''
-                        },
+                        
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Neptune.avif',
                             name: 'Neptune Bar',
@@ -166004,9 +165997,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Heritage/Room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Heritage/Room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Heritage/Room3.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -166179,20 +166170,7 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Zodiac',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'dharmshala/paint.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+
                         {
                             name: 'Neptune Bar',
                             extLink: '',
