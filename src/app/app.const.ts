@@ -93413,6 +93413,104 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book the table',
                         },
+                        {
+                            name: 'The Arcade',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/THE+ARCADE.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/ping-pong.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Creative Corner',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/CREATIVE+CORNER.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/art.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Floating Breakfast',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/FLOATING+BREAKFAST.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/breakfast.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Himachali Platter',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/HIMACHALI+PLATTER.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/food.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Kitty Party',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/KITTY+PARTY.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/dinner2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Unique Dining Experience',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/UNIQUE+DINING.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/dinner1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Candle Light Dinner',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/CANDLE+LIGHT+DINNER.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/candle-light.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
                     ]
                 },
                 {
@@ -93481,6 +93579,62 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Jungle Picnic',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/JUNGLE+PICNIC.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/forest.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Dagshai Jail',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/DAGSHAI+JAIL.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/city-hall.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Temple Drive',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/TEMPLE+DRIVE.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/temple.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Village Tour',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/VILLEGE+TOUR.jpg',
+                            routerLink: '',
+                            icon: 'benaulimIcon/village.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Book the table',
                         },
                     ]
                 },
