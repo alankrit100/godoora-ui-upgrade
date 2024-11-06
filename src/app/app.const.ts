@@ -65499,21 +65499,6 @@ export const Vendors = {
                             menuImgs: [
                             ]
                         },
-                        {
-                            name: 'Delivery and Takeaway Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Delivery-Menu.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/order.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ]
-                        },
                         
                         {
                             name: 'SPA Menu',
@@ -65583,126 +65568,7 @@ export const Vendors = {
 
                             ]
                         },
-                        {
-                            name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Sales+and+Reservations+offices+in+India.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/reserve.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
 
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Dining Facilities',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/4.+Dining+Facilities.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/serving-dish.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Other Fortune Hotels',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/5.+Other+Fortune+Hotels.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/hotel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Safety',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/6.+Safety.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/safety.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'House Rules',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/7.+House+Rules.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/rules.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Telecommunication',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/8.+Telecommunication.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/network.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'About the Place',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/About+the+Place.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/place.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                      
                         {
                             name: 'Pillow',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Pillow+Menu.pdf',
@@ -65746,24 +65612,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Cambridge Book Depot',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/book.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/ruskin1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/ruskin2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Inhouse/ruskin3.jpg' }
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Heritage Walk',
                             extLink: '',
@@ -65920,24 +65769,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Booking.Com',
                             extLink: '',
@@ -66121,21 +65953,7 @@ export const Vendors = {
                             menuImgs: [
                             ]
                         },
-                        {
-                            name: 'Soul-full Delights Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Soul-full+Delights.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/menu1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ]
-                        },
+                        
                     ]
                 },
                 {
@@ -67759,19 +67577,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Digital Restaurant Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://fortune-resort.godirekt.in/spark-fortuneresortird/app/#/inrrestaurant?spX=FRIRD&t1=Biy0bn3w8aCryaYRvoo%2BFPQFVyBVz%2B5HLvELX9Vk5tU%3D',
-                            routerLink: '',
-                            icon: 'benaulimIcon/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                         {
                             name: 'SPA Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/SPA-Menu.pdf',
@@ -67785,19 +67591,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'House Rules',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/House-Rules.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/book.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                         {
                             name: 'Service Directory',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/Fortune-Resort-Benaulim-Service-Directory.pdf',
@@ -67811,45 +67605,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'ITC Fortune Presentation',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/ITC-Fortune-Presentation.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/town-hall.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Banquet Brochure',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Banquet-Brochure.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/Banquet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Fact Sheet',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Fact-Sheet.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/review.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                     ]
                 },
                 {
@@ -67905,42 +67661,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -67983,42 +67704,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Book the cab',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Railway Station Pick Up and Drop ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/localtaxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Book a Cab',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Sightseeing / Pickup / Drop',
                             extLink: '',
@@ -68037,38 +67723,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Local Sightseeing Charges 4 hrs 40 Kms',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/taxi-1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
-                            headerText: 'When are you planning to visit?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-3.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/DC-4.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Book tickets',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Benaulim Marathon',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/marathon.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this experience.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Chitra Museum',
                             extLink: '',
@@ -68083,20 +67738,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Village tour on E-bike',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/bicycle.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this experience.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Dudhsagar Waterfall',
                             extLink: '',
@@ -68177,34 +67819,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Meal plan upgrade',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Happy Hours in Joecons Bar',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/bar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Early Bird Meal Offer',
                             extLink: '',
@@ -68291,34 +67906,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'A Fathers day Brunch',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Father-day.jpg',
-                            routerLink: '',
-                            icon: 'aligarh/fathers-day.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Viva Sao Joao',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Viva-Sao-Joao.jpeg',
-                            routerLink: '',
-                            icon: 'aligarh/music.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
 
                     ]
                 },
@@ -69473,23 +69060,7 @@ export const Vendors = {
                                
                             ]
                         },
-                        {
-                            name: 'MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/MENU.pdf',
-                            routerLink: '',
-                            icon: 'dalhousie/tray.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                               
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
+                        
                         {
                             name: 'NEPTUNE MENU',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Neptune-Menu-new.pdf',
@@ -69507,23 +69078,7 @@ export const Vendors = {
                                 
                             ]
                         },
-                        {
-                            name: 'ZODIAC MENU NEW',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Zodiac+Menu+NEW.pdf',
-                            routerLink: '',
-                            icon: 'dharmshala/menuu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                               
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
+                        
                         {
                             name: 'Laundry Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Laundry-Price.pdf',
@@ -69546,125 +69101,6 @@ export const Vendors = {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Service-Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Sales-Reservations-nn.pdf',
-                            routerLink: '',
-                            icon: 'hublii/network.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Dining Facilities',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Dining+Facilities.pdf',
-                            routerLink: '',
-                            icon: 'hublii/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Other Fortune Hotels',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Other+Fortune+Hotels.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/hotel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Safety',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Safety.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/hotel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'House Rules',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/House+Rules.pdf',
-                            routerLink: '',
-                            icon: 'hublii/book.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Telecommunication',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Telecommunication.pdf',
-                            routerLink: '',
-                            icon: 'hublii/landline.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'About the Place',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/About+the+Place.pdf',
-                            routerLink: '',
-                            icon: 'hublii/emergency-sign.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -69955,42 +69391,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -71316,133 +70717,12 @@ export const Vendors = {
                                 
                             ]
                         },
-                        {
-                            name: 'Cab Charges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Cab-Charges-1.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/food4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
+                        
                         {
                             name: 'Service Directory',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Service-Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Sales-Reservations.pdf',
-                            routerLink: '',
-                            icon: 'hublii/network.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Dining Facilities',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Dining-Facilities.pdf',
-                            routerLink: '',
-                            icon: 'hublii/dining-table.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Other Fortune Hotels',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Other-Fortune.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/hotel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Safety',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Safety.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/safety.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'House Rules',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/House-Rules.pdf',
-                            routerLink: '',
-                            icon: 'hublii/book.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Telecommunication',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Telecommunication.pdf',
-                            routerLink: '',
-                            icon: 'hublii/landline.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -71511,42 +70791,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -71701,23 +70946,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Picnic Basket',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/picnic-basket1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Mudumalai Wildlife Safari',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Mudumalai-Wildlife-Safari.pdf',
@@ -71752,23 +70981,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Areas of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Brochure-Ooty.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/packages.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this tour.',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Picnic-Basket3.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'About the place',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/About-the-Place.pdf',
@@ -73053,74 +72266,6 @@ export const Vendors = {
                             ]
                         },
                        
-                        {
-                            name: 'Sales & Reservations Offices in India',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Sales-and-Reservatios-offices.pdf',
-                            routerLink: '',
-                            icon: 'hublii/network.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Other Fortune Hotels',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/other-fortune-hotels.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/hotel.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'Safety',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/safety.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/safety.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
-                            name: 'House Rules',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/House-Rules.pdf',
-                            routerLink: '',
-                            icon: 'hublii/book.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
                         
                     ]
                 },
@@ -73177,42 +72322,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -73342,20 +72452,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Complimentary cake on special occassions',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/birthday-cake.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
+                        
                     ]
                 },
                 {
@@ -73688,23 +72785,7 @@ export const Vendors = {
                                 
                             ]
                         },
-                        {
-                            name: 'About the Place',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/About-the-Place.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/map.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
+                        
                         {
                             name: 'Pahalgam',
                             extLink: '',
@@ -74854,66 +73935,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Millet Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Fortune-Menu-Millets.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'In-Room Dining',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/IRD-MENU.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD+SHARE+07.09.2023+final.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Zodiac Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/ZODIAC-MENU.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu2.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/ZODIAC-MENU.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Nakshatra Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/NAKSHATRA-MENU.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/menu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                {path:'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf'}
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },    
                 {
@@ -74969,42 +73991,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -75033,118 +74020,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Room upgrade',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/room.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/room3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Meal Upgrade',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/meal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/meal1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/meal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/meal3.jpeg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Extra bed',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'veg kabab platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/banquet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/veg-kabab2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'non-veg kabab platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/roast-chicken.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/non-veg2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: '1 + 1 coktail',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/cocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/coktail2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: '1 + 1 mocktal',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/mocktail.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/mocktail2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
@@ -75155,128 +74031,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Airport Pickup/Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
-                            headerText: 'When are you landing at the airport?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book the cab',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Railway station Pick up and Drop ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/localtaxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
-                            ],
-                            confirmBtnLabel: 'Book a Cab',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Local Sightseeing charges 8Hrs 80 Kms ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
-                            headerText: 'At what time would you be going to the restaurant?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book a slow',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Local sightseeing charges 4 HRS 40 Kms',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/taxi-1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
-                            headerText: 'When are you planning to visit?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Book tickets',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Jallianwala Bagh',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Amritsar.jpeg',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Jallianwala-Bagh3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Golden Temple',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/amritsar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Golden-Temple3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'The Partition Museum',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/museum123.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/The-Partition-Museum2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
@@ -78897,24 +77652,7 @@ export const Vendors = {
                             menuImgs: [
                                 ],
                         },
-                        {
-                            name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Millet-Menu-thane.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/menu1234.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Rainbow Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Rainbow-Menu.pdf',
@@ -79028,75 +77766,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Trip Advisor',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/tripadvisor1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Feedback or Suggestions',
-                            placeholder: '',
-                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Google',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/search.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
@@ -79107,38 +77777,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Bhai Dooj Hamper',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Bhai-Dooj-Hamper.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/sweet12.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Dosa & Curry',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Dosa-%26-Curry.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/masala-dosa12.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                               
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Millet Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Millet-Menu-thane.pdf',
@@ -79157,52 +77796,7 @@ export const Vendors = {
                             ],
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Karwa Chauth Sargi Hamper',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Karwa-Chauth-Sargi-Hamper.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/pooja.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Navratri Thali',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Navratri-Thali.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Monsoon-Mocktail.jpg'}
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Sizzle Street',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Sizzle-Street.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/kiosk.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Deluxe King',
                             extLink: '',
@@ -79269,186 +77863,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Syrup-Sip-Savour',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Syrup-Sip-Savour.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/maple-syrup.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Wrap Your Cravings',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Wrap-Your-Cravings.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/burrito.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Punjabi Fest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Punjabi-Fest.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/meal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Raksha Bandhan Sweet',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Raksha-bandhan-sweet.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/sweet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Tea Infusion',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/tea-infusion.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/chai-tea.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Unlimited Pasta',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Unlimited-Pasta.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/pasta.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                         {
-                            name: 'Ganesh-Chaturthi With Divine Bites To go',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Ganesh-Chaturthi-With-Divine-Bites-To-go.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/ganesha.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                          {
-                            name: 'Ganesh Chaturthi ',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Ganesh-Chaturthi.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/ganesha1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                         {
-                            name: 'Chef-Tasting-Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Chef-Tasting-Menu.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/menu123.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                          {
-                            name: 'Onam',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Onam.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/onam.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Weekend Wonder Dinner',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Weekend-Wonder-Dinner.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/menu.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Diwali Special Sweets',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/diwali+special+Sweets.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/sweet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                       
                         {
                             name: 'Cupcake Love',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Cupcake+Love.jpg',
@@ -79621,49 +78036,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Bhandup Pumping Station',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarks/gas-pump.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Upvan Lake',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarks/lake.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Viviana Mall',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'clarks/supermarket.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
+                        
                     ]
                 },
                 {
@@ -80871,36 +79244,7 @@ export const Vendors = {
                             menuImgs: [
                             ]
                         },
-                        {
-                            name: 'Neptune',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Neptune-Menu-Final-16.02.23.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/food-promotion.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ]
-                        },
-                        {
-                            name: 'Fortune Deli',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/FORTUNE-DELI-MENU-16TH-MARCH.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/food-promotion.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to receive it?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ]
-                        },
+                        
                         {
                             name: 'The Oriental Pavillion (Speciality Restaurant)',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavillion.pdf',
@@ -81246,40 +79590,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Veg Kabab Platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/banquet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/veg1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/veg2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/veg3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Non-Veg Kabab Platter',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/roast-chicken.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/non-veg1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/non-veg2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/non-veg3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Sunday Brunch',
                             extLink: '',
@@ -81297,23 +79608,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Barbecue Night',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/bbq.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Barbecue1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Barbecue2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Barbecue3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: '1 + 1 Coktail',
                             extLink: '',
@@ -81383,20 +79678,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Extra Bed',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'JammuIcons/bed.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Direct Booking',
                             extLink: 'https://www.itchotels.com/in/en/fortuneparksishmo-bhubaneswar',
@@ -82732,32 +81014,7 @@ export const Vendors = {
                             menuImgs: [
                             ]
                         },
-                        {
-                            name: 'Zodiac Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-panchwati/Zodiac-Menu.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Mini Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Mini-Bar.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/liquor.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                         {
                             name: 'Laundry',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-panchwati/Laundry-Price.pdf',
@@ -82784,58 +81041,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Hilsa Festival Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-panchwati/Hilsa-Festival-Menu.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Neptune Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-panchwati/Neptune-Menu.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/tray.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'SPA Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/SPA-Menu.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/spa.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
-                        {
-                            name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/Fortune-Resort-Benaulim-Service-Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                     ]
                 },
                 {
@@ -82891,60 +81097,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Google',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/search.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
@@ -82983,34 +81136,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Sightseeing / Pickup / Drop',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/taxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
-                            headerText: 'At what time would you be going to the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a slow',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Local Sightseeing Charges 4 hrs 40 Kms',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/taxi-1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
-                            headerText: 'When are you planning to visit?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book tickets',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
@@ -83021,20 +81147,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Book Direct Web',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneparkpanchwati-kolkata',
-                            routerLink: '',
-                            icon: 'Aatapi/booking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Room Upgrade',
                             extLink: '',
@@ -83078,20 +81191,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Early Bird Meal Offer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Daycation Package',
                             extLink: '',
@@ -83121,78 +81221,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Summer Splash',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Summer-Splash.jpg',
-                            routerLink: '',
-                            icon: 'aligarh/bucket.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Summer-Splash.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },{
-                            name: 'Beer Bucket',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beer-Bucket.jpg',
-                            routerLink: '',
-                            icon: 'aligarh/beer.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beer-Bucket.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Beat the heat',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beat-the-heat.pdf',
-                            routerLink: '',
-                            icon: 'aligarh/sun.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'A Fathers day Brunch',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Father-day.jpg',
-                            routerLink: '',
-                            icon: 'aligarh/fathers-day.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Viva Sao Joao',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Viva-Sao-Joao.jpeg',
-                            routerLink: '',
-                            icon: 'aligarh/music.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        }
-
+                       
                     ]
                 },
                 {
@@ -84321,19 +82350,7 @@ export const Vendors = {
                             menuImgs: [
                             ]
                         },
-                        {
-                            name: 'Orchid Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Gandhinagar/ORCHID-Menu.pdf',
-                            routerLink: '',
-                            icon: 'benaulimIcon/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                         {
                             name: 'Laundry',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Gandhinagar/Laundry-Menu.jpg',
@@ -84360,19 +82377,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request'
                         },
-                        {
-                            name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/Fortune-Resort-Benaulim-Service-Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Can I get food in my room',
-                            headerText: 'When can we send our staff to attend the issue?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request'
-                        },
+                        
                     ]
                 },
                 {
@@ -84428,42 +82433,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -84506,20 +82476,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Railway Station Pick Up and Drop ',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/localtaxi.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Arrange a Sedan for local sightseeing',
-                            headerText: 'When are you planning to start from hotel?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book a Cab',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Local Run / Out Station',
                             extLink: '',
@@ -84534,20 +82491,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Local Sightseeing Charges 4 hrs 40 Kms',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'aligarh/taxi-1.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
-                            headerText: 'When are you planning to visit?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book tickets',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
@@ -84558,20 +82502,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Book Direct Web',
-                            extLink: 'https://www.itchotels.com/in/en/fortuneinnhaveli-gandhinagar',
-                            routerLink: '',
-                            icon: 'Aatapi/booking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Room Upgrade',
                             extLink: '',
@@ -84615,20 +82546,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Early Bird Meal Offer',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'benaulimIcon/thali.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
                     ]
                 },
                 {
@@ -85726,37 +83644,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book the table',
                         },
-                        {
-                            name: 'Neptune',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/NEPTUNE+MENU.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/restaurant.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-                            ]
-                        },
-                        {
-                            name: 'ORCHID Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/ghaziabad+menu.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/nost.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
+                        
                         {
                             name: 'SPA MENU',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Tamara+Health+Spa.pdf',
@@ -85880,42 +83768,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Make my trip',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Make-my-trip.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Booking.Com',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/Booking.Com.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ],
-                            storePageAsBlog: true
-                        },
+                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -86076,77 +83929,9 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Swarna Jayanti Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/walk.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/swarnjayantipark-1658134449.webp' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/jpg.webp' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Untitled-design-7.png' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Drizzling Land Water and Amusement Park',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/amusement-park.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/DrizzlingLandWaterandAmusementPark-Ghaziabad-UP.webp' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/download+(2).jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/0rdgxdru9g4x7gelmy72igg4k41w_1585870473_DSC_6973.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/5e1ead8b9be1df12d87e50ab_1579068811236.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/l5jvlqotgjf07prhft6yakife14w_1585766288_Drizzing_Land_2.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/park-1576749459.jpeg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'ISKCON Temple Ghaziabad',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/temple.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/2293.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/WhatsApp-Image-2020-05-14-at-10.04.17-AM-773x1030.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/goverdhan-puja-after.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'City Forest',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Vijaywadaicons/park.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/19208631104_5f38057d05_z.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/19823919592_e586a1e24e_z.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/images+(1).jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
+                        
+                        
+                        
                         {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
