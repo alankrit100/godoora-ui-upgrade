@@ -101356,7 +101356,7 @@ offSeason: {
                             name: 'Single Diner Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-Gurgaon/Single-Diner-Menu.pdf',
                             routerLink: '',
-                            icon: 'aligarh/menu1234.png',
+                            icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
