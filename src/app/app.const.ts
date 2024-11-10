@@ -101689,7 +101689,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Cab Charges',
+                            name: 'Airport Pick-up / Drop',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/cab.png',
@@ -101703,10 +101703,52 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Meenakshi Amman Temple Timing',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Temple+Timing2024.jpeg',
-                            routerLink: '',
-                            icon: 'Aatapi/mandir.png',
+                            name: 'Gurgaon Railway Station Transfer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/taxipng',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'New Delhi Railway Station Transfer',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/cab.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local Sightseeing Charges',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Places to Vist',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/cab.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
