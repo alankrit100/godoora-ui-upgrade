@@ -101353,7 +101353,7 @@ offSeason: {
                             ]
                         },
                         {
-                            name: 'Single Diner Menu',
+                            name: 'One Plate Wonder',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-Gurgaon/Single-Diner-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
