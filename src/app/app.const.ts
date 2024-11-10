@@ -101706,7 +101706,7 @@ offSeason: {
                             name: 'Gurgaon Railway Station Transfer',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/taxipng',
+                            icon: 'Aatapi/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
