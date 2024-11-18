@@ -132385,7 +132385,7 @@ offSeason: {
                             name: 'Kitty Party',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Kitty-Party.jpeg',
                             routerLink: '',
-                            icon: 'Aatapi/menu1234.png',
+                            icon: 'Aatapi/celebration.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
