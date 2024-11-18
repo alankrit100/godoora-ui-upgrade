@@ -130795,7 +130795,7 @@ offSeason: {
                 experience: {
                     active: true,
                     heading: 'Fortune Resort Kalimpong',
-                    desc: `Nestled in between enchanting and panoramic views, Fortune Resort Kalimpong stands out sprawling over 6000 sq ft with an unmatched view of the Mt. Kanchendzonga and a green forested valley, this resort is ideal for those in search of a restful nature experience.'.`,
+                    desc: `Nestled in between enchanting and panoramic views, Fortune Resort Kalimpong stands out sprawling over 6000 sq ft with an unmatched view of the Mt. Kanchendzonga and a green forested valley, this resort is ideal for those in search of a restful nature experience.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -132354,6 +132354,36 @@ offSeason: {
                         {
                             name: 'Punjabi Food Festival Menu',
                             extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Punjabi+Food+Festival+Menu+A4.pdf',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Celebrations',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Celebration.jpeg',
+                            routerLink: '',
+                            icon: 'Aatapi/confetti.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Kitty Party',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Kitty-Party.jpeg',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
