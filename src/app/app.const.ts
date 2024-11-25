@@ -158718,6 +158718,20 @@ offSeason: {
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Map',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Park-Orange-Gurugram/Fortune+Park+Orange+Map-01.png',
+                            routerLink: '',
+                            icon: 'Aatapi/map.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book a slow',
+                            storePageAsBlog: true
+                        },
                        
                         
                         
