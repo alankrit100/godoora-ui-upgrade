@@ -158969,25 +158969,25 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'Digital Menus',
                             extLink: '',
-                            routerLink: '/by-admin/707'
+                            routerLink: '/by-admin/2005'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
                             label: 'REVIEW & REWARD',
                             extLink: '',
-                            routerLink: '/by-admin/851'
+                            routerLink: '/by-admin/2006'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
                             label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
-                            routerLink: '/by-admin/852'
+                            routerLink: '/by-admin/2007'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
                             label: 'DIGITAL CONCIERGE',
                             extLink: '',
-                            routerLink: '/by-admin/853'
+                            routerLink: '/by-admin/2008'
                         }
                     ]
                 },
