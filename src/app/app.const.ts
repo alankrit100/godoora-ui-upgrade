@@ -160009,7 +160009,7 @@ offSeason: {
                             name: 'Lord Lingaraj Temple',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/Lingarag.png',
+                            icon: 'Aatapi/Lingaraj.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
