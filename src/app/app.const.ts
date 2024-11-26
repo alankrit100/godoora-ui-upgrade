@@ -158891,7 +158891,7 @@ offSeason: {
 }
         },
         {
-            branch: 'Fortune Beachfront',
+            branch: 'Fortune-Beachfront',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/FACADE+(1).jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
@@ -158950,7 +158950,7 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Fortune+Park+Dalhousie+Banner+1.jpg',
-                            heading: 'Fortune Park Dalhousie',
+                            heading: 'Fortune Beachfront Puri',
                             subHeading: '',
                         },
                         {
@@ -158962,8 +158962,8 @@ offSeason: {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Park Dalhousie',
-                    desc: `Inspired by the best that the Himalayas have to offer, Fortune Park Dalhousie overlooks the picturesque Pir-Panjal range adorned by a dense cover of slender pine trees, verdant greens and enchanting views of the sun-kissed valley. The hotel offers 60 plush rooms and suites, mostly overlooking the pristine valley, bringing comfort and bliss to the leisure travellers looking to reflect in its beauty.`,
+                    heading: 'Fortune Beachfront Puri',
+                    desc: `Located in Puri, a few steps from Puri Beach, Fortune Beachfront Puri - Member ITC'S Hotel Group provides accommodations with a garden, free private parking, a terrace and a restaurant. With a bar, the 5-star hotel has air-conditioned rooms with free WiFi, each with a private bathroom. The property has room service and a 24-hour front desk for guests.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -159001,15 +159001,7 @@ offSeason: {
                             name: 'Pool Side Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/PoolSideDinner_9',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Deep Tissue Massage',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/DeepTissueMassage_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -159017,7 +159009,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_17',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -159025,23 +159017,7 @@ offSeason: {
                             name: 'Nature breakfast',
                             location: '',
                             views: '',
-                            routerLink: '/stores/Naturebreakfast_11',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/Facial_5',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
-                            name: 'Custom In-room dining',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/CustomInroomdining_24',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -159056,7 +159032,7 @@ offSeason: {
                             name: 'Celebrate Your Special Day',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CelebrateYourSpecialDay_25',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -159064,7 +159040,7 @@ offSeason: {
                             name: 'Cooking Session With Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookingSessionWithChef_7',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -159072,7 +159048,7 @@ offSeason: {
                             name: 'Bonfire at Lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BonfireatLawn_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -159791,7 +159767,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'Restaurant Menu',
+                    name: 'Digital Menu',
                     icon: 'dalhousie/tray.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -159895,8 +159871,6 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                       
-                        
                         {
                             name: 'Upgrade room ',
                             extLink: '',
