@@ -131738,8 +131738,8 @@ offSeason: {
                             ]
                         },
                         {
-                            name: 'SPA Menu-1',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Spa-Menu1.pdf',
+                            name: 'SPA Menu',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Spa-Menu.pdf',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
@@ -132164,6 +132164,21 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'SPA',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/SPA-Promo.jpeg',
+                            routerLink: '',
+                            icon: 'Aatapi/massage.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Early.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                         {
                             name: 'Early Bird Offer',
                             extLink: '',
