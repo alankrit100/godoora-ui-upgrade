@@ -158949,7 +158949,7 @@ offSeason: {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Fortune+Park+Dalhousie+Banner+1.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/Puri-Facade.jpg',
                             heading: 'Fortune Beachfront Puri',
                             subHeading: '',
                         },
@@ -159949,7 +159949,7 @@ offSeason: {
                             name: 'Satapada, Chilika Lake',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/temple-2.png',
+                            icon: 'Aatapi/lake.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
