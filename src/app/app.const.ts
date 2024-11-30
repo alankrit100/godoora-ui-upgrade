@@ -118246,7 +118246,7 @@ offSeason: {
                 },
                 destinations: {
                     active: true,
-                    heading: 'In-House Experiences',
+                    heading: 'In-House Experience',
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         
@@ -123741,7 +123741,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'In-house Experiences',
+                    name: 'In-House Experience',
                     icon: 'dharmshala/home.png',
                     size: '64px',
                     color: '#1a8cd2',
