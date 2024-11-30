@@ -118284,7 +118284,7 @@ offSeason: {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
-                            name: 'Custom In-room dining',
+                            name: 'Custom In-Room Dining',
                             location: '',
                             views: '',
                             routerLink: '/stores/CustomInroomdining_51',
@@ -119544,13 +119544,13 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Custom In-room dining',
+                            name: 'Custom In-Room Dining',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'JammuIcons/dinning-table.png',
+                            icon: 'dharmshala/breakfast.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
+                            placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 
