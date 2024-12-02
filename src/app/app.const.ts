@@ -159824,7 +159824,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/190924_Fortune_Beachfornt+Puri+Kids+Menu_.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/Kids-Menu.pdf',
                             routerLink: '',
                             icon: 'aligarh/menu123.png',
                             showTextarea: true,
@@ -159839,7 +159839,7 @@ offSeason: {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/241024_Fortune+IRD+Beachfornt++Puri+Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/IRD-Menu.pdf',
                             routerLink: '',
                             icon: 'dalhousie/nost.png',
                             showTextarea: true,
@@ -159856,7 +159856,7 @@ offSeason: {
                         },
                         {
                             name: 'ZODIAC MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/181024_Fortune+Beachfront+Puri_Zodiac+Menu.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/Zodiac-Menu.pdf',
                             routerLink: '',
                             icon: 'dalhousie/restaurant1.png',
                             showTextarea: true,
@@ -159873,7 +159873,7 @@ offSeason: {
                         },
                         {
                             name: 'DELI MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/101024_Fortune_Deli+Menu+Puri+.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/Deli-Menu.pdf',
                             routerLink: '',
                             icon: 'dalhousie/menuu.png',
                             showTextarea: true,
@@ -159888,12 +159888,9 @@ offSeason: {
                                
                             ]
                         },
-                        
-                    
-                        
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/Fortune+Beachfront+Puri+-+Service+Directory.pdf',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Puri/Service-Directory.pdf',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
