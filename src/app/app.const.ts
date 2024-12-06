@@ -105653,7 +105653,7 @@ offSeason: {
                         
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/IRD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1G-PcriuRtzdmgVErz7_7rFMBQV_hprbC/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -105669,7 +105669,7 @@ offSeason: {
                         
                         {
                             name: 'Laundry Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Laundry-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1iZwYttdwwMnLG36wQ9j6lby2Zs9jAbRj/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -105684,7 +105684,7 @@ offSeason: {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Service-Directory.pdf',
+                            extLink: 'https://drive.google.com/file/d/1w2yI7jG-tGp8FeAEfl-MjVHBknhu0kVT/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -105700,7 +105700,7 @@ offSeason: {
                         
                          {
                             name: 'Mini bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Mini-Bar-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1CVggGqhgNCSfhSQYTahN3YNNOKhsEKic/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/mini.png',
                             showTextarea: true,
@@ -105715,7 +105715,7 @@ offSeason: {
                         },
                         {
                             name: 'Spa menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/SPA-BROUCHRE.pdf',
+                            extLink: 'https://drive.google.com/file/d/1HIfWlw42BDHjyiwavZVUpmDg0D-fzhYe/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
@@ -105730,7 +105730,7 @@ offSeason: {
                         },
                         {
                             name: 'Kids menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Kids+Menu+pdf.pdf',
+                            extLink: 'https://drive.google.com/file/d/1vhOfdpQQOzT9TgVZzjdRTMZ7yqB_7aG9/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu123.png',
                             showTextarea: true,
