@@ -132579,7 +132579,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'RangleeloRajasthan Menu',
+                            name: 'Rangeelo Rajasthan Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/RangeeloRasjathanMenu.jpg',
                             routerLink: '',
                             icon: 'Aatapi/thali.png',
