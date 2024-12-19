@@ -140074,10 +140074,24 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Chai',
+                            name: 'Chai ki Tapri',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/chai.jpeg',
                             routerLink: '',
                             icon: 'Aatapi/chai-tea.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Buffet Lunch',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kevadia/Buffet-Lunch.jpeg',
+                            routerLink: '',
+                            icon: 'Aatapi/buffet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
