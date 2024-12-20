@@ -78222,7 +78222,7 @@ export const Vendors = {
                             ]
                         },
                         {
-                            name: 'IRD-Menu',
+                            name: 'In-Room Dining Menu',
                             extLink: 'https://drive.google.com/file/d/1_iJOrdNXbF7VC7oihFdy0McLN7FrGOve/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
