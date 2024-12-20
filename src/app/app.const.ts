@@ -78208,7 +78208,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1slKy4to3cMz80SeHtVbWecZHlY-xi_DR/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -78223,7 +78223,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD-Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/IRD-MENU-FINAL-18.02.23.pdf',
+                            extLink: 'https://drive.google.com/file/d/1_iJOrdNXbF7VC7oihFdy0McLN7FrGOve/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/tray.png',
                             showTextarea: true,
@@ -78239,7 +78239,7 @@ export const Vendors = {
                         
                         {
                             name: 'The Oriental Pavillion (Speciality Restaurant)',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Oriental-Pavillion.pdf',
+                            extLink: 'https://drive.google.com/file/d/11n0TyarB3OfdQVanlhvPNC5S_d27u1yq/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/food-promotion.png',
                             showTextarea: true,
@@ -78254,7 +78254,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Minibar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Minibar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1mHFY8yY1pc5hFh26LJm6a6b93YQOkMup/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/bar-counter.png',
                             showTextarea: true,
@@ -78269,7 +78269,7 @@ export const Vendors = {
                         },
                         {
                             name: 'One Plate Wonder',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Single-Dine-Menu-Bhubaneshwar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1P2MI2USEJF6L4DRBpN8OVDjcexyB1sG9/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -78284,7 +78284,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Service-Directory.pdf',
+                            extLink: 'https://drive.google.com/file/d/1BWkNJMQME_auMMhcVn7d0LRnVhbMgexh/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -78299,7 +78299,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Laundry-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1SaaUkgjWNL2BuAvc8VyTvkR60y4ghuEL/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -78314,7 +78314,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/SPA-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1zR3yZU3lHbCTIweg1zFXtVOdyQNpW1wa/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
