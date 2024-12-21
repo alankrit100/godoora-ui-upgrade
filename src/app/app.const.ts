@@ -71032,7 +71032,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1v0zl-AIqrMeIf35YGRVwq3IcX4yBstwt/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -71047,7 +71047,7 @@ export const Vendors = {
                         },
                         {
                             name: 'CAFE CHINAR MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Cafe+Chinar+New.pdf',
+                            extLink: 'https://drive.google.com/file/d/1C1-upoMH8LXnBZv4FPT2U92hZftN95BE/view?usp=sharing',
                             routerLink: '',
                             icon: 'dharmshala/nost.png',
                             showTextarea: true,
@@ -71062,7 +71062,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Earthen Oven',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/FRH+-+Earthen+Oven.pdf',
+                            extLink: 'https://drive.google.com/file/d/1FO_wJsozXkeUw7Uk4qJ-vV-odhYavwVk/view?usp=sharing',
                             routerLink: '',
                             icon: 'dharmshala/restaurant1.png',
                             showTextarea: true,
@@ -71077,7 +71077,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/IRD+Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1gqPd6yLncuC-t5pwspyMaZ7AQ5smmZ82/view?usp=sharing',
                             routerLink: '',
                             icon: 'dharmshala/menuu.png',
                             showTextarea: true,
@@ -71092,7 +71092,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Spa Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Fortune+Resort+Heevan+Spa+Menu+(1).pdf',
+                            extLink: 'https://drive.google.com/file/d/1zf8ejNfKV5CBNejCzzOk0Ie6xfHBJ37U/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/spa.png',
                             showTextarea: true,
@@ -71107,7 +71107,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Heevan+Srinagar/Service-Directory-Srinagar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1pcHnmXsCRgcvMo4IvAXWM4wxD1nPhE5t/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -71122,7 +71122,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Minibar Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/MiniBar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1m5m3Iw0C4o5YXQ2b-_NLSdwExzYUNPOg/view?usp=sharing',
                             routerLink: '',
                             icon: 'dharmshala/restaurant1.png',
                             showTextarea: true,
@@ -71138,7 +71138,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Laundry-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1IDkMkRwHRHZn6SYAc19r3BB3Mrt8Hu6A/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -76492,7 +76492,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1IQOe6DhwIhvMudff6FjZtWCt6YINrHU4/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -76507,7 +76507,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/IRD-Menu-Thane.pdf',
+                            extLink: 'https://drive.google.com/file/d/1nmLaWygIL-TevNXT_R77b8VPqtFpRN6R/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -76542,7 +76542,7 @@ export const Vendors = {
                         
                         {
                             name: 'Rainbow Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Rainbow-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Xb4DiVQx3VTa19BgegH-wD4YRL0xnU6e/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -76560,7 +76560,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Laundry-thane.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Ufri0qNyFzzLQkjZR4ebKgLAuJjblv46/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -76578,7 +76578,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Minibar-Thane.pdf',
+                            extLink: 'https://drive.google.com/file/d/1n5GuWU1AXs7XHYeAVXoP6IHrkQpYRczD/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/wine-bottle.png',
                             showTextarea: true,
@@ -76596,7 +76596,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Service-Directory-Thane.pdf',
+                            extLink: 'https://drive.google.com/file/d/1H5S7OUePhycBAgLKUe71G2nNreKUFNjY/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -79993,7 +79993,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1BP7oVPaV0owl75bhAqp4pvGFQFopgpVD/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -80009,7 +80009,7 @@ export const Vendors = {
                         
                         {
                             name: 'Laundry',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-panchwati/Laundry-Price.pdf',
+                            extLink: 'https://drive.google.com/file/d/1neAQraKiwA834WFpCfrtBMukhV2xQXdB/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -80022,7 +80022,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-panchwati/IRD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/19OhACL_-AmEINX_p4qIpZ7Vg-PJIbW-7/view?usp=sharing',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
@@ -81329,7 +81329,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/151o3LA5uKNjK2JqgHF0X0EPrxo4_Sf0Y/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -81358,7 +81358,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Gandhinagar/IRD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/151o3LA5uKNjK2JqgHF0X0EPrxo4_Sf0Y/view?usp=sharing',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
@@ -82610,7 +82610,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1LcH4XCnWpJqirH-z6l39Yjxgk7F8mnFR/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -82625,7 +82625,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/IRD-MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/1z8hdO40XZ4YTuTd0_jwefFNXhzG9nEby/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -82639,7 +82639,7 @@ export const Vendors = {
                         
                         {
                             name: 'SPA MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/GHAZIA+FORTUNE/Tamara+Health+Spa.pdf',
+                            extLink: 'https://drive.google.com/file/d/1D5A98ukIceD0wZ8xpWb39VGi_ih-ShI2/view?usp=sharing',
                             routerLink: '',
                             icon: 'benaulimIcon/spa.png',
                             showTextarea: true,
@@ -82656,7 +82656,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Mini-Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/MINI-BAR-Ghaziabad.pdf',
+                            extLink: 'https://drive.google.com/file/d/1vZ2YyIlGmrYsgwTZIiqRmngtevVQSekJ/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/cocktail.png',
                             showTextarea: true,
@@ -82673,7 +82673,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/LAUNDRY-Ghaziabad.pdf',
+                            extLink: 'https://drive.google.com/file/d/1prgDhHwPq8aefAqIf_DNF46zPOFycVtG/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -82690,7 +82690,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortuneghaziabhad/Service-Directory-Ghaziabad.pdf',
+                            extLink: 'https://drive.google.com/file/d/1-xezQqoiRbvzRTjDg8Kgt518kKOLyAcl/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -88047,7 +88047,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1KIv3EeSTgANCtFwQZC9CLTEP5ULVc2i0/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -88062,7 +88062,7 @@ export const Vendors = {
                         },
                         {
                             name: 'In Room Dinning',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/rest+menu/IRD++FAJ-+JALANDHAR+CALORIC+MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/1-0EaSwOTJbUjxf8i1Q5JOPnm2N82_A3u/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -88082,7 +88082,7 @@ export const Vendors = {
                         
                         {
                             name: 'VEG BANQUET MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/VEG+BANQUET+MENU+.pdf',
+                            extLink: 'https://drive.google.com/file/d/1jFYdyhs_53HJ7wOcs_NOp4eXT7wDCGWh/view?usp=sharing',
                             routerLink: '',
                             icon: 'orchid/menu.png',
                             showTextarea: true,
@@ -88095,7 +88095,7 @@ export const Vendors = {
                         },
                         {
                             name: 'NON VEG BANQUET MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/NON+VEG+BANQUET+MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/1IFhKGxEoV-woVbQJ42r3ukPRz3xW98KP/view?usp=sharing',
                             routerLink: '',
                             icon: 'orchid/menu.png',
                             showTextarea: true,
@@ -88109,7 +88109,7 @@ export const Vendors = {
                         
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Minibar-jalandar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1uxXVkKZJ0eU5L8W_3sMRy9q2g8ipO_eX/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/wine-bottle.png',
                             showTextarea: true,
@@ -88122,7 +88122,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Laundry-jalandar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1i979V2j-_Wn1aE45vQHMyGFxgSBZcHTQ/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -88137,7 +88137,7 @@ export const Vendors = {
                        
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortunejalander/FortuneAvenueServiceDirectory+.pdf',
+                            extLink: 'https://drive.google.com/file/d/1g0pkkKkOFNdGG3fI35QONLn71EV-ZQAG/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -89580,7 +89580,7 @@ export const Vendors = {
                         
                          {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vellore/Service-Directory.pdf',
+                            extLink: 'https://drive.google.com/file/d/1lS6CDXGNiezssGssPc__6hyVNUk2PF4S/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -89593,7 +89593,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/IRD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1aOgPk_6Yf6T2qD2A9ZYAE9MrBE1fz7E0/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -89608,7 +89608,7 @@ export const Vendors = {
                         
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kasauli/Kids+Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1JrPzcGZsh0zbdEsDmTPE4jC6blr0zGt9/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -91131,7 +91131,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1WdYOESctn4_ZAxvPWaOwt9fGsg-81wXu/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -91146,7 +91146,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD FPL MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/IRD-Menu-new.pdf',
+                            extLink: 'https://drive.google.com/file/d/19rv5vfoFBVW07R4cJlyCikxJHTt4YvJR/view?usp=sharing',
                             routerLink: '',
                             icon: 'lucknow/tray.png',
                             showTextarea: true,
@@ -91191,7 +91191,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SINGLE DINER MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneLucknow/SINGLE-DINER-MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/17X86OixQN6Fe-Tqd05DCOVRdLqKaCSF_/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -91223,7 +91223,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            extLink: 'https://drive.google.com/file/d/1gB4poyRGtQfD_MTbItL7UKqssXw6u_U9/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -91239,7 +91239,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Minibar Hamper & Ironing',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sanaas/Minibar-Hamper-Ironing.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Bea8zW2SyUOZubAiXviKbezFTDfNjGC7/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/iron.png',
                             showTextarea: true,
@@ -92794,7 +92794,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1DT3l0ACqf1ukFjV2RastPRL8ybc1UVpk/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -92829,7 +92829,7 @@ export const Vendors = {
                         },
                         {
                             name: 'In Room Dining Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Final+IRD+Menu+Fortune+Haridwar.pdf',
+                            extLink: 'https://drive.google.com/file/d/14xA6sp_uckq9h0cSBWnhQkaPF0P0-_fL/view?usp=sharing',
                             routerLink: '',
                             icon: 'Manali/menu12.png',
                             showTextarea: true,
@@ -92848,7 +92848,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Single Diner Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/One-Plate-Wonder-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1j9fu-2PAe5Q9KlLf8HnxeWMmojy9fZq9/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -92905,7 +92905,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Service-directory-Haridwar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1pEUX4TPh3W7XyMf0gksQYVOsaVrzRZXR/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -92922,7 +92922,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/MINI-BAR-MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/16mbqo8NTJiFPFX7t-EAu90rGbd6m2Azb/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
@@ -92939,7 +92939,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry Price List',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/LAUNDRY-PRICE.pdf',
+                            extLink: 'https://drive.google.com/file/d/1uoEnky89wZTiBdbpTuoYNbpGFs_kWVZK/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/washing-machine.png',
                             showTextarea: true,
@@ -94478,7 +94478,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1pou_QLhNDL7vE8DwfSlTFsH3WE1r983U/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -94493,7 +94493,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/IRD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1DG8J6Mq18L1w4DMb6KLGGm_lly9ozPte/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -94528,7 +94528,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Earthe Oven',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Earthe-Oven.pdf',
+                            extLink: 'https://drive.google.com/file/d/10m_4FldX380Wc60Zoeo5mw_serDvcwqJ/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -94546,7 +94546,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Mini-Bar-Durgapur.pdf',
+                            extLink: 'https://drive.google.com/file/d/1lU6EXzKZtO9QGycUpDc4yT4Xoxy1qNYY/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
@@ -94562,7 +94562,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry Price',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Laundry-Price-Durgapur.pdf',
+                            extLink: 'https://drive.google.com/file/d/1K-6CoxaTxEBe7Dvv_Bei4r1jzBslxRsv/view?usp=sharing.pdf',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -94594,7 +94594,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Service-Directory.pdf',
+                            extLink: 'https://drive.google.com/file/d/1nYEmmwytSEjuADUKkODiWiDOh7nK6W31/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -95923,7 +95923,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/IRD+Menu+fortune+park+JP+Celestial+oct+2024.pdf',
+                            extLink: 'https://drive.google.com/file/d/1wAtP0BFZ8VhDAxmX3PCrxvQuy6vwgu4a/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -95937,7 +95937,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Uy4wyOVRzh42D3TAqOX_9VbUuNMjlSJ1/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu123.png',
                             showTextarea: true,
@@ -95951,7 +95951,7 @@ export const Vendors = {
                         },
                         {
                             name: 'One Plate Wonder',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/one+plate+wonder+fortunepark+jp+celestial.pdf',
+                            extLink: 'https://drive.google.com/file/d/1eZBt5H5gCfFz221h6rJOidd3rmn15WZp/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu3.png',
                             showTextarea: true,
@@ -97277,7 +97277,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1_Ktnobpc1qyUcslY9LauotIxj-9VW3sW/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -97292,7 +97292,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD-Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/IRD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1K6daXVhA7VpJsdygyareIgpkhRB5NNEF/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -97306,7 +97306,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Bar Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Bar+Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1wFTZ-DDbxCjwprGjThZFQtligzTWUWCI/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -97321,7 +97321,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Mini-Bar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1ggepiCrYBvYTH0IR2qmV9CFzs7GkL5ca/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
@@ -97336,7 +97336,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/SPA-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1ONwj-1sKeHAffLQe9_BWc9mLQGFsmo1Y/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
@@ -97366,7 +97366,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/NOIDA-SERVICE-DIRECTORY.pdf',
+                            extLink: 'https://drive.google.com/file/d/1N5hwMub3j4P_YVSbhRWM1vm5zo8ksB2E/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -97381,7 +97381,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry Price List',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/noida/Laundry+Price+list.pdf',
+                            extLink: 'https://drive.google.com/file/d/1KAHRH3DkfbJkQEh6Vmel6A1-h4ffHLlW/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/washing-machine.png',
                             showTextarea: true,
@@ -98863,7 +98863,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1NmnOi3wJixBJ7wzf0dk55aOh3RHYegn_/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -98878,7 +98878,7 @@ offSeason: {
                         },
                         {
                             name: 'Earthen Oven Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/EARTHEN+OVEN+FLA+FINAL+MENU+LAND+MARK+AHMEDABAD+-.pdf',
+                            extLink: 'https://drive.google.com/file/d/1sbOenwkrmLIuadXE3NToAV2MkjMWgRE6/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -98893,7 +98893,7 @@ offSeason: {
                         },
                         {
                             name: 'Wind and Water',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/WIND+%26+WATER+MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/1-edB2PtUvI0dGjha6LR-YxIbeUgmlj9q/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -98908,7 +98908,7 @@ offSeason: {
                         },
                         {
                             name: 'Single Dinner menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Single-Diner-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1UnuNfuaM-dmEz_m_Z6MW21y1zuZphwe-/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -98924,7 +98924,7 @@ offSeason: {
                         
                         {
                             name: 'IRD FLA',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/rest+menu/IRD+FLA.pdf',
+                            extLink: 'https://drive.google.com/file/d/1qoA6VysirGxmjqbE1aGzI65F24c6Lv7F/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/restaurant.png',
                             showTextarea: true,
@@ -98939,7 +98939,7 @@ offSeason: {
                         },
                         {
                             name: 'MiniBar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Minibar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1KFUWA5DJOXFEw8SDXRCm5x6fuT0xrP6b/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
@@ -98954,7 +98954,7 @@ offSeason: {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Laundry.pdf',
+                            extLink: 'https://drive.google.com/file/d/186SfWfn7Al7fv_miyp6U6aNhqQC-RXEK/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -98969,7 +98969,7 @@ offSeason: {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Service-Directory-Landmark.pdf',
+                            extLink: 'https://drive.google.com/file/d/1i0GDyfD6fVmTgpgIp6gLWWWCsHI9c2Pq/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -100209,7 +100209,7 @@ offSeason: {
                         
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-Gurgaon/IRD-MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/1WmlhQLRnud5UJqL4ut80A4xDgR4f5Uuf/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -100239,7 +100239,7 @@ offSeason: {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-Gurgaon/Service-Directory.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Ib_kbLQqL2ewXBLVXTcWEceS1CYGj9w1/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -100269,7 +100269,7 @@ offSeason: {
                         },
                         {
                             name: 'Spa menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-Gurgaon/Spa-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/17xSf1TPgs5gZ57irb0c7Fm-R50BOzVka/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
@@ -100284,7 +100284,7 @@ offSeason: {
                         },
                         {
                             name: 'Kids menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-Gurgaon/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Szm227tJB3vHGfqMTngRQRF8q6C0a5on/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu123.png',
                             showTextarea: true,
@@ -100299,7 +100299,7 @@ offSeason: {
                         },
                         {
                             name: 'One Plate Wonder',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-Gurgaon/Single-Diner-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1tPRtrCqjaEjXZTOzU38GwmUUfma1rfbP/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -104540,7 +104540,7 @@ offSeason: {
                         
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://drive.google.com/file/d/1G-PcriuRtzdmgVErz7_7rFMBQV_hprbC/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1WaKKCu-VmPLIDiQuR4EoeiK_L3YEU0f1/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -104556,7 +104556,7 @@ offSeason: {
                         
                         {
                             name: 'Laundry Menu',
-                            extLink: 'https://drive.google.com/file/d/1iZwYttdwwMnLG36wQ9j6lby2Zs9jAbRj/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1ddMqNGvKmowbZIWZ70XLLcAQzS96V9x-/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -104571,7 +104571,7 @@ offSeason: {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://drive.google.com/file/d/1w2yI7jG-tGp8FeAEfl-MjVHBknhu0kVT/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1fOeM0PaHO0pl85V2ChYl_z35bXfZ9tY9/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -104587,7 +104587,7 @@ offSeason: {
                         
                          {
                             name: 'Mini bar',
-                            extLink: 'https://drive.google.com/file/d/1CVggGqhgNCSfhSQYTahN3YNNOKhsEKic/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1aTV2dNNsZGY_3XDH-2stwmF4FJDrHYnH/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/mini.png',
                             showTextarea: true,
@@ -104602,7 +104602,7 @@ offSeason: {
                         },
                         {
                             name: 'Spa menu',
-                            extLink: 'https://drive.google.com/file/d/1HIfWlw42BDHjyiwavZVUpmDg0D-fzhYe/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1pi895-TWmidBaxuj08ahWakdrKz1zlIy/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
@@ -104617,7 +104617,7 @@ offSeason: {
                         },
                         {
                             name: 'Kids menu',
-                            extLink: 'https://drive.google.com/file/d/1vhOfdpQQOzT9TgVZzjdRTMZ7yqB_7aG9/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1pi895-TWmidBaxuj08ahWakdrKz1zlIy/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu123.png',
                             showTextarea: true,
