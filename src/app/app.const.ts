@@ -51115,8 +51115,8 @@ export const Vendors = {
                             routerLink: '/by-admin/1374'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Digital Concierge',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
+                            label: 'Direct Booking Benefits',
                             extLink: '',
                             routerLink: '/by-admin/1375'
                         }
@@ -51898,17 +51898,7 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        }
-                    ]
-                },
-                {
-                    name: 'Digital Concierge',
-                    icon: 'bollywood.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
+                        },
                         {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
@@ -51981,7 +51971,61 @@ export const Vendors = {
                             confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
                         },
-                       
+                    ]
+                },
+                {
+                    name: 'Direct Booking Benefits',
+                    icon: 'bollywood.png',
+                    size: '64px',
+                    color: '#1a8cd2',
+                    routerLink: 'test',
+                    extLink: '',
+                    services: [
+                        {
+                            name: 'Refer a Friend',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/reputation.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Plan Your Next Trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/travel-bag.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Direct Booking Coupon Codes',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/coupons.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
