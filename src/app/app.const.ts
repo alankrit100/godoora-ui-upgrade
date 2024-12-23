@@ -51115,8 +51115,8 @@ export const Vendors = {
                             routerLink: '/by-admin/1374'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
-                            label: 'Direct Booking Benefits',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Direct-Booking.jpg',
+                            label: 'Direct Booking Offers',
                             extLink: '',
                             routerLink: '/by-admin/1375'
                         }
@@ -51974,7 +51974,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Direct Booking Benefits',
+                    name: 'Direct Booking Offers',
                     icon: 'bollywood.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -51997,7 +51997,22 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Plan Your Next Trip',
+                            name: 'Book Your Trip',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/booking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Plan Your Trip',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/travel-bag.png',
@@ -52016,6 +52031,36 @@ export const Vendors = {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/coupons.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Direct Booking Offers',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/discount.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Feedback or Suggestions',
+                            placeholder: '',
+                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Share Your Experience & Get Rewarded!',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/hand-gesture.png',
                             showTextarea: true,
                             textAreaLabel: 'Feedback or Suggestions',
                             placeholder: '',
