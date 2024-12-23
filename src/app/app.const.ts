@@ -52094,6 +52094,7 @@ export const Vendors = {
 
                             ],
                             confirmBtnLabel: 'Submit',
+                            storePageAsBlog: true
                         },
                         {
                             name: '1 Review 1 Mocktail',
