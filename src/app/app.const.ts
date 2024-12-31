@@ -124352,7 +124352,7 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                         },
                         {
-                            name: 'Orchid Dinner',
+                            name: '31st Dinner Orchid',
                             extLink: 'https://drive.google.com/file/d/11IPBNy9igzOKgavgb4I37F-gLEXKsUSh/view?usp=sharing',
                             icon: 'mcleodganjicons/menu.png',
                             showTextarea: true,
@@ -124364,7 +124364,7 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                         },
                         {
-                            name: 'Sky Dining Dinner',
+                            name: '31st Dinner Sky Dining',
                             extLink: 'https://drive.google.com/file/d/1JFKf52kk-RKBPoLW-ucv2iq5BIVOO8cE/view?usp=sharing',
                             icon: 'Aatapi/banquet-Meal.png',
                             showTextarea: true,
@@ -124376,7 +124376,7 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                         },
                         {
-                            name: 'Orchid Lunch',
+                            name: '1st Lunch Orchid',
                             extLink: 'https://drive.google.com/file/d/1I9y7nOONuUBna0NHMJ2Vi7ymYrh0J93t/view?usp=sharing',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
