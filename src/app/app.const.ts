@@ -124351,6 +124351,42 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                         },
+                        {
+                            name: 'Orchid Dinner',
+                            extLink: 'https://drive.google.com/file/d/11IPBNy9igzOKgavgb4I37F-gLEXKsUSh/view?usp=sharing',
+                            icon: 'mcleodganjicons/menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Sky Dining Dinner',
+                            extLink: 'https://drive.google.com/file/d/1JFKf52kk-RKBPoLW-ucv2iq5BIVOO8cE/view?usp=sharing',
+                            icon: 'Aatapi/banquet-Meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Orchid Lunch',
+                            extLink: 'https://drive.google.com/file/d/1I9y7nOONuUBna0NHMJ2Vi7ymYrh0J93t/view?usp=sharing',
+                            icon: 'aligarh/menu1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
                     ]
                 },
                 {
