@@ -111079,7 +111079,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://drive.google.com/file/d/1sLSAghWbHRicAOnbOCfCVCIlJCRFdEPx/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1T1RxvHbk4R_jQimJ60kEAeGOvA1TfXi4/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -111094,7 +111094,7 @@ offSeason: {
                         },
                         {
                             name: 'Orchid Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Orchid-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1mn0cZw9zO46CVlafbnQcGklUb9KoJPdT/view?usp=drive_link',
                             routerLink: '',
                             icon: 'benaulimIcon/nost.png',
                             showTextarea: true,
@@ -111107,7 +111107,7 @@ offSeason: {
                         },
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://drive.google.com/file/d/1beXg0-ohebw6FwzlQixZgGmA6ExZLj3B/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1-tSMxokl1vqg8QRSoHA7gfyj0oSUt5W7/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/shopping-basket.png',
                             showTextarea: true,
@@ -111120,7 +111120,7 @@ offSeason: {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://drive.google.com/file/d/1EiDaMDeP_Q_j6RFRBpdYCRW4nuuj7WJZ/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1usT-gyKn7TFSiqw4sErBAumrNpZfR1Ue/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -111133,7 +111133,7 @@ offSeason: {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://drive.google.com/file/d/1EXA08fnjyEPd3LnAn1aD1Q8sIxum64hP/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1ZkQGuq3v2VU127CKPGjDs3VuCXXWLTbd/view?usp=drive_link',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
@@ -111146,7 +111146,7 @@ offSeason: {
                         },
                         {
                             name: 'One Plate Wonder Menu',
-                            extLink: 'https://drive.google.com/file/d/1HRcibhoUVrJ7gw_t2SMmZ1uS52ffT6u6/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1EPsItGW76FmCV-wh4ju79akyOBV6LxcJ/view?usp=drive_link',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
@@ -111160,7 +111160,7 @@ offSeason: {
                         
                         {
                             name: 'Chef Signature Non-Veg',
-                            extLink: 'https://drive.google.com/file/d/1rIvCUi1nS5wDGW2lPw884SozuVsbYMnx/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1gZAtyDUi-4ZOh9uvNLY84BAmCM35MwIp/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -111173,7 +111173,7 @@ offSeason: {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: 'https://drive.google.com/file/d/1Xr0SaJnqQRtjxesyET831GIi4P3ohIxa/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/138ynSFmW7Bii4DBm2L4qGzfvMjZlXlCt/view?usp=drive_link',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -111277,7 +111277,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-JPS-Rajkot/Millet-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1I3sj2GZCiori3BT6szFM2GkOPgk5zH5Z/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
