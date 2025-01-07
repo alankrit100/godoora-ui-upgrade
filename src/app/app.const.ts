@@ -51443,7 +51443,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'IRD Menu',
+                            name: 'IRD menu',
                             extLink: 'I',
                             routerLink: '',
                             icon: 'pune/dinning-table.png',
@@ -51475,6 +51475,125 @@ export const Vendors = {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
                                 ],
+                        },
+                        {
+                            name: 'Kids Menu',
+                            extLink: 'https://drive.google.com/file/d/12pxrsNLdJJvgkEULkHbraPv7VOYMfCQT/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
+                        },
+                        {
+                            name: 'Mini Bar',
+                            extLink: 'https://drive.google.com/file/d/1eqVSCA9l18XIOGLHLKmsr9hjFWumhJK7/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/liquor.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Laundry',
+                            extLink: 'https://drive.google.com/file/d/1cnhkoYv0dQA-goNFYSiERkvSB8l3KuzH/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Zodiac Dine-In',
+                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://airmenus.in/fortunebenaulim/zodiac/Dine-In',
+                            routerLink: '',
+                            icon: 'benaulimIcon/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'IRD Menu',
+                            extLink: 'https://drive.google.com/file/d/19gYd-JigrsWbQx1uUEOBqoTZCVMi0Ton/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'benaulimIcon/tray.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'JOECONS BAR Menu',
+                            extLink: 'https://drive.google.com/file/d/1xS6dbyHKEpbWYIjru3D2VBdAhVXduX73/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'benaulimIcon/menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Single Diner Menu',
+                            extLink: 'https://drive.google.com/file/d/1Q-gM668NWGb4se7ezPzlbHDaqe2vOHvJ/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'benaulimIcon/nost.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'SPA Menu',
+                            extLink: 'https://drive.google.com/file/d/1X9c8Bm2OPNIhtkNbqW1G-Xf2EGGFPJL2/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'benaulimIcon/spa.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
+                            name: 'Service Directory',
+                            extLink: 'https://drive.google.com/file/d/1fo1ZNwIoUhHCRXENE3NwycRK9eZ9m0jU/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
                         },
                     ]
                 },
@@ -131920,7 +132039,7 @@ offSeason: {
                         },
                         {
                             name: 'Millet Journey',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/MilletJourney.jpg',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Millet-Journey.jpg',
                             routerLink: '',
                             icon: 'Aatapi/masala-dosa.png',
                             showTextarea: true,
@@ -131935,7 +132054,7 @@ offSeason: {
                         },
                         {
                             name: 'Sizzler Fiesta',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Sizzlerfiesta.jpg',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Sizzler-Fiesta.jpg',
                             routerLink: '',
                             icon: 'Aatapi/pasta.png',
                             showTextarea: true,
@@ -131968,6 +132087,36 @@ offSeason: {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/RangeeloRasjathanMenu.jpg',
                             routerLink: '',
                             icon: 'Aatapi/thali.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'The Royal Feast of North India 1',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/The-Royal-Feast-Of-North-India-1.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/curry.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'The Royal Feast Of North India 2',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/The-Royal-Feast-Of-North-India-2.jpg',
+                            routerLink: '',
+                            icon: 'royal/meal.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
