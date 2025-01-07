@@ -72977,7 +72977,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/IRD.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Zt40_Gybtt_k4znaEkucqtyPdO7p-E5K/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -72990,7 +72990,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Sky Haus Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/Sky+Haus.pdf',
+                            extLink: 'https://drive.google.com/file/d/1m8o8JfuaQSO59OZ0mXE9lJ-fh2YPkwHg/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/dinner1.png',
                             showTextarea: true,
@@ -73088,7 +73088,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/JP+MENU+1.pdf',
+                            extLink: 'https://drive.google.com/file/d/18jcBylpEzNjnN68AUHhrkhY5MUIi1ABz/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -126290,21 +126290,6 @@ offSeason: {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/WORLD-TOURISIM-DAY.jpg',
                             routerLink: '',
                             icon: 'Aatapi/world-tourism-day.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a table',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Kitty Party',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Kitty-Party.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/celebration.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
