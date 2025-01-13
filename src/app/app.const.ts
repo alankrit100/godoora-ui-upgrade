@@ -105077,7 +105077,7 @@ offSeason: {
                         },
                         {
                             name: 'Kids menu',
-                            extLink: 'https://drive.google.com/file/d/1pi895-TWmidBaxuj08ahWakdrKz1zlIy/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1jdzpw0timo8tWqGyUDBvDlkj_ipGps_Y/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu123.png',
                             showTextarea: true,
