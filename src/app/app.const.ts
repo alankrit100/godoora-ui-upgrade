@@ -81818,7 +81818,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://drive.google.com/file/d/151o3LA5uKNjK2JqgHF0X0EPrxo4_Sf0Y/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1CGJJcR23GnTyPOwa0Qkr7Dh3m_cwujlC/view?usp=sharing',
                             routerLink: '',
                             icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
