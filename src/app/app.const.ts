@@ -129391,7 +129391,7 @@ offSeason: {
                         },
                         {
                             name: 'Mini Bar',
-                            extLink: 'https://drive.google.com/file/d/13-FoC_G4Vzjn4fPlEd2oB3lWrD4iUayD/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1kGQO3F9mDjV4QCmsPmsnl68a7NTToD-o/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/liquor.png',
                             showTextarea: true,
@@ -129409,7 +129409,7 @@ offSeason: {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://drive.google.com/file/d/13-FoC_G4Vzjn4fPlEd2oB3lWrD4iUayD/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1wVS4TEkpQGwPGe2co5jUarFNE3H_G_80/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
