@@ -76941,7 +76941,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Fortune Deli',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Fortune-Deli-Thane.pdf',
+                            extLink: 'https://drive.google.com/file/d/1xMMZLy8aCDf1d4gxSFTs9pNCTLzrRNuf/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -77396,6 +77396,21 @@ export const Vendors = {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Lohri.jpg',
                             routerLink: '',
                             icon: 'Aatapi/celebration.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Chef s Table',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Chef-s-Table.jpg',
+                            routerLink: '',
+                            icon: 'royal/table.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -88762,7 +88777,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Millets Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Millets-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1TGvT2s7elBsqT-oXQXVnSy7DXxn0OT5A/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/food-promotion.png',
                             showTextarea: true,
@@ -88853,7 +88868,7 @@ export const Vendors = {
                         },
                         {
                             name: 'About the Place',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/About+the+place.pdf',
+                            extLink: 'https://drive.google.com/file/d/1FUy7cU92zw_xv6NyCx1wfe3f66GAuMJe/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/place.png',
                             showTextarea: true,
