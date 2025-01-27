@@ -68187,7 +68187,7 @@ export const Vendors = {
                         },
                         {
                             name: 'ZODIAC MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Zodiac-Menu-new.pdf',
+                            extLink: 'https://drive.google.com/file/d/1przPMJauxaUMn52NZ-juVSTCfwaD-Rzl/view?usp=sharing',
                             routerLink: '',
                             icon: 'dalhousie/restaurant1.png',
                             showTextarea: true,
@@ -68222,7 +68222,7 @@ export const Vendors = {
                         
                         {
                             name: 'NEPTUNE MENU',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Neptune-Menu-new.pdf',
+                            extLink: 'https://drive.google.com/file/d/1DW8kBDxJDdNO3HzWBAGT3j6EchDANJOj/view?usp=sharing',
                             routerLink: '',
                             icon: 'dalhousie/terms.png',
                             showTextarea: true,
@@ -91636,7 +91636,7 @@ export const Vendors = {
                         },
                         {
                             name: 'NEPTUNE MENU BBD',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sanaas/Neptune-BBD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1jgGNCBBAaJLd3iZuNPAQjrHLVMXnhWx9/view?usp=sharing',
                             routerLink: '',
                             icon: 'lucknow/nost.png',
                             showTextarea: true,
@@ -91651,7 +91651,7 @@ export const Vendors = {
                         },
                         {
                             name: 'ORCHID BBD',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sanaas/Orchid-lucknow.pdf',
+                            extLink: 'https://drive.google.com/file/d/1GZIvkWm2qAvxU4L5PLMnFAbBaUvEKf6e/view?usp=sharing',
                             routerLink: '',
                             icon: 'lucknow/menuu.png',
                             showTextarea: true,
@@ -115056,7 +115056,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Room upselling Charges',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Room_upselling_Charges_FSA.pdf',
+                            extLink: 'https://drive.google.com/file/d/1vOXbSP70-fukT7hPJpcMcMHF2IgX-WXD/view?usp=sharing',
                             routerLink: '',
                             icon: 'JammuIcons/room.png',
                             showTextarea: true,
@@ -115126,7 +115126,7 @@ offSeason: {
                         },
                         {
                             name: 'Anniversary / Wedding Night Package',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/New-Wedding-Package-SA.pdf',
+                            extLink: 'https://drive.google.com/file/d/1F2qTp7pmQ6wdSsYeddRgctxNDIGmI99V/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/wedding.png',
                             showTextarea: true,
@@ -115140,7 +115140,7 @@ offSeason: {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Millet-SG-Highway.pdf',
+                            extLink: 'https://drive.google.com/file/d/1AI28kNhnhBPtTFei4A7olCFgEEg7gwJg/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -115168,7 +115168,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Car Hire Charges',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Car-Hire-Charge-SG.pdf',
+                            extLink: 'https://drive.google.com/file/d/1-EeTv-hho3IuRd0ibdbjO5SSPVhJQ4ey/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/cab.png',
                             showTextarea: true,
