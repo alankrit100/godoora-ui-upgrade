@@ -64595,7 +64595,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Nostradamus Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Nostradamus.pdf',
+                            extLink: 'https://drive.google.com/file/d/1OwqSGX6XztD6IB8rO4zgtGNwMuJPP4fg/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -65099,7 +65099,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+jp/Fortune-Menu-Millets-02-24.pdf',
+                            extLink: 'https://drive.google.com/file/d/164fn70f4QRfy6QFJGAu-eBQWhpCoeWoD/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/nost.png',
                             showTextarea: true,
@@ -144695,7 +144695,7 @@ offSeason: {
                         },
                         {
                             name: 'Nearest Places',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Nearest-Places.pdf',
+                            extLink: 'https://drive.google.com/file/d/1FsV-d-5L1eDLSxMvEy2innk3VBgOQNdn/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/place.png',
                             showTextarea: true,
@@ -155204,7 +155204,7 @@ offSeason: {
                         },
                         {
                             name: 'Minibar',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/minibar-price.jpg',
+                            extLink: 'https://drive.google.com/file/d/1IoKIIqij58bcxdefpaWSQH8o6Fb-Ok1U/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/Juice.png',
                             showTextarea: true,
