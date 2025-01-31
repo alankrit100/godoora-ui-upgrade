@@ -24962,9 +24962,9 @@ export const Vendors = {
             branch: 'Nature Resorts',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Nature-Resorts-Landing-1.jpg',
             id: 'www.nature-resorts.goyaana.com',
-            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Nature-resorts-logo.jpeg',
+            logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Nature-Resorts-Logo.png',
             theme: 'grey-theme',
-            idCategory: 9,
+            idCategory: 50,
             favIconLink: 'assets/icon/Nature-resorts-logo.png',
             title: 'Nature Resorts',
             storeImg: 'social2.jpg',
@@ -25078,35 +25078,35 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/The-Charms-of-Coonoor-2.jpg',
                             name: 'The Charms of Coonoor',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheCharmsofCoonoor',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Queen-of-the-Nilgiris.jpg',
                             name: 'Queen of the Nilgiris',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/QueenoftheNilgiris',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Avalanche-Lake-Jeep+Safari.jpg',
                             name: 'Avalanche Lake - Jeep Safari',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AvalancheLakeJeepSafari',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Picnics-by-the-Lake-3.jpg',
                             name: 'Picnics by the Lake',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PicnicsbytheLake',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Culinary-Experiences.png',
                             name: 'Culinary Experiences',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CulinaryExperiences',
                             extLink: ''
                         },
                     ]
@@ -25120,28 +25120,28 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg',
                             name: 'Pool Side Dinner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PoolSideDinner_22',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Picnic.jpg',
                             name: 'Picnic Basket',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PicnicBasket_10',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Service1.jpg',
                             name: 'Personalised Dinner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PersonalisedDinner_7',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg',
                             name: 'Candle Light Dinner',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_49',
                             extLink: ''
                         },
                     ]
@@ -25156,7 +25156,7 @@ export const Vendors = {
                             name: 'Trekking adventure',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Trekkingadventure',
                             extLink: ''
                         },
                         {
@@ -25164,28 +25164,28 @@ export const Vendors = {
                             name: 'Toda Magic',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TodaMagic',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Cooking-Classes-Nature-Resorts.jpg',
                             name: 'Cooking class',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Cookingclass_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Special-occasion.jpg',
                             name: 'Special Occasions',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpecialOccasions_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Tea-Tasting-1.jpg',
                             name: 'Chargeable Activities',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ChargeableActivities',
                             extLink: ''
                         },
                         {
@@ -25193,7 +25193,7 @@ export const Vendors = {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SPA_73',
                             extLink: ''
                         },
                         {
@@ -25201,7 +25201,7 @@ export const Vendors = {
                             name: 'Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RoomDecoration_15',
                             extLink: ''
                         },
                         {
@@ -25209,14 +25209,7 @@ export const Vendors = {
                             name: 'Bonfire At lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg',
-                            name: 'Mocktail Making',
-                            desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BonfireAtlawn_15',
                             extLink: ''
                         },   
                     ]
@@ -25364,20 +25357,20 @@ export const Vendors = {
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing1.jpg',
-                            videoId: 'A6jN5jYXgwY'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/willow-hill-Nature-Resorts.jpg',
+                            videoId: 'VHazirGf6PA'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing2.jpeg',
-                            videoId: '6sUOnrFnfq8'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Emerland-Nature-Resorts.jpg',
+                            videoId: 'UYXedO2GwRE&t=90s'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing3.jpg',
-                            videoId: '4SBP4PDl45I'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Nightingale-Nature-Resorts.jpg',
+                            videoId: 'bVYOPi1jp6s'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/agra-landing4.jpg',
-                            videoId: '49HTIoCccDY'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Wild-Pasture-Nature-Resorts.jpg',
+                            videoId: '8LW9DhMMiE4'
                         }
                     ]
                 },
