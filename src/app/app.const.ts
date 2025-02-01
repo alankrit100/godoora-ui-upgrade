@@ -151613,7 +151613,7 @@ offSeason: {
                         },
                         {
                             name: 'Deli Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Deli-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/19aoxPr1817byYKgjnPiMxysrMS8ia8fz/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu3.png',
                             showTextarea: true,
@@ -151870,7 +151870,7 @@ offSeason: {
                         },
                         {
                             name: 'Fortune Park Experiences',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Fortune-Experiences.pdf',
+                            extLink: 'https://drive.google.com/file/d/15ZvOpVRfRqROVKMVkNaIV8LrfnBYTshY/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/jeep.png',
                             showTextarea: true,
@@ -151898,7 +151898,7 @@ offSeason: {
                         },
                         {
                             name: 'Exclusive By GHAS',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Exclusives-By-GHAS+-LF.pdf',
+                            extLink: 'https://drive.google.com/file/d/1rfk4lXXFjOZm-xlcwabOuCOHA6qDqU4i/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/action-camera.png',
                             showTextarea: true,
@@ -151912,7 +151912,7 @@ offSeason: {
                         },
                         {
                             name: 'Activities Brochure',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Himalayan-Adrenaline-Broucher-Palampur-Dharamshala-Bir-2024.pdf',
+                            extLink: 'https://drive.google.com/file/d/1fNGp8BRv_scYnD0B0vR2DbIxD7vx6CQX/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/monserrate-sanctuary.png',
                             showTextarea: true,
@@ -151943,6 +151943,20 @@ offSeason: {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/2%2B1.jpeg',
                             routerLink: '',
                             icon: 'Aatapi/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Shibanis Cafe',
+                            extLink: 'https://drive.google.com/file/d/1c1ejMZtrpqoskzxv6KoJGQL5oXZKsRo1/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Kevadia/cafe.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
@@ -152036,7 +152050,7 @@ offSeason: {
                         },
                         {
                             name: 'Outsourced Travel Desk Rates',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Outsourced-Travel.pdf',
+                            extLink: 'https://drive.google.com/file/d/1UBlHSh4L7oIpVXtCjjPNx-DxF7R9YpOM/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/taxi-1.png',
                             showTextarea: true,
