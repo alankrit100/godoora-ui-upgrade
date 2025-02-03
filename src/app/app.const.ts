@@ -25362,15 +25362,15 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Emerland-Nature-Resorts.jpg',
-                            videoId: 'UYXedO2GwRE&t=90s'
+                            videoId: '8LW9DhMMiE4'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Nightingale-Nature-Resorts.jpg',
                             videoId: 'bVYOPi1jp6s'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Wild-Pasture-Nature-Resorts.jpg',
-                            videoId: '8LW9DhMMiE4'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Annexe-Nature-Resorts.jpg',
+                            videoId: 'PAb5xBS-dHU&t=1s'
                         }
                     ]
                 },
@@ -139987,6 +139987,21 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Express Menu',
+                            extLink: 'https://drive.google.com/file/d/1HV_-liuta8xxABH2fC2uFwyAfk4_gqsx/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/menu123.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
                         },
                     ]
                 },     
