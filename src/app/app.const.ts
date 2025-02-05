@@ -25063,7 +25063,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Direct-Booking.jpg',
-                            label: 'Direct Booking Offers',
+                            label: 'Digital Concierge',
                             extLink: '',
                             routerLink: '/by-admin/2020'
                         }
@@ -25071,23 +25071,9 @@ export const Vendors = {
                 },
                 destinations:{
                     active: true,
-                    heading: 'Nature Resort Experiences',
+                    heading: 'Nature Experiences',
                     desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
                     items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/The-Charms-of-Coonoor-2.jpg',
-                            name: 'The Charms of Coonoor',
-                            desc: '',
-                            routerLink: '/stores/TheCharmsofCoonoor',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Queen-of-the-Nilgiris.jpg',
-                            name: 'Queen of the Nilgiris',
-                            desc: '',
-                            routerLink: '/stores/QueenoftheNilgiris',
-                            extLink: ''
-                        },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Avalanche-Lake-Jeep+Safari.jpg',
                             name: 'Avalanche Lake - Jeep Safari',
@@ -25103,10 +25089,17 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Culinary-Experiences.png',
-                            name: 'Culinary Experiences',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/The-Charms-of-Coonoor-2.jpg',
+                            name: 'The Charms of Coonoor',
                             desc: '',
-                            routerLink: '/stores/CulinaryExperiences',
+                            routerLink: '/stores/TheCharmsofCoonoor',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Queen-of-the-Nilgiris.jpg',
+                            name: 'Queen of the Nilgiris',
+                            desc: '',
+                            routerLink: '/stores/QueenoftheNilgiris',
                             extLink: ''
                         },
                     ]
@@ -25114,8 +25107,15 @@ export const Vendors = {
                 experiences: {
                     active: true,
                     heading: 'Dining Experience',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!. Everything is just a click away',
+                    desc: '',
                     items: [
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Culinary-Experiences.png',
+                            name: 'Culinary Experiences',
+                            desc: '',
+                            routerLink: '/stores/CulinaryExperiences',
+                            extLink: ''
+                        },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/pool1.jpg',
                             name: 'Pool Side Dinner',
@@ -25149,7 +25149,7 @@ export const Vendors = {
                 activities: {
                     active: true,
                     heading: 'Unique Hotel Experiences',
-                    desc: 'The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt. We want to give you every possible experience that you will cherish for a long time!.',
+                    desc: '',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Trekking-Image-Nature-Resorts.jpg',
@@ -25512,6 +25512,60 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Mess Menu',
+                            extLink: 'https://drive.google.com/file/d/1NqRybsc30dX_aIsn4CBV73bdjms-3nvy/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Cocktail Menu',
+                            extLink: 'https://drive.google.com/file/d/15J8hC_CgEnzw4Vd0xp8oSK8v6E4Qog0A/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Bar Menu',
+                            extLink: 'https://drive.google.com/file/d/1KQEy6_yNfLKH_XhzKBLasfYTxYDfTK7M/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/beer.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -25586,6 +25640,22 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Culinary Experiences',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'orchid/temple.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Placeholder',
+                            headerText: 'When would you like to travel?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Culinary-Experiences.png' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Culinary-Experiences-2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -25739,7 +25809,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Nature Resort Experiences',
+                    name: 'Nature Experiences',
                     icon: 'orchid/experience.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -25812,22 +25882,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        {
-                            name: 'Culinary Experiences',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/temple.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to travel?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Culinary-Experiences.png' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Culinary-Experiences-2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
                     ]
                 },
                 {
@@ -25888,7 +25942,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Direct Booking Offers',
+                    name: 'Digital Concierge',
                     icon: 'bollywood.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -25896,93 +25950,75 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Refer a Friend',
+                            name: 'Airport Pickup/Drop',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/reputation.png',
+                            icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
-                            textAreaLabel: 'Feedback or Suggestions',
-                            placeholder: '',
-                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit',
+                            confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Book Your Trip',
+                            name: 'Railway station Pick up and Drop ',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/booking.png',
+                            icon: 'fortunemussoorieicons/localtaxi.png',
                             showTextarea: true,
-                            textAreaLabel: 'Feedback or Suggestions',
-                            placeholder: '',
-                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit',
+                            confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Plan Your Trip',
+                            name: 'Local Sightseeing charges 8Hrs 80 Kms ',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/travel-bag.png',
+                            icon: 'aligarh/taxi.png',
                             showTextarea: true,
-                            textAreaLabel: 'Feedback or Suggestions',
-                            placeholder: '',
-                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit',
+                            confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Direct Booking Coupon Codes',
+                            name: 'Local sightseeing charges 4 HRS 40 Kms',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Aatapi/coupons.png',
+                            icon: 'aligarh/taxi-1.png',
                             showTextarea: true,
-                            textAreaLabel: 'Feedback or Suggestions',
-                            placeholder: '',
-                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
+                            headerText: 'When are you planning to visit?',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
                             ],
-                            confirmBtnLabel: 'Submit',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Direct Booking Offers',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/discount.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Feedback or Suggestions',
-                            placeholder: '',
-                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Share Your Experience & Get Rewarded!',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'Aatapi/hand-gesture.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Feedback or Suggestions',
-                            placeholder: '',
-                            headerText: 'Select the hour when you encountered the problem. If it is a suggestion, simply select current hour.',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Submit',
+                            confirmBtnLabel: 'Book tickets',
                             storePageAsBlog: true
                         },
                     ]
