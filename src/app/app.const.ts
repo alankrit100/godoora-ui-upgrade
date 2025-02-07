@@ -129021,7 +129021,7 @@ offSeason: {
                             name: 'Beer Kabab Nights',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Beer-Kabab-Nights.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/roast-chicken.png',
+                            icon: 'aligarh/roast-chicken.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
