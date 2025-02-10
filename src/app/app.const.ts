@@ -53307,6 +53307,9 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/celebrate3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -72151,7 +72154,7 @@ export const Vendors = {
                         },
                         {
                             name: 'The Pavilion',
-                            extLink: 'https://drive.google.com/file/d/1WGHLoI2Xfq10_pJ2Z8ZRfzEFmScPGFHT/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/17sNgjk6Dv6Ke6DqLIEj--5DUuFUhGLZ2/view?usp=sharing',
                             routerLink: '',
                             icon: 'dharmshala/menuu.png',
                             showTextarea: true,
@@ -73669,7 +73672,7 @@ export const Vendors = {
                         },
                         {
                             name: 'CAFE CHINAR MENU',
-                            extLink: 'https://drive.google.com/file/d/1C1-upoMH8LXnBZv4FPT2U92hZftN95BE/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1QtuLYEIEAWSgFlFqW1IyeAh91tx3qniI/view?usp=sharing',
                             routerLink: '',
                             icon: 'dharmshala/nost.png',
                             showTextarea: true,
@@ -112335,7 +112338,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Pizza & Shawarma (12:30PM to 10:30PM)',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Pizza-Shawarma.pdf',
+                            extLink: 'https://drive.google.com/file/d/11bhrfOCVSdoZ2VfQN1q1lWJVNWGPn27M/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/pizza.png',
                             showTextarea: true,
@@ -112351,7 +112354,7 @@ offSeason: {
                         },
                         {
                             name: 'Noodles Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Noodles-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1EAzyWQEPCmrxnz-RW5wj2RHffu8P2CQt/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/noodles.png',
                             showTextarea: true,
@@ -112365,10 +112368,9 @@ offSeason: {
                             ],
                             storePageAsBlog: true
                         },
-                        
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Millet-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/19KhgfjSK8SeWVKLWt_FwnYm5-HuQQpAY/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortune-navi-mumbai/menu2.png',
                             showTextarea: true,
@@ -112382,7 +112384,6 @@ offSeason: {
                             ],
                             storePageAsBlog: true
                         },
-                        
                         {
                             name: 'Sunday Brunch',
                             extLink: '',
@@ -112461,6 +112462,36 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/club-room3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Valentines Special',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/wedding-couple.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Valentines-Special.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'A Love Filled Feast',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/dinner1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/A-Love-Filled-Feast.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
