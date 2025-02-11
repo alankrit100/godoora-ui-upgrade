@@ -25068,70 +25068,70 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-4-Wall.jpg',
                             name: 'Market Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MarketTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/slum.jpg',
                             name: 'Dharawi Slum Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/DharawiSlumTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-1.jpg',
                             name: 'Thife Market Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ThifeMarketTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Evening-Beach-Walk-Wall-2.jpg',
                             name: 'The Evening Beach Walk',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheEveningBeachWalk',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Heritage-Walk-3-wall.jpg',
                             name: 'Heritage Walk',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HeritageWalk_2',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Open-Air-Laundry-1-Wall.jpg',
                             name: 'Open Air Laundry Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/OpenAirLaundryTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Half-Day-Tour-2.jpg',
                             name: 'Half Day Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HalfdayTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Full-Day-Tour.jpg',
                             name: 'Full Day Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FullDayTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/bollywood-tour.jpg',
                             name: 'Bollywood Outdoor Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BollywoodOutdoorTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Bicycle-Tour-Wall-1.jpg',
                             name: 'Bicycle Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BicycleTour_3',
                             extLink: ''
                         },
                     ]
@@ -25145,21 +25145,21 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Food-Tasting-Wall.jpg',
                             name: 'Foot Tasting Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FoodTastingTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Street-Food.jpg',
                             name: 'Explore Mumbais Street Food',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ExploreMumbaisStreetFood',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Chai-walk-Wall-1.jpg',
                             name: 'The Chai Walk',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TheChaiWalk',
                             extLink: ''
                         },
                     ]
@@ -25174,7 +25174,7 @@ export const Vendors = {
                             name: 'Body Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BodyMassage',
                             extLink: ''
                         },
                         {
@@ -25182,7 +25182,7 @@ export const Vendors = {
                             name: 'Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RoomDecoration_16',
                             extLink: ''
                         },
                         {
@@ -25190,7 +25190,7 @@ export const Vendors = {
                             name: 'Cook with Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookwithChef_17',
                             extLink: ''
                         },  
                     ]
