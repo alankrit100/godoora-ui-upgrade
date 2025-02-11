@@ -25710,7 +25710,7 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to book?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-2.jpgp' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-1.jpg' },
                             ],
@@ -25731,7 +25731,8 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Dharavi2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Dharavi3.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Bollywood Outdoor Tour',
@@ -25749,7 +25750,8 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema4.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/cinema5.jpg' }
                             ],
-                            confirmBtnLabel: 'Book a Slot'
+                            confirmBtnLabel: 'Book a Slot',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Thife Market Tour',
@@ -25761,9 +25763,10 @@ export const Vendors = {
                             placeholder: 'Placeholder',
                             headerText: 'When would you like to travel?',
                             gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-4.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
