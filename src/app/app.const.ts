@@ -25195,143 +25195,6 @@ export const Vendors = {
                         },  
                     ]
                 },
-                offers: {
-                    active: true,
-                    heading: 'Explore Our Other Hotels',
-                    desc: '',
-                    items: [
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/willow-hill-Nature-Resorts.jpg',
-                            name: 'Willow Hill',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/willow-hill/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/willow-hill/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Sleeping-Beauty-Nature-Resorts.jpg',
-                            name: 'Sleeping Beauty',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/sleeping-beauty/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/sleeping-beauty/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Wild-Pasture-Nature-Resorts.jpg',
-                            name: 'Wild pastures',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/wild-pastures/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/wild-pastures/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Emerland-Nature-Resorts.jpg',
-                            name: 'Emerald',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/emerald/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/emerald/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Solitude-Nature-Resorts.jpg',
-                            name: 'Solitude',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/solitude/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/solitude/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Rosewood-Nature-Resorts.jpg',
-                            name: 'Rosewood',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/rosewood/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/rosewood/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Nightingale-Nature-Resorts.jpg',
-                            name: 'Teanest Nightingale',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/teanest-nightingale/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/teanest-nightingale/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-nighingale-annexe-Nature-Resorts.jpg',
-                            name: 'Teanest Nighingale Annexe',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/nightingale-annexe/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/nightingale-annexe/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Nature-Resorts.jpg',
-                            name: 'Teanest',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/teanest/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/teanest/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Annexe-Nature-Resorts.jpg',
-                            name: 'Teanest Annexe',
-                            location: '',
-                            views: '',
-                            routerLink: '',
-                            extLink: 'https://natureresorts.in/teanest-annexe/',
-                            btn: {
-                                extLink: 'https://natureresorts.in/teanest-annexe/',
-                                routerLink: '',
-                                label: 'EXPLORE'
-                            }
-                        },
-                    ]
-                },
                 stories: {
                     active: true,
                     heading: 'Behind the scenes',
@@ -25884,6 +25747,57 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
+                            name: 'Sunday Brunch',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/dinner2.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/Sunday.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/sunday1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/sunday2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 + 1 Coktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/coktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/coktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/cocktail.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: '1 + 1 Mocktail',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/mocktail1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/mocktail2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Bhubaneshwar/mocktail.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Upgrade room ',
                             extLink: '',
                             routerLink: 'test',
@@ -25995,6 +25909,21 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Mumbai Sight Seeing',
+                            extLink: 'https://drive.google.com/file/d/17r5WquNSbea5pck0tPrs3pfNIjAS9cJ5/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/map.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                         {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
@@ -26172,6 +26101,42 @@ export const Vendors = {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/search.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Expedia',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Expedia.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Agoda',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/Agoda.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -81087,6 +81052,7 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+
                         {
                             name: 'Airport Pickup/Drop',
                             extLink: '',
@@ -82713,7 +82679,6 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        
                         {
                             name: 'Sunday Brunch',
                             extLink: '',
@@ -82731,7 +82696,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        
                         {
                             name: '1 + 1 Coktail',
                             extLink: '',
