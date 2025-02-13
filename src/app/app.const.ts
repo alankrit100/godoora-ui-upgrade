@@ -68496,7 +68496,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/10.+Places+of+Interest.pdf',
+                            extLink: 'https://drive.google.com/file/d/1B5QoIUj425KJbk8UoXFw2tQmDgy2btxP/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/PlaceOfInterest.png',
                             showTextarea: true,
@@ -68698,7 +68698,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Daily Acitity Calendar',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Daily-Activity-Calendar.pdf',
+                            extLink: 'https://drive.google.com/file/d/1zTmx7RXwYKNWNYMxA6F8tlEY3Iv4Qc4-/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/daily-calendar.png',
                             showTextarea: true,
@@ -70615,7 +70615,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Goa Map',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/GOA-MAP.pdf',
+                            extLink: 'https://drive.google.com/file/d/1-4olT6-Kzjl9VmVNgsEZiaebenENpD8I/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
@@ -70754,7 +70754,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Beat the heat',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Benaulim/Beat-the-heat.pdf',
+                            extLink: 'https://drive.google.com/file/d/181m22RZICNbbyuNt-t6rTKhv6io60NvA/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/sun.png',
                             showTextarea: true,
@@ -72164,7 +72164,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Dalhousie/Places+of+Interest.pdf',
+                            extLink: 'https://drive.google.com/file/d/1AS1AM6W57u3t1_zQnfdL0wihyynGygjE/view?usp=sharing',
                             routerLink: '',
                             icon: 'hublii/book.png',
                             showTextarea: true,
@@ -73790,7 +73790,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Cab Charge',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Cab-Charges-1.pdf',
+                            extLink: 'https://drive.google.com/file/d/1xS0mnzAwJHZSFKfGhAACP-qZ6l1dJ_Le/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/taxi.png',
                             showTextarea: true,
@@ -73809,7 +73809,7 @@ export const Vendors = {
                         
                         {
                             name: 'Mudumalai Wildlife Safari',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Mudumalai-Wildlife-Safari.pdf',
+                            extLink: 'https://drive.google.com/file/d/1SAgms_HPcqglhDwBW-CnUX5Yq9i1ocdS/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/conservation.png',
                             showTextarea: true,
@@ -73826,7 +73826,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Nature Walk',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/new/Nature-Walk.pdf',
+                            extLink: 'https://drive.google.com/file/d/1OZLbWDdobDe7nlK4LqxOJNTfSNc-wb2t/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/landscape.png',
                             showTextarea: true,
@@ -73844,7 +73844,7 @@ export const Vendors = {
                         
                         {
                             name: 'About the place',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/About-the-Place.pdf',
+                            extLink: 'https://drive.google.com/file/d/1QElseTX5-yrRdRUhGPb3Cm2h3DS3v9kV/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
@@ -73859,7 +73859,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/Places+of+Interest.pdf',
+                            extLink: 'https://drive.google.com/file/d/12-iV3lN9Rl3O8SAiacwsCv1r2lYWUtfG/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/packages.png',
                             showTextarea: true,
@@ -73874,7 +73874,7 @@ export const Vendors = {
                         },
                         {
                             name: 'About our Hotel',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Sullian/About+Our+Hotel.pdf',
+                            extLink: 'https://drive.google.com/file/d/1OKQ1ijSbutI-IzBUmio7FT1X74Hkr2YH/view?usp=sharing',
                             routerLink: '',
                             icon: 'dalhousie/hotel.png',
                             showTextarea: true,
@@ -75631,7 +75631,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Cab Charges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+srinagar/Cab-Charges.pdf',
+                            extLink: 'https://drive.google.com/file/d/1a9GN7v4U0Pj0vd5YIy4ffJioeBue1Pl_/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/taxi.png',
                             showTextarea: true,
@@ -110480,7 +110480,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Cab Charges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vapi/Cab-Charges.pdf',
+                            extLink: 'https://drive.google.com/file/d/11XSj-Fokw_WK2ieiS9fuCKwZ7hc2fDFi/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
