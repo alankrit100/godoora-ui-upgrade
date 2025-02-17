@@ -54474,7 +54474,9 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/spa1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/spa2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/spa3.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -54489,7 +54491,8 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Upgrade1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/Room-Upgrade2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -54504,7 +54507,9 @@ export const Vendors = {
                             placeholder: 'Comments',
                             headerText: 'Fix an appointment',
                             gallery: [
-
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+JP+Celestial/meal3.jpeg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -54672,6 +54677,78 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
+                        {
+                            name: 'Airport Pickup/Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book the cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Railway station Pick up and Drop ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/localtaxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book a Cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local Sightseeing charges 8Hrs 80 Kms ',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a slow',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local sightseeing charges 4 HRS 40 Kms',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi-1.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Please arrange entry tickets for 2 adults and 2 kids (age: 2yrs and 7yrs)',
+                            headerText: 'When are you planning to visit?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/taxi3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book tickets',
+                            storePageAsBlog: true
+                        },
                         {
                             name: 'Refer a Friend',
                             extLink: '',
@@ -92661,7 +92738,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Place+of+Interset+in+jalandhar.pdf',
+                            extLink: 'https://drive.google.com/file/d/16hAKZ8nICETaso9Dh3OUMRpa2X8IbClO/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/PlaceOfInterest.png',
                             showTextarea: true,
@@ -97460,7 +97537,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Haridwar/Millet-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1BM1YLyTbjG0y2NDF4LMcTs-Z23jMdENZ/view?usp=sharing',
                             routerLink: '',
                             icon: 'Manali/menu123.png',
                             showTextarea: true,
@@ -99029,7 +99106,7 @@ export const Vendors = {
                         
                         {
                             name: 'Cab Charge',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Pickup-Drop.pdf',
+                            extLink: 'https://drive.google.com/file/d/1-gqdKifkw84qjXYCIKC8BZAi9Nuaje1X/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/taxi.png',
                             showTextarea: true,
@@ -99043,7 +99120,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Sightseeing',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/Pickup-Drop.pdf',
+                            extLink: 'https://drive.google.com/file/d/1-gqdKifkw84qjXYCIKC8BZAi9Nuaje1X/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/cab.png',
                             showTextarea: true,
@@ -100366,7 +100443,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Fortune Signature Cocktails',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Signature-Cocktails.pdf',
+                            extLink: 'https://drive.google.com/file/d/1C5j5mQdAl7_lKUWIhsLfRH4b5Mbw7FKa/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/cocktail.png',
                             showTextarea: true,
@@ -100382,7 +100459,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Fortune Club Packages',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Fortune+Club+Packages.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Am91GT5uITtysDASrBsEVsvENm7XspOo/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/packages.png',
                             showTextarea: true,
@@ -100397,7 +100474,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Suites Packages',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Suites+Packages.pdf',
+                            extLink: 'https://drive.google.com/file/d/1y_IKXl0BGJQB5edj5ZlNEacIsMj33Lw3/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/bedroom.png',
                             showTextarea: true,
@@ -100422,7 +100499,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Travel Desk',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Travel+Desk.pdf',
+                            extLink: 'https://drive.google.com/file/d/1TIYcdMtxEdD4eBus7oAXNUbFOutP5e-z/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/cab.png',
                             showTextarea: true,
@@ -100437,7 +100514,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Tourist Attractions',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneBengaluru/Tourist+Attractions.pdf',
+                            extLink: 'https://drive.google.com/file/d/1w_K7wRt_HFf-1h4NB8nB6GCcIofoLYPp/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
