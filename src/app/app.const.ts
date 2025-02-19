@@ -166183,7 +166183,7 @@ offSeason: {
                         },
                         {
                             name: 'Service Directory',
-                            extLink: '',
+                            extLink: 'https://drive.google.com/file/d/1JjtrVMPuaQzgqI5RCj2-U7-WziDZoKFK/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
