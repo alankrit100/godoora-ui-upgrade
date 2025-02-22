@@ -128152,7 +128152,7 @@ offSeason: {
                         },
                         {
                             name: 'One Plate Wonder',
-                            extLink: 'https://drive.google.com/file/d/1inAz_eoiThuumizTgEaZJtfPI6jaYO3n/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/18pZ8JySj30jcVPY7donV1WbSblaPAQqt/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/dinner1.png',
                             showTextarea: true,
@@ -163620,6 +163620,23 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
                                 
+                            ]
+                        },
+                        {
+                            name: 'Sea & Spice',
+                            extLink: 'https://drive.google.com/file/d/1Yflbr5kxQXqh63v0eD6ARFbRWLQxyUpq/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'dalhousie/menuu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                               
                             ]
                         },
                         {
