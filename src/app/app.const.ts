@@ -91113,7 +91113,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Kids Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Chennai/Kids-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Iac4DweJZsuCP6ncbjZ5WfIP8V8pG3y1/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -91128,7 +91128,7 @@ export const Vendors = {
                         },
                         {
                             name: 'IRD MENU',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/IRD-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1Z30VZTixztaRtraUQy99p4ojPt_kuPOh/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -91141,7 +91141,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Rainbow Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/Rainbow-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1nvHNt-TSlA-xAJE0gC-nVcgK5MEdNvT7/view?usp=drive_link',
                             routerLink: '',
                             icon: 'dharmshala/menuu.png',
                             showTextarea: true,
@@ -91155,7 +91155,7 @@ export const Vendors = {
                         
                         {
                             name: 'Spa Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/SPA.pdf',
+                            extLink: 'https://drive.google.com/file/d/1rnE9NMJn3h8_uxcUQWqWR5JXKkAQgLPS/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
@@ -91172,7 +91172,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Hubli/Laundry.pdf',
+                            extLink: 'https://drive.google.com/file/d/1rj1lPx8VhfGVQHVtxE4xB1CSCkw4Xcy3/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -103475,7 +103475,7 @@ offSeason: {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Millet-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1SCkIf0S6MqgUohcV6sYrzSqFg019irJr/view?usp=drive_link',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -103500,7 +103500,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Artistic Ahmedabad',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Landmark-Ahmedabad/Artistic-Ahmedabad.pdf',
+                            extLink: 'https://drive.google.com/file/d/1kgULGFJuSpBd_gz4rObzbs57xNbaABQ2/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/place.png',
                             showTextarea: true,
@@ -109153,7 +109153,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Fortune sweet brocher',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+madurai/Fortune-sweet-brocher.pdf',
+                            extLink: 'https://drive.google.com/file/d/15gmtkOeJGS6agRqH8deZv26blq9xPSj0/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/bakery-shop.png',
                             showTextarea: true,
@@ -118953,7 +118953,7 @@ offSeason: {
                         },
                         {
                             name: 'Early Bird',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/EARLY-BIRD.pdf',
+                            extLink: 'https://drive.google.com/file/d/1C3ZFJHmhnf7QM_RKUe6DfQznYQWmS2Vz/view?usp=sharing',
                             routerLink: '',
                             icon: 'JammuIcons/meal.png',
                             showTextarea: true,
@@ -119065,7 +119065,7 @@ offSeason: {
                         },
                         {
                             name: 'Places of Intrests',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Select-SG-Highway/Places-of-intrest-SG.pdf',
+                            extLink: 'https://drive.google.com/file/d/1rp9rFAQ1cTZAMpqWldy5ToNdaSRdSjgr/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
@@ -128534,7 +128534,7 @@ offSeason: {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vellore/Millet-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/136iY0FFLooM8kuk98q4vFjnGnMejx17V/view?usp=sharing',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -130592,7 +130592,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Travel Desk Charges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Travel-Desk-Charges.pdf',
+                            extLink: 'https://drive.google.com/file/d/1kTJ9sUKWidIyy2BtaIpwLc_c5QYdb1wa/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/cab.png',
                             showTextarea: true,
@@ -130606,7 +130606,7 @@ offSeason: {
                         },
                         {
                             name: 'Tourist Attractions',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Tourist-Attractions.pdf',
+                            extLink: 'https://drive.google.com/file/d/17Qi70J2qZmFccfXTk-O27bcfgpoShcJs/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
@@ -134136,7 +134136,7 @@ offSeason: {
                         },
                         {
                             name: 'Temple Package',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Manipal/Temple-Package.pdf',
+                            extLink: 'https://drive.google.com/file/d/1EheCLKUO6N2KxWprhyLaAdo98M_GCEH7/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/Pipli-Konark-Puri.png',
                             showTextarea: true,
@@ -135555,7 +135555,7 @@ offSeason: {
                         },
                         {
                             name: 'Cab Charge',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kalimpong/Cab-Charges.pdf',
+                            extLink: 'https://drive.google.com/file/d/1BjbD-WZiV0lE0_UPEagJRXD_X6kKOOPc/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/taxi.png',
                             showTextarea: true,
@@ -148682,7 +148682,7 @@ offSeason: {
                         },
                         {
                             name: 'Millet Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/Fortune-Menu-Millets.pdf',
+                            extLink: 'https://drive.google.com/file/d/1E-xngzE4tNxpO3Mv7HotcmlTVxf13BA4/view?usp=drive_link',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -150144,7 +150144,7 @@ offSeason: {
                         },
                         {
                             name: 'Liquor Buy 2 Get 1 Free',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Liquor-BUY2GET1-Hoshiarpur.pdf',
+                            extLink: 'https://drive.google.com/file/d/1740ICvjnLHu1vlZf6pK6Ls9owV1S1XUs/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/cocktail.png',
                             showTextarea: true,
@@ -150185,7 +150185,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Cab Charges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Hoshiarpur/Cab-Charges.pdf',
+                            extLink: 'https://drive.google.com/file/d/1LntHPOPKJa5WqKmypdneog7LFSz_0-MI/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
@@ -153364,7 +153364,7 @@ offSeason: {
                         },
                         {
                             name: 'Places of Interest ',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kathmandu/Places-of-Interest.pdf',
+                            extLink: 'https://drive.google.com/file/d/1XrmLdVA0cGKgHU_mHNbXXXiWx9WGRVDK/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/place.png',
                             showTextarea: true,
@@ -158056,7 +158056,7 @@ offSeason: {
                         },
                         {
                             name: 'Places of Interest',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Place-of-Intrest.pdf',
+                            extLink: 'https://drive.google.com/file/d/1AeD1tu32NojSUoSibzS0v-RAOmQ-50Rv/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/hotel.png',
                             showTextarea: true,
@@ -158106,7 +158106,7 @@ offSeason: {
                         },
                         {
                             name: 'About the Place',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/About-the-Places.pdf',
+                            extLink: 'https://drive.google.com/file/d/1vvL0d9Q4xBkwOLHOu8D5r_YaPkGDeOe-/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/map.png',
                             showTextarea: true,
