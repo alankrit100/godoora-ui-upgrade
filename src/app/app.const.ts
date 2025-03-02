@@ -25017,14 +25017,24 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Hotel-Kemps-Landing-Page.jpg',
+                            heading: 'Hotel Kemps Corner',
+                            subHeading: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Hotel-Kemps-Landing-Page-3.jpg',
+                            heading: 'Not just a trip, a true destination experience',
+                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Hotel-Kemps-Landing-Page-2.jpg',
+                            heading: '',
+                            subHeading: ''
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
                             heading: 'Book Direct With Us',
                             subHeading: 'Avail unique offers and benefits curated especially for you'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Hotel-Kemps-Landing-Page.jpg',
-                            heading: 'Not just a trip, a true destination experience',
-                            subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
                     ]
                 },
@@ -25068,70 +25078,70 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-4-Wall.jpg',
                             name: 'Market Tour',
                             desc: '',
-                            routerLink: '/stores/MarketTour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/slum.jpg',
                             name: 'Dharawi Slum Tour',
                             desc: '',
-                            routerLink: '/stores/DharawiSlumTour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-1.jpg',
                             name: 'Thife Market Tour',
                             desc: '',
-                            routerLink: '/stores/ThifeMarketTour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Evening-Beach-Walk-Wall-2.jpg',
                             name: 'The Evening Beach Walk',
                             desc: '',
-                            routerLink: '/stores/TheEveningBeachWalk',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Heritage-Walk-2.jpg',
                             name: 'Heritage Walk',
                             desc: '',
-                            routerLink: '/stores/HeritageWalk_2',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Open-Air-Laundry-1-Wall.jpg',
                             name: 'Open Air Laundry Tour',
                             desc: '',
-                            routerLink: '/stores/OpenAirLaundryTour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Half-Day-Tour-2.jpg',
                             name: 'Half Day Tour',
                             desc: '',
-                            routerLink: '/stores/HalfdayTour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Full-Day-Tour.jpg',
                             name: 'Full Day Tour',
                             desc: '',
-                            routerLink: '/stores/FullDayTour_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/bollywood-tour.jpg',
                             name: 'Bollywood Outdoor Tour',
                             desc: '',
-                            routerLink: '/stores/BollywoodOutdoorTour_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Bicycle-Tour-Wall-1.jpg',
                             name: 'Bicycle Tour',
                             desc: '',
-                            routerLink: '/stores/BicycleTour_3',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -25145,21 +25155,21 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Food-Tasting-Wall.jpg',
                             name: 'Foot Tasting Tour',
                             desc: '',
-                            routerLink: '/stores/FoodTastingTour',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Street-Food.jpg',
                             name: 'Explore Mumbais Street Food',
                             desc: '',
-                            routerLink: '/stores/ExploreMumbaisStreetFood',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Chai-walk-Wall-1.jpg',
                             name: 'The Chai Walk',
                             desc: '',
-                            routerLink: '/stores/TheChaiWalk',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -25174,7 +25184,7 @@ export const Vendors = {
                             name: 'Body Massage',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BodyMassage',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -25182,7 +25192,7 @@ export const Vendors = {
                             name: 'Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RoomDecoration_16',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -25190,7 +25200,7 @@ export const Vendors = {
                             name: 'Cook with Chef',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookwithChef_17',
+                            routerLink: '/stores/',
                             extLink: ''
                         },  
                     ]
@@ -25338,20 +25348,20 @@ export const Vendors = {
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items:  [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/willow-hill-Nature-Resorts.jpg',
-                            videoId: 'VHazirGf6PA'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Behind-The-Scenes-1.jpeg',
+                            videoId: 'JWb1WD7l_0E'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Emerland-Nature-Resorts.jpg',
-                            videoId: '8LW9DhMMiE4'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Behind-The-Scenes-2.jpeg',
+                            videoId: 'ZPXV9X-bT6E'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Nightingale-Nature-Resorts.jpg',
-                            videoId: 'bVYOPi1jp6s'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Behind-The-Scenes-3.jpeg',
+                            videoId: 'zuQbFXsDW2I'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Teanest-Annexe-Nature-Resorts.jpg',
-                            videoId: 'gpEdRhKFX0A'
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Behind-The-Scenes-4.jpeg',
+                            videoId: 'BbfWjpeSJ3Q'
                         }
                     ]
                 },
@@ -25508,7 +25518,7 @@ export const Vendors = {
                         },
                         {
                             name: 'Laundry Menu',
-                            extLink: 'https://drive.google.com/file/d/1cnhkoYv0dQA-goNFYSiERkvSB8l3KuzH/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1SZg3VeAf_yqrU-GRoeEHu58SMDAk4gpt/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
@@ -25533,8 +25543,8 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'IRD Menu',
-                            extLink: 'https://drive.google.com/file/d/1OOW5wAE3DBtA6TyDXpTbm0woc2fOU4eW/view?usp=sharing',
+                            name: 'Snaks Menu',
+                            extLink: 'https://drive.google.com/file/d/1JfoZbKyzAOQm9NzCEOLxrCfVQyWll5Ca/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
@@ -81159,21 +81169,6 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Republic Day',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Republic-Day.jpg',
-                            routerLink: '',
-                            icon: 'demo-agra/cheers.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Thirst Day',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Thirst-Day.jpg',
                             routerLink: '',
@@ -81249,10 +81244,10 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Sandwich Affair',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Sandwich-Affair.jpg',
+                            name: 'Valentine Buffet',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Valentine-Buffet.jpg',
                             routerLink: '',
-                            icon: 'Vijaywadaicons/breakfast.png',
+                            icon: 'Aatapi/buffet.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -81264,10 +81259,70 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Valentine Buffet',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Valentine-Buffet.jpg',
+                            name: 'Flavours of Nepal',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Flavours-of-Nepal.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/buffet.png',
+                            icon: 'Aatapi/thali.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Pasta Perfection',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Pasta-Perfection.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/pasta.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Rang Barse Brunch',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Rang-Barse-Brunch.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/curry.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Crunch & Bites',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Crunch-and-Bites.png',
+                            routerLink: '',
+                            icon: 'Aatapi/non.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Coffee Conversations',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Coffee-Conversations.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/coffee.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
@@ -166167,21 +166222,17 @@ offSeason: {
                             ]
                         },
                         {
-                            name: 'IRD Menu',
-                            extLink: '',
+                            name: 'IRD MENU',
+                            extLink: 'https://drive.google.com/file/d/1vdIWDRlxy-VZltvz0k2aZZoYXbxZ-1Jw/view?usp=sharing',
                             routerLink: '',
-                            icon: 'dalhousie/nost.png',
+                            icon: 'Aatapi/menu123.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
-                            headerText: 'When would you like to parcel to be delivered?',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
                             gallery: [
-                                
                             ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-                               
-                            ]
+                            confirmBtnLabel: 'Book the table',
                         },
                         {
                             name: 'ZODIAC MENU',
