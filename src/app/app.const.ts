@@ -25543,7 +25543,7 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
-                            name: 'Snaks Menu',
+                            name: 'Snacks Menu',
                             extLink: 'https://drive.google.com/file/d/1JfoZbKyzAOQm9NzCEOLxrCfVQyWll5Ca/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
