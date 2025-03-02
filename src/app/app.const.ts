@@ -25357,7 +25357,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Behind-The-Scenes-3.jpeg',
-                            videoId: 'zuQbFXsDW2I'
+                            videoId: 'lHlvV9EBPaE'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Behind-The-Scenes-4.jpeg',
