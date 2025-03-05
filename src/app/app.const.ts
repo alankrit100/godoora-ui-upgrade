@@ -25017,24 +25017,14 @@ export const Vendors = {
                     active: true,
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Hotel-Kemps-Landing-Page.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/kemps-landing.jpg',
                             heading: 'Hotel Kemps Corner',
                             subHeading: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Hotel-Kemps-Landing-Page-3.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/kemps-landing2.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Hotel-Kemps-Landing-Page-2.jpg',
-                            heading: '',
-                            subHeading: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/RoyalOrchid/Book-Direct-Banner.png',
-                            heading: 'Book Direct With Us',
-                            subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                     ]
                 },
@@ -25055,18 +25045,6 @@ export const Vendors = {
                             extLink: '',
                             routerLink: '/by-admin/2042'
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Offers & Promotions',
-                            extLink: '',
-                            routerLink: '/by-admin/2043'
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Direct-Booking.jpg',
-                            label: 'Digital Concierge',
-                            extLink: '',
-                            routerLink: '/by-admin/2044'
-                        }
                     ]
                 },
                 destinations: {
@@ -25079,13 +25057,6 @@ export const Vendors = {
                             name: 'Market Tour',
                             desc: '',
                             routerLink: '/stores/MarketTour',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/slum.jpg',
-                            name: 'Dharawi Slum Tour',
-                            desc: '',
-                            routerLink: '/stores/DharawiSlumTour',
                             extLink: ''
                         },
                         {
@@ -25116,34 +25087,6 @@ export const Vendors = {
                             routerLink: '/stores/OpenAirLaundryTour',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Half-Day-Tour-2.jpg',
-                            name: 'Half Day Tour',
-                            desc: '',
-                            routerLink: '/stores/HalfdayTour',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Full-Day-Tour.jpg',
-                            name: 'Full Day Tour',
-                            desc: '',
-                            routerLink: '/stores/FullDayTour_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/MonarchHotels/bollywood-tour.jpg',
-                            name: 'Bollywood Outdoor Tour',
-                            desc: '',
-                            routerLink: '/stores/BollywoodOutdoorTour_1',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Bicycle-Tour-Wall-1.jpg',
-                            name: 'Bicycle Tour',
-                            desc: '',
-                            routerLink: '/stores/BicycleTour_3',
-                            extLink: ''
-                        },
                     ]
                 },
                 experiences: {
@@ -25159,13 +25102,6 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Street-Food.jpg',
-                            name: 'Explore Mumbais Street Food',
-                            desc: '',
-                            routerLink: '/stores/ExploreMumbaisStreetFood',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Chai-walk-Wall-1.jpg',
                             name: 'The Chai Walk',
                             desc: '',
@@ -25176,33 +25112,41 @@ export const Vendors = {
                 },
                 activities: {
                     active: true,
-                    heading: 'Unique Hotel Experiences',
+                    heading: 'Concierge Services',
                     desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Body Massage',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-Sightseeing.jpg',
+                            name: 'Local Sightseeing',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BodyMassage',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Decoration1.jpg',
-                            name: 'Room Decoration',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-airport.jpeg',
+                            name: 'Airport Pickup/Drop',
                             location: '',
                             views: '',
-                            routerLink: '/stores/RoomDecoration_16',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg',
-                            name: 'Cook with Chef',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping3.jpg',
+                            name: 'Local Shopping',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CookwithChef_17',
+                            routerLink: '/stores/',
                             extLink: ''
-                        },  
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour.jpg',
+                            name: 'Arrange a Tour',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },    
                     ]
                 },
                 offers: {
@@ -25641,7 +25585,7 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'Unique Hotel Experiences',
+                    name: 'Concierge Services',
                     icon: 'royal/restaurant.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -25649,57 +25593,92 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Body Massage',
+                            name: 'Airport Pickup/Drop',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/balloon.png',
+                            icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
+                            placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
+                            headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Airport-terminal-Mumbai.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/AIRPORT2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/mumbaiairportt2.jpg' }
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Room Decoration',
+                            name: 'Railway station Pick up and Drop ',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'orchid/candle.png',
+                            icon: 'fortunemussoorieicons/localtaxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Arrange a Sedan for local sightseeing',
+                            headerText: 'When are you planning to start from hotel?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                            ],
+                            confirmBtnLabel: 'Book a Cab',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local Sightseeing',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'aligarh/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
+                            headerText: 'At what time would you be going to the restaurant?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Taj.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Chhatrapati_Shivaji_Maharaj_Terminus.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Beach-mumbai.jpg' },
+                            ],
+                            confirmBtnLabel: 'Book a slow',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Local Shopping',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/shopping.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
+                            headerText: 'When would you like to go for shopping?',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping1.jpeg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping.jpeg' }
+                            ],
+                            confirmBtnLabel: 'Fix appointment',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Arrange a Tour',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'fortunemussoorieicons/van.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'placeholder',
-                            headerText: 'placeholder',
+                            headerText: 'When would you like to avail this service?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Decoration1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Decoration2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demo-Agra/Decoration3.jpg' },
-                                
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour3.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour1.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
-                        },
-                        {
-                            name: 'Cook with Chef',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/meeting.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Book a Slot',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                       
+                        },   
                     ]
                 },
                 {
@@ -25723,23 +25702,6 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Market-Tour-1.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Dharawi Slum Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'tour-guide.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: I would like to go for dharawi tour',
-                            headerText: 'When would you like to book?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Dharavi.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Dharavi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Demohotel/Demo+Mumbai/Dharavi3.jpg' }
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -25828,57 +25790,6 @@ export const Vendors = {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Open-Air-Laundry-2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Open-Air-Laundry-3.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Open-Air-Laundry-4.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Half-day Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/motorbike.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to travel?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Half-Day-Tour-2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Half-Day-Tour-3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Half-Day-Tour-1.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Full-Day Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/motorbike.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to travel?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Full-Day-Tour-1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Full-Day-Tour.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Full-Day-Tour-3.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Bicycle Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'orchid/motorbike.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Placeholder',
-                            headerText: 'When would you like to travel?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Bicycle-Tour-3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Bicycle-Tour-Wall-1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Bicycle-Tour-2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
