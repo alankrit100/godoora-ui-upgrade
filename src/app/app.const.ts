@@ -25120,7 +25120,7 @@ export const Vendors = {
                             name: 'Local Sightseeing',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LocalSightseeing_26',
                             extLink: ''
                         },
                         {
@@ -25128,7 +25128,7 @@ export const Vendors = {
                             name: 'Airport Pickup/Drop',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/AirportPickupDrop_87',
                             extLink: ''
                         },
                         {
@@ -25136,7 +25136,7 @@ export const Vendors = {
                             name: 'Local Shopping',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/LocalShopping_41',
                             extLink: ''
                         },
                         {
@@ -25144,7 +25144,7 @@ export const Vendors = {
                             name: 'Arrange a Tour',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ArrangeaTour_39',
                             extLink: ''
                         },    
                     ]
