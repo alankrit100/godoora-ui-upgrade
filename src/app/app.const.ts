@@ -130143,7 +130143,7 @@ offSeason: {
                         },
                         {
                             name: 'Long Stayer & Suite Room Package',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Long-Stayer-Suite-Room-Package.pdf',
+                            extLink: 'https://drive.google.com/file/d/1YmG29Kc2sC1H1JuTMY8076AGoFUb7fqn/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/bed.png',
                             showTextarea: true,
