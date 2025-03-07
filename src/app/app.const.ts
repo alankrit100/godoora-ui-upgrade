@@ -25096,7 +25096,7 @@ export const Vendors = {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Food-Tasting-Wall.jpg',
-                            name: 'Foot Tasting Tour',
+                            name: 'Food Tasting Tour',
                             desc: '',
                             routerLink: '/stores/FoodTastingTour',
                             extLink: ''
