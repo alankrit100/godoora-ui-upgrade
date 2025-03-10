@@ -91549,14 +91549,6 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/Mid-Night1.jpg',
-                            name: 'Mid Night Meal',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/MidNightMeal',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/cook_chef.jpg',
                             name: 'Cook with Chef Experience Offer',
                             location: '',
@@ -159514,7 +159506,7 @@ offSeason: {
                     services: [
                         {
                             name: 'Cab Charges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/Cab-Charges.pdf',
+                            extLink: 'https://drive.google.com/file/d/1qY2S7R1hwInlcAySsV52XFfQ-5W60aZV/view?usp=drive_link',
                             routerLink: '',
                             icon: 'fortunemussoorieicons/taxi.png',
                             showTextarea: true,
@@ -159528,7 +159520,7 @@ offSeason: {
                         },
                         {
                             name: 'City Tour Pacakges',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/City-Tour-Packages.pdf',
+                            extLink: 'https://drive.google.com/file/d/1W07CxOqj5kli8PMNgidAarcxxO4cEcEL/view?usp=drive_link',
                             routerLink: '',
                             icon: 'fortunemussoorieicons/localtaxi.png',
                             showTextarea: true,
@@ -159542,7 +159534,7 @@ offSeason: {
                         },
                         {
                             name: 'Place Of Interest',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/places-of-interest.pdf',
+                            extLink: 'https://drive.google.com/file/d/1GWNUW049lS247rLIfB6sfHAl0OPTTcP2/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/place.png',
                             showTextarea: true,
