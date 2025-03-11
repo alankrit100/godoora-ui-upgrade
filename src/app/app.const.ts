@@ -91557,7 +91557,7 @@ export const Vendors = {
                             extLink: '',
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal1.jpeg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Mast-Mangal.jpg',
                             name: 'Mast Mangal',
                             location: '',
                             views: '',
@@ -92803,9 +92803,8 @@ export const Vendors = {
                             placeholder: 'Example: I want to book a slot for this',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Vijaywada/mast-mangal3.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Mast-Mangal.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Jalandhar/Mast-mangal-2.jpg' },
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -143427,7 +143426,7 @@ offSeason: {
                     route: 'about',
                     url: 'www.fortunehotels.in'
                 },
-                feedBackEmail: 'dm.fard@fortunehotels.in'
+                feedBackEmail: 'ektanagar@fortunehotels.in'
             },
             landingPage: {
                 slider: {
