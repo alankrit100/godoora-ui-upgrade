@@ -25116,11 +25116,11 @@ export const Vendors = {
                     desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Car-retal-Screen.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Car-Rental-Image.jpg',
                             name: 'Car Rental For Trips Out Of Mumbai',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CarRentalForTripsOutOfMumbai',
                             extLink: ''
                         },
                         {
@@ -25128,7 +25128,7 @@ export const Vendors = {
                             name: 'Near By Restaurants',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NearByRestaurants',
                             extLink: ''
                         },
                         {
@@ -25136,7 +25136,7 @@ export const Vendors = {
                             name: 'Swimming Pools',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SwimmingPools',
                             extLink: ''
                         },
                         {
@@ -25144,7 +25144,7 @@ export const Vendors = {
                             name: 'Nearby Doctor Help',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NearbyDoctorHelp',
                             extLink: ''
                         },    
                     ]
