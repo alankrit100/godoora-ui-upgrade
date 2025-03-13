@@ -25116,35 +25116,35 @@ export const Vendors = {
                     desc: '',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-Sightseeing.jpg',
-                            name: 'Local Sightseeing',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Car-retal-Screen.jpg',
+                            name: 'Car Rental For Trips Out Of Mumbai',
                             location: '',
                             views: '',
-                            routerLink: '/stores/LocalSightseeing_26',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-airport.jpeg',
-                            name: 'Airport Pickup/Drop',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Shiv-Sagar-Restaurant.jpg',
+                            name: 'Near By Restaurants',
                             location: '',
                             views: '',
-                            routerLink: '/stores/AirportPickupDrop_87',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping3.jpg',
-                            name: 'Local Shopping',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Swimming-Pool-Screen.JPG',
+                            name: 'Swimming Pools',
                             location: '',
                             views: '',
-                            routerLink: '/stores/LocalShopping_41',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour.jpg',
-                            name: 'Arrange a Tour',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Doctor-Help.jpg',
+                            name: 'Nearby Doctor Help',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ArrangeaTour_39',
+                            routerLink: '/stores/',
                             extLink: ''
                         },    
                     ]
@@ -25593,7 +25593,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Airport Pickup/Drop',
+                            name: 'Car Rental For Trips Out Of Mumbai',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/taxi.png',
@@ -25602,15 +25602,15 @@ export const Vendors = {
                             placeholder: 'Ex: I prefer Toyota Innova with a luggage carrier',
                             headerText: 'When are you landing at the airport?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Airport-terminal-Mumbai.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/AIRPORT2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/mumbaiairportt2.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Car-Rental.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Car-Rental-2.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Car-Rental-3.png' },
                             ],
                             confirmBtnLabel: 'Book the cab',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Railway station Pick up and Drop ',
+                            name: 'Near By Restaurants',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/localtaxi.png',
@@ -25619,17 +25619,17 @@ export const Vendors = {
                             placeholder: 'Arrange a Sedan for local sightseeing',
                             headerText: 'When are you planning to start from hotel?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi1.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi4.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/Gallery/taxi5.jpg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/New-Heros-Restaurant.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/New-Ideal-Restaurant.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Symphony-Restaurant-bar.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Bistro-Grand-Restaurant.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/China-Garden-Restaurant.jpg' },
                             ],
                             confirmBtnLabel: 'Book a Cab',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Local Sightseeing',
+                            name: 'Swimming Pools',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/taxi.png',
@@ -25638,15 +25638,15 @@ export const Vendors = {
                             placeholder: 'Ex: Book a table for 4 at The Punjabi Dhaba',
                             headerText: 'At what time would you be going to the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Taj.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Chhatrapati_Shivaji_Maharaj_Terminus.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Beach-mumbai.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Maftalal-Swimming-Pool.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/YMCA-Swimmimng-Pool.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Breach-Candy-Swimmig-Pool.jpg' },
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Local Shopping',
+                            name: 'Nearby Doctor Help',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'fortunemussoorieicons/shopping.png',
@@ -25655,28 +25655,10 @@ export const Vendors = {
                             placeholder: 'Ex: Help me buy an authentic sovenier at fair price',
                             headerText: 'When would you like to go for shopping?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping1.jpeg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Local-shopping.jpeg' }
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Cumballa-Hill-Hospital-Web.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Doctor-Help-Screen.png' },
                             ],
                             confirmBtnLabel: 'Fix appointment',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Arrange a Tour',
-                            extLink: '',
-                            routerLink: 'test',
-                            icon: 'fortunemussoorieicons/van.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'placeholder',
-                            headerText: 'When would you like to avail this service?',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour2.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour3.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Mumbai-tour1.jpg' }
-                            ],
-                            confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },   
                     ]
