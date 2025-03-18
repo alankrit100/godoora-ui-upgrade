@@ -25091,14 +25091,14 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Community-Tour-3.jpg',
                             name: 'Community Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CommunityTour',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Walking-Tour-Colaba.jpg',
                             name: 'Walking Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/WalkingTour_3',
                             extLink: ''
                         },
                     ]
@@ -25166,14 +25166,14 @@ export const Vendors = {
                 offers: {
                     active: true,
                     heading: 'Near By Places',
-                    desc: '',
+                    desc: 'If you are an adventurer who believes that the best way to get under the skin of a city is to navigate an uncharted path, we list a few suggestions that might catch your fancy.',
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Gate-Way-of-India.jpg',
                             name: 'Gateway Of India',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/GatewayOfIndia',
                             extLink: ''
                         },
                         {
@@ -25181,7 +25181,7 @@ export const Vendors = {
                             name: 'Museum',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Museum_2',
                             extLink: ''
                         },
                         {
@@ -25189,7 +25189,7 @@ export const Vendors = {
                             name: 'Jehangir Art Gallery',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/JehangirArtGallery',
                             extLink: ''
                         },
                         {
@@ -25197,7 +25197,7 @@ export const Vendors = {
                             name: 'Rajabai Clock Tower',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RajabaiClockTower',
                             extLink: ''
                         },
                         {
@@ -25205,7 +25205,7 @@ export const Vendors = {
                             name: 'Flora Fountain',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FloraFountain',
                             extLink: ''
                         },
                         {
@@ -25213,7 +25213,7 @@ export const Vendors = {
                             name: 'Fashion Street',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/FashionStreet',
                             extLink: ''
                         },
                         {
@@ -25221,7 +25221,7 @@ export const Vendors = {
                             name: 'Mantralaya',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Mantralaya_2',
                             extLink: ''
                         },
                         {
@@ -25229,7 +25229,7 @@ export const Vendors = {
                             name: 'Victoria Terminus',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/VictoriaTerminus',
                             extLink: ''
                         },
                         {
@@ -25237,7 +25237,7 @@ export const Vendors = {
                             name: 'Chowpatty Beach',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ChowpattyBeach',
                             extLink: ''
                         },
                         {
@@ -25245,7 +25245,7 @@ export const Vendors = {
                             name: 'Chor Bazaar',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/ChorBazaar',
                             extLink: ''
                         },
                         {
@@ -25253,7 +25253,7 @@ export const Vendors = {
                             name: 'Marine Drive',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MarineDrive',
                             extLink: ''
                         },
                         {
@@ -25261,7 +25261,7 @@ export const Vendors = {
                             name: 'Town Hall',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TownHall',
                             extLink: ''
                         },
                         {
@@ -25269,7 +25269,7 @@ export const Vendors = {
                             name: 'Hanging Gardens',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/HangingGardens',
                             extLink: ''
                         },
                         {
@@ -25277,7 +25277,7 @@ export const Vendors = {
                             name: 'Kamala Nehru Park',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/KamalaNehruPark',
                             extLink: ''
                         },
                         {
@@ -25285,7 +25285,7 @@ export const Vendors = {
                             name: 'Mahalaxmi Race Course',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MahalaxmiRaceCourse',
                             extLink: ''
                         },
                         {
@@ -25293,7 +25293,7 @@ export const Vendors = {
                             name: 'Nehru Planetarium & Nehru Centre',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/NehruPlanetarium&NehruCentre',
                             extLink: ''
                         },
                     ]
@@ -130730,14 +130730,14 @@ offSeason: {
                         {
                             name: 'Biryani & Kebab',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Biryani-%26-Kebab.jpg',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'Aatapi/non.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -130745,7 +130745,7 @@ offSeason: {
                         {
                             name: 'Biryani & Kebab 2', 
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Jp-Cosmos-Bengaluru/Biryani%26Kebab.jpg',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'HakunaIcon/biriyani.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
