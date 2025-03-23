@@ -87175,7 +87175,7 @@ export const Vendors = {
                             menuImgs: [
 
                             ]
-                        }
+                        },
                     ]
                 },
                 {
@@ -91293,7 +91293,6 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Book the table',
                         },
-                        
                         {
                             name: 'Spa Menu',
                             extLink: 'https://drive.google.com/file/d/1rnE9NMJn3h8_uxcUQWqWR5JXKkAQgLPS/view?usp=drive_link',
@@ -123966,6 +123965,56 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                         },
+                        {
+                            name: 'Mini-Bar',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Minibar.jpg',
+                            routerLink: '',
+                            icon: 'aligarh/cocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Laundry menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Laundry-Menu.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Services Directory',
+                            extLink: '',
+                            routerLink: '',
+                            icon: 'fortunegrace/directory.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+                                ],
+                        },
                     ]
                 },     
                 {
@@ -136751,7 +136800,7 @@ offSeason: {
                         },
                         {
                             name: 'Nakshatra Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Alighar/Nakshatra-Menu-Aligarh.pdf',
+                            extLink: 'https://drive.google.com/file/d/1GQepFeM0f6CtCPIEmxfczjj7EJVqLQRL/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
@@ -142465,7 +142514,7 @@ offSeason: {
                         },
                         {
                             name: 'Nakshatra Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-East-Delhi/Nakshatra-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1S-HgqQcr5LodCAt-iss30dUgSK509_sX/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu123.png',
                             showTextarea: true,
@@ -148037,7 +148086,7 @@ offSeason: {
                         },
                         {
                             name: 'Nakshatra Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Ranjit-Vihar/NAKSHATRA-MENU.pdf',
+                            extLink: 'https://drive.google.com/file/d/1NPI8Y1QqpLz313Xf6IVSmDTdfpj0Ibl8/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu.png',
                             showTextarea: true,
@@ -154133,7 +154182,7 @@ offSeason: {
                         },
                         {
                             name: 'Barrel Island Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Palampur/Barrel-Island-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1HqMpDY6zlDYBuEjxDP3r2BvAbR8byJF2/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/menu1.png',
                             showTextarea: true,
@@ -158923,7 +158972,7 @@ offSeason: {
                         },
                         {
                             name: 'oriental pavalion',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vijaywada/Oriental-pavalion.pdf',
+                            extLink: 'https://drive.google.com/file/d/1oNvC3DTGWk9k5QTqA3SeWtcJSRbExKsM/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
