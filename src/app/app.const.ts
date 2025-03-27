@@ -25063,7 +25063,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Hotel-Kemps-Corner/Thife-Market-Tour-1.jpg',
                             name: 'Thieves Market Tours',
                             desc: '',
-                            routerLink: '/stores/ThifeMarketTour',
+                            routerLink: '/stores/ThievesMarketTours',
                             extLink: ''
                         },
                         {
@@ -123086,9 +123086,7 @@ offSeason: {
                 experience: {
                     active: true,
                     heading: 'Fortune Park, Ahmedabad',
-                    desc: `Fortune Park, Ahmedabad is a contemporary business hotel located centrally in one of the greenest areas of the city, near Ellis Bridge within short driving distance to the Sarkhej-Gandhinagar Highway which houses some of the leading corporates and institutions.The hotel is well placed in this dynamic city and offers comfortable accommodation, a round the clock dining outlet, a choice of banqueting venues along with warm and efficient service to all its guests.'.
-
-                    `,
+                    desc: `Fortune Park, Ahmedabad is a contemporary business hotel located centrally in one of the greenest areas of the city, near Ellis Bridge within short driving distance to the Sarkhej-Gandhinagar Highway which houses some of the leading corporates and institutions.The hotel is well placed in this dynamic city and offers comfortable accommodation, a round the clock dining outlet, a choice of banqueting venues along with warm and efficient service to all its guests.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
