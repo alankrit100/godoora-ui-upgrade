@@ -127810,7 +127810,7 @@ offSeason: {
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vellore/SPA-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1UJsls_i0uBZVa4eCWfNxAtTF7MFibk3I/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/spa-menu.png',
                             showTextarea: true,
