@@ -130592,31 +130592,31 @@ offSeason: {
                 experience: {
                     active: true,
                     heading: 'FORTUNE PARK KUFRI, SHIMLA',
-                    desc: `Enveloped in the heart of Kufri valley surrounded by lofty mountains, in a dense trail of coniferous trees and sprawling apple orchards, rests Fortune Park Kufri Shimla. Here, nature turns a kaleidoscope of colors through the seasons. In summers, you wake up to the first blush of sunrise and the snow-clad winter tide turns misty mornings into a story of nostalgia and magic. Paired with warm hospitality, impeccable services, and mesmerizing views of the valley from all corners of its spread, Fortune Park Kufri Shimla is an ideal destination to unplug from the chaos and unwind'.
+                    desc: `Enveloped in the heart of Kufri valley surrounded by lofty mountains, in a dense trail of coniferous trees and sprawling apple orchards, rests Fortune Park Kufri Shimla. Here, nature turns a kaleidoscope of colors through the seasons. In summers, you wake up to the first blush of sunrise and the snow-clad winter tide turns misty mornings into a story of nostalgia and magic. Paired with warm hospitality, impeccable services, and mesmerizing views of the valley from all corners of its spread, Fortune Park Kufri Shimla is an ideal destination to unplug from the chaos and unwind.
 
                     `,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'Digital Menus',
+                            label: 'DIGITAL MENUS',
                             extLink: '',
                             routerLink: '/by-admin/1842'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/1029'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
                             routerLink: '/by-admin/1030'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/1031'
                         }
@@ -130632,7 +130632,7 @@ offSeason: {
                             name: 'Veg Kabab Platter',
                             location: '',
                             views: '',
-                            routerLink: '/stores/VegKababPlatter_5',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -130640,7 +130640,7 @@ offSeason: {
                             name: 'Non Veg Platter',
                             location: '',
                             views: '',
-                            routerLink: '/stores/NonVegPlatter',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -130648,7 +130648,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/CandleLightDinner_27',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -130656,7 +130656,7 @@ offSeason: {
                             name: 'Lunch at Forest area',
                             location: '',
                             views: '',
-                            routerLink: '/stores/LunchatForestarea',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                     ]
@@ -130671,7 +130671,7 @@ offSeason: {
                             name: 'Birthday Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/BirthdayDecoration',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -130679,7 +130679,7 @@ offSeason: {
                             name: 'Anniversary Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/AnniversaryDecoration',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -130687,7 +130687,7 @@ offSeason: {
                             name: 'Shuttle Service',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ShuttleService',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -131417,7 +131417,7 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'Digital Menus',
+                    name: 'DIGITAL MENUS',
                     icon: 'Pride/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -131532,7 +131532,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Quick Upgrades',
+                    name: 'REVIEW & REWARD',
                     icon: 'fortunemussoorieicons/candidate.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -131644,7 +131644,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Special Benefits',
+                    name: 'SPECIAL OFFERS & PROMOTIONS',
                     icon: 'fortunemussoorieicons/candidate.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -131722,7 +131722,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Plan Your Trip',
+                    name: 'DIGITAL CONCIERGE',
                     icon: 'fortunemussoorieicons/candidate.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -159262,11 +159262,7 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
-                        },
-                       
-                        
-                        
-                        
+                        },   
                     ]
                 },
                 {
@@ -160889,14 +160885,14 @@ offSeason: {
 }
         },
         {
-            branch: 'Park-Orange-Gurugram',
+            branch: 'Fortune-Manesar-Gurgaon',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Park-Orange-Gurugram/Fortune-park-orange-sidhrawali-gurugram.jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
             idCategory: 10,
             favIconLink: 'assets/icon/favicon.png',
-            title: 'Fortune Park Orange, Sidhrawali, Gurugram',
+            title: 'Fortune Park Manesar, Gurgaon',
             storeImg: 'social2.jpg',
             label: 'Hotel Admin', // Login label
             serviceLabel: 'Service',
@@ -160960,7 +160956,7 @@ offSeason: {
                 },
                 experience: {
                     active: true,
-                    heading: 'Fortune Park Orange Sidhrawali, Gurugram',
+                    heading: 'Fortune Park Manesar, Gurgaon',
                     desc: `An upscale contemporary full service hotel designed to offer pleasant memories & an enriching experience to its guests. With a strategic location off National Highway 8, the hotel provides easy access to the business hub of Gurugram & the industrial belts of Bhiwadi, Bawal, Manesar and Neemrana. The combination of beautifully furnished rooms, delectable dining options, beautiful setting & the excellent range of guest facilities offered by the hotel makes it a preferred conference & event destination, an ideal venue for social gatherings & wedding celebrations.`,
                     items: [
                         {
@@ -162220,11 +162216,7 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book a slow',
                             storePageAsBlog: true
-                        },
-                       
-                        
-                        
-                        
+                        },   
                     ]
                 },
                 {
