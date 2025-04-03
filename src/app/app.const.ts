@@ -80848,7 +80848,6 @@ export const Vendors = {
                             menuImgs: [
                                 ],
                         },
-                        
                         {
                             name: 'Rainbow Menu',
                             extLink: 'https://drive.google.com/file/d/1Xb4DiVQx3VTa19BgegH-wD4YRL0xnU6e/view?usp=sharing',
@@ -80992,7 +80991,6 @@ export const Vendors = {
                             ],
                             storePageAsBlog: true
                         },
-                        
                         {
                             name: 'Deluxe King',
                             extLink: '',
@@ -81165,21 +81163,6 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'New Year Gala Brunch',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/New+Year+Gala+Brunch+Bruffet.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/one-meal.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Christmas Turkey Brunch',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Christmas+Turkey+Brunch.jpg',
                             routerLink: '',
@@ -81315,36 +81298,6 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Month Of Love',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Month-Of-Love.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/cheesecake.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Valentine Buffet',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Valentine-Buffet.jpg',
-                            routerLink: '',
-                            icon: 'Aatapi/buffet.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
                             name: 'Flavours of Nepal',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Flavours-of-Nepal.jpg',
                             routerLink: '',
@@ -81409,6 +81362,81 @@ export const Vendors = {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Coffee-Conversations.jpg',
                             routerLink: '',
                             icon: 'Aatapi/coffee.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Baisakhi',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Baisakhi.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/thali.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Classic Menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Classic-Menu.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/banquet-Meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Easter Brunch',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Easter-Brunch.jpg',
+                            routerLink: '',
+                            icon: 'svenska/brunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Refresh & Repeat',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Refresh-%26-Repeat.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/mocktail.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sizzle Street',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Sizzle-Street.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/pasta.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
