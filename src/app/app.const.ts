@@ -156479,24 +156479,8 @@ offSeason: {
                     desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg',
-                            name: 'ANNIVERSARY DECORTAION',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth.jpg',
-                            name: 'Birthday Room Decoration',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday.jpg',
-                            name: 'Bday or Anniversary TDH celebration table above 6pax',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Mini-swiss.png',
+                            name: 'Explore & Experience ',
                             location: '',
                             views: '',
                             routerLink: '/stores/',
@@ -157949,6 +157933,22 @@ offSeason: {
                         {
                             name: 'Birthday Room Decoration',
                             extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/cooking.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth.jpg' },
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth2.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Explore & Experience',
+                            extLink: 'https://drive.google.com/file/d/1PUHjY0dasXsX2sn6PWyoKB-YSsRQsv4V/view?usp=drive_link',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
                             showTextarea: true,
