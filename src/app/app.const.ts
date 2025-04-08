@@ -156483,7 +156483,7 @@ offSeason: {
                             name: 'Explore & Experience ',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '',
                             extLink: 'https://drive.google.com/file/d/1PUHjY0dasXsX2sn6PWyoKB-YSsRQsv4V/view?usp=drive_link'
                         },
                     ]
