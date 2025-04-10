@@ -156483,7 +156483,7 @@ offSeason: {
                             name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CandleLightDinner_50',
                             extLink: ''
                         },
                         {
@@ -156491,7 +156491,7 @@ offSeason: {
                             name: 'Ladies|Couple Kitty Party',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Ladies|CoupleKittyParty',
                             extLink: ''
                         },
                         {
@@ -156499,7 +156499,7 @@ offSeason: {
                             name: 'Birthday|Anniversary Celebrations',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Birthday|AnniversaryCelebrations',
                             extLink: ''
                         },
                     ]
