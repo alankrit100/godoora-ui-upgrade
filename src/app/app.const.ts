@@ -123993,7 +123993,7 @@ offSeason: {
                         },
                         {
                             name: 'Mini-Bar',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Minibar.jpg',
+                            extLink: 'https://drive.google.com/file/d/1hdGjJKj9Y7q5f2mBlVEyTRrXekEUawep/view?usp=sharing',
                             routerLink: '',
                             icon: 'aligarh/cocktail.png',
                             showTextarea: true,
@@ -156475,16 +156475,32 @@ offSeason: {
                 },
                 experiences: {
                     active: true,
-                    heading: 'Unique Hotel Offerings',
+                    heading: 'Explore & Experience',
                     desc: 'Create lasting memories with our personalized celebration packages, complete with festive decorations.',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Mini-swiss.png',
-                            name: 'Explore & Experience ',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Candle-light-Dinner-Khajjiar.jpg',
+                            name: 'Candle Light Dinner',
                             location: '',
                             views: '',
-                            routerLink: '',
-                            extLink: 'https://drive.google.com/file/d/1PUHjY0dasXsX2sn6PWyoKB-YSsRQsv4V/view?usp=drive_link'
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Kitty-Party-Khajjiar.jpg',
+                            name: 'Ladies|Couple Kitty Party',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Celebrations.jpg',
+                            name: 'Birthday|Anniversary Celebrations',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
                         },
                     ]
                 },
@@ -157891,7 +157907,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Unique Hotel Offerings',
+                    name: 'Explore & Experience',
                     icon: 'dharmshala/dining-table.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -157899,7 +157915,7 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
-                            name: 'Bday or Anniversary TDH celebration table above 6pax',
+                            name: 'Candle Light Dinner',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'aligarh/decoration.png',
@@ -157908,14 +157924,13 @@ offSeason: {
                             placeholder: 'Example: I want to book a table',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birthday2.jpg' },
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'ANNIVERSARY DECORTAION',
+                            name: 'Ladies|Couple Kitty Party',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -157924,14 +157939,13 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/aniversary2.jpg' },
+                            
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Birthday Room Decoration',
+                            name: 'Birthday|Anniversary Celebrations',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/cooking.png',
@@ -157940,24 +157954,7 @@ offSeason: {
                             placeholder: 'Example: I want to book a slot for this activity',
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth2.jpg' },
-                            ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        {
-                            name: 'Explore & Experience',
-                            extLink: 'https://drive.google.com/file/d/1PUHjY0dasXsX2sn6PWyoKB-YSsRQsv4V/view?usp=drive_link',
-                            routerLink: 'test',
-                            icon: 'dharmshala/cooking.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
-                            gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth.jpg' },
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/new/birth2.jpg' },
+                              
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
