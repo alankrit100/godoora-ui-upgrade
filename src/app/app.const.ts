@@ -83686,14 +83686,6 @@ export const Vendors = {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Deep Tissue Massage',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/candle1.jpg',
                             name: 'Candle Light Dinner',
                             location: '',
@@ -83704,14 +83696,6 @@ export const Vendors = {
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/fortune+dalhous/close+to+nature+breakfast/close+to+nature+breakfast1.jpg',
                             name: 'Nature breakfast',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/Facial1.jpg',
-                            name: 'Facial',
                             location: '',
                             views: '',
                             routerLink: '/stores/',
@@ -83748,14 +83732,6 @@ export const Vendors = {
                             routerLink: '/stores/CookingSessionWithChef_17',
                             extLink: ''
                         },
-                        {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/pune/deep1.jpg',
-                            name: 'Spa Experiences',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/BonfireatLawn_12',
-                            extLink: ''
-                        }
                     ]
                 },
                 activities: {
