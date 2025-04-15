@@ -66587,7 +66587,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: 'Behind the scenes',
                     desc: 'The magic we try to create for you is the outcome of the constant efforts we put behind the scenes. Our staff maintain regular sanitization and hygienic environment to make sure you have a hassle-free and quality stay.',
                     items: [
@@ -68306,7 +68306,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -70371,7 +70371,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -71357,7 +71357,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -73466,7 +73466,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -75035,7 +75035,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -76827,7 +76827,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -78156,7 +78156,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -82547,7 +82547,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -84306,7 +84306,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -85642,7 +85642,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -86923,7 +86923,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -91096,7 +91096,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -92351,7 +92351,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -93882,7 +93882,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -95434,7 +95434,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -97097,7 +97097,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -98781,7 +98781,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -100226,7 +100226,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -101580,7 +101580,7 @@ export const Vendors = {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -103166,7 +103166,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -104511,7 +104511,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -106030,7 +106030,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -108842,7 +108842,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -110288,7 +110288,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -111711,7 +111711,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -113433,7 +113433,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -115257,7 +115257,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -116557,7 +116557,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -118581,7 +118581,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -120132,7 +120132,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -122268,7 +122268,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -123768,7 +123768,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -124201,6 +124201,23 @@ offSeason: {
                             ],
                             confirmBtnLabel: 'Book the table',
                             storePageAsBlog: true
+                        },
+                        {
+                            name: 'Summer Cooler Menu',
+                            extLink: 'https://drive.google.com/file/d/1a_QW_9y6LYjQqGkcbk592NxKp-0L8GCu/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/Juice.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
                         },
                     ]
                 },
@@ -125102,7 +125119,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -127572,7 +127589,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -129315,7 +129332,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -131268,7 +131285,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -132865,7 +132882,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -134743,7 +134760,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -136591,7 +136608,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -138214,7 +138231,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -139787,7 +139804,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -141078,7 +141095,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -142294,7 +142311,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -143847,7 +143864,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -146128,7 +146145,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -147881,7 +147898,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -149327,7 +149344,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -150883,7 +150900,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -152434,7 +152451,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -153992,7 +154009,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -155576,7 +155593,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -157052,7 +157069,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -158700,7 +158717,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -160167,7 +160184,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -161629,7 +161646,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -162552,7 +162569,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -163853,7 +163870,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
@@ -165130,7 +165147,7 @@ offSeason: {
                     ]
                 },
                 stories: {
-                    active: true,
+                    active: false,
                     heading: ' ',
                     desc: '  ',
                     items: [
