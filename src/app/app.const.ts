@@ -156493,14 +156493,6 @@ offSeason: {
                             extLink: ''
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Neptune.avif',
-                            name: 'Neptune Bar',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/NeptuneBar_5',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Wellness.jpg',
                             name: 'Wellness',
                             location: '',
