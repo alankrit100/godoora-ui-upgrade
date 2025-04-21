@@ -54219,6 +54219,19 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request'
                         },
                         {
+                            name: 'Oriental Pavillion',
+                            extLink: 'https://drive.google.com/file/d/11n0TyarB3OfdQVanlhvPNC5S_d27u1yq/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/brochure.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: Can I get food in my room',
+                            headerText: 'When can we send our staff to attend the issue?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request'
+                        },
+                        {
                             name: 'Service Directory',
                             extLink: 'https://drive.google.com/file/d/1fo1ZNwIoUhHCRXENE3NwycRK9eZ9m0jU/view?usp=sharing',
                             routerLink: '',
