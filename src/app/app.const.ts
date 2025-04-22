@@ -135010,7 +135010,7 @@ offSeason: {
                         },
                         {
                             name: 'IRD MENU',
-                            extLink: 'https://drive.google.com/file/d/1GA7HHaVqarqSr_rIsov2Say9kzbW4QbM/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1xc3i1_cD1XhVeddU4F5fRUfMmSV0lG3G/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
