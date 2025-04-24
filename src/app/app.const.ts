@@ -123137,14 +123137,6 @@ offSeason: {
                     desc: 'Dive into a whole new world of activities!',
                     items: [
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/baby+sitting.jpg',
-                            name: 'Baby-sitting Service',
-                            location: '',
-                            views: '',
-                            routerLink: '/stores/',
-                            extLink: ''
-                        },
-                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/travel.jpg',
                             name: 'Airport Transfer',
                             location: '',
@@ -123171,7 +123163,7 @@ offSeason: {
                     ]
                 },
                 experiences: {
-                    active: true,
+                    active: false,
                     heading: 'Unique Dinning Experience',
                     desc: 'Enjoy the best of vantage dining!',
                     items: [
