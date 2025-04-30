@@ -35,9 +35,9 @@ html.goyaana-theme {
 }
 
 html.nature-theme {
-  $primary: #005295;
+  $primary: #ed6a0d;
   $secondary: #bd022e;
-  $font: "CastleT";
+  $font: "Oswald";
   @include applyTheme($primary, $secondary, $font);
 }
 
