@@ -34,3 +34,10 @@ html.goyaana-theme {
   @include applyTheme($primary, $secondary, $font);
 }
 
+html.nature-theme {
+  $primary: #005295;
+  $secondary: #bd022e;
+  $font: "CastleT";
+  @include applyTheme($primary, $secondary, $font);
+}
+

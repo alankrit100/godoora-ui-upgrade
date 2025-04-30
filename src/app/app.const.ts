@@ -26422,7 +26422,7 @@ export const Vendors = {
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Nature-Resorts-Landing-1.jpg',
             id: 'www.nature-resorts.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Nature-Resorts/Nature-Resorts-Logo.png',
-            theme: 'grey-theme',
+            theme: 'nature-theme',
             idCategory: 50,
             favIconLink: 'assets/icon/Nature-resorts-logo.png',
             title: 'Nature Resorts',
