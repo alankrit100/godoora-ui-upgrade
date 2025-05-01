@@ -109300,6 +109300,21 @@ offSeason: {
                     extLink: '',
                     services: [
                         {
+                            name: 'Millet Menu',
+                            extLink: 'https://drive.google.com/file/d/1dUas-GMQIujNhmzIf7J2eeVP4frFt59Z/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/menu123.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
+                        },
+                        {
                             name: 'Fortune sweet brocher',
                             extLink: 'https://drive.google.com/file/d/15gmtkOeJGS6agRqH8deZv26blq9xPSj0/view?usp=drive_link',
                             routerLink: '',
@@ -109362,8 +109377,7 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-
-                         {
+                        {
                             name: 'South Indian Filter coffee',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/South-Indian-Filter-coffee.jpeg',
                             routerLink: '',
@@ -109377,7 +109391,6 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-
                         {
                             name: 'South Indian Dosai',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/South-Indian-Dosai.jpeg',
@@ -109392,7 +109405,6 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-
                         {
                             name: 'Pandyan-Mess',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Madurai/Pandyan-Mess.jpeg',
@@ -109407,7 +109419,6 @@ offSeason: {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-
                         {                               
                             name: 'South-Indian-Food',
                             extLink: '',
@@ -165016,7 +165027,7 @@ offSeason: {
         },
         {
             branch: 'Pahalgam',
-            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Tiruppur/hotel-facade-evening-shot-Tiruppur.jpg',
+            branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Pahalgam/Facade+(1).jpg',
             id: 'www.fortunehotels-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/fortune-hotel-logo.png',
             theme: 'fortune-theme',
@@ -165073,6 +165084,11 @@ offSeason: {
                     active: true,
                     items: [
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Park-Pahalgam/Facade+(1).jpg',
+                            heading: 'Fortune Park Pahalgam',
+                            subHeading: '',
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/landing/HomePage.jpg',
                             heading: 'Book Direct With Us',
                             subHeading: 'Avail unique offers and benefits curated especially for you'
@@ -165082,7 +165098,7 @@ offSeason: {
                 experience: {
                     active: true,
                     heading: 'Fortune Park Pahalgam',
-                    desc: ``,
+                    desc: `Framed by the majestic mountains and lush pine forests, Fortune Pahalgam offers uninterrupted views of towering pines, creating a serene and picturesque escape. Located in the heart of Pahalgam, the hotel is thoughtfully designed to blend with its pristine surroundings. With warm hospitality, modern comforts, and an immersive experience in the lap of nature, it promises to be the perfect getaway for relaxation and exploration.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
