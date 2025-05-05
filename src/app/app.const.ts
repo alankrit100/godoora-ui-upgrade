@@ -25323,7 +25323,8 @@ export const Vendors = {
                             headerText: 'When can we send our staff to attend the issue?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request'
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
                         },
                         {
                             name: 'Restaurant Menu',
