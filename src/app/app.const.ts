@@ -25063,7 +25063,7 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Amara-Ayurveda-Retreat/Amara-Ayurveda-Experience-1.jpg',
                             name: 'Eco-Conscious Living for Holistic Wellness',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EcoConsciousLivingforHolisticWellness',
                             extLink: ''
                         },
                     ]
@@ -25170,7 +25170,7 @@ export const Vendors = {
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Amara-Ayurveda-Retreat/Vedio-Section-Amara-4.jpg',
-                            videoId: 'EC5McGOq_o0'
+                            videoId: '1WdSMXTwKsU'
                         }
                     ]
                 },
@@ -25314,8 +25314,8 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Laundry Menu',
-                            extLink: 'https://drive.google.com/file/d/1SZg3VeAf_yqrU-GRoeEHu58SMDAk4gpt/view?usp=sharing',
-                            routerLink: '',
+                            extLink: '',
+                            routerLink: '/coming-soon',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
@@ -25345,8 +25345,8 @@ export const Vendors = {
                         },
                         {
                             name: 'Cocktail Menu',
-                            extLink: 'https://drive.google.com/file/d/15J8hC_CgEnzw4Vd0xp8oSK8v6E4Qog0A/view?usp=sharing',
-                            routerLink: '',
+                            extLink: '',
+                            routerLink: '/coming-soon',
                             icon: 'Aatapi/cocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
