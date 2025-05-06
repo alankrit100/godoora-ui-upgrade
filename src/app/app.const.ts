@@ -125192,6 +125192,19 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                         },
                         {
+                            name: 'One Plate Wonder',
+                            extLink: 'https://drive.google.com/file/d/1iHSDj0pzCGNfcrBBdBzMtNiPhD3jPMvj/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'dharmshala/menuu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
                             name: 'Fortune Gardenia',
                             extLink: 'https://drive.google.com/file/d/1z8geFj5AEUmO3p22vDfQXQw6xK6JhV8M/view?usp=sharing',
                             routerLink: '',
