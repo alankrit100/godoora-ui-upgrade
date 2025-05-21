@@ -157743,6 +157743,14 @@ offSeason: {
                             extLink: ''
                         },
                         {
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Non-Smoking.jpeg',
+                            name: 'Disclaimer',
+                            location: '',
+                            views: '',
+                            routerLink: '/stores/',
+                            extLink: ''
+                        },
+                        {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Khajjiar/Wellness.jpg',
                             name: 'Wellness',
                             location: '',
@@ -159161,7 +159169,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Neptune Bar',
+                            name: 'Disclaimer',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'dharmshala/yoga.png',
