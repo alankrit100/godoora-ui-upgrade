@@ -157747,7 +157747,7 @@ offSeason: {
                             name: 'Disclaimer',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Disclaimer',
                             extLink: ''
                         },
                         {
