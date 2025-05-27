@@ -125453,6 +125453,21 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
+                            name: 'Food-Festival',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/thali.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a table',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Food-Festival.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
                             name: 'Summer Cooler Menu',
                             extLink: 'https://drive.google.com/file/d/1a_QW_9y6LYjQqGkcbk592NxKp-0L8GCu/view?usp=sharing',
                             routerLink: '',
