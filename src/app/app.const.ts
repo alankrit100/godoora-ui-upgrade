@@ -125453,7 +125453,7 @@ offSeason: {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Food-Festival',
+                            name: 'Odia Food Festival',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/thali.png',
