@@ -67511,7 +67511,7 @@ export const Vendors = {
             }
         },
         {
-            branch: 'Demo Chennai',
+            branch: 'Demo-Chennai',
             branchImg: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/chennai-landing1.jpg',
             id: 'demohotel-experiences.goyaana.com',
             logo: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/HotelLogos/BestTripHotelsLogo.png',
@@ -67574,7 +67574,7 @@ export const Vendors = {
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/chennai-landing2.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/chennai-landing4.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
@@ -67593,7 +67593,7 @@ export const Vendors = {
                 experience: {
                     active: true,
                     heading: 'The Hotel Experience',
-                    desc: `Chennai is a vibrant city known for its rich culture, heritage, and booming IT industry.`,
+                    desc: `Chennai, a dynamic coastal city that blends tradition with modern innovation. Known for its cultural richness, IT hubs, and warm hospitality, Chennai provided a vibrant environment that shaped my professional and personal growth.`,
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
@@ -67630,21 +67630,21 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/barbeque.jpg',
                             name: 'Barbeque',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Barbeque_11',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/spa.jpg',
                             name: 'Spa and Health club',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SpaandHealthclub_9',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/events.jpg',
                             name: 'Events in chennai',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/EventsinChennai',
                             extLink: ''
                         },
                     ]
@@ -67658,28 +67658,28 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/private-tour.jpg',
                             name: 'Private chennai tour with a guide',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/PrivateChennaitourwithaguide',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/boat1.webp',
                             name: 'Boat Tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BoatTour_1',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/village2.jpg',
                             name: 'Village tour',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/Villagetour_3',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/wild1.webp',
                             name: 'Wildlife SOS',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/WildlifeSOS_1',
                             extLink: ''
                         },
                     ]
@@ -67694,7 +67694,7 @@ export const Vendors = {
                             name: 'SPA',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/SPA_74',
                             extLink: ''
                         },
                         {
@@ -67702,7 +67702,7 @@ export const Vendors = {
                             name: 'Room Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/RoomDecoration_16',
                             extLink: ''
                         },
                         {
@@ -67710,7 +67710,7 @@ export const Vendors = {
                             name: 'Bonfire At lawn',
                             location: '',
                             views: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/BonfireAtlawn_16',
                             extLink: ''
                         },
                         
@@ -67725,21 +67725,21 @@ export const Vendors = {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Towel1.jpg',
                             name: 'Towel Origami',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/TowelOrigami_6',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/Mocktail1.jpg',
                             name: 'Mocktail Making',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/MocktailMaking_10',
                             extLink: ''
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-agra/cook1.jpg',
                             name: 'Cook with Chef',
                             desc: '',
-                            routerLink: '/stores/',
+                            routerLink: '/stores/CookwithChef_17',
                             extLink: ''
                         }
                     ]
