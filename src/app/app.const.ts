@@ -96705,7 +96705,20 @@ export const Vendors = {
                             ],
                             confirmBtnLabel: 'Place the order',
                         },
-                        
+                        {
+                            name: 'Spa Menu',
+                            extLink: 'https://drive.google.com/file/d/1kYuUeAQwQj2tF1PlON4G8dht_a7l-mJK/view?usp=drive_link',
+                            routerLink: '',
+                            icon: 'Aatapi/spa-menu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                               
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                        },
                         {
                             name: 'Kids Menu',
                             extLink: 'https://drive.google.com/file/d/1JrPzcGZsh0zbdEsDmTPE4jC6blr0zGt9/view?usp=sharing',
