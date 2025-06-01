@@ -67574,7 +67574,7 @@ export const Vendors = {
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/chennai-landing4.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/private-tour.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
@@ -84131,7 +84131,7 @@ export const Vendors = {
                             name: 'Ramen Slurp Mania',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Thane/Ramen+Slurp+Mania.jpg',
                             routerLink: '',
-                            icon: 'Aatapi/snoodles.png',
+                            icon: 'Aatapi/noodles.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this',
