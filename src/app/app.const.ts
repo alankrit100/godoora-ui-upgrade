@@ -71840,7 +71840,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Images/SPA-Menu.pdf',
+                            extLink: 'https://drive.google.com/file/d/1A1c_wTFkVRGEOWjpRz7-NFgvdi-zMFJ4/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/spa.png',
                             showTextarea: true,
@@ -71901,7 +71901,7 @@ export const Vendors = {
                     services: [
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Vivek-Vihar/Fortune-Mussoorie-Service-Directory.pdf',
+                            extLink: 'https://drive.google.com/file/d/14DUeau9m7javjbS1XjZHB7ZW1mnc5ocN/view?usp=sharing',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -79659,7 +79659,6 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit',
                             storePageAsBlog: true
                         },
-                        
                         {
                             name: 'Google',
                             extLink: '',
@@ -79742,6 +79741,21 @@ export const Vendors = {
                             headerText: 'Select a time you would like to receive it.',
                             gallery: [
                                 
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sizzler Food promotion',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'JammuIcons/upgrade.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/sizzlers+special.jpg' },    
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -116971,22 +116985,6 @@ offSeason: {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Noodles Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Navi-Mumbai/Noodles-Menu.pdf',
-                            routerLink: '',
-                            icon: 'Aatapi/noodles.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the restaurant?',
-                            gallery: [
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                            ],
-                            storePageAsBlog: true
-                        },
                         {
                             name: 'Chai Pe Charcha',
                             extLink: '',
