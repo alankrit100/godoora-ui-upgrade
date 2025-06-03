@@ -71839,23 +71839,6 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'SPA Menu',
-                            extLink: 'https://drive.google.com/file/d/1A1c_wTFkVRGEOWjpRz7-NFgvdi-zMFJ4/view?usp=sharing',
-                            routerLink: '',
-                            icon: 'fortunegrace/spa.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-                               
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
                             name: 'LAUNDRY Menu',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Laundry+List.pdf',
                             routerLink: '',
@@ -71899,23 +71882,6 @@ export const Vendors = {
                     routerLink: 'test',
                     extLink: '',
                     services: [
-                        {
-                            name: 'Services Directory',
-                            extLink: 'https://drive.google.com/file/d/14DUeau9m7javjbS1XjZHB7ZW1mnc5ocN/view?usp=sharing',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
                         {
                             name: 'Sales & Reservations Offices in India',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/New/Sales+and+Reservations+offices+in+India.pdf',
