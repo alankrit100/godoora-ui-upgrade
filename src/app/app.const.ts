@@ -79713,9 +79713,9 @@ export const Vendors = {
                         },
                         {
                             name: 'Sizzler Food promotion',
-                            extLink: '',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/sizzlers+special.jpg',
                             routerLink: 'test',
-                            icon: 'JammuIcons/upgrade.png',
+                            icon: 'FortuneGurgaon/Food.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: I want to book a slot for this activity',
@@ -126646,7 +126646,7 @@ offSeason: {
                         },
                         {
                             name: 'One Plate Wonder',
-                            extLink: 'https://drive.google.com/file/d/1iHSDj0pzCGNfcrBBdBzMtNiPhD3jPMvj/view?usp=sharing',
+                            extLink: 'https://drive.google.com/file/d/1iHSDj0pzCGNfcrBBdBzMtNiPhD3jPMvj/view?usp=drive_link',
                             routerLink: '',
                             icon: 'dharmshala/menuu.png',
                             showTextarea: true,
@@ -126692,6 +126692,23 @@ offSeason: {
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Laundry-Menu.jpg',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Millet menu',
+                            extLink: 'https://drive.google.com/file/d/1yMwZ29yC4hkRahM7z1_Y9ZBf_mNzd6gw/view?usp=drive_link',
+                            routerLink: '',
+                            icon: 'benaulimIcon\tray.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
