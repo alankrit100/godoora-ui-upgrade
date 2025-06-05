@@ -126941,7 +126941,7 @@ offSeason: {
                             name: 'Millet menu',
                             extLink: 'https://drive.google.com/file/d/1yMwZ29yC4hkRahM7z1_Y9ZBf_mNzd6gw/view?usp=drive_link',
                             routerLink: '',
-                            icon: 'benaulimIcon\tray.png',
+                            icon: 'benaulimIcon/tray.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
