@@ -133416,7 +133416,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'DIGITAL MENUS',
                             extLink: '',
-                            routerLink: '/by-admin/1842'
+                            routerLink: '/by-admin/2062'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
