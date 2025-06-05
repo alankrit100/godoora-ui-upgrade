@@ -126705,23 +126705,6 @@ offSeason: {
                             ]
                         },
                         {
-                            name: 'Millet menu',
-                            extLink: 'https://drive.google.com/file/d/1yMwZ29yC4hkRahM7z1_Y9ZBf_mNzd6gw/view?usp=drive_link',
-                            routerLink: '',
-                            icon: 'benaulimIcon\tray.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-
-                            ]
-                        },
-                        {
                             name: 'Services Directory',
                             extLink: '',
                             routerLink: '',
@@ -126942,6 +126925,23 @@ offSeason: {
                             extLink: 'https://drive.google.com/file/d/1a_QW_9y6LYjQqGkcbk592NxKp-0L8GCu/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/Juice.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Millet menu',
+                            extLink: 'https://drive.google.com/file/d/1yMwZ29yC4hkRahM7z1_Y9ZBf_mNzd6gw/view?usp=drive_link',
+                            routerLink: '',
+                            icon: 'benaulimIcon\tray.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -134311,7 +134311,7 @@ offSeason: {
                         },
                         {
                             name: 'Laundry',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/Laundry-price-list1.jpeg',
+                            extLink: 'https://drive.google.com/file/d/1sNl1Egfg6MyLRHfvt8FRraZ5WB0FYiKb/view?usp=drive_link',
                             routerLink: '',
                             icon: 'Aatapi/laundry-machine.png',
                             showTextarea: true,
