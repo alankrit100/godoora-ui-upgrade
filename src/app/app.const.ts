@@ -133495,7 +133495,7 @@ offSeason: {
                             name: 'Anniversary Decoration',
                             location: '',
                             views: '',
-                            routerLink: '/stores/AnniversaryDecoration_2',
+                            routerLink: '/stores/',
                             extLink: ''
                         },
                         {
@@ -133503,7 +133503,7 @@ offSeason: {
                             name: 'Shuttle Service',
                             location: '',
                             views: '',
-                            routerLink: '/stores/ShuttleService_1',
+                            routerLink: '/stores/',
                             extLink: ''
                         }
                     ]
@@ -134329,7 +134329,7 @@ offSeason: {
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/Service-Directory-kufri.pdf',
+                            extLink: 'https://drive.google.com/file/d/1gTIZhToT44HUtjw9_hRyrLqMdD95cAL9/view?usp=drive_link',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -134628,6 +134628,24 @@ offSeason: {
                             ],
                             storePageAsBlog: true
                         },
+                        {
+                            name: 'Yatra.com',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/YTRA_BIG.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
 
                     ]
                 },
@@ -134703,6 +134721,66 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/games1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/games2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/games3.jpeg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Room Upgrade',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'demo-agra/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Meal Upgrade',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'demo-agra/meal.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Extra Bed',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Pride/bed.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Beat The Heat',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/Beat-the-Heat.jpeg',
+                            routerLink: 'test',
+                            icon: 'demo-agra/room.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
@@ -134932,6 +135010,21 @@ offSeason: {
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/NALDEHRA1.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/NALDEHRA2.jpg' },
                                 { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/NALDEHRA3.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Pick-Up And Drop',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'kufri/park.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                
                             ],
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
