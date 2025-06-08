@@ -79670,19 +79670,16 @@ export const Vendors = {
                         {
                             name: 'Sizzler Food promotion',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/sizzlers+special.jpg',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'FortuneGurgaon/Food.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this activity',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the restaurant?',
                             gallery: [
-                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/sizzlers+special.jpg' },    
                             ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
-                        },
-                        
+                            confirmBtnLabel: 'Book the table',
+                        }, 
                     ]
                 },
                 {
