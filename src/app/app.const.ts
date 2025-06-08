@@ -71831,50 +71831,6 @@ export const Vendors = {
                     ]
                 },
                 {
-                    name: 'SPA LAUNDRY AND MINIBAR MENU',
-                    icon: 'fortunegrace/spaLUndry.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: 'test',
-                    extLink: '',
-                    services: [
-                        {
-                            name: 'LAUNDRY Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Mussoorie/Laundry+List.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/laundry-machine.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Ex: Please send the staff to collect the things',
-                            headerText: 'When will you like us to send them?',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Place the order',
-                            menuImgs: [
-                                
-                            ]
-                        },
-                        {
-                            name: 'MINIBAR Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/MINIBAR.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/minibar.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit it?',
-                            gallery: [
-                                
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                
-                            ]
-                        }
-                    ]
-                },
-                {
                     name: 'Services Directory',
                     icon: 'fortunegrace/directory.png',
                     size: '64px',
@@ -134773,16 +134729,19 @@ offSeason: {
                         {
                             name: 'Beat The Heat',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/Beat-the-Heat.jpeg',
-                            routerLink: 'test',
-                            icon: 'demo-agra/room.png',
+                            routerLink: '',
+                            icon: 'Default/mocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Comments',
-                            headerText: 'Fix an appointment',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
                             gallery: [
 
                             ],
-                            confirmBtnLabel: 'Submit Request',
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
                             storePageAsBlog: true
                         },
                     ]
@@ -135018,7 +134977,22 @@ offSeason: {
                             name: 'Pick-Up And Drop',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'kufri/park.png',
+                            icon: 'benaulimIcon/taxi.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Comments',
+                            headerText: 'Fix an appointment',
+                            gallery: [
+                                
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Sight Seeing',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Aatapi/map.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Comments',
