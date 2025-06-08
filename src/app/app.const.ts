@@ -79679,7 +79679,22 @@ export const Vendors = {
                             gallery: [
                             ],
                             confirmBtnLabel: 'Book the table',
-                        }, 
+                        },
+                        {
+                            name: 'Sizzer Sensation at Sky Haus',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'dharmshala/paint.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this activity',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                                { path: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Mysore/sizzlers+special.jpg' },
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
