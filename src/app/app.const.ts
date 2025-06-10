@@ -134225,7 +134225,7 @@ offSeason: {
                         },
                         {
                             name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Kufri/IRD-kufri.pdf',
+                            extLink: 'https://drive.google.com/file/d/1ISHJkPSb1RLyXuohM0qJoGH8X1oL27i7/view?usp=sharing',
                             routerLink: '',
                             icon: 'Aatapi/menu123.png',
                             showTextarea: true,
