@@ -67906,10 +67906,10 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            name: 'Neptune Menu',
+                            extLink: 'https://drive.google.com/file/d/1z5KEZef5xYv8Ke26FZBbbLR3USfsHn4U/view?usp=drive_link',
                             routerLink: '',
-                            icon: 'fortunegrace/directory.png',
+                            icon: 'Aatapi/menu1234.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
