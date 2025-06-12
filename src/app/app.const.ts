@@ -101714,7 +101714,7 @@ export const Vendors = {
                         },
                         {
                             name: 'SPA Menu',
-                            extLink: 'https://docs.google.com/viewerng/viewer?url=https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune-Durgapur/SPA-MENU.jpg',
+                            extLink: 'https://drive.google.com/file/d/1blafv-G15ahKh3Vr_hUwg8wouGV9-wTZ/view?usp=drive_link',
                             routerLink: '',
                             icon: 'benaulimIcon/spa.png',
                             showTextarea: true,
