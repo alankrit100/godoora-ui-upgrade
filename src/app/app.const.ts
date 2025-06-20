@@ -56169,7 +56169,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instay Feedback',
+                            name: 'Feedback/Complaints',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
@@ -56244,7 +56244,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Tripadvisor',
+                            name: 'Tripadvisor Reviews',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/Tripadvisor.png',
@@ -56320,6 +56320,42 @@ export const Vendors = {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/Agoda.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google Reviews',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/Google-review.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google Reviews',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/Google-review-1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -67574,7 +67610,7 @@ export const Vendors = {
                             subHeading: 'Avail unique offers and benefits curated especially for you'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/private-tour.jpg',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/demo-chennai/chennai-landing1.jpg',
                             heading: 'Not just a trip, a true destination experience',
                             subHeading: 'Art & Culture | Indian City | Serene Beauty'
                         },
@@ -68688,7 +68724,7 @@ export const Vendors = {
                     extLink: '',
                     services: [
                         {
-                            name: 'Instay Feedback',
+                            name: 'Feedback/Complaints',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/feedback1.png',
@@ -68763,7 +68799,7 @@ export const Vendors = {
                             storePageAsBlog: true
                         },
                         {
-                            name: 'Tripadvisor',
+                            name: 'Tripadvisor Reviews',
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/Tripadvisor.png',
@@ -68839,6 +68875,42 @@ export const Vendors = {
                             extLink: '',
                             routerLink: 'test',
                             icon: 'Aatapi/Agoda.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google Reviews',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/Google-review.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ],
+                            storePageAsBlog: true
+                        },
+                        {
+                            name: 'Google Reviews',
+                            extLink: '',
+                            routerLink: 'test',
+                            icon: 'Default/Google-review-1.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
