@@ -56355,7 +56355,7 @@ export const Vendors = {
                             name: 'Google Reviews',
                             extLink: '',
                             routerLink: 'test',
-                            icon: 'Default/Google-review-1.png',
+                            icon: 'Aatapi/Google-review.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
