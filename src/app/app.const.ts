@@ -126994,6 +126994,40 @@ offSeason: {
 
                             ]
                         },
+                        {
+                            name: 'Pizza and Mocktail',
+                            extLink: 'https://drive.google.com/file/d/1i6TMSBuS0ibRMDgwO7z1-FoJWpPf5fyv/view?usp=drive_link',
+                            routerLink: '',
+                            icon: 'Aatapi/pizza.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
+                        {
+                            name: 'Millet Journey',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Millet-J.jpg',
+                            routerLink: '',
+                            icon: 'clarks/lunch.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
+                        },
                     ]
                 },
                 {
