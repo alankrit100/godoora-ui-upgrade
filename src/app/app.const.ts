@@ -98850,16 +98850,17 @@ export const Vendors = {
                         {
                             name: 'Mango Melange',
                             extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/MANGO+FESTIVAL.jpg',
-                            routerLink: 'test',
+                            routerLink: '',
                             icon: 'aligarh/mango.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: I want to book a slot for this',
-                            headerText: 'Select a time you would like to receive it.',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
                             gallery: [
                             ],
-                            confirmBtnLabel: 'Submit Request',
-                            storePageAsBlog: true
+                            confirmBtnLabel: 'Place the order',
+                            menuImgs: [
+                            ]
                         },
                     ]
                 },
@@ -127261,7 +127262,7 @@ offSeason: {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
                             label: 'DIGITAL MENUS',
                             extLink: '',
-                            routerLink: '/home'
+                            routerLink: '/by-admin/2063'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
@@ -128205,33 +128206,6 @@ offSeason: {
                         },
                     ]
                 }, 
-                {
-                    name: 'Services Directory',
-                    icon: 'fortunegrace/directory.png',
-                    size: '64px',
-                    color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                    services: [
-                        
-                        {
-                            name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
-                            routerLink: '',
-                            icon: 'fortunegrace/directory.png',
-                            showTextarea: true,
-                            textAreaLabel: 'Request Summary',
-                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
-                            headerText: 'When would you like to visit the spa?',
-                            gallery: [
-
-                            ],
-                            confirmBtnLabel: 'Book the table',
-                            menuImgs: [
-                                ],
-                        },
-                    ]
-                },
                 {
                     name: 'Front Desk',
                     icon: 'fortunemussoorieicons/Front.png',
