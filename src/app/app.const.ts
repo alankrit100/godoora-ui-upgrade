@@ -98847,7 +98847,20 @@ export const Vendors = {
                             confirmBtnLabel: 'Submit Request',
                             storePageAsBlog: true
                         },
-                        
+                        {
+                            name: 'Mango Melange',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Lucknow/MANGO+FESTIVAL.jpg',
+                            routerLink: 'test',
+                            icon: 'aligarh/mango.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: I want to book a slot for this',
+                            headerText: 'Select a time you would like to receive it.',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Submit Request',
+                            storePageAsBlog: true
+                        },
                     ]
                 },
                 {
@@ -127246,25 +127259,25 @@ offSeason: {
                     items: [
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Digital+Menu.jpg',
-                            label: 'Digital Menus',
+                            label: 'DIGITAL MENUS',
                             extLink: '',
                             routerLink: '/home'
                         },
                         {
-                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Quickupgrade.jpg',
-                            label: 'Quick Upgrades',
+                            img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/guest-review.jpg',
+                            label: 'REVIEW & REWARD',
                             extLink: '',
                             routerLink: '/by-admin/964'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3-ap-southeast-1.amazonaws.com/FortuneGrace/roomdining.jpg',
-                            label: 'Special Benefits',
+                            label: 'SPECIAL OFFERS & PROMOTIONS',
                             extLink: '',
                             routerLink: '/by-admin/965'
                         },
                         {
                             img: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Jammu/Plan+Your+Trip.jpg',
-                            label: 'Plan Your Trip',
+                            label: 'DIGITAL CONCIERGE',
                             extLink: '',
                             routerLink: '/by-admin/968'
                         }
@@ -128081,18 +128094,70 @@ offSeason: {
             ],
             departments: [
                 {
-                    name: 'IRD Menu',
-                    icon: 'Pride/menu.png',
+                    name: 'DIGITAL MENUS',
+                    icon: 'aligarh/menu.png',
                     size: '64px',
                     color: '#1a8cd2',
-                    routerLink: '',
-                    extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
+                    routerLink: 'test',
+                    extLink: '',
                     services: [
                         {
-                            name: 'IRD Menu',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/pride-hotel/goa/IRD-menu-pride-goa.pdf',
+                            name: 'Kids Menu',
+                            extLink: 'https://drive.google.com/file/d/1YK55qH2yxkp1Y95y-G0lIeQs0mDukTtD/view?usp=sharing',
                             routerLink: '',
-                            icon: 'pune/dinning-table.png',
+                            icon: 'Aatapi/menu123.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Ex: I would like 2 biryanis to be parcelled',
+                            headerText: 'When would you like to parcel to be delivered?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Place the order',
+                        },
+                        {
+                            name: 'IRD Menu',
+                            extLink: 'https://drive.google.com/file/d/1F9JGJBCcSECqLdgfK271q7Co9vXy1uIx/view?usp=drive_link',
+                            routerLink: '',
+                            icon: 'Aatapi/menu1234.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'One Plate Wonder',
+                            extLink: 'https://drive.google.com/file/d/1iHSDj0pzCGNfcrBBdBzMtNiPhD3jPMvj/view?usp=drive_link',
+                            routerLink: '',
+                            icon: 'dharmshala/menuu.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Fortune Gardenia',
+                            extLink: 'https://drive.google.com/file/d/1z8geFj5AEUmO3p22vDfQXQw6xK6JhV8M/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'Aatapi/brochure.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a table for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to receive it?',
+                            gallery: [
+                            ],
+                            confirmBtnLabel: 'Book the table',
+                        },
+                        {
+                            name: 'Mini-Bar',
+                            extLink: 'https://drive.google.com/file/d/1hdGjJKj9Y7q5f2mBlVEyTRrXekEUawep/view?usp=sharing',
+                            routerLink: '',
+                            icon: 'aligarh/cocktail.png',
                             showTextarea: true,
                             textAreaLabel: 'Request Summary',
                             placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
@@ -128103,12 +128168,28 @@ offSeason: {
                             confirmBtnLabel: 'Book the table',
                             menuImgs: [
 
+                            ]
+                        },
+                        {
+                            name: 'Laundry menu',
+                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/Fortune+Park%2C+Ahmedabad/Laundry-Menu.jpg',
+                            routerLink: '',
+                            icon: 'Aatapi/laundry-machine.png',
+                            showTextarea: true,
+                            textAreaLabel: 'Request Summary',
+                            placeholder: 'Example: Please book a slot for 4 maintaining sufficient social distancing',
+                            headerText: 'When would you like to visit the spa?',
+                            gallery: [
+
                             ],
-                            storePageAsBlog: true
+                            confirmBtnLabel: 'Book the table',
+                            menuImgs: [
+
+                            ]
                         },
                         {
                             name: 'Services Directory',
-                            extLink: 'https://ourtourplannerpublic.s3.ap-southeast-1.amazonaws.com/FortuneGrace/Service+Directory/1.Service+Directory.pdf',
+                            extLink: '',
                             routerLink: '',
                             icon: 'fortunegrace/directory.png',
                             showTextarea: true,
@@ -128123,7 +128204,7 @@ offSeason: {
                                 ],
                         },
                     ]
-                },
+                }, 
                 {
                     name: 'Services Directory',
                     icon: 'fortunegrace/directory.png',
@@ -129103,7 +129184,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Plan Your Trip',
+                    name: 'DIGITAL CONCIERGE',
                     icon: 'fortunemussoorieicons/local.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -129352,7 +129433,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Quick Upgrades',
+                    name: 'REVIEW & REWARD',
                     icon: 'JammuIcons/upgrader.png',
                     size: '64px',
                     color: '#1a8cd2',
@@ -129401,7 +129482,7 @@ offSeason: {
                     ]
                 },
                 {
-                    name: 'Special Benefits',
+                    name: 'SPECIAL OFFERS & PROMOTIONS',
                     icon: 'JammuIcons/Benifits.png',
                     size: '64px',
                     color: '#1a8cd2',
